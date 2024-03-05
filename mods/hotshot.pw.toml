@@ -1,0 +1,13 @@
+name = "HotShot"
+filename = "hotshot-0.0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/3SGiuBv1/versions/p1DLqGgl/hotshot-0.0.2.jar"
+hash-format = "sha1"
+hash = "c8fb1bbcaf1b4d149346b1c0be4c1c2f829e50b9"
+
+[update]
+[update.modrinth]
+mod-id = "3SGiuBv1"
+version = "p1DLqGgl"

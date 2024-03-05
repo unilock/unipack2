@@ -1,0 +1,13 @@
+name = "Crooked Crooks"
+filename = "crooked_crooks-3.2.0+1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9b8516d5a0add1ce179f954ac03c1745fc7153e2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4981299
+project-id = 393714

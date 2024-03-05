@@ -1,0 +1,13 @@
+name = "Mystcraft: Ages"
+filename = "mystcraft-ages-0.0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/pve3iD9g/versions/aOs8Zwah/mystcraft-ages-0.0.2.jar"
+hash-format = "sha1"
+hash = "415054d66f010ce653255fcf2a89d58f883e83e9"
+
+[update]
+[update.modrinth]
+mod-id = "pve3iD9g"
+version = "aOs8Zwah"

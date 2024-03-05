@@ -1,0 +1,13 @@
+name = "Centered Crosshair"
+filename = "centered-crosshair+1.20.1-1.0.6+b2.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "cebd1e202315f6d50b115b7d9304e4997a30d438"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5069033
+project-id = 968689

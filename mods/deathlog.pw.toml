@@ -1,0 +1,13 @@
+name = "DeathLog"
+filename = "deathlog-0.3.2+1.20.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a637205931bac5fd455341d82cc32bb181d617f7"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4576406
+project-id = 496150

@@ -1,0 +1,13 @@
+name = "Horse Stonks [Fabric/Forge]"
+filename = "horse-stonks-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6b24fa888ef741f19b7d06b4bc9b36d91f20f921"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3781155
+project-id = 497378

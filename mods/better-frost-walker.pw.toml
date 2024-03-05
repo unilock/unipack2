@@ -1,0 +1,13 @@
+name = "Better Frost Walker"
+filename = "better-frost-walker-1.1.3+1.20.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Fzp3LTAR/versions/lMjMkTGm/better-frost-walker-1.1.3%2B1.20.4.jar"
+hash-format = "sha1"
+hash = "ca5312a789ff54211f798f584c2b7ff87ed17656"
+
+[update]
+[update.modrinth]
+mod-id = "Fzp3LTAR"
+version = "lMjMkTGm"

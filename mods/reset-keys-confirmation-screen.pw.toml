@@ -1,0 +1,13 @@
+name = "Reset Keys Confirmation Screen"
+filename = "reset-keys-confirmation-screen-1.0.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/WyWZXehF/versions/rRzM23Io/reset-keys-confirmation-screen-1.0.0.jar"
+hash-format = "sha1"
+hash = "4b276f35eacc5d30c7e9773cc37b3df5901116b0"
+
+[update]
+[update.modrinth]
+mod-id = "WyWZXehF"
+version = "rRzM23Io"

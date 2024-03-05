@@ -1,0 +1,13 @@
+name = "StairDoors Extended"
+filename = "stairdoors-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7430b9cab0638e5c567c05f341647370703733c0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4728880
+project-id = 908119

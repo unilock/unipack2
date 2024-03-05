@@ -1,0 +1,13 @@
+name = "Fabric Hammers"
+filename = "fabric-hammers-1.2.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/e0YRlpMU/versions/YPhol9YR/fabric-hammers-1.2.1.jar"
+hash-format = "sha1"
+hash = "0abdd51ee8789da5482ab77895e85cbab8521b42"
+
+[update]
+[update.modrinth]
+mod-id = "e0YRlpMU"
+version = "YPhol9YR"

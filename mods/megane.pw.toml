@@ -1,0 +1,13 @@
+name = "Megane: Fabric"
+filename = "megane-fabric-20.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "593b5e14c3be430fa695610272674a3025573153"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5079949
+project-id = 408118

@@ -1,0 +1,8 @@
+name = "Expanded Storage + REA Compatibility"
+filename = "ExpandedStorageREACompat-1.0.0+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://play.fennet.rentals/packwiz/unipack2/manual-jars/both/ExpandedStorageREACompat-1.0.0+1.20.1.jar"
+hash-format = "sha256"
+hash = "c0b7a23c364b5a04834de0741c6417857ca3579b0f8328f101847294da81c1de"

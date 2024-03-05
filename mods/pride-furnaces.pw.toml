@@ -1,0 +1,13 @@
+name = "Pride Furnaces"
+filename = "pride-furnaces-1.0.1+1.20.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8307a6c56630d3e1e8f63df5a7b3c28b36352f2a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4624787
+project-id = 646909

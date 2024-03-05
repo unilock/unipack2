@@ -1,0 +1,13 @@
+name = "EMI Create Cobble Gen Compat"
+filename = "ECCGC.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/mELJLer7/versions/cPYrmcKE/ECCGC.zip"
+hash-format = "sha1"
+hash = "797c09eb9394abb0e58d61dbbf724384755071aa"
+
+[update]
+[update.modrinth]
+mod-id = "mELJLer7"
+version = "cPYrmcKE"

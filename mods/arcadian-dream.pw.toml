@@ -1,0 +1,13 @@
+name = "Arcadian Dream"
+filename = "arcadiandream-1.20.1-0.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e48990f8623f87607e4418503dd6f62fe5003d48"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4772937
+project-id = 854118

@@ -1,0 +1,13 @@
+name = "Break Free"
+filename = "breakfree-1.2.0.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "1fafa493e91cc7d006f2e6c71049edcf5adb058c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4735676
+project-id = 909702

@@ -1,0 +1,13 @@
+name = "Grid"
+filename = "grid-1.20-fabric0.83.0-1.7.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6d7c7bd79c3a2e4f09e4684b6a4f42d7464f4a83"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4712004
+project-id = 310560

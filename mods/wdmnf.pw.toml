@@ -1,0 +1,7 @@
+name = "WDMNF | Why Did My Netty Fail"
+filename = "wdmnf-1.1.0+snapshots.jar"
+
+[download]
+url = "https://github.com/Tom-The-Geek/WDMNF/releases/download/v1.1.0%2Bsnapshots/wdmnf-1.1.0+snapshots.jar"
+hash-format = "sha256"
+hash = "e4f4073038fa0355439a31d845bd2112980fe618ecdfb73a9bfbd74af4ec5e25"

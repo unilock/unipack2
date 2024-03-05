@@ -1,0 +1,13 @@
+name = "Deepcutting"
+filename = "deepcutting-1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/VIASEwYM/versions/81PfsyPp/deepcutting-1.jar"
+hash-format = "sha1"
+hash = "2b57aa6f7779a5aea7ab918a75984859ff0d2606"
+
+[update]
+[update.modrinth]
+mod-id = "VIASEwYM"
+version = "81PfsyPp"

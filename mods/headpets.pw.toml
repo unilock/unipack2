@@ -1,0 +1,8 @@
+name = "headpets"
+filename = "headpets-2.0.0+1.20.1+fabric.jar"
+side = "both"
+
+[download]
+url = "https://play.fennet.rentals/packwiz/lenashrinker/manual-jars/both/headpets-2.0.0+1.20.1+fabric.jar"
+hash-format = "sha256"
+hash = "beee27e61f20a7e78c833e5d5d10783a582aaf960163a4dadd6789ee261b56fe"

@@ -1,0 +1,13 @@
+name = "MaxHealthFixFixFix"
+filename = "MaxHealthFixFixFix-1.0.0+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/sQbmYShc/versions/JvDMr3Rq/MaxHealthFixFixFix-1.0.0%2B1.20.1.jar"
+hash-format = "sha1"
+hash = "696bb1c053e766d223ec80dd48c8653ce58d075d"
+
+[update]
+[update.modrinth]
+mod-id = "sQbmYShc"
+version = "JvDMr3Rq"

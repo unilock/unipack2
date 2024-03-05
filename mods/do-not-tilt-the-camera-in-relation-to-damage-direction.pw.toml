@@ -1,0 +1,13 @@
+name = "Do Not Tilt The Camera In Relation To Damage Direction"
+filename = "DoNotTiltTheCameraInRelationToDamageDirection-1.0.1+1.19.4.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/5BJERMm5/versions/DsB115GF/DoNotTiltTheCameraInRelationToDamageDirection-1.0.1%2B1.19.4.jar"
+hash-format = "sha1"
+hash = "52a67234f13bc89891c29cbdba8a6d4a68ffd9c4"
+
+[update]
+[update.modrinth]
+mod-id = "5BJERMm5"
+version = "DsB115GF"

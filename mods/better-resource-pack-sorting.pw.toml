@@ -1,0 +1,13 @@
+name = "Better Resource Pack Sorting"
+filename = "better_resource_pack_sorting-mc1.20-1.0.0-build.3.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/SpY2M2I9/versions/M72l40lq/better_resource_pack_sorting-mc1.20-1.0.0-build.3.jar"
+hash-format = "sha1"
+hash = "7fe15d811081171d8cadc01c31829ba60ff31f3f"
+
+[update]
+[update.modrinth]
+mod-id = "SpY2M2I9"
+version = "M72l40lq"

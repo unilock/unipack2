@@ -1,0 +1,13 @@
+name = "Ctrl Q"
+filename = "ctrlq-fabric-mc1.19.3+-1.9.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "937eaf746aa4e975a8cc2a6fec53d40b3049bc58"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4322067
+project-id = 455479

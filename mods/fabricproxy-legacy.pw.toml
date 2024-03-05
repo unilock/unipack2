@@ -1,0 +1,8 @@
+name = "FabricProxy-Legacy"
+filename = "FabricProxy-Legacy-1.6.0+1.20.1.jar"
+side = "server"
+
+[download]
+url = "https://play.fennet.rentals/packwiz/unipack2/manual-jars/server/FabricProxy-Legacy-1.6.0+1.20.1.jar"
+hash-format = "sha256"
+hash = "bf7cda538434539b332547ca868186c3e4c3d4ad25745eb80496ce9122c727a6"

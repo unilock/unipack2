@@ -1,0 +1,17 @@
+name = "UNIPACK mini"
+author = "unilock"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "0ba909f4ffb600dbba185456230ba4d9e48ac574700e525eecb8758687f873c2"
+
+[versions]
+minecraft = "1.20.1"
+quilt = "0.24.0"
+
+[options]
+acceptable-game-versions = ["1.19", "1.19.1", "1.19.2", "1.19.3", "1.19.4", "1.20", "1.20.1"]
+datapack-folder = "resources/datapacks"

@@ -1,0 +1,13 @@
+name = "Kappa"
+filename = "kappa-3.0.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e56b7a8b962acb8ffab87ccba04cdee59fc7a59b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4052443
+project-id = 492101

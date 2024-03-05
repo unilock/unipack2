@@ -1,0 +1,8 @@
+name = "Simply Boots"
+filename = "simply-boots-2.0.0.jar"
+side = "both"
+
+[download]
+url = "https://play.fennet.rentals/packwiz/unipack2/manual-jars/both/simply-boots-2.0.0.jar"
+hash-format = "sha256"
+hash = "ee52cef2fd09637106a627fd4ff702f9158c49292a9aa167d5e80a72eef1c139"

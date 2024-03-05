@@ -1,0 +1,13 @@
+name = "WMITAF"
+filename = "wmitaf-fabric-mc1.19.3-3.2.0.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "9c1cbef6ac1ea135264ac43b6a1d954593bc1f67"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4409879
+project-id = 547358

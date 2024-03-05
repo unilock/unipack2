@@ -1,0 +1,13 @@
+name = "Ochetgenyo"
+filename = "ochetgenyo-1.2.0+1.20.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "47e48eebc24d45d76b97355a525534214f6f55ee"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4618618
+project-id = 659439

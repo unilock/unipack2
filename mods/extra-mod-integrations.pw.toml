@@ -1,0 +1,13 @@
+name = "EMI Extra Integrations"
+filename = "extra-mod-integrations-0.4.2+1.20.1.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "14ed2f2fa2c72ae6fda9a1b744802f655b83de1c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4996986
+project-id = 739970

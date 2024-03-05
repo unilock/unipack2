@@ -1,0 +1,13 @@
+name = "ItemRename"
+filename = "itemrename-1.0.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "59d7be6e66931422c443d947452541267577fdcd"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4572897
+project-id = 711029

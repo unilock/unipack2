@@ -1,0 +1,14 @@
+name = "Expanded Storage"
+filename = "expandedstorage-10.1.1-fabric.jar"
+side = "both"
+pin = true
+
+[download]
+url = "https://cdn.modrinth.com/data/F56tBubk/versions/cmQgg64v/expandedstorage-10.1.1-fabric.jar"
+hash-format = "sha1"
+hash = "2d714f7f91fd2e555cc14c91fa5be86b8453972c"
+
+[update]
+[update.modrinth]
+mod-id = "F56tBubk"
+version = "cmQgg64v"
