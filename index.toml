@@ -131,11 +131,6 @@ hash = "2e835de52707ca820100e9732c4be90f01e8b09dfc2b3fc3033184283fcf87ab"
 metafile = true
 
 [[files]]
-file = "mods/besmirchment-2.pw.toml"
-hash = "9c5a21892eac0765e81252f4202b925efe071945daa73e013860b00a91ef2462"
-metafile = true
-
-[[files]]
 file = "mods/better-climbing.pw.toml"
 hash = "2f0c572f52bd5508491258b40a1d18e3b5c93dfba89848d09ca68d43e0d3a8ee"
 metafile = true
