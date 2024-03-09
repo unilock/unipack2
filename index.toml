@@ -682,7 +682,7 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.pw.toml"
-hash = "c41001273c481e5231035846e7c4be33ec428078e973ae6211ae72207cd0de0a"
+hash = "193b27d3e0849d56e8a1a0d7ef415f673c4062f082a4f36cae0a353c3771840a"
 metafile = true
 
 [[files]]
@@ -828,6 +828,11 @@ metafile = true
 [[files]]
 file = "mods/kappa.pw.toml"
 hash = "b2d00600301825117055e105f201eebad2c58463d2731d1c065b33970f43ae4b"
+metafile = true
+
+[[files]]
+file = "mods/kiwi-fabric.pw.toml"
+hash = "53317d030299c1a5d7f17cf3a55875a93ec2ebed938b7e375458928f1862bf95"
 metafile = true
 
 [[files]]
@@ -1206,6 +1211,11 @@ hash = "2937f8044610c554d49b4617210885a76d3f81cb9325a36dba6bfbd131cc45ab"
 metafile = true
 
 [[files]]
+file = "mods/resourceful-lib.pw.toml"
+hash = "d6d950f5e4c8d00ae178690e45a47068792733e7652fe600e83f6995a1c1f798"
+metafile = true
+
+[[files]]
 file = "mods/revelationary.pw.toml"
 hash = "51f99f67cd59817dcee434483c7e53f57c48edfbc44d2e250f2d5cf393c5d1e6"
 metafile = true
@@ -1213,11 +1223,6 @@ metafile = true
 [[files]]
 file = "mods/rightclickharvest.pw.toml"
 hash = "45a0be935bcca91138996460610bd84312729d6ae00648fbb7ea332bd23bb437"
-metafile = true
-
-[[files]]
-file = "mods/river-redux.pw.toml"
-hash = "9eff1fffd433dc7b0279f41eb2636bc4bc7c35b42088374922a9d04327acf34e"
 metafile = true
 
 [[files]]
