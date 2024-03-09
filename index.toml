@@ -692,7 +692,7 @@ metafile = true
 
 [[files]]
 file = "mods/glass-armor.pw.toml"
-hash = "5e2e66d8a9eed67061d95ff25c851169762b4612f5a174485054eb92dbe7452d"
+hash = "7d96e5390b84e0f484a6de91180c330634833f826856dee0930cfc5318f3edd0"
 metafile = true
 
 [[files]]
@@ -787,7 +787,7 @@ metafile = true
 
 [[files]]
 file = "mods/inmisaddon.pw.toml"
-hash = "ccea3ee507e1aec9e9bb73850c5ec02c6d767d4d2ceb18b5a8c895141e156a57"
+hash = "e5f96d898695220e79fc43f2142969a91d793d50385149f3c5578a8439b60443"
 metafile = true
 
 [[files]]
@@ -882,7 +882,7 @@ metafile = true
 
 [[files]]
 file = "mods/macos-input-fixes.pw.toml"
-hash = "3b2ab610717bdb43e895316888efdabee0b52d6292e02f7b61f5644894ec8e26"
+hash = "6f608fc4e861f6156368b2a3b706645755030bf6a04dc1f59166c8b22cba872c"
 metafile = true
 
 [[files]]
@@ -1047,7 +1047,7 @@ metafile = true
 
 [[files]]
 file = "mods/packet-fixer.pw.toml"
-hash = "9e938d8335c88f4968e29f74818d9a6be96a21973cd2f56de28a75c79793395a"
+hash = "11aa8da6a60bd5f614f9208ad4f30a381fa4fc406ec57a51bb370811f73fe4fd"
 metafile = true
 
 [[files]]
@@ -1437,7 +1437,7 @@ metafile = true
 
 [[files]]
 file = "mods/wearthat.pw.toml"
-hash = "72c361c0b112436d992f91820a7008173593ae04f093dd9fa3e5ef9605aac9af"
+hash = "3444df423ca287ea5b4be65d8696454ae410e030e918174d7102c22c9f29d25b"
 metafile = true
 
 [[files]]
