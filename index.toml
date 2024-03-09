@@ -291,11 +291,6 @@ hash = "57ecdeca9be9c5d96a634ee4be68e280041ab2edf8c0b504cb480fb8be506f02"
 metafile = true
 
 [[files]]
-file = "mods/cleanview-fabric.pw.toml"
-hash = "c496ffc74d0e3cc91f8c1463c89d17e2ba01cf77a22b257b3ce410573f11fe2f"
-metafile = true
-
-[[files]]
 file = "mods/clickable-advancements.pw.toml"
 hash = "24c51e5bca8286311dabfad52fa2bdb5267a1eba86f58c7ef82b43135e6e51ca"
 metafile = true
@@ -1368,11 +1363,6 @@ metafile = true
 [[files]]
 file = "mods/stairdoors-extended.pw.toml"
 hash = "00cc61bf4e627b548f057658dcc0c9da43a02ee43c4ce7d3ba32134bc732f450"
-metafile = true
-
-[[files]]
-file = "mods/starlight.pw.toml"
-hash = "c9707be9953f87c752fc750bc7f54d6d1c10d74e53b7a86fb55357c977c4fd1b"
 metafile = true
 
 [[files]]
