@@ -3,6 +3,6 @@ filename = "SignedVelocity-Fabric-1.2.3+1.20.1.jar"
 side = "server"
 
 [download]
-url = "https://play.fennet.rentals/packwiz/unipack3/fabric/manual-jars/server/SignedVelocity-Fabric-1.2.3+1.20.1.jar"
+url = "https://play.fennet.rentals/packwiz/unipack2/manual-jars/server/SignedVelocity-Fabric-1.2.3+1.20.1.jar"
 hash-format = "sha256"
 hash = "b1b5f8eaa93b1d0a17f6adc3311777b5d96b72faff1ee15ada39f92b5cdd683a"

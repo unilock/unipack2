@@ -1,0 +1,13 @@
+name = "GravityAPI"
+filename = "gravity-api-1.0.7-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "224fc2be24c11155e7b94bb0816aa4be16dd0ce2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4613062
+project-id = 704070

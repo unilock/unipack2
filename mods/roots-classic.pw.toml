@@ -1,0 +1,8 @@
+name = "Roots Classic"
+filename = "rootsclassic-1.20-1.2.1-fabric.jar"
+side = "both"
+
+[download]
+url = "https://play.fennet.rentals/packwiz/unipack2/manual-jars/both/rootsclassic-1.20-1.2.1-fabric.jar"
+hash-format = "sha256"
+hash = "ec09580dda1449ad3303b3b5cd714f20759e470cb99e8137b277bfb3e7ae7fd8"

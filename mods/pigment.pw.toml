@@ -1,0 +1,13 @@
+name = "Pigment"
+filename = "pigment-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1b48c481bf58aec4f22bb4d6a0075ddae9995dac"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4779240
+project-id = 918654

@@ -1,0 +1,13 @@
+name = "Tricksy Foxes"
+filename = "tricksy-3.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "dc5f4149faefc36f5315116faeb888d217a10374"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5074444
+project-id = 915633

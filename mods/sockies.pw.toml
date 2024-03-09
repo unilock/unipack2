@@ -1,0 +1,8 @@
+name = "Sockies"
+filename = "Sockies-1.0.0+beta.3.jar"
+side = "both"
+
+[download]
+url = "https://play.fennet.rentals/packwiz/unipack2/manual-jars/both/Sockies-1.0.0+beta.3.jar"
+hash-format = "sha256"
+hash = "e28f11780b48cb87208b6cf102ccca7e3fa9799c450ee0c934d8cbf918474654"

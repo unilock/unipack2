@@ -1,0 +1,8 @@
+name = "Peculiar Pieces"
+filename = "peculiarpieces-1.2.17.jar"
+side = "both"
+
+[download]
+url = "https://play.fennet.rentals/packwiz/unipack2/manual-jars/both/peculiarpieces-1.2.17.jar"
+hash-format = "sha256"
+hash = "1167deffb8032d40f5f9a00cc8cc164acad1fd2c1d5de19a6a2ad01aff137edf"

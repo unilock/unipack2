@@ -1,0 +1,8 @@
+name = "RAT's Mischief"
+filename = "ratsmischief-2.0.1.jar"
+side = "both"
+
+[download]
+url = "https://play.fennet.rentals/packwiz/unipack2/manual-jars/both/ratsmischief-2.0.1.jar"
+hash-format = "sha256"
+hash = "00653a73f604a1a534d2a0e5d59b383c4f3a1eae48848e14522c65a52045170d"

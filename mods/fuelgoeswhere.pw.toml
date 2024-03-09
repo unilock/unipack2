@@ -3,6 +3,6 @@ filename = "fuelgoeswhere-1.0.0+1.20.1.jar"
 side = "both"
 
 [download]
-url = "https://play.fennet.rentals/packwiz/lenashrinker/manual-jars/both/fuelgoeswhere-1.0.0+1.20.1.jar"
+url = "https://play.fennet.rentals/packwiz/unipack2/manual-jars/both/fuelgoeswhere-1.0.0+1.20.1.jar"
 hash-format = "sha256"
 hash = "5061f9d67677c709779da0483b8928603ca525f3eef7f6107b6e4fcfe834d116"
