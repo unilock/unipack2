@@ -376,6 +376,26 @@ hash = "9fdbfa34547ea2afcc1329ed43ea1c1c333937779b986c8292609864521a874b"
 metafile = true
 
 [[files]]
+file = "mods/create-big-cannons.pw.toml"
+hash = "b2dacd4b0c05a33e9cbe338b0b9000395a4ac09c80ee8db83c416931db1e64d8"
+metafile = true
+
+[[files]]
+file = "mods/create-fabric.pw.toml"
+hash = "d67269baf485814ebd40b2f12475e2fd639db6c3d69863dee6af0d0ab2ab6216"
+metafile = true
+
+[[files]]
+file = "mods/create-jetpack.pw.toml"
+hash = "fbe8aa6db3338916fac338b10ad8733e1645e10766f3c1e7ae6729ffb1f61905"
+metafile = true
+
+[[files]]
+file = "mods/create-steam-n-rails.pw.toml"
+hash = "881cb559a7c2f0624484cba4c3d2363b03cb8faa08469b754d732f5599529583"
+metafile = true
+
+[[files]]
 file = "mods/crooked-crooks.pw.toml"
 hash = "8d175ee3ca4bbc042ebb29af34428528bed2dfe4a956dc181b3ff1a840d03658"
 metafile = true
@@ -388,6 +408,11 @@ metafile = true
 [[files]]
 file = "mods/ctrl-q.pw.toml"
 hash = "7aab133819e17cc8a3823518c2ee673de88bb547e2a9771bc9fb3e76491e8cc0"
+metafile = true
+
+[[files]]
+file = "mods/cultural-creators-fabric-create-and-cultural.pw.toml"
+hash = "b76ac7e00fade81a7e9fc132d6e129e5be711e2796643a71a381e458e491e97f"
 metafile = true
 
 [[files]]
@@ -423,6 +448,11 @@ metafile = true
 [[files]]
 file = "mods/default-options-fabric.pw.toml"
 hash = "6dc6b06e4efee5e835efdaadd8f8239bc777aa0e4efd224ed4c8315633c70a64"
+metafile = true
+
+[[files]]
+file = "mods/delightful-creators-fabric.pw.toml"
+hash = "463b41c5825e272a6250145b9e9ca21c118abb2eba68192811ffe601591241ea"
 metafile = true
 
 [[files]]
@@ -871,6 +901,11 @@ hash = "91fe0658dd778ac974a67d89fccb5c551b7e7be67c8defa9695bf1d43ffed723"
 metafile = true
 
 [[files]]
+file = "mods/liquid-burner.pw.toml"
+hash = "06a0feade0260fa2aedbcbc9af5f5e9e92bbacf1ac515bdbf9ec60013219cb6e"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "c239c951796882b9c93e649a0dba4f2d95804441faaed707b686381b7a5c67da"
 metafile = true
@@ -1208,6 +1243,11 @@ metafile = true
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "d6d950f5e4c8d00ae178690e45a47068792733e7652fe600e83f6995a1c1f798"
+metafile = true
+
+[[files]]
+file = "mods/respite-creators-fabric.pw.toml"
+hash = "3b965df2088aeee820b257b07107da73c1ab92a59b91667aed59ab5f542381e4"
 metafile = true
 
 [[files]]
