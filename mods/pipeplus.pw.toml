@@ -1,13 +1,13 @@
 name = "PipePlus (Fabric)"
-filename = "PipePlus-1.20.1-1.1.2.jar"
+filename = "PipePlus-1.20.1-1.1.4-fix.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "f5fe2bfab13f9c73ac2fbd43383cc394a2084004"
+hash = "eea98b5d8fd6e34ca1a6ef2c530c9b1b04dcfabe"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5125010
+file-id = 5162501
 project-id = 514438

@@ -57,7 +57,7 @@ metafile = true
 
 [[files]]
 file = "mods/astrocraft.pw.toml"
-hash = "8f7d4feeb974dd6609826974de9e026352d840eb4a813628a4a05b249a891344"
+hash = "ddc2092e2ae2f2c5a49077510d36b03afd62c4ac0ceef730e188adcbd69dc281"
 metafile = true
 
 [[files]]
@@ -117,7 +117,7 @@ metafile = true
 
 [[files]]
 file = "mods/bank-storage.pw.toml"
-hash = "0c284b961f38d235d2bb97502c16b59d5db01efd07a1cb08ea44c7318d46cc00"
+hash = "bb267ae525721f73793c4bd907d716538a3570c05bae2942bed4e8fc13f77583"
 metafile = true
 
 [[files]]
@@ -807,7 +807,7 @@ metafile = true
 
 [[files]]
 file = "mods/itemflexer.pw.toml"
-hash = "09d4670f42246d78e5c47aced194f908f051c8dd990def5f4a3e0530f0b0871d"
+hash = "c010bbe9c9943ec0ca2599a2294bf3baa6eec47dfec01d497a4f4bcc78e12941"
 metafile = true
 
 [[files]]
@@ -892,7 +892,7 @@ metafile = true
 
 [[files]]
 file = "mods/mcpitanlibarch.pw.toml"
-hash = "46521a41a8ade2d444a781e30622e37138fa8b1126db89cab10240f6057a07e8"
+hash = "2136cf0bb0f3c572b37f92bbc738d43d3b3cd3a231e83bfd6fd91ba4702d11b5"
 metafile = true
 
 [[files]]
@@ -1087,7 +1087,7 @@ metafile = true
 
 [[files]]
 file = "mods/pipeplus.pw.toml"
-hash = "deb4757c72231a0f9a8ebab13d2929dc04e506b8958a98b3f9f2f8fcdc79eb69"
+hash = "0c90f980faf363f279c2483b863c5ce4cbde248f8e51ea496c18b08c88c565ca"
 metafile = true
 
 [[files]]
@@ -1312,7 +1312,7 @@ metafile = true
 
 [[files]]
 file = "mods/spectrum.pw.toml"
-hash = "0dd89c6716091f97233e7f27850263c51455fb1b6dc43737c4e7c6609301e13c"
+hash = "4dcfed0216f0935074ecbe40eae9163ad3ffd33938e40654cd9f686269e2ca62"
 metafile = true
 
 [[files]]

@@ -1,4 +1,4 @@
-name = "UNIPACK QUILT"
+name = "QUNIPACK"
 author = "unilock"
 version = "1.0.0"
 pack-format = "packwiz:1.1.0"
@@ -6,7 +6,7 @@ pack-format = "packwiz:1.1.0"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "7b8366e73bf44f2e1c6d39637422c7e0711241f74bd243936be39cd3ce041437"
+hash = "68ce0549aeef9dc0ef8df00d6883086514716b3a75b2eda5a8ee4cea0d7fea40"
 
 [versions]
 minecraft = "1.20.1"
