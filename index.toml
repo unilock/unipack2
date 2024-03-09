@@ -232,7 +232,7 @@ metafile = true
 
 [[files]]
 file = "mods/botaniacombat.pw.toml"
-hash = "437882a4ad175ef14f900630e79b357590d3d493ba251cb74617db8d5104babb"
+hash = "42afdef9256f613eb498ddafa9625863b0ed231c78090cba9c2bc8d7751e5e3d"
 metafile = true
 
 [[files]]

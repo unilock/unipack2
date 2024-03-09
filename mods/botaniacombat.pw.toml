@@ -1,8 +1,13 @@
 name = "BotaniaCombat"
-filename = "botaniacombat-1.20.1-1.0.1.jar"
+filename = "botaniacombat-1.20.1-1.1.2.jar"
 side = "both"
 
 [download]
-url = "https://play.fennet.rentals/packwiz/unipack3/fabric/manual-jars/both/botaniacombat-1.20.1-1.0.1.jar"
-hash-format = "sha256"
-hash = "2a75385a1f1bbbc5d5a4443fe748ae1504d03eea67e5eadda7ea2e76b03ba835"
+hash-format = "sha1"
+hash = "66e9678870e76f538422c3b4d303e826f5f578f2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5142150
+project-id = 937159
