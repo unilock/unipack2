@@ -1,13 +1,13 @@
 name = "Decorative Blocks"
-filename = "Decorative Blocks-fabric-1.20.1-4.0.3.jar"
+filename = "decorative_blocks-fabric-1.20.1-4.0.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/Cq0m2EIu/versions/qOSiOXBm/Decorative%20Blocks-fabric-1.20.1-4.0.3.jar"
 hash-format = "sha1"
-hash = "5f2f0ed8fc1e032502bcb5ad5a8069d7a832caca"
+hash = "5e13d6c8a063c352ca95c04cb02a7251c19fb2d5"
+mode = "metadata:curseforge"
 
 [update]
-[update.modrinth]
-mod-id = "Cq0m2EIu"
-version = "qOSiOXBm"
+[update.curseforge]
+file-id = 5047042
+project-id = 362528
