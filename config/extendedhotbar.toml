@@ -1,0 +1,4 @@
+enabled = true
+invert = true
+enableModifier = false
+enableDoubleTap = true
