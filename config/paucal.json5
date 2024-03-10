@@ -1,6 +1,6 @@
 {
 	"commonInstance": {
-		"allowPats": true,
+		"allowPats": false,
 		"loadContributors": false
 	}
 }

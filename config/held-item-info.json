@@ -34,6 +34,7 @@
   "showOnlyFilteredEnchantments": true,
   "filteredEnchantments": [
     "minecraft:fortune",
-    "minecraft:silk_touch"
+    "minecraft:silk_touch",
+    "spectrum:resonance"
   ]
 }

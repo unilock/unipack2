@@ -41,12 +41,20 @@ file = "config/afkdisplay.toml"
 hash = "8172e5fd74b6c135dcad74e3601c3d63854ff362973259fa5ed7ec0b0dc05814"
 
 [[files]]
+file = "config/arcadiandream.json5"
+hash = "abe3d5c1f10c0b02f1146f417040df88bf8ff7857f95815f42a44ed3131c95aa"
+
+[[files]]
 file = "config/better_log4j_config.xml"
 hash = "5e1ba51da86387328099b2dcc6f1505f1a69a470150d7a6cb960fdd4116d60cd"
 
 [[files]]
 file = "config/boring_default_game_rules/config.json"
 hash = "4da5e569a17a0f1a41975fbed5fe8f1e490f568f24056da45ee70fcbf1c4104c"
+
+[[files]]
+file = "config/botania-client.json5"
+hash = "faf12688269c490bc257ad670aea218129d5af333cabd1e8985e1933183d2379"
 
 [[files]]
 file = "config/bwncr.toml"
@@ -69,8 +77,16 @@ file = "config/clickopener.json"
 hash = "3c3f11a2e250df4e3fab146261023971d99dbea7e5de8d336c47aa2ba457970d"
 
 [[files]]
+file = "config/connectiblechains.toml"
+hash = "5e6f4bca6ea068076efc6d67c6ab6a7c64f757d3d49f5e1a03f39322d600ffa3"
+
+[[files]]
 file = "config/connectivity.json"
 hash = "5e52fee3b3f86eb220851bf32290c2557c8610fe6439cd8ae58f83d9cd088cef"
+
+[[files]]
+file = "config/create-client.toml"
+hash = "c1781f643c9f3593039b79642669fbb4f882884ba99cea4fa2f58f4a684e3b10"
 
 [[files]]
 file = "config/dsurround/dsurround.json"
@@ -82,7 +98,7 @@ hash = "826157c104a0e7fea4aa69bd56e9f5c6c8db9081ec9d52cf626d9862c95d9c9e"
 
 [[files]]
 file = "config/enhanced_bes.properties"
-hash = "89a424c86c99b7a1d964b9a5f70aa94d7517c4e42b74839faf321dbe8a2d8c11"
+hash = "d0ed8db797125a88b60c6659439f7c87a64f7ac59f51610c15ae322eb7d52705"
 
 [[files]]
 file = "config/expandedstorage.json"
@@ -95,6 +111,10 @@ hash = "77a1f0bf49553ce1c2d626750ac7fc0675b17897a6aa44acdfc6dcc23056b95c"
 [[files]]
 file = "config/fabrichammers.json"
 hash = "77828be4190af5e8cfa45e44260828d97d66648c3b3ea34db49301d121e9f08c"
+
+[[files]]
+file = "config/fabricshieldlib.json"
+hash = "18e4e7bb541f18a6b891da3185849d36136108268088f75782c5b256b215f414"
 
 [[files]]
 file = "config/fallingtree.json"
@@ -122,7 +142,7 @@ hash = "55d8e603f8c04760e7b48d424bf5c2164e3a192fb448a5e415305eeb8d91ded7"
 
 [[files]]
 file = "config/held-item-info.json"
-hash = "13cc78dc9cda13785bbef719be96c85920ab5a58212fe0d21974d16e49ffb059"
+hash = "c97217bd11e0ef03d9dca2669222b045d6320c780354caab51076c35451c8597"
 
 [[files]]
 file = "config/idwtialsimmoedm.json"
@@ -193,12 +213,16 @@ file = "config/noindium.json"
 hash = "1fe9c8370e7d57e1283193791f8f8f28e67a3ce7b4fab4acc9e52c227c028ebd"
 
 [[files]]
+file = "config/ok_zoomer/config.toml"
+hash = "f2f2847c6cf4792db6979a9fdc555b6c93da9d63510cc3ab3726a4d993219451"
+
+[[files]]
 file = "config/passablefoliage-common.yaml"
 hash = "10fd30865c6b22432336cc87520c1583d8daf085cddc1fc0a7f78817ff2c809f"
 
 [[files]]
 file = "config/paucal.json5"
-hash = "a6d0c994d2f561198f171228b34f9b55d82d7fcd2b5a3bc4b171de000de11c74"
+hash = "ab2a69df1e5f5e7471b4ea1f9fc7535764ac63980351f62c525ccb6a069e1db9"
 
 [[files]]
 file = "config/player-pronouns.json"
@@ -277,10 +301,6 @@ file = "config/veinmining-server.toml"
 hash = "01684ab4a9c0b765b0e3c43e90f0bd20eebbfe2398285a942163c2aeac6c9e57"
 
 [[files]]
-file = "config/visuality.json"
-hash = "c3315246dba33b0b5792c1b9ef587b7c6a8663dea6bf0d3d9a0076d180f2b2f0"
-
-[[files]]
 file = "config/waila/waila.json"
 hash = "3224046589b128f227ad7bf6bcabb8d6aeec26bfdd65c3074579d01783e63395"
 
@@ -315,6 +335,10 @@ hash = "12e3d740cd237368a7663322ed89e501cd6149128b558dfe11ab8a0bfa7e3f3a"
 [[files]]
 file = "config/yigd.json"
 hash = "a5df3263b62ba6ea5f2f06edd3dc0cee81fc885d87cfef3f90096b850b9309c3"
+
+[[files]]
+file = "config/yttr.css"
+hash = "cb8fb43b3138eef2cc6d4a50c198fe112e9bc48c0c292ca0a028024d20d0ee4e"
 
 [[files]]
 file = "config/yungsmenutweaks-fabric-1_20_1.toml"

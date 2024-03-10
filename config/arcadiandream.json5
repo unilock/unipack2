@@ -1,0 +1,40 @@
+{
+	"chiselOptions": {
+		"canUse": true,
+		"maxDistance": 16
+	},
+	"nueTridentOptions": {
+		"canHaveImpaling": true
+	},
+	"hisouSwordOptions": {
+		"minHeightForPeaches": 196,
+		"canDisableShields": true
+	},
+	"mochiMalletOptions": {
+		"lowViolence": false
+	},
+	"houraiElixirOptions": {
+		"canDrink": false,
+		"nerfElixir": true,
+		"allowDying": false,
+		"elixirFatigueThreshold": 1
+	},
+	"foldingChairOptions": {
+		"knockbackStrength": 1.5
+	},
+	"icicleSwordOptions": {
+		"meltsInstantly": true
+	},
+	"fairyCharmOptions": {
+		"canPreventSpawning": true,
+		"distance": 128.0
+	},
+	"danmakuCooldownMultiplier": 1,
+	"danmakuDamageMultiplier": 1.0,
+	"cooldownPerBulletType": true,
+	"fairyOptions": {
+		"spawnFairies": true,
+		"spawnSunflowerFairies": false,
+		"spawnIceFairies": true
+	}
+}
