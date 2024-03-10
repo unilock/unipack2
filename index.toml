@@ -2002,6 +2002,10 @@ file = "resources/assets/emi/index/stacks/removals.json"
 hash = "9a3850f332412deef38ff6d72a3d0725304cd01cd1de7924efb287a11794aec6"
 
 [[files]]
+file = "resources/data/arcanuscontinuum/advancements/grant_compendium_arcanus.json"
+hash = "ccd833c48f93133bad335cac00b5d9dac831743457a0bd3375e63cdd1a2bc35b"
+
+[[files]]
 file = "resources/data/hexcasting/advancements/grant_patchi_book.json"
 hash = "ccd833c48f93133bad335cac00b5d9dac831743457a0bd3375e63cdd1a2bc35b"
 
