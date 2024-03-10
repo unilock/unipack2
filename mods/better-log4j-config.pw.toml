@@ -1,6 +1,6 @@
 name = "Better Log4j Config"
 filename = "better_log4j_config-1.2.0-quilt.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/6gLXkYZq/versions/cLUupLck/better_log4j_config-1.2.0-quilt.jar"
