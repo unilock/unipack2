@@ -1,0 +1,8 @@
+name = "Lib39"
+filename = "lib39-1.5.0-experimental6.1+1.20.1-all.jar"
+side = "both"
+
+[download]
+url = "https://play.fennet.rentals/packwiz/unipack2/manual-jars/both/lib39-1.5.0-experimental6.1+1.20.1-all.jar"
+hash-format = "sha256"
+hash = "f1337c3fc57f841c4a06cf6abba4b1c7b1bdcba8c3d06a3be2c0d3dfb845d37e"
