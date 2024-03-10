@@ -49,10 +49,6 @@ file = "config/boring_default_game_rules/config.json"
 hash = "4da5e569a17a0f1a41975fbed5fe8f1e490f568f24056da45ee70fcbf1c4104c"
 
 [[files]]
-file = "config/botania-client.json5"
-hash = "faf12688269c490bc257ad670aea218129d5af333cabd1e8985e1933183d2379"
-
-[[files]]
 file = "config/bwncr.toml"
 hash = "719ac523430d387933b2d284d2b9148ffea47d9826c23a97f7505ea02a006158"
 
@@ -91,6 +87,10 @@ hash = "06e68f96ef11e081e0ab8ab4b1ad4f2088658931253e54f16bd34592ee60e3bc"
 [[files]]
 file = "config/embeddium-options.json"
 hash = "826157c104a0e7fea4aa69bd56e9f5c6c8db9081ec9d52cf626d9862c95d9c9e"
+
+[[files]]
+file = "config/enchancement.json"
+hash = "574606538b80392b0066f564ad4e46d3e5f2cabcb667b99e1d9a0f74240ad36e"
 
 [[files]]
 file = "config/enhanced_bes.properties"
@@ -425,11 +425,6 @@ metafile = true
 [[files]]
 file = "mods/aurorasdecorations.pw.toml"
 hash = "22d30476c94849203eb3c5f42212b0bf6c3ebb106be4d0a68790135302710366"
-metafile = true
-
-[[files]]
-file = "mods/automobility.pw.toml"
-hash = "94918d5613a4e0e8490b7e19b575f7b4843d8557889d71b6bfd54641dcbc0205"
 metafile = true
 
 [[files]]
