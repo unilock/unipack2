@@ -934,7 +934,7 @@ metafile = true
 
 [[files]]
 file = "mods/extended-hotbar.pw.toml"
-hash = "a0dc16934d5e04b144df332b7e6542640f50b8e01e57e3dfb7709e2f4bc5e1a2"
+hash = "2e0bad849ecd83da341f16a331be2c18ea7fc8fb44df876fddcb7fe7680c7d90"
 metafile = true
 
 [[files]]
@@ -1240,6 +1240,11 @@ metafile = true
 [[files]]
 file = "mods/language-reload.pw.toml"
 hash = "16ece34cc7f72db9091923d6603ac40f4ba196d436f7fb743bd4c341d6064ede"
+metafile = true
+
+[[files]]
+file = "mods/lib39.pw.toml"
+hash = "bbc58b0d974e25bb872074c269f5391cffd5f8aa1b857177ec1062184658930c"
 metafile = true
 
 [[files]]
@@ -1698,6 +1703,11 @@ hash = "54233edb308f5d1326971b28fe8898c606a2dbdfc0b8c56f50ca0b5e80e30d7e"
 metafile = true
 
 [[files]]
+file = "mods/simply-boots.pw.toml"
+hash = "300a18c6562d8843c54cfc1bdef3f39c373e9858a05f1d01254fdd9a9aede5c9"
+metafile = true
+
+[[files]]
 file = "mods/skip-transitions.pw.toml"
 hash = "da1eaa3f9faedee735e38ca64a15d0a7e68faa0e64170316babe4c86297d11f5"
 metafile = true
@@ -2004,6 +2014,10 @@ hash = "9a3850f332412deef38ff6d72a3d0725304cd01cd1de7924efb287a11794aec6"
 [[files]]
 file = "resources/data/arcanuscontinuum/advancements/grant_compendium_arcanus.json"
 hash = "ccd833c48f93133bad335cac00b5d9dac831743457a0bd3375e63cdd1a2bc35b"
+
+[[files]]
+file = "resources/data/culturaldelights/loot_tables/blocks/avocado_leaves.json"
+hash = "ee6d4d14a7b6b601a85d26cd479565379417ae184972a7549e7257f7bf6df46b"
 
 [[files]]
 file = "resources/data/hexcasting/advancements/grant_patchi_book.json"
