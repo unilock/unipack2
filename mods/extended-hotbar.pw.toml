@@ -3,11 +3,6 @@ filename = "ExtendedHotbar-2.0.3.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/VNE7B6rB/versions/JJmfZEdr/ExtendedHotbar-2.0.3.jar"
-hash-format = "sha1"
-hash = "ccec8b2c6399bb855ef5c5cdf5d2a10ebcc1bd49"
-
-[update]
-[update.modrinth]
-mod-id = "VNE7B6rB"
-version = "JJmfZEdr"
+url = "https://play.fennet.rentals/packwiz/unipack2/manual-jars/client/ExtendedHotbar-2.0.3.jar"
+hash-format = "sha256"
+hash = "842f8ea69180e33e193025b02ccaffc76a31a2a1dc32a79ce5dd35629d50a698"

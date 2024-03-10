@@ -949,7 +949,7 @@ metafile = true
 
 [[files]]
 file = "mods/extended-hotbar.pw.toml"
-hash = "cd73c6245f8c818b61e5425f0c614c541baf202f85234d1fec1567c29a5c5ecd"
+hash = "a0dc16934d5e04b144df332b7e6542640f50b8e01e57e3dfb7709e2f4bc5e1a2"
 metafile = true
 
 [[files]]
