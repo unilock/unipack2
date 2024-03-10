@@ -21,10 +21,6 @@ file = "config/BlossomMods/BlossomTpa.json"
 hash = "dc4ded0aef138144557431d7c1ba9afe208415daf70a2ecee6b763871d2dc528"
 
 [[files]]
-file = "config/DistantHorizons.toml"
-hash = "415d9e31dfb24ef15cb26783052f81fb1dd3a1acbb1707035f9a992043fab442"
-
-[[files]]
 file = "config/Revelationary.json"
 hash = "b8e0a40c4a8eff307d72062c8736bb3c4fe7dd9613b58b35fcc42890c5ef0828"
 
@@ -103,6 +99,10 @@ hash = "d0ed8db797125a88b60c6659439f7c87a64f7ac59f51610c15ae322eb7d52705"
 [[files]]
 file = "config/expandedstorage.json"
 hash = "b71c0df5ce55717a49e35e99a0e7dff25318d7f2bb9ee2e42882d21550498f12"
+
+[[files]]
+file = "config/extendedhotbar.toml"
+hash = "d4a0701ae24ce835cfafc8f7e564080bb29892e51eee6272d7d8268beed82216"
 
 [[files]]
 file = "config/fabrication/features.ini"
@@ -798,11 +798,6 @@ hash = "7c5259e9ac7df8366d01465703abcfbb38b59ab68c885cba988f259bea36afb2"
 metafile = true
 
 [[files]]
-file = "mods/distant-horizons.pw.toml"
-hash = "5a6bf8b7d22a4356c5d0fb26d0a4c7fbc65723d5accc8edf88248e3575a64876"
-metafile = true
-
-[[files]]
 file = "mods/do-not-tilt-the-camera-in-relation-to-damage-direction.pw.toml"
 hash = "2b615a0243e51b9513eddf244158d2b9bc96604860c3c708941da81fd6895adf"
 metafile = true
@@ -840,11 +835,6 @@ metafile = true
 [[files]]
 file = "mods/ecologics.pw.toml"
 hash = "6e28aecc1374da8b38cef4b63578bb4d00c8a17c19948ced3e1284e60c221011"
-metafile = true
-
-[[files]]
-file = "mods/effective.pw.toml"
-hash = "0defe5f1c4912392940ed43a0acbd7a8df22442768dc8eec63c0790d85d22529"
 metafile = true
 
 [[files]]
@@ -925,11 +915,6 @@ metafile = true
 [[files]]
 file = "mods/etched.pw.toml"
 hash = "60a18209268cd7da9f7356c8065726ec3f3500c76085bb6b30a4ec192d3f6d2f"
-metafile = true
-
-[[files]]
-file = "mods/exlines-fishing.pw.toml"
-hash = "df0662a4a21ddf4fc31198ab7c73d704fb78a0752c5e4e6e78df32e4fc431090"
 metafile = true
 
 [[files]]
@@ -1083,18 +1068,13 @@ hash = "2fcef0c7ef46e2a4e51fe1fa9d6660d9f996b8304e0ae0caec02670703032304"
 metafile = true
 
 [[files]]
-file = "mods/go-fish.pw.toml"
-hash = "d47b36a229668694e6697a97d8fb2fa70fcf9d3f6dcc4f3ab6cddaf5c541fa83"
-metafile = true
-
-[[files]]
 file = "mods/grappling-hook-restitched.pw.toml"
 hash = "6552b7216d14ff5bde808e7440e6c8eb8e21ef42510849d166266364ae10d960"
 metafile = true
 
 [[files]]
-file = "mods/gravityapi.pw.toml"
-hash = "4908d5b5c1cbde24dd5d28e377221aa5e3c49e12486e25483c5b4adcbce1b6a5"
+file = "mods/gravity-api-fork.pw.toml"
+hash = "ed4f9111816e20f749d06fe714ca5b0841fa0e884e1761a8df66ac20bd37b8ba"
 metafile = true
 
 [[files]]
@@ -1318,11 +1298,6 @@ hash = "9df6f240a18c4d7a3e7bc52348a1e04613c0ac19b5e29ef24138ddf59e222a3b"
 metafile = true
 
 [[files]]
-file = "mods/mcpitanlibarch.pw.toml"
-hash = "998f284441b90004e0c9e51431d4f0103a47111f3990c50ae321401e47dc0183"
-metafile = true
-
-[[files]]
 file = "mods/megane.pw.toml"
 hash = "3ccded6aa48cdcdd22a447b5ea5bde0816168cb66293a6a57bdde79c5a200519"
 metafile = true
@@ -1533,11 +1508,6 @@ hash = "a293f934bb21ecafb42a000e15f6d5deb7f8561cbac0fa05ece007116f249b77"
 metafile = true
 
 [[files]]
-file = "mods/pipeplus.pw.toml"
-hash = "0c90f980faf363f279c2483b863c5ce4cbde248f8e51ea496c18b08c88c565ca"
-metafile = true
-
-[[files]]
 file = "mods/player-pronouns.pw.toml"
 hash = "c960e04a54b1a2a27309710081b044d85ec56d1f8402516e23c6ec1e0f166f2a"
 metafile = true
@@ -1725,16 +1695,6 @@ metafile = true
 [[files]]
 file = "mods/simple-discord-rich-presence.pw.toml"
 hash = "54233edb308f5d1326971b28fe8898c606a2dbdfc0b8c56f50ca0b5e80e30d7e"
-metafile = true
-
-[[files]]
-file = "mods/simplepipes.pw.toml"
-hash = "82e313e8ef5f3fb98c5944d6f238f8ccb07656f1c41ff50ffa47c29b88391299"
-metafile = true
-
-[[files]]
-file = "mods/simply-boots.pw.toml"
-hash = "300a18c6562d8843c54cfc1bdef3f39c373e9858a05f1d01254fdd9a9aede5c9"
 metafile = true
 
 [[files]]
