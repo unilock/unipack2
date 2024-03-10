@@ -32,7 +32,7 @@
   "maxLumberjackBlocks": 1024,
   "maxLumberjackHorizontalLength": 7,
   "coyoteBiteTicks": 3,
-  "unbreakingChangesFlag": 0,
+  "unbreakingChangesFlag": -1,
   "enchantmentDescriptions": true,
   "coloredEnchantmentNames": true,
   "allowDuplicateKeybindings": "VANILLA_AND_ENCHANCEMENT",
