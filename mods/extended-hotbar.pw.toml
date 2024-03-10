@@ -1,8 +1,0 @@
-name = "Extended Hotbar"
-filename = "ExtendedHotbar-2.0.3.jar"
-side = "client"
-
-[download]
-url = "https://play.fennet.rentals/packwiz/unipack2/manual-jars/client/ExtendedHotbar-2.0.3.jar"
-hash-format = "sha256"
-hash = "58a05b825c64211ab6d0738f65f18c1c2b07b9a220d5a1a330559f87f509ffa1"

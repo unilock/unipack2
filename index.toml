@@ -603,11 +603,6 @@ hash = "784568c3a84665e7ba13ed00de6d7be7676464e2b08390ffcc7012f2b3ee9e08"
 metafile = true
 
 [[files]]
-file = "mods/centered-crosshair.pw.toml"
-hash = "ca121a032b69cc126d98a240c1d9f805104fb0b65600438686ac833d839dfaf6"
-metafile = true
-
-[[files]]
 file = "mods/charm-of-undying.pw.toml"
 hash = "5d8b3949d9273133b54eb5f0e512cdf8c3a1ad270e4760442d62646374f2e727"
 metafile = true
@@ -930,11 +925,6 @@ metafile = true
 [[files]]
 file = "mods/extended-drawers.pw.toml"
 hash = "ff360ba97565b8efba9387e2b9a267937634568a8d56c39ae8711701ab499c3d"
-metafile = true
-
-[[files]]
-file = "mods/extended-hotbar.pw.toml"
-hash = "2e0bad849ecd83da341f16a331be2c18ea7fc8fb44df876fddcb7fe7680c7d90"
 metafile = true
 
 [[files]]
