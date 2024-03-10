@@ -81,6 +81,14 @@ file = "config/create-client.toml"
 hash = "c1781f643c9f3593039b79642669fbb4f882884ba99cea4fa2f58f4a684e3b10"
 
 [[files]]
+file = "config/defaultoptions/keybindings.txt"
+hash = "6f23859697a4a3d12b2104e39c12cd083dff6f29c6f31bf44aff64b9c7960ca9"
+
+[[files]]
+file = "config/defaultoptions/options.txt"
+hash = "5d6000c21fe80c7517e3dbe615953714ec52ab06faed34208a7e0d954ce89d65"
+
+[[files]]
 file = "config/dsurround/dsurround.json"
 hash = "06e68f96ef11e081e0ab8ab4b1ad4f2088658931253e54f16bd34592ee60e3bc"
 
@@ -1991,6 +1999,10 @@ metafile = true
 file = "mods/zzz-rawr.pw.toml"
 hash = "0a4f9eeb25ba875b515bd1421c1867df0a5e9fbcbc626e1799286f69f4d0c05c"
 metafile = true
+
+[[files]]
+file = "options.amecsapi.txt"
+hash = "8ea10c6673b5e29473fbd477ec02671ee3b62450725e42c9845e0e4fce458739"
 
 [[files]]
 file = "resources/assets/emi/index/stacks/removals.json"
