@@ -1,13 +1,8 @@
-name = "Cultural Creators [Fabric] (Create and Cultural Delights Addon)"
+name = "Cultural Creators"
 filename = "cultural-creators-1.0.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "9fda29a4bac7473a3c649fb19b634ff8947421e4"
-mode = "metadata:curseforge"
-
-[update]
-[update.curseforge]
-file-id = 4994379
-project-id = 953832
+url = "https://play.fennet.rentals/packwiz/unipack2/manual-jars/both/cultural-creators-1.0.0.jar"
+hash-format = "sha256"
+hash = "84f33197da05c2fe73bfefa5b03b5f31949f4c52984b35cbca846d5d1e7f8d5d"
