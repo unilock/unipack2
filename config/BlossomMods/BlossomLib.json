@@ -13,7 +13,7 @@
       "textColor": "white"
     },
     "titleMessage": {
-      "enabled": false  ,
+      "enabled": false,
       "titleCounting": {
         "counterColor": "gold",
         "color": "light_purple",
