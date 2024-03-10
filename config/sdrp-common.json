@@ -1,0 +1,7 @@
+{
+  "clientId": 0,
+  "enabled": true,
+  "screenEvent": true,
+  "clientJoinEvent": true,
+  "logState": false
+}

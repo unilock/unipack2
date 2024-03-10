@@ -1,0 +1,8 @@
+{
+  "whitelist": [
+    "block#minecraft:shulker_boxes",
+    "minecraft:ender_chest"
+  ],
+  "blacklist": [],
+  "defaultClickType": "SHIFT_RIGHT"
+}

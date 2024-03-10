@@ -1,0 +1,8 @@
+# List of messages to send (one will be chosen at random)
+messages = [
+	"Rise and grind, gamers!",
+	"Wakey, wakey, rise and shine... Good Morning everyone!",
+	"Wakey, wakey, rise and shine... Good Morning everynyan!",
+	"zzz... rrr... Rawr?"
+]
+

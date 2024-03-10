@@ -1,0 +1,20 @@
+{
+	"schema_version": 1,
+	"overrides": [
+		{
+			"path": "<mods>/specutils-1.0.1.jar",
+			"depends": [
+				{
+					"replace": {
+						"id": "fabric-language-kotlin",
+						"versions": ">=1.10.17+kotlin.1.9.22"
+					},
+					"with": {
+						"id": "fabric-language-kotlin",
+						"versions": ">=1.10.10+kotlin.1.9.10"
+					}
+				}
+			]
+		}
+	]
+}

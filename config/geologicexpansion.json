@@ -1,0 +1,11 @@
+{
+  "toggleableFeatures": {
+    "includeGeysers": true,
+    "includeLimestone": false,
+    "includeOvergrowth": false,
+    "includeDucks": true
+  },
+  "entityBehavior": {
+    "canDucksFish": true
+  }
+}

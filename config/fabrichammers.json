@@ -1,0 +1,133 @@
+{
+  "configVersion": "1.3",
+  "tools": {
+    "golden_hammer": {
+      "durability": 100,
+      "miningRadius": 1,
+      "miningSpeedMultiplier": 3.5,
+      "attackDamage": 6.0,
+      "miningLevel": 0,
+      "enchantability": 22,
+      "repairIngredient": "minecraft:gold_ingot"
+    },
+    "iron_excavator": {
+      "durability": 250,
+      "miningRadius": 1,
+      "miningSpeedMultiplier": 1.7,
+      "attackDamage": 6.0,
+      "miningLevel": 2,
+      "enchantability": 14,
+      "repairIngredient": "minecraft:iron_ingot"
+    },
+    "diamond_hammer": {
+      "durability": 1561,
+      "miningRadius": 1,
+      "miningSpeedMultiplier": 2.3,
+      "attackDamage": 8.0,
+      "miningLevel": 3,
+      "enchantability": 10,
+      "repairIngredient": "minecraft:diamond"
+    },
+    "netherite_excavator": {
+      "durability": 2031,
+      "miningRadius": 1,
+      "miningSpeedMultiplier": 2.6,
+      "attackDamage": 7.0,
+      "miningLevel": 4,
+      "enchantability": 15,
+      "repairIngredient": "minecraft:netherite_ingot"
+    },
+    "emerald_excavator": {
+      "durability": 750,
+      "miningRadius": 1,
+      "miningSpeedMultiplier": 2.0,
+      "attackDamage": 6.0,
+      "miningLevel": 2,
+      "enchantability": 10,
+      "repairIngredient": "minecraft:emerald"
+    },
+    "golden_excavator": {
+      "durability": 100,
+      "miningRadius": 1,
+      "miningSpeedMultiplier": 3.5,
+      "attackDamage": 4.0,
+      "miningLevel": 0,
+      "enchantability": 22,
+      "repairIngredient": "minecraft:gold_ingot"
+    },
+    "emerald_hammer": {
+      "durability": 750,
+      "miningRadius": 1,
+      "miningSpeedMultiplier": 2.0,
+      "attackDamage": 8.0,
+      "miningLevel": 2,
+      "enchantability": 10,
+      "repairIngredient": "minecraft:emerald"
+    },
+    "netherite_hammer": {
+      "durability": 2031,
+      "miningRadius": 1,
+      "miningSpeedMultiplier": 2.6,
+      "attackDamage": 9.0,
+      "miningLevel": 4,
+      "enchantability": 15,
+      "repairIngredient": "minecraft:netherite_ingot"
+    },
+    "wooden_hammer": {
+      "durability": 59,
+      "miningRadius": 1,
+      "miningSpeedMultiplier": 0.57,
+      "attackDamage": 6.0,
+      "miningLevel": 0,
+      "enchantability": 15,
+      "repairIngredient": "minecraft:oak_planks"
+    },
+    "diamond_excavator": {
+      "durability": 1561,
+      "miningRadius": 1,
+      "miningSpeedMultiplier": 2.3,
+      "attackDamage": 6.0,
+      "miningLevel": 3,
+      "enchantability": 10,
+      "repairIngredient": "minecraft:diamond"
+    },
+    "stone_hammer": {
+      "durability": 131,
+      "miningRadius": 1,
+      "miningSpeedMultiplier": 1.15,
+      "attackDamage": 8.0,
+      "miningLevel": 1,
+      "enchantability": 5,
+      "repairIngredient": "minecraft:stone"
+    },
+    "stone_excavator": {
+      "durability": 131,
+      "miningRadius": 1,
+      "miningSpeedMultiplier": 1.15,
+      "attackDamage": 6.0,
+      "miningLevel": 1,
+      "enchantability": 5,
+      "repairIngredient": "minecraft:stone"
+    },
+    "iron_hammer": {
+      "durability": 250,
+      "miningRadius": 1,
+      "miningSpeedMultiplier": 1.7,
+      "attackDamage": 8.0,
+      "miningLevel": 2,
+      "enchantability": 14,
+      "repairIngredient": "minecraft:iron_ingot"
+    },
+    "wooden_excavator": {
+      "durability": 59,
+      "miningRadius": 1,
+      "miningSpeedMultiplier": 0.57,
+      "attackDamage": 2.0,
+      "miningLevel": 0,
+      "enchantability": 15,
+      "repairIngredient": "minecraft:oak_planks"
+    }
+  },
+  "hammerDurabilityMultipier": 3.0,
+  "enableEmeradlTools": false
+}

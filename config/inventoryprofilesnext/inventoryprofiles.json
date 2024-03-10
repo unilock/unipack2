@@ -1,0 +1,231 @@
+{
+    "ModSettings": {
+        "sort_order": "ITEM_ID",
+        "include_hotbar_modifier": {
+            "main": {
+                "keys": ""
+            }
+        },
+        "move_all_modifier": {
+            "main": {
+                "keys": ""
+            }
+        },
+        "move_focus_mach_modifier": {
+            "main": {
+                "keys": "LEFT_SHIFT,W",
+                "settings": {
+                    "order_sensitive": false
+                }
+            }
+        },
+        "move_just_refill_modifier": {
+            "main": {
+                "keys": ""
+            }
+        },
+        "always_include_hotbar": true,
+        "highlight_foused_items": {
+            "value": false
+        },
+        "enable_profiles": {
+            "value": false
+        },
+        "enable_auto_refill": {
+            "main": {
+                "keys": "G"
+            }
+        },
+        "villager_trading_enable": {
+            "value": false
+        },
+        "enable_updates_check": false,
+        "sort_at_cursor": false,
+        "first_run": false
+    },
+    "GuiSettings": {
+        "enable_inventory_editor_button": {
+            "value": false
+        },
+        "enable_inventory_settings_button": {
+            "value": false
+        },
+        "enable_profiles_ui": {
+            "value": false
+        },
+        "continuous_crafting_checkbox_value": "UNCHECKED",
+        "continuous_crafting_saved_value": false,
+        "show_sort_in_columns_button": {
+            "value": false
+        },
+        "show_sort_in_rows_button": {
+            "value": false
+        },
+        "show_move_all_button": {
+            "value": false
+        },
+        "show_button_tooltips": false
+    },
+    "LockedSlotsSettings": {
+        "show_locked_slots_background": {
+            "value": false
+        },
+        "show_locked_slots_bg_color": "#00000000",
+        "show_locked_slots_hotbar_color": "#00000000",
+        "locked_slots_foreground_style": 3
+    },
+    "AutoRefillSettings": {
+        "auto_refill_prefer_smaller_stacks": true,
+        "refill_armor": {
+            "value": false
+        },
+        "auto_refill_match_any_food": true,
+        "allow_break_for_non_enchanted": {
+            "value": true
+        },
+        "number_of_notifications": 2,
+        "visual_replace_success_notification": {
+            "value": false
+        },
+        "audio_replace_success_notification": {
+            "value": false
+        },
+        "visual_replace_failed_notification": {
+            "value": false
+        },
+        "audio_replace_failed_notification": {
+            "value": false
+        }
+    },
+    "ScrollSettings": {
+        "scroll_full_stack": {
+            "main": {
+                "keys": ""
+            }
+        },
+        "scroll_leave_last": {
+            "main": {
+                "keys": ""
+            }
+        },
+        "scroll_spread": {
+            "main": {
+                "keys": ""
+            }
+        },
+        "scroll_throw": {
+            "main": {
+                "keys": ""
+            }
+        },
+        "scroll_auto_pickup_next_for_single": false
+    },
+    "Hotkeys": {
+        "sort_inventory": {
+            "main": {
+                "keys": "BUTTON_3"
+            }
+        },
+        "move_all_items": {
+            "main": {
+                "keys": "LEFT_SHIFT,W,BUTTON_1",
+                "settings": {
+                    "order_sensitive": false
+                }
+            }
+        },
+        "throw_all_items": {
+            "main": {
+                "keys": ""
+            }
+        },
+        "scroll_to_chest": {
+            "main": {
+                "keys": ""
+            }
+        },
+        "scroll_to_inventory": {
+            "main": {
+                "keys": ""
+            }
+        },
+        "open_gui_editor": {
+            "main": {
+                "keys": ""
+            }
+        },
+        "apply_profile": {
+            "main": {
+                "keys": ""
+            }
+        },
+        "next_profile": {
+            "main": {
+                "keys": ""
+            }
+        },
+        "prev_profile": {
+            "main": {
+                "keys": ""
+            }
+        },
+        "profile_1": {
+            "main": {
+                "keys": ""
+            }
+        },
+        "profile_2": {
+            "main": {
+                "keys": ""
+            }
+        },
+        "profile_3": {
+            "main": {
+                "keys": ""
+            }
+        },
+        "save_as_profile": {
+            "main": {
+                "keys": ""
+            }
+        },
+        "global_bookmark_trade": {
+            "main": {
+                "keys": ""
+            }
+        },
+        "local_bookmark_trade": {
+            "main": {
+                "keys": ""
+            }
+        },
+        "do_global_trade": {
+            "main": {
+                "keys": ""
+            }
+        },
+        "do_local_trade": {
+            "main": {
+                "keys": ""
+            }
+        },
+        "copy_nbt": {
+            "main": {
+                "keys": ""
+            }
+        },
+        "copy_item_id": {
+            "main": {
+                "keys": ""
+            }
+        }
+    },
+    "Tweaks": {
+        "prevent_close_gui_drop_item": {
+            "value": true
+        },
+        "container_swipe_moving_items": {
+            "value": false
+        }
+    }
+}

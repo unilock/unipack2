@@ -1,0 +1,23 @@
+{
+	"$schema": "GENERATE_ME",
+	"default_game_rules": {
+		"canEnderDragonDestroyBlocks": false,
+		"canMobsBreakDoors": false,
+		"canMobsPickUpLoot": false,
+		"canRavagersBreakCrops": false,
+		"canRavagersBreakLeaves": false,
+		"canRavagersBreakPitcherCrops": false,
+		"canWitherBreakBlocks": false,
+		"companion:petFriendlyFire": false,
+		"creeperExplosions": "DAMAGE_ONLY",
+		"disableElytraMovementCheck": true,
+		"farmlandTrampling": "OFF",
+		"ghastFireballExplosions": "DAMAGE_ONLY",
+		"maxEntityCramming": 64,
+		"permanentInfestedBlockDamage": false,
+		"playersSleepingPercentage": 33,
+		"witherSkullExplosions": "DAMAGE_ONLY",
+		"witherSpawnExplosions": "DAMAGE_ONLY"
+	},
+	"generate_json_schema": false
+}

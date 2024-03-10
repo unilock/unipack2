@@ -1,0 +1,5 @@
+[yungsMenuTweaks]
+enableRightClickCycleButton = true
+enableMouseScrollOnSliders = false
+enableBackgroundTexture = false
+backgroundTexture = "minecraft:textures/block/dirt.png"

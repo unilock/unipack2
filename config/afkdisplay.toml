@@ -1,0 +1,18 @@
+enableAfkCommand = true
+afkPlaceholder = "[AFK] "
+
+[packetOptions]
+timeoutSeconds = 180
+resetOnMovement = true
+resetOnLook = false
+
+[playerListOptions]
+enableListDisplay = true
+afkColor = "gray"
+afkPlayerName = "[AFK] %player:name%"
+
+[messageOptions]
+enableChatMessages = true
+messageColor = "gold"
+wentAfk = "%player:name% is now AFK"
+returned = "%player:name% is no longer AFK"

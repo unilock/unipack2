@@ -1,0 +1,6 @@
+cooldown=0
+chatMessage=%player:displayname% presents %itemflexer:item%
+chatMessageWithCount=%player:displayname% presents %itemflexer:count% %itemflexer:item%s
+failureNoItem=You can't showcase nothing!
+failureOnCooldown=On cooldown: %itemflexer:cooldown% seconds left
+commandName=showcase
