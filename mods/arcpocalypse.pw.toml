@@ -1,0 +1,13 @@
+name = "Arcpocalypse"
+filename = "arcpocalypse-1.3.2+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/I8tduDIx/versions/DuUnPF3G/arcpocalypse-1.3.2%2B1.20.1.jar"
+hash-format = "sha1"
+hash = "1f9fb7db2418982d70fdbcdae6f23bb92368a70d"
+
+[update]
+[update.modrinth]
+mod-id = "I8tduDIx"
+version = "DuUnPF3G"

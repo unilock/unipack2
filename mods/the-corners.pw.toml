@@ -1,0 +1,13 @@
+name = "The Corners"
+filename = "the_corners-1.2.8.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ba3aa6535e21188ec54bf2dfe452ded6551103ad"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4963824
+project-id = 523644
