@@ -1,0 +1,24 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "etcetera:dripping_rubber"
+		},
+		{
+			"weight": 1.0,
+			"key": "etcetera:falling_rubber"
+		},
+		{
+			"weight": 1.0,
+			"key": "etcetera:golden_heart"
+		},
+		{
+			"weight": 1.0,
+			"key": "etcetera:golden_sheen"
+		},
+		{
+			"weight": 1.0,
+			"key": "etcetera:landing_rubber"
+		}
+	]
+}

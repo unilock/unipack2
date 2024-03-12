@@ -1,0 +1,80 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "ecologics:camel_ambient"
+		},
+		{
+			"weight": 1.0,
+			"key": "ecologics:camel_angry"
+		},
+		{
+			"weight": 1.0,
+			"key": "ecologics:camel_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "ecologics:camel_death"
+		},
+		{
+			"weight": 1.0,
+			"key": "ecologics:camel_eat"
+		},
+		{
+			"weight": 1.0,
+			"key": "ecologics:camel_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "ecologics:camel_step"
+		},
+		{
+			"weight": 1.0,
+			"key": "ecologics:coconut_crab_ambient"
+		},
+		{
+			"weight": 1.0,
+			"key": "ecologics:coconut_crab_death"
+		},
+		{
+			"weight": 1.0,
+			"key": "ecologics:coconut_crab_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "ecologics:coconut_smash"
+		},
+		{
+			"weight": 1.0,
+			"key": "ecologics:music_disc_coconut"
+		},
+		{
+			"weight": 1.0,
+			"key": "ecologics:penguin_ambient"
+		},
+		{
+			"weight": 1.0,
+			"key": "ecologics:penguin_death"
+		},
+		{
+			"weight": 1.0,
+			"key": "ecologics:penguin_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "ecologics:squirrel_ambient"
+		},
+		{
+			"weight": 1.0,
+			"key": "ecologics:squirrel_death"
+		},
+		{
+			"weight": 1.0,
+			"key": "ecologics:squirrel_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "ecologics:thin_ice_crack"
+		}
+	]
+}

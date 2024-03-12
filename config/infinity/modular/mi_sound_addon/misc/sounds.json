@@ -1,0 +1,116 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "mi_sound_addon:assembler"
+		},
+		{
+			"weight": 1.0,
+			"key": "mi_sound_addon:blast_furnace"
+		},
+		{
+			"weight": 1.0,
+			"key": "mi_sound_addon:centrifuge"
+		},
+		{
+			"weight": 1.0,
+			"key": "mi_sound_addon:chemical_reactor"
+		},
+		{
+			"weight": 1.0,
+			"key": "mi_sound_addon:coke_oven"
+		},
+		{
+			"weight": 1.0,
+			"key": "mi_sound_addon:compressor"
+		},
+		{
+			"weight": 1.0,
+			"key": "mi_sound_addon:cutting_machine"
+		},
+		{
+			"weight": 1.0,
+			"key": "mi_sound_addon:distillation_tower"
+		},
+		{
+			"weight": 1.0,
+			"key": "mi_sound_addon:distillery"
+		},
+		{
+			"weight": 1.0,
+			"key": "mi_sound_addon:electric_blast_furnace"
+		},
+		{
+			"weight": 1.0,
+			"key": "mi_sound_addon:electrolyzer"
+		},
+		{
+			"weight": 1.0,
+			"key": "mi_sound_addon:fission_reactor"
+		},
+		{
+			"weight": 1.0,
+			"key": "mi_sound_addon:furnace"
+		},
+		{
+			"weight": 1.0,
+			"key": "mi_sound_addon:fusion_reactor"
+		},
+		{
+			"weight": 1.0,
+			"key": "mi_sound_addon:heat_exchanger"
+		},
+		{
+			"weight": 1.0,
+			"key": "mi_sound_addon:implosion_compressor"
+		},
+		{
+			"weight": 1.0,
+			"key": "mi_sound_addon:macerator"
+		},
+		{
+			"weight": 1.0,
+			"key": "mi_sound_addon:mixer"
+		},
+		{
+			"weight": 1.0,
+			"key": "mi_sound_addon:oil_drilling_rig"
+		},
+		{
+			"weight": 1.0,
+			"key": "mi_sound_addon:packer"
+		},
+		{
+			"weight": 1.0,
+			"key": "mi_sound_addon:polarizer"
+		},
+		{
+			"weight": 1.0,
+			"key": "mi_sound_addon:pressurizer"
+		},
+		{
+			"weight": 1.0,
+			"key": "mi_sound_addon:quarry"
+		},
+		{
+			"weight": 1.0,
+			"key": "mi_sound_addon:replicator"
+		},
+		{
+			"weight": 1.0,
+			"key": "mi_sound_addon:unpacker"
+		},
+		{
+			"weight": 1.0,
+			"key": "mi_sound_addon:vacuum_freezer"
+		},
+		{
+			"weight": 1.0,
+			"key": "mi_sound_addon:wiremill"
+		},
+		{
+			"weight": 1.0,
+			"key": "mi_sound_addon:wrench"
+		}
+	]
+}

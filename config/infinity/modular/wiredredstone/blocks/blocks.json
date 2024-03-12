@@ -1,0 +1,14 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": {
+				"float": true,
+				"laggy": true,
+				"Name": "wiredredstone:redstone_assembler",
+				"top": true,
+				"full": true
+			}
+		}
+	]
+}

@@ -1,0 +1,48 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "simplyboots:frostspark_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplyboots:hermes_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplyboots:ice_skates"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplyboots:lava_charm"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplyboots:lava_waders"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplyboots:lightning_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplyboots:obsidian_water_walking_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplyboots:rocket_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplyboots:spectre_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplyboots:terraspark_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "simplyboots:water_walking_boots"
+		}
+	]
+}

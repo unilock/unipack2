@@ -1,0 +1,12 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "linkedstorage:storageblock"
+		},
+		{
+			"weight": 1.0,
+			"key": "linkedstorage:storageitem"
+		}
+	]
+}

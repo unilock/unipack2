@@ -1,0 +1,132 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "neepmeat:advanced_integrator_ambient"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:advanced_integrator_charge"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:beep"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:big_lever_off"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:big_lever_on"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:bovine_horror_charge"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:bovine_horror_hit"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:bovine_horror_phase2"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:bovine_horror_spit"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:cake_fire"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:cake_scream"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:click"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:combine_instruction_apply"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:compound_injector"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:cosmic_beam"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:error"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:flesh_machine_place"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:glome_hit"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:hound_death"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:hound_hit"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:implant_instruction_apply"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:inject"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:mechanical_machine_break"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:mechanical_machine_place"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:metal_barrel_close"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:metal_barrel_open"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:phage_ray_charge"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:phage_ray_running"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:plc_select"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:plc_select_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:pylon_active"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:pylon_start"
+		}
+	]
+}

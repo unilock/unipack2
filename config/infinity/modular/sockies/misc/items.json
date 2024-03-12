@@ -1,0 +1,20 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "sockies:plain_socks"
+		},
+		{
+			"weight": 1.0,
+			"key": "sockies:polkadot_socks"
+		},
+		{
+			"weight": 1.0,
+			"key": "sockies:rainbow_socks"
+		},
+		{
+			"weight": 1.0,
+			"key": "sockies:striped_socks"
+		}
+	]
+}

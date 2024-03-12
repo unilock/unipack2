@@ -1,0 +1,12 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "hexal:wisp_casting_continue"
+		},
+		{
+			"weight": 1.0,
+			"key": "hexal:wisp_casting_start"
+		}
+	]
+}

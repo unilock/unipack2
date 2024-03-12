@@ -1,0 +1,200 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "delightfulcreators:apple_cider_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "delightfulcreators:baked_cod_stew_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "delightfulcreators:beef_stew_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "delightfulcreators:beetroot_soup_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "delightfulcreators:bone_broth_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "delightfulcreators:chicken_soup_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "delightfulcreators:cooked_rice_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "delightfulcreators:dog_food_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "delightfulcreators:fish_stew_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "delightfulcreators:glow_berry_custard_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "delightfulcreators:hot_cocoa_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "delightfulcreators:incomplete_apple_pie"
+		},
+		{
+			"weight": 1.0,
+			"key": "delightfulcreators:incomplete_bacon_and_eggs"
+		},
+		{
+			"weight": 1.0,
+			"key": "delightfulcreators:incomplete_bacon_sandwich"
+		},
+		{
+			"weight": 1.0,
+			"key": "delightfulcreators:incomplete_chicken_sandwich"
+		},
+		{
+			"weight": 1.0,
+			"key": "delightfulcreators:incomplete_dumplings"
+		},
+		{
+			"weight": 1.0,
+			"key": "delightfulcreators:incomplete_egg_sandwich"
+		},
+		{
+			"weight": 1.0,
+			"key": "delightfulcreators:incomplete_fried_rice"
+		},
+		{
+			"weight": 1.0,
+			"key": "delightfulcreators:incomplete_fruit_salad"
+		},
+		{
+			"weight": 1.0,
+			"key": "delightfulcreators:incomplete_grilled_salmon"
+		},
+		{
+			"weight": 1.0,
+			"key": "delightfulcreators:incomplete_hamburger"
+		},
+		{
+			"weight": 1.0,
+			"key": "delightfulcreators:incomplete_honey_glazed_ham"
+		},
+		{
+			"weight": 1.0,
+			"key": "delightfulcreators:incomplete_horse_feed"
+		},
+		{
+			"weight": 1.0,
+			"key": "delightfulcreators:incomplete_mixed_salad"
+		},
+		{
+			"weight": 1.0,
+			"key": "delightfulcreators:incomplete_mushroom_rice"
+		},
+		{
+			"weight": 1.0,
+			"key": "delightfulcreators:incomplete_mutton_wrap"
+		},
+		{
+			"weight": 1.0,
+			"key": "delightfulcreators:incomplete_nether_salad"
+		},
+		{
+			"weight": 1.0,
+			"key": "delightfulcreators:incomplete_pasta_dish"
+		},
+		{
+			"weight": 1.0,
+			"key": "delightfulcreators:incomplete_pasta_with_meatballs"
+		},
+		{
+			"weight": 1.0,
+			"key": "delightfulcreators:incomplete_pasta_with_mutton_chop"
+		},
+		{
+			"weight": 1.0,
+			"key": "delightfulcreators:incomplete_pumpkin_pie"
+		},
+		{
+			"weight": 1.0,
+			"key": "delightfulcreators:incomplete_rice_roll_medley"
+		},
+		{
+			"weight": 1.0,
+			"key": "delightfulcreators:incomplete_roast_chicken"
+		},
+		{
+			"weight": 1.0,
+			"key": "delightfulcreators:incomplete_roasted_mutton_chops"
+		},
+		{
+			"weight": 1.0,
+			"key": "delightfulcreators:incomplete_shepherds_pie"
+		},
+		{
+			"weight": 1.0,
+			"key": "delightfulcreators:incomplete_squid_ink_pasta"
+		},
+		{
+			"weight": 1.0,
+			"key": "delightfulcreators:incomplete_steak_and_potatoes"
+		},
+		{
+			"weight": 1.0,
+			"key": "delightfulcreators:incomplete_stuffed_pumpkin"
+		},
+		{
+			"weight": 1.0,
+			"key": "delightfulcreators:incomplete_sweet_berry_cheesecake"
+		},
+		{
+			"weight": 1.0,
+			"key": "delightfulcreators:incomplete_vegetable_noodles"
+		},
+		{
+			"weight": 1.0,
+			"key": "delightfulcreators:melon_juice_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "delightfulcreators:mushroom_stew_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "delightfulcreators:noodle_soup_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "delightfulcreators:pumpkin_pie_slice"
+		},
+		{
+			"weight": 1.0,
+			"key": "delightfulcreators:pumpkin_soup_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "delightfulcreators:rabbit_stew_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "delightfulcreators:ratatouille_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "delightfulcreators:tomato_sauce_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "delightfulcreators:vegetable_soup_bucket"
+		}
+	]
+}

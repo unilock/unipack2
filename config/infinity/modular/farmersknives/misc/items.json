@@ -1,0 +1,96 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "farmersknives:adamantite_knife"
+		},
+		{
+			"weight": 1.0,
+			"key": "farmersknives:aquarium_knife"
+		},
+		{
+			"weight": 1.0,
+			"key": "farmersknives:banglum_knife"
+		},
+		{
+			"weight": 1.0,
+			"key": "farmersknives:bronze_knife"
+		},
+		{
+			"weight": 1.0,
+			"key": "farmersknives:carmot_knife"
+		},
+		{
+			"weight": 1.0,
+			"key": "farmersknives:celestium_knife"
+		},
+		{
+			"weight": 1.0,
+			"key": "farmersknives:copper_knife_mm"
+		},
+		{
+			"weight": 1.0,
+			"key": "farmersknives:durasteel_knife"
+		},
+		{
+			"weight": 1.0,
+			"key": "farmersknives:hallowed_knife"
+		},
+		{
+			"weight": 1.0,
+			"key": "farmersknives:kyber_knife"
+		},
+		{
+			"weight": 1.0,
+			"key": "farmersknives:legendary_banglum_knife"
+		},
+		{
+			"weight": 1.0,
+			"key": "farmersknives:metallurgium_knife"
+		},
+		{
+			"weight": 1.0,
+			"key": "farmersknives:mythril_knife"
+		},
+		{
+			"weight": 1.0,
+			"key": "farmersknives:orichalcum_knife"
+		},
+		{
+			"weight": 1.0,
+			"key": "farmersknives:osmium_knife"
+		},
+		{
+			"weight": 1.0,
+			"key": "farmersknives:palladium_knife"
+		},
+		{
+			"weight": 1.0,
+			"key": "farmersknives:prometheum_knife"
+		},
+		{
+			"weight": 1.0,
+			"key": "farmersknives:quadrillum_knife"
+		},
+		{
+			"weight": 1.0,
+			"key": "farmersknives:runite_knife"
+		},
+		{
+			"weight": 1.0,
+			"key": "farmersknives:soul_alloy_knife"
+		},
+		{
+			"weight": 1.0,
+			"key": "farmersknives:star_platinum_knife"
+		},
+		{
+			"weight": 1.0,
+			"key": "farmersknives:steel_knife_mm"
+		},
+		{
+			"weight": 1.0,
+			"key": "farmersknives:stormyx_knife"
+		}
+	]
+}

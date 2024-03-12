@@ -1,0 +1,1024 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "bewitchment:acacia_poppet_shelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:aconite"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:aconite_seeds"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:alchemist_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:alchemist_hat"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:alchemist_hood"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:alchemist_pants"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:alchemist_robes"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:alchemist_wool"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:aqua_cerate"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:athame"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:baphomet_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:belladonna"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:belladonna_seeds"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:besmirched_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:besmirched_hat"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:besmirched_hood"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:besmirched_pants"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:besmirched_robes"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:besmirched_wool"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:birch_bark"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:birch_poppet_shelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:black_coffin"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:blackstone_witch_altar"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:blessed_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:blue_coffin"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:book_of_shadows"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:bottle_of_blood"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:brazier"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:brown_coffin"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:caduceus"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:chalk"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:cleansing_balm"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:cleansing_sigil"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:crimson_poppet_shelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:crystal_ball"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:curse_poppet"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:cyan_coffin"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:cypress_bark"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:cypress_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:cypress_broom"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:cypress_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:cypress_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:cypress_chest_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:cypress_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:cypress_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:cypress_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:cypress_hanging_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:cypress_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:cypress_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:cypress_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:cypress_poppet_shelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:cypress_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:cypress_sapling"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:cypress_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:cypress_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:cypress_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:cypress_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:cypress_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:dark_oak_poppet_shelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:death_protection_poppet"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:decay_sigil"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:deepslate_salt_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:deepslate_silver_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:demon_heart"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:demon_horn"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:demon_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:demonic_contract"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:dragons_blood_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:dragons_blood_broom"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:dragons_blood_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:dragons_blood_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:dragons_blood_chest_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:dragons_blood_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:dragons_blood_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:dragons_blood_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:dragons_blood_hanging_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:dragons_blood_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:dragons_blood_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:dragons_blood_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:dragons_blood_poppet_shelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:dragons_blood_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:dragons_blood_resin"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:dragons_blood_resin_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:dragons_blood_sapling"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:dragons_blood_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:dragons_blood_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:dragons_blood_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:dragons_blood_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:dragons_blood_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:druid_band"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:earth_ichor"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:ectoplasm"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:elder_bark"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:elder_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:elder_broom"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:elder_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:elder_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:elder_chest_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:elder_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:elder_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:elder_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:elder_hanging_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:elder_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:elder_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:elder_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:elder_poppet_shelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:elder_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:elder_sapling"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:elder_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:elder_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:elder_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:elder_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:elder_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:eldritch_chalk"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:end_stone_witch_altar"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:ender_bramble"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:extending_sigil"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:fatigue_poppet"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:fiery_chalk"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:fiery_serum"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:fleeting_bramble"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:fruiting_bramble"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:garlic"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:garlic_bread"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:ghost_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:glowing_bramble"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:golden_candelabra"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:golden_chalk"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:golden_witch_altar"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:gray_coffin"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:green_coffin"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:grilled_garlic"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:grim_elixir"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:grotesque_stew"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:harbinger"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:heaven_extract"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:heavy_sigil"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:hedgewitch_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:hedgewitch_hat"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:hedgewitch_hood"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:hedgewitch_pants"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:hedgewitch_robes"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:hedgewitch_wool"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:hellhound_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:hellish_bauble"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:herne_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:horned_spear"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:iron_candelabra"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:judgment_poppet"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:judgment_sigil"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:jungle_poppet_shelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:juniper_bark"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:juniper_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:juniper_broom"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:juniper_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:juniper_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:juniper_chest_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:juniper_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:juniper_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:juniper_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:juniper_hanging_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:juniper_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:juniper_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:juniper_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:juniper_poppet_shelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:juniper_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:juniper_sapling"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:juniper_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:juniper_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:juniper_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:juniper_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:juniper_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:leonard_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:light_blue_coffin"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:light_gray_coffin"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:lilith_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:lime_coffin"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:magenta_coffin"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:mandrake_root"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:mandrake_seeds"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:mending_poppet"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:mending_sigil"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:mossy_cobblestone_witch_altar"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:nazar"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:nether_brick_witch_altar"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:netherite_candelabra"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:oak_bark"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:oak_poppet_shelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:obsidian_witch_altar"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:orange_coffin"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:owl_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:pink_coffin"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:prickly_belt"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:prismarine_witch_altar"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:protection_poppet"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:purple_coffin"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:purpur_witch_altar"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:raven_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:raw_silver"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:raw_silver_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:red_coffin"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:ruin_sigil"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:salt"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:salt_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:salt_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:scepter"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:scorched_bramble"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:sentinel_sigil"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:shadows_sigil"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:shrieking_sigil"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:silver_arrow"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:silver_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:silver_candelabra"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:silver_ingot"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:silver_nugget"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:silver_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:slippery_sigil"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:smelly_sigil"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:snake_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:snake_tongue"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:specter_bangle"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:spruce_bark"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:spruce_poppet_shelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:stone_witch_altar"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:stripped_cypress_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:stripped_cypress_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:stripped_dragons_blood_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:stripped_dragons_blood_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:stripped_elder_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:stripped_elder_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:stripped_juniper_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:stripped_juniper_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:taglock"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:thick_bramble"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:toad_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:trapped_cypress_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:trapped_dragons_blood_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:trapped_elder_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:trapped_juniper_chest"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:vampire_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:vampiric_poppet"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:voodoo_poppet"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:voodoo_protection_poppet"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:warped_poppet_shelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:waystone"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:werewolf_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:white_coffin"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:witch_cauldron"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:witchberry"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:witchberry_cookie"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:witchberry_pie"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:wood_ash"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:yellow_coffin"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:zephyr_harness"
+		}
+	]
+}

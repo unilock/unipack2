@@ -1,0 +1,1176 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "neepmeat:advanced_flex_tank"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:advanced_integrator"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:advanced_motor"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:advanced_tank"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:alloy_kiln"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:animal_feed_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:animal_heart"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:assembler"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:basic_glass_tank"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:basic_tank"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:big_lever"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:bioelectric_organ"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:biomass"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:blood_bubble"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:blood_bubble_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:blood_bubble_leaves_flowering"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:blood_bubble_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:blood_bubble_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:blood_bubble_planks_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:blood_bubble_planks_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:blood_bubble_planks_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:blood_bubble_planks_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:blood_bubble_planks_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:blood_bubble_planks_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:blood_bubble_planks_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:blood_bubble_planks_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:blood_bubble_sapling"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:blood_bubble_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:blood_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:bloody_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:bloody_bricks_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:bloody_bricks_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:bloody_bricks_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:bloody_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:bloody_tiles_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:bloody_tiles_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:blue_metal_scaffold"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:blue_metal_scaffold_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:blue_metal_scaffold_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:blue_polished_metal"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:blue_polished_metal_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:blue_polished_metal_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:blue_polished_metal_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:blue_rough_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:blue_rough_concrete_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:blue_rough_concrete_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:bottler"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:brain_rough"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:breaker"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:buffer"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:can"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:carton"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:casting_basin"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:caution_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:caution_block_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:caution_block_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:charged_work_fluid_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:charnel_compactor"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:charnel_pump"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:check_valve"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:cheese_cleaver"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:chrysalis"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:chute"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:coarse_meat_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:collector"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:compound_injector"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:contaminated_dirt"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:content_detector"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:contractile_actuator"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:control_unit"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:cooked_meat_brick"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:copper_coil"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:copper_pipe"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:cronencake"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:crucible"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:data_cable"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:death_blades"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:debug"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:deployer"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:dirty_red_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:dirty_red_tiles_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:dirty_red_tiles_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:dirty_sink"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:dirty_toilet"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:dirty_white_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:dirty_white_tiles_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:dirty_white_tiles_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:dirty_white_tiles_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:divine_organ"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:dosimeter"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:dumper"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:ejector"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:eldritch_enzymes_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:encased_fluid_pipe"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:encased_vascular_conduit"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:enlightened_brain"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:essential_saltes"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:ethereal_fuel_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:executor"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:extra_knees"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:extra_mouth"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:feeding_trough"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:filter_pipe"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:flame_jet"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:flesh_potato"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:flex_tank"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:fluid_buffer"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:fluid_drain"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:fluid_exciter"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:fluid_gauge"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:fluid_interface"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:fluid_pipe"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:fluid_pipe_black"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:fluid_pipe_blue"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:fluid_pipe_brown"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:fluid_pipe_cyan"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:fluid_pipe_gray"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:fluid_pipe_green"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:fluid_pipe_light_blue"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:fluid_pipe_light_gray"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:fluid_pipe_lime"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:fluid_pipe_magenta"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:fluid_pipe_orange"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:fluid_pipe_pink"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:fluid_pipe_purple"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:fluid_pipe_red"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:fluid_pipe_white"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:fluid_pipe_yellow"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:fluid_rationer"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:flywheel"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:goggles"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:grey_rough_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:grey_rough_concrete_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:grey_rough_concrete_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:grinder"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:heater"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:holding_track"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:homogeniser"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:hydraulic_press"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:integration_charge_adv"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:integration_charge_crude"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:integrator_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:internal_components"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:item_buffer"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:item_duct"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:item_gauge"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:item_mincer"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:item_pipe"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:item_pump"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:item_requester"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:large_flywheel"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:large_motor"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:limiter_valve"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:lung_extensions"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:meat_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:meat_carton"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:meat_scrap"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:meat_steel_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:meat_steel_block_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:meat_steel_block_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:meat_steel_block_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:meat_steel_component"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:meat_steel_ingot"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:merge_item_pipe"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:mesh_pane"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:metal_barrel"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:milk_carton"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:mincer"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:mixer"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:mob_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:motor_unit"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:multi_tank"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:networking_tool"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:open_eye"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:pasteurised_milk_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:patina_treatment_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:pedestal"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:phage_ray"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:pineal_eye"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:pinkdrink"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:pinkdrink_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:pipe_driver"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:pipette"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:plc"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:polished_metal"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:polished_metal_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:polished_metal_bricks_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:polished_metal_bricks_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:polished_metal_bricks_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:polished_metal_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:polished_metal_small_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:polished_metal_small_bricks_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:polished_metal_small_bricks_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:polished_metal_small_bricks_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:polished_metal_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:polished_metal_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:power_emitter"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:power_flower_controller"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:power_flower_fluid_port"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:power_flower_growth"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:power_flower_seeds"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:projector"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:pump"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:pylon"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:raw_meat_brick"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:reanimated_heart"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:red_rough_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:red_rough_concrete_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:red_rough_concrete_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:redstone_interface"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:refractory_brick"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:reinforced_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:reinforced_glass_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:reinforced_glass_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:robotic_arm"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:router"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:rusted_bars"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:rusted_metal_scaffold"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:rusted_metal_scaffold_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:rusted_metal_scaffold_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:rusted_metal_scaffold_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:rusty_column"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:rusty_metal"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:rusty_metal_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:rusty_metal_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:rusty_panel"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:rusty_vent"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:sacrificial_dagger"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:sandy_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:sandy_bricks_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:sandy_bricks_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:sandy_bricks_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:separator"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:shield"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:slasher"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:small_sink"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:small_trommel"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:smooth_tile_black"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:smooth_tile_blue"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:smooth_tile_brown"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:smooth_tile_cyan"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:smooth_tile_gray"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:smooth_tile_green"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:smooth_tile_light_blue"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:smooth_tile_light_gray"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:smooth_tile_lime"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:smooth_tile_magenta"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:smooth_tile_orange"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:smooth_tile_pink"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:smooth_tile_purple"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:smooth_tile_red"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:smooth_tile_white"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:smooth_tile_yellow"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:solidity_detector"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:stator"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:statue"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:stirling_engine"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:stop_valve"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:storage_bus"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:surgery_platform"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:synthesiser"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:tank_minecart"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:television_off"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:television_static"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:tissue_slurry_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:transducer"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:transforming_tool_base"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:upgrade_manager"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:vascular_conduit"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:vsc"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:well_head"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:whisper_brass_ingot"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:whisper_bread"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:whisper_flour"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:whisper_wheat"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:whisper_wheat_seeds"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:white_rough_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:white_rough_concrete_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:white_rough_concrete_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:window_fluid_pipe"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:work_fluid_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:workstation"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:writhing_earth_spout"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:writhing_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:yellow_metal_scaffold"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:yellow_metal_scaffold_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:yellow_metal_scaffold_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:yellow_rough_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:yellow_rough_concrete_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:yellow_rough_concrete_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:yellow_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:yellow_tiles_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "neepmeat:yellow_tiles_stairs"
+		}
+	]
+}

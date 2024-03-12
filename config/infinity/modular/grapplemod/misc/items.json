@@ -1,0 +1,68 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "grapplemod:baseupgradeitem"
+		},
+		{
+			"weight": 1.0,
+			"key": "grapplemod:block_grapple_modifier"
+		},
+		{
+			"weight": 1.0,
+			"key": "grapplemod:doubleupgradeitem"
+		},
+		{
+			"weight": 1.0,
+			"key": "grapplemod:forcefieldupgradeitem"
+		},
+		{
+			"weight": 1.0,
+			"key": "grapplemod:grapplinghook"
+		},
+		{
+			"weight": 1.0,
+			"key": "grapplemod:launcheritem"
+		},
+		{
+			"weight": 1.0,
+			"key": "grapplemod:limitsupgradeitem"
+		},
+		{
+			"weight": 1.0,
+			"key": "grapplemod:longfallboots"
+		},
+		{
+			"weight": 1.0,
+			"key": "grapplemod:magnetupgradeitem"
+		},
+		{
+			"weight": 1.0,
+			"key": "grapplemod:motorupgradeitem"
+		},
+		{
+			"weight": 1.0,
+			"key": "grapplemod:repeller"
+		},
+		{
+			"weight": 1.0,
+			"key": "grapplemod:rocketupgradeitem"
+		},
+		{
+			"weight": 1.0,
+			"key": "grapplemod:ropeupgradeitem"
+		},
+		{
+			"weight": 1.0,
+			"key": "grapplemod:staffupgradeitem"
+		},
+		{
+			"weight": 1.0,
+			"key": "grapplemod:swingupgradeitem"
+		},
+		{
+			"weight": 1.0,
+			"key": "grapplemod:throwupgradeitem"
+		}
+	]
+}

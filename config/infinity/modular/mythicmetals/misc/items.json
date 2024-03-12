@@ -1,0 +1,1836 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:adamantite_anvil"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:adamantite_axe"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:adamantite_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:adamantite_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:adamantite_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:adamantite_dust"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:adamantite_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:adamantite_hoe"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:adamantite_ingot"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:adamantite_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:adamantite_nugget"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:adamantite_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:adamantite_pickaxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:adamantite_shovel"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:adamantite_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:aegis_smithing_template"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:aquarium_anvil"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:aquarium_axe"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:aquarium_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:aquarium_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:aquarium_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:aquarium_dust"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:aquarium_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:aquarium_hoe"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:aquarium_ingot"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:aquarium_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:aquarium_nugget"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:aquarium_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:aquarium_pearl"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:aquarium_pickaxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:aquarium_shovel"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:aquarium_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:banglum_anvil"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:banglum_axe"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:banglum_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:banglum_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:banglum_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:banglum_chunk"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:banglum_dust"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:banglum_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:banglum_hoe"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:banglum_ingot"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:banglum_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:banglum_nugget"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:banglum_nuke_core"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:banglum_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:banglum_pickaxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:banglum_shovel"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:banglum_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:banglum_tnt"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:banglum_tnt_minecart"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:blackstone_stormyx_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:bronze_anvil"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:bronze_axe"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:bronze_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:bronze_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:bronze_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:bronze_dust"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:bronze_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:bronze_hoe"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:bronze_ingot"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:bronze_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:bronze_nugget"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:bronze_pickaxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:bronze_shovel"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:bronze_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:calcite_kyber_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:calcite_starrite_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:carmot_anvil"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:carmot_axe"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:carmot_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:carmot_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:carmot_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:carmot_dust"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:carmot_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:carmot_hoe"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:carmot_ingot"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:carmot_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:carmot_nugget"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:carmot_nuke_core"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:carmot_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:carmot_pickaxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:carmot_shovel"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:carmot_smithing_template"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:carmot_staff"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:carmot_staff_smithing_template"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:carmot_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:carmot_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:celestium_anvil"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:celestium_axe"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:celestium_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:celestium_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:celestium_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:celestium_dust"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:celestium_elytra"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:celestium_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:celestium_hoe"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:celestium_ingot"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:celestium_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:celestium_nugget"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:celestium_pickaxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:celestium_shovel"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:celestium_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:copper_axe"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:copper_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:copper_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:copper_dust"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:copper_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:copper_hoe"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:copper_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:copper_nugget"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:copper_pickaxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:copper_shovel"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:copper_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:deepslate_adamantite_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:deepslate_carmot_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:deepslate_morkite_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:deepslate_mythril_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:deepslate_orichalcum_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:deepslate_prometheum_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:deepslate_runite_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:deepslate_unobtainium_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:doge"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:durasteel_anvil"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:durasteel_axe"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:durasteel_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:durasteel_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:durasteel_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:durasteel_dust"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:durasteel_engine"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:durasteel_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:durasteel_hoe"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:durasteel_ingot"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:durasteel_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:durasteel_nugget"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:durasteel_pickaxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:durasteel_shovel"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:durasteel_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:enchanted_midas_gold_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:end_stone_starrite_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:froge"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:gilded_midas_gold_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:hallowed_anvil"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:hallowed_axe"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:hallowed_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:hallowed_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:hallowed_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:hallowed_dust"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:hallowed_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:hallowed_hoe"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:hallowed_ingot"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:hallowed_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:hallowed_nugget"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:hallowed_pickaxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:hallowed_shovel"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:hallowed_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:kyber_anvil"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:kyber_axe"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:kyber_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:kyber_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:kyber_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:kyber_dust"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:kyber_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:kyber_hoe"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:kyber_ingot"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:kyber_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:kyber_nugget"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:kyber_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:kyber_pickaxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:kyber_shovel"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:kyber_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:legendary_banglum_axe"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:legendary_banglum_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:legendary_banglum_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:legendary_banglum_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:legendary_banglum_hoe"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:legendary_banglum_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:legendary_banglum_pickaxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:legendary_banglum_shovel"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:legendary_banglum_smithing_template"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:legendary_banglum_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:manganese_anvil"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:manganese_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:manganese_dust"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:manganese_ingot"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:manganese_nugget"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:manganese_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:metallurgium_anvil"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:metallurgium_axe"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:metallurgium_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:metallurgium_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:metallurgium_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:metallurgium_dust"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:metallurgium_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:metallurgium_hoe"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:metallurgium_ingot"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:metallurgium_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:metallurgium_nugget"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:metallurgium_pickaxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:metallurgium_shovel"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:metallurgium_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:midas_folding_template"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:midas_gold_anvil"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:midas_gold_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:midas_gold_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:midas_gold_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:midas_gold_dust"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:midas_gold_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:midas_gold_ingot"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:midas_gold_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:midas_gold_nugget"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:midas_gold_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:midas_gold_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:morkite"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:morkite_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:morkite_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:mythril_anvil"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:mythril_axe"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:mythril_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:mythril_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:mythril_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:mythril_drill"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:mythril_drill_smithing_template"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:mythril_dust"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:mythril_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:mythril_hoe"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:mythril_ingot"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:mythril_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:mythril_nugget"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:mythril_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:mythril_pickaxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:mythril_shovel"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:mythril_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:nether_banglum_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:orichalcum_anvil"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:orichalcum_axe"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:orichalcum_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:orichalcum_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:orichalcum_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:orichalcum_dust"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:orichalcum_hammer"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:orichalcum_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:orichalcum_hoe"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:orichalcum_ingot"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:orichalcum_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:orichalcum_nugget"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:orichalcum_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:orichalcum_pickaxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:orichalcum_shovel"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:orichalcum_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:osmium_anvil"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:osmium_axe"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:osmium_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:osmium_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:osmium_chainmail_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:osmium_chainmail_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:osmium_chainmail_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:osmium_chainmail_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:osmium_chainmail_smithing_template"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:osmium_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:osmium_dust"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:osmium_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:osmium_hoe"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:osmium_ingot"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:osmium_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:osmium_nugget"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:osmium_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:osmium_pickaxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:osmium_shovel"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:osmium_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:palladium_anvil"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:palladium_axe"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:palladium_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:palladium_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:palladium_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:palladium_dust"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:palladium_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:palladium_hoe"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:palladium_ingot"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:palladium_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:palladium_nugget"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:palladium_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:palladium_pickaxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:palladium_shovel"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:palladium_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:platinum_anvil"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:platinum_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:platinum_dust"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:platinum_ingot"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:platinum_nugget"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:platinum_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:platinum_watch"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:prometheum_anvil"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:prometheum_axe"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:prometheum_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:prometheum_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:prometheum_bouquet"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:prometheum_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:prometheum_dust"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:prometheum_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:prometheum_hoe"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:prometheum_ingot"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:prometheum_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:prometheum_nugget"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:prometheum_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:prometheum_pickaxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:prometheum_shovel"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:prometheum_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:quadrillum_anvil"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:quadrillum_axe"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:quadrillum_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:quadrillum_dust"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:quadrillum_hoe"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:quadrillum_ingot"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:quadrillum_nugget"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:quadrillum_nuke_core"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:quadrillum_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:quadrillum_pickaxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:quadrillum_shovel"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:quadrillum_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:raw_adamantite"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:raw_adamantite_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:raw_aquarium"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:raw_aquarium_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:raw_banglum"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:raw_banglum_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:raw_carmot"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:raw_carmot_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:raw_kyber"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:raw_kyber_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:raw_manganese"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:raw_manganese_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:raw_midas_gold"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:raw_midas_gold_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:raw_mythril"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:raw_mythril_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:raw_orichalcum"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:raw_orichalcum_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:raw_osmium"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:raw_osmium_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:raw_palladium"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:raw_palladium_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:raw_platinum"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:raw_platinum_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:raw_prometheum"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:raw_prometheum_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:raw_quadrillum"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:raw_quadrillum_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:raw_runite"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:raw_runite_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:raw_silver"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:raw_silver_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:raw_stormyx"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:raw_stormyx_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:raw_tin"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:raw_tin_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:red_aegis_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:royal_midas_gold_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:royal_midas_smithing_template"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:runite_anvil"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:runite_arrow"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:runite_axe"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:runite_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:runite_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:runite_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:runite_dust"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:runite_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:runite_hoe"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:runite_ingot"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:runite_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:runite_nugget"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:runite_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:runite_pickaxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:runite_shovel"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:runite_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:silver_anvil"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:silver_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:silver_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:silver_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:silver_dust"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:silver_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:silver_ingot"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:silver_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:silver_nugget"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:silver_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:smooth_basalt_orichalcum_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:sponge_nuke_core"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:star_platinum"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:star_platinum_anvil"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:star_platinum_arrow"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:star_platinum_axe"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:star_platinum_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:star_platinum_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:star_platinum_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:star_platinum_dust"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:star_platinum_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:star_platinum_hoe"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:star_platinum_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:star_platinum_nugget"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:star_platinum_pickaxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:star_platinum_shovel"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:star_platinum_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:starrite"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:starrite_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:starrite_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:steel_anvil"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:steel_axe"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:steel_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:steel_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:steel_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:steel_dust"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:steel_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:steel_hoe"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:steel_ingot"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:steel_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:steel_nugget"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:steel_pickaxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:steel_shovel"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:steel_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:stormyx_anvil"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:stormyx_axe"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:stormyx_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:stormyx_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:stormyx_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:stormyx_dust"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:stormyx_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:stormyx_hoe"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:stormyx_ingot"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:stormyx_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:stormyx_nugget"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:stormyx_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:stormyx_pickaxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:stormyx_shell"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:stormyx_shield"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:stormyx_shovel"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:stormyx_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:tidesinger_axe"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:tidesinger_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:tidesinger_chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:tidesinger_helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:tidesinger_hoe"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:tidesinger_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:tidesinger_pickaxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:tidesinger_shovel"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:tidesinger_smithing_template"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:tidesinger_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:tin_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:tin_dust"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:tin_ingot"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:tin_nugget"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:tin_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:tipped_runite_arrow"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:tuff_orichalcum_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:unobtainium"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:unobtainium_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:unobtainium_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:unobtainium_smithing_template"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:white_aegis_sword"
+		}
+	]
+}

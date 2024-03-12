@@ -1,0 +1,612 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "peculiarpieces:acacia_pedestal"
+		},
+		{
+			"weight": 1.0,
+			"key": "peculiarpieces:adventure_barrier"
+		},
+		{
+			"weight": 1.0,
+			"key": "peculiarpieces:adventure_blocker"
+		},
+		{
+			"weight": 1.0,
+			"key": "peculiarpieces:adventure_setter"
+		},
+		{
+			"weight": 1.0,
+			"key": "peculiarpieces:big_barrel"
+		},
+		{
+			"weight": 1.0,
+			"key": "peculiarpieces:big_dispenser"
+		},
+		{
+			"weight": 1.0,
+			"key": "peculiarpieces:big_dropper"
+		},
+		{
+			"weight": 1.0,
+			"key": "peculiarpieces:birch_pedestal"
+		},
+		{
+			"weight": 1.0,
+			"key": "peculiarpieces:black_elevator"
+		},
+		{
+			"weight": 1.0,
+			"key": "peculiarpieces:black_rotating_elevator"
+		},
+		{
+			"weight": 1.0,
+			"key": "peculiarpieces:blackstone_pedestal"
+		},
+		{
+			"weight": 1.0,
+			"key": "peculiarpieces:blackstone_phasing_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "peculiarpieces:blazing_gliders"
+		},
+		{
+			"weight": 1.0,
+			"key": "peculiarpieces:block_breaker"
+		},
+		{
+			"weight": 1.0,
+			"key": "peculiarpieces:block_detector"
+		},
+		{
+			"weight": 1.0,
+			"key": "peculiarpieces:blue_elevator"
+		},
+		{
+			"weight": 1.0,
+			"key": "peculiarpieces:blue_rotating_elevator"
+		},
+		{
+			"weight": 1.0,
+			"key": "peculiarpieces:bottomless_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "peculiarpieces:bottomless_lava_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "peculiarpieces:bottomless_milk_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "peculiarpieces:bottomless_water_bucket"
+		},
+		{
+			"weight": 1.0,
+			"key": "peculiarpieces:bouncy_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "peculiarpieces:brown_elevator"
+		},
+		{
+			"weight": 1.0,
+			"key": "peculiarpieces:brown_rotating_elevator"
+		},
+		{
+			"weight": 1.0,
+			"key": "peculiarpieces:burning_sponge"
+		},
+		{
+			"weight": 1.0,
+			"key": "peculiarpieces:checkpoint"
+		},
+		{
+			"weight": 1.0,
+			"key": "peculiarpieces:checkpoint_damager"
+		},
+		{
+			"weight": 1.0,
+			"key": "peculiarpieces:checkpoint_pearl"
+		},
+		{
+			"weight": 1.0,
+			"key": "peculiarpieces:checkpoint_remover"
+		},
+		{
+			"weight": 1.0,
+			"key": "peculiarpieces:checkpoint_returner"
+		},
+		{
+			"weight": 1.0,
+			"key": "peculiarpieces:cherry_pedestal"
+		},
+		{
+			"weight": 1.0,
+			"key": "peculiarpieces:couriporter"
+		},
+		{
+			"weight": 1.0,
+			"key": "peculiarpieces:crafting_slate"
+		},
+		{
+			"weight": 1.0,
+			"key": "peculiarpieces:creative_barrel"
+		},
+		{
+			"weight": 1.0,
+			"key": "peculiarpieces:creative_book"
+		},
+		{
+			"weight": 1.0,
+			"key": "peculiarpieces:crimson_pedestal"
+		},
+		{
+			"weight": 1.0,
+			"key": "peculiarpieces:cyan_elevator"
+		},
+		{
+			"weight": 1.0,
+			"key": "peculiarpieces:cyan_rotating_elevator"
+		},
+		{
+			"weight": 1.0,
+			"key": "peculiarpieces:dark_fast_target"
+		},
+		{
+			"weight": 1.0,
+			"key": "peculiarpieces:dark_oak_pedestal"
+		},
+		{
+			"weight": 1.0,
+			"key": "peculiarpieces:deepslate_pedestal"
+		},
+		{
+			"weight": 1.0,
+			"key": "peculiarpieces:deepslate_phasing_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "peculiarpieces:ender_pouch"
+		},
+		{
+			"weight": 1.0,
+			"key": "peculiarpieces:entangled_scaffolding"
+		},
+		{
+			"weight": 1.0,
+			"key": "peculiarpieces:entity_barrier"
+		},
+		{
+			"weight": 1.0,
+			"key": "peculiarpieces:entity_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "peculiarpieces:equipment_stand"
+		},
+		{
+			"weight": 1.0,
+			"key": "peculiarpieces:eternal_doughnut"
+		},
+		{
+			"weight": 1.0,
+			"key": "peculiarpieces:everlasting_emblem"
+		},
+		{
+			"weight": 1.0,
+			"key": "peculiarpieces:fast_target"
+		},
+		{
+			"weight": 1.0,
+			"key": "peculiarpieces:fish_tank"
+		},
+		{
+			"weight": 1.0,
+			"key": "peculiarpieces:flag"
+		},
+		{
+			"weight": 1.0,
+			"key": "peculiarpieces:flight_ring"
+		},
+		{
+			"weight": 1.0,
+			"key": "peculiarpieces:glider_wing"
+		},
+		{
+			"weight": 1.0,
+			"key": "peculiarpieces:grabbing_trap"
+		},
+		{
+			"weight": 1.0,
+			"key": "peculiarpieces:gray_elevator"
+		},
+		{
+			"weight": 1.0,
+			"key": "peculiarpieces:gray_rotating_elevator"
+		},
+		{
+			"weight": 1.0,
+			"key": "peculiarpieces:green_elevator"
+		},
+		{
+			"weight": 1.0,
+			"key": "peculiarpieces:green_rotating_elevator"
+		},
+		{
+			"weight": 1.0,
+			"key": "peculiarpieces:hang_glider"
+		},
+		{
+			"weight": 1.0,
+			"key": "peculiarpieces:heavy_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "peculiarpieces:heavy_glass_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "peculiarpieces:heavy_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "peculiarpieces:hidden_potion"
+		},
+		{
+			"weight": 1.0,
+			"key": "peculiarpieces:ignition"
+		},
+		{
+			"weight": 1.0,
+			"key": "peculiarpieces:inverted_redstone_lamp"
+		},
+		{
+			"weight": 1.0,
+			"key": "peculiarpieces:invisible_plate_heavy"
+		},
+		{
+			"weight": 1.0,
+			"key": "peculiarpieces:invisible_plate_light"
+		},
+		{
+			"weight": 1.0,
+			"key": "peculiarpieces:invisible_player_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "peculiarpieces:jump_pad"
+		},
+		{
+			"weight": 1.0,
+			"key": "peculiarpieces:jungle_pedestal"
+		},
+		{
+			"weight": 1.0,
+			"key": "peculiarpieces:light_blue_elevator"
+		},
+		{
+			"weight": 1.0,
+			"key": "peculiarpieces:light_blue_rotating_elevator"
+		},
+		{
+			"weight": 1.0,
+			"key": "peculiarpieces:light_gray_elevator"
+		},
+		{
+			"weight": 1.0,
+			"key": "peculiarpieces:light_gray_rotating_elevator"
+		},
+		{
+			"weight": 1.0,
+			"key": "peculiarpieces:lime_elevator"
+		},
+		{
+			"weight": 1.0,
+			"key": "peculiarpieces:lime_rotating_elevator"
+		},
+		{
+			"weight": 1.0,
+			"key": "peculiarpieces:living_ladder"
+		},
+		{
+			"weight": 1.0,
+			"key": "peculiarpieces:locking_key"
+		},
+		{
+			"weight": 1.0,
+			"key": "peculiarpieces:long_stick"
+		},
+		{
+			"weight": 1.0,
+			"key": "peculiarpieces:magenta_elevator"
+		},
+		{
+			"weight": 1.0,
+			"key": "peculiarpieces:magenta_rotating_elevator"
+		},
+		{
+			"weight": 1.0,
+			"key": "peculiarpieces:mangrove_pedestal"
+		},
+		{
+			"weight": 1.0,
+			"key": "peculiarpieces:master_key"
+		},
+		{
+			"weight": 1.0,
+			"key": "peculiarpieces:midair_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "peculiarpieces:mounting_stick"
+		},
+		{
+			"weight": 1.0,
+			"key": "peculiarpieces:oak_pedestal"
+		},
+		{
+			"weight": 1.0,
+			"key": "peculiarpieces:orange_elevator"
+		},
+		{
+			"weight": 1.0,
+			"key": "peculiarpieces:orange_rotating_elevator"
+		},
+		{
+			"weight": 1.0,
+			"key": "peculiarpieces:packed_pouch"
+		},
+		{
+			"weight": 1.0,
+			"key": "peculiarpieces:peculiar_book"
+		},
+		{
+			"weight": 1.0,
+			"key": "peculiarpieces:perpetual_figure"
+		},
+		{
+			"weight": 1.0,
+			"key": "peculiarpieces:pink_elevator"
+		},
+		{
+			"weight": 1.0,
+			"key": "peculiarpieces:pink_rotating_elevator"
+		},
+		{
+			"weight": 1.0,
+			"key": "peculiarpieces:player_barrier"
+		},
+		{
+			"weight": 1.0,
+			"key": "peculiarpieces:player_compass"
+		},
+		{
+			"weight": 1.0,
+			"key": "peculiarpieces:player_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "peculiarpieces:player_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "peculiarpieces:position_paper"
+		},
+		{
+			"weight": 1.0,
+			"key": "peculiarpieces:position_pearl"
+		},
+		{
+			"weight": 1.0,
+			"key": "peculiarpieces:position_trap"
+		},
+		{
+			"weight": 1.0,
+			"key": "peculiarpieces:potion_pad"
+		},
+		{
+			"weight": 1.0,
+			"key": "peculiarpieces:prismarine_pedestal"
+		},
+		{
+			"weight": 1.0,
+			"key": "peculiarpieces:prismarine_phasing_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "peculiarpieces:purple_elevator"
+		},
+		{
+			"weight": 1.0,
+			"key": "peculiarpieces:purple_rotating_elevator"
+		},
+		{
+			"weight": 1.0,
+			"key": "peculiarpieces:push_pad"
+		},
+		{
+			"weight": 1.0,
+			"key": "peculiarpieces:quartz_pedestal"
+		},
+		{
+			"weight": 1.0,
+			"key": "peculiarpieces:quartz_phasing_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "peculiarpieces:reaching_remote"
+		},
+		{
+			"weight": 1.0,
+			"key": "peculiarpieces:red_elevator"
+		},
+		{
+			"weight": 1.0,
+			"key": "peculiarpieces:red_rotating_elevator"
+		},
+		{
+			"weight": 1.0,
+			"key": "peculiarpieces:redstone_activator"
+		},
+		{
+			"weight": 1.0,
+			"key": "peculiarpieces:redstone_clamp"
+		},
+		{
+			"weight": 1.0,
+			"key": "peculiarpieces:redstone_clock"
+		},
+		{
+			"weight": 1.0,
+			"key": "peculiarpieces:redstone_filter"
+		},
+		{
+			"weight": 1.0,
+			"key": "peculiarpieces:redstone_flip"
+		},
+		{
+			"weight": 1.0,
+			"key": "peculiarpieces:redstone_hurdle"
+		},
+		{
+			"weight": 1.0,
+			"key": "peculiarpieces:redstone_mono"
+		},
+		{
+			"weight": 1.0,
+			"key": "peculiarpieces:redstone_random"
+		},
+		{
+			"weight": 1.0,
+			"key": "peculiarpieces:redstone_remote"
+		},
+		{
+			"weight": 1.0,
+			"key": "peculiarpieces:redstone_static"
+		},
+		{
+			"weight": 1.0,
+			"key": "peculiarpieces:redstone_trigger"
+		},
+		{
+			"weight": 1.0,
+			"key": "peculiarpieces:shock_absorber"
+		},
+		{
+			"weight": 1.0,
+			"key": "peculiarpieces:silk_breaker"
+		},
+		{
+			"weight": 1.0,
+			"key": "peculiarpieces:sky_pearl"
+		},
+		{
+			"weight": 1.0,
+			"key": "peculiarpieces:slime"
+		},
+		{
+			"weight": 1.0,
+			"key": "peculiarpieces:slippery_shoes"
+		},
+		{
+			"weight": 1.0,
+			"key": "peculiarpieces:slippery_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "peculiarpieces:soul_torch_lever"
+		},
+		{
+			"weight": 1.0,
+			"key": "peculiarpieces:spawnpoint_pearl"
+		},
+		{
+			"weight": 1.0,
+			"key": "peculiarpieces:spruce_pedestal"
+		},
+		{
+			"weight": 1.0,
+			"key": "peculiarpieces:steady_sneakers"
+		},
+		{
+			"weight": 1.0,
+			"key": "peculiarpieces:stone_pedestal"
+		},
+		{
+			"weight": 1.0,
+			"key": "peculiarpieces:stone_phasing_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "peculiarpieces:survivor_barrier"
+		},
+		{
+			"weight": 1.0,
+			"key": "peculiarpieces:survivor_blocker"
+		},
+		{
+			"weight": 1.0,
+			"key": "peculiarpieces:survivor_setter"
+		},
+		{
+			"weight": 1.0,
+			"key": "peculiarpieces:tinted_entity_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "peculiarpieces:tinted_player_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "peculiarpieces:token_of_undying"
+		},
+		{
+			"weight": 1.0,
+			"key": "peculiarpieces:torch_lever"
+		},
+		{
+			"weight": 1.0,
+			"key": "peculiarpieces:torch_quiver"
+		},
+		{
+			"weight": 1.0,
+			"key": "peculiarpieces:toughened_scaffolding"
+		},
+		{
+			"weight": 1.0,
+			"key": "peculiarpieces:transport_pearl"
+		},
+		{
+			"weight": 1.0,
+			"key": "peculiarpieces:warding_staff"
+		},
+		{
+			"weight": 1.0,
+			"key": "peculiarpieces:warp_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "peculiarpieces:warped_pedestal"
+		},
+		{
+			"weight": 1.0,
+			"key": "peculiarpieces:white_elevator"
+		},
+		{
+			"weight": 1.0,
+			"key": "peculiarpieces:white_rotating_elevator"
+		},
+		{
+			"weight": 1.0,
+			"key": "peculiarpieces:yellow_elevator"
+		},
+		{
+			"weight": 1.0,
+			"key": "peculiarpieces:yellow_rotating_elevator"
+		}
+	]
+}

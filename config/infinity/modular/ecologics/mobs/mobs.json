@@ -1,0 +1,16 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "ecologics:coconut_crab"
+		},
+		{
+			"weight": 1.0,
+			"key": "ecologics:penguin"
+		},
+		{
+			"weight": 1.0,
+			"key": "ecologics:squirrel"
+		}
+	]
+}

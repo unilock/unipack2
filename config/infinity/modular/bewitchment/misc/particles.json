@@ -1,0 +1,12 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "bewitchment:cauldron_bubble"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:incense_smoke"
+		}
+	]
+}

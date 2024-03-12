@@ -1,0 +1,20 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "ratsmischief:entity.rat.clap"
+		},
+		{
+			"weight": 1.0,
+			"key": "ratsmischief:entity.rat.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "ratsmischief:entity.rat.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "ratsmischief:item.rat.toggle"
+		}
+	]
+}

@@ -1,0 +1,14 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": {
+				"float": true,
+				"laggy": true,
+				"Name": "linkedstorage:storageblock",
+				"top": true,
+				"full": false
+			}
+		}
+	]
+}

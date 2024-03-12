@@ -1,0 +1,120 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "arcadiandream:block.onbashira.add_item"
+		},
+		{
+			"weight": 1.0,
+			"key": "arcadiandream:block.onbashira.create"
+		},
+		{
+			"weight": 1.0,
+			"key": "arcadiandream:block.ritual_shrine.use"
+		},
+		{
+			"weight": 1.0,
+			"key": "arcadiandream:entity.danmaku.fire"
+		},
+		{
+			"weight": 1.0,
+			"key": "arcadiandream:entity.danmaku.hit"
+		},
+		{
+			"weight": 1.0,
+			"key": "arcadiandream:entity.fairy.ambient"
+		},
+		{
+			"weight": 1.0,
+			"key": "arcadiandream:entity.fairy.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "arcadiandream:entity.fairy.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "arcadiandream:entity.generic.resurrect"
+		},
+		{
+			"weight": 1.0,
+			"key": "arcadiandream:entity.villager.work_antiquarian"
+		},
+		{
+			"weight": 1.0,
+			"key": "arcadiandream:item.armor.equip_hihiirokane"
+		},
+		{
+			"weight": 1.0,
+			"key": "arcadiandream:item.armor.equip_makaite"
+		},
+		{
+			"weight": 1.0,
+			"key": "arcadiandream:item.armor.equip_ordinary"
+		},
+		{
+			"weight": 1.0,
+			"key": "arcadiandream:item.bomb_item.use"
+		},
+		{
+			"weight": 1.0,
+			"key": "arcadiandream:item.death_scythe.teleport"
+		},
+		{
+			"weight": 1.0,
+			"key": "arcadiandream:item.death_scythe.teleport_generic"
+		},
+		{
+			"weight": 1.0,
+			"key": "arcadiandream:item.extend_item.use"
+		},
+		{
+			"weight": 1.0,
+			"key": "arcadiandream:item.fairy_charm.use"
+		},
+		{
+			"weight": 1.0,
+			"key": "arcadiandream:item.folding_chair.hit"
+		},
+		{
+			"weight": 1.0,
+			"key": "arcadiandream:item.ghastly_lantern.use"
+		},
+		{
+			"weight": 1.0,
+			"key": "arcadiandream:item.healing_charm.use"
+		},
+		{
+			"weight": 1.0,
+			"key": "arcadiandream:item.hihiirokane.autosmelt.off"
+		},
+		{
+			"weight": 1.0,
+			"key": "arcadiandream:item.hihiirokane.autosmelt.on"
+		},
+		{
+			"weight": 1.0,
+			"key": "arcadiandream:item.hourai_elixir.use"
+		},
+		{
+			"weight": 1.0,
+			"key": "arcadiandream:item.ibuki_gourd.fill"
+		},
+		{
+			"weight": 1.0,
+			"key": "arcadiandream:item.miracle_mallet.use"
+		},
+		{
+			"weight": 1.0,
+			"key": "arcadiandream:item.wall_passing_chisel.use"
+		},
+		{
+			"weight": 1.0,
+			"key": "arcadiandream:music_disc.fairy_playground"
+		},
+		{
+			"weight": 1.0,
+			"key": "arcadiandream:music_disc.the_shrine_long_forgotten"
+		}
+	]
+}

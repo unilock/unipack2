@@ -1,0 +1,360 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "botania:agricarnation"
+		},
+		{
+			"weight": 1.0,
+			"key": "botania:air_rod"
+		},
+		{
+			"weight": 1.0,
+			"key": "botania:altar_craft"
+		},
+		{
+			"weight": 1.0,
+			"key": "botania:arcane_rose_disenchant"
+		},
+		{
+			"weight": 1.0,
+			"key": "botania:astrolabe_configure"
+		},
+		{
+			"weight": 1.0,
+			"key": "botania:babylon_attack"
+		},
+		{
+			"weight": 1.0,
+			"key": "botania:babylon_spawn"
+		},
+		{
+			"weight": 1.0,
+			"key": "botania:bellows"
+		},
+		{
+			"weight": 1.0,
+			"key": "botania:bifrost_rod"
+		},
+		{
+			"weight": 1.0,
+			"key": "botania:black_hole_talisman_configure"
+		},
+		{
+			"weight": 1.0,
+			"key": "botania:black_lotus"
+		},
+		{
+			"weight": 1.0,
+			"key": "botania:dash"
+		},
+		{
+			"weight": 1.0,
+			"key": "botania:dice_of_fate"
+		},
+		{
+			"weight": 1.0,
+			"key": "botania:ding"
+		},
+		{
+			"weight": 1.0,
+			"key": "botania:diva_charm"
+		},
+		{
+			"weight": 1.0,
+			"key": "botania:divination_rod"
+		},
+		{
+			"weight": 1.0,
+			"key": "botania:doit"
+		},
+		{
+			"weight": 1.0,
+			"key": "botania:drum"
+		},
+		{
+			"weight": 1.0,
+			"key": "botania:enchanter_enchant"
+		},
+		{
+			"weight": 1.0,
+			"key": "botania:enchanter_fade"
+		},
+		{
+			"weight": 1.0,
+			"key": "botania:enchanter_form"
+		},
+		{
+			"weight": 1.0,
+			"key": "botania:ender_air_throw"
+		},
+		{
+			"weight": 1.0,
+			"key": "botania:endoflame"
+		},
+		{
+			"weight": 1.0,
+			"key": "botania:entropinnyum_angry"
+		},
+		{
+			"weight": 1.0,
+			"key": "botania:entropinnyum_happy"
+		},
+		{
+			"weight": 1.0,
+			"key": "botania:equip_bauble"
+		},
+		{
+			"weight": 1.0,
+			"key": "botania:equip_elementium"
+		},
+		{
+			"weight": 1.0,
+			"key": "botania:equip_manasteel"
+		},
+		{
+			"weight": 1.0,
+			"key": "botania:equip_manaweave"
+		},
+		{
+			"weight": 1.0,
+			"key": "botania:equip_terrasteel"
+		},
+		{
+			"weight": 1.0,
+			"key": "botania:fire_rod"
+		},
+		{
+			"weight": 1.0,
+			"key": "botania:flare_chakram_throw"
+		},
+		{
+			"weight": 1.0,
+			"key": "botania:flugel_eye_bind"
+		},
+		{
+			"weight": 1.0,
+			"key": "botania:flugel_eye_teleport"
+		},
+		{
+			"weight": 1.0,
+			"key": "botania:gaia_death"
+		},
+		{
+			"weight": 1.0,
+			"key": "botania:gaia_summon"
+		},
+		{
+			"weight": 1.0,
+			"key": "botania:gaia_teleport"
+		},
+		{
+			"weight": 1.0,
+			"key": "botania:gaia_trap"
+		},
+		{
+			"weight": 1.0,
+			"key": "botania:holy_cloak"
+		},
+		{
+			"weight": 1.0,
+			"key": "botania:horn_doot"
+		},
+		{
+			"weight": 1.0,
+			"key": "botania:incense_plate_ignite"
+		},
+		{
+			"weight": 1.0,
+			"key": "botania:labellia"
+		},
+		{
+			"weight": 1.0,
+			"key": "botania:laputa_start"
+		},
+		{
+			"weight": 1.0,
+			"key": "botania:lexicon_open"
+		},
+		{
+			"weight": 1.0,
+			"key": "botania:light_relay"
+		},
+		{
+			"weight": 1.0,
+			"key": "botania:mana_blaster"
+		},
+		{
+			"weight": 1.0,
+			"key": "botania:mana_blaster_cycle"
+		},
+		{
+			"weight": 1.0,
+			"key": "botania:mana_blaster_misfire"
+		},
+		{
+			"weight": 1.0,
+			"key": "botania:mana_pool_craft"
+		},
+		{
+			"weight": 1.0,
+			"key": "botania:manufactory_halo_configure"
+		},
+		{
+			"weight": 1.0,
+			"key": "botania:missile"
+		},
+		{
+			"weight": 1.0,
+			"key": "botania:missile_funny"
+		},
+		{
+			"weight": 1.0,
+			"key": "botania:music.gaia1"
+		},
+		{
+			"weight": 1.0,
+			"key": "botania:music.gaia2"
+		},
+		{
+			"weight": 1.0,
+			"key": "botania:narslimmus_eat_big"
+		},
+		{
+			"weight": 1.0,
+			"key": "botania:narslimmus_eat_small"
+		},
+		{
+			"weight": 1.0,
+			"key": "botania:orechid"
+		},
+		{
+			"weight": 1.0,
+			"key": "botania:pinkinator"
+		},
+		{
+			"weight": 1.0,
+			"key": "botania:potion_create"
+		},
+		{
+			"weight": 1.0,
+			"key": "botania:prism_add_lens"
+		},
+		{
+			"weight": 1.0,
+			"key": "botania:prism_remove_lens"
+		},
+		{
+			"weight": 1.0,
+			"key": "botania:red_string_interceptor_click"
+		},
+		{
+			"weight": 1.0,
+			"key": "botania:rune_altar_craft"
+		},
+		{
+			"weight": 1.0,
+			"key": "botania:rune_altar_start"
+		},
+		{
+			"weight": 1.0,
+			"key": "botania:shulk_me_not"
+		},
+		{
+			"weight": 1.0,
+			"key": "botania:smelt_rod"
+		},
+		{
+			"weight": 1.0,
+			"key": "botania:smelt_rod_extra_no_subtitle"
+		},
+		{
+			"weight": 1.0,
+			"key": "botania:smelt_rod_simmer"
+		},
+		{
+			"weight": 1.0,
+			"key": "botania:spreader_add_lens"
+		},
+		{
+			"weight": 1.0,
+			"key": "botania:spreader_cover"
+		},
+		{
+			"weight": 1.0,
+			"key": "botania:spreader_fire"
+		},
+		{
+			"weight": 1.0,
+			"key": "botania:spreader_remove_lens"
+		},
+		{
+			"weight": 1.0,
+			"key": "botania:spreader_scaffold"
+		},
+		{
+			"weight": 1.0,
+			"key": "botania:spreader_un_scaffold"
+		},
+		{
+			"weight": 1.0,
+			"key": "botania:spreader_uncover"
+		},
+		{
+			"weight": 1.0,
+			"key": "botania:starcaller"
+		},
+		{
+			"weight": 1.0,
+			"key": "botania:temperance_stone_configure"
+		},
+		{
+			"weight": 1.0,
+			"key": "botania:terra_pick_mode"
+		},
+		{
+			"weight": 1.0,
+			"key": "botania:terrablade"
+		},
+		{
+			"weight": 1.0,
+			"key": "botania:terraform_rod"
+		},
+		{
+			"weight": 1.0,
+			"key": "botania:terrasteel_craft"
+		},
+		{
+			"weight": 1.0,
+			"key": "botania:thermalily"
+		},
+		{
+			"weight": 1.0,
+			"key": "botania:thorn_chakram_throw"
+		},
+		{
+			"weight": 1.0,
+			"key": "botania:tigerseye_pacify"
+		},
+		{
+			"weight": 1.0,
+			"key": "botania:unholy_cloak"
+		},
+		{
+			"weight": 1.0,
+			"key": "botania:vine_ball_throw"
+		},
+		{
+			"weight": 1.0,
+			"key": "botania:virus_infect"
+		},
+		{
+			"weight": 1.0,
+			"key": "botania:way"
+		},
+		{
+			"weight": 1.0,
+			"key": "botania:world_seed_teleport"
+		}
+	]
+}

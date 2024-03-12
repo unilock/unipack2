@@ -1,0 +1,693 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "pigment:white_concrete_bricks"
+				},
+				{
+					"Name": "pigment:light_gray_concrete_bricks"
+				},
+				{
+					"Name": "pigment:gray_concrete_bricks"
+				},
+				{
+					"Name": "pigment:black_concrete_bricks"
+				},
+				{
+					"Name": "pigment:brown_concrete_bricks"
+				},
+				{
+					"Name": "pigment:red_concrete_bricks"
+				},
+				{
+					"Name": "pigment:orange_concrete_bricks"
+				},
+				{
+					"Name": "pigment:yellow_concrete_bricks"
+				},
+				{
+					"Name": "pigment:lime_concrete_bricks"
+				},
+				{
+					"Name": "pigment:green_concrete_bricks"
+				},
+				{
+					"Name": "pigment:light_blue_concrete_bricks"
+				},
+				{
+					"Name": "pigment:blue_concrete_bricks"
+				},
+				{
+					"Name": "pigment:cyan_concrete_bricks"
+				},
+				{
+					"Name": "pigment:purple_concrete_bricks"
+				},
+				{
+					"Name": "pigment:magenta_concrete_bricks"
+				},
+				{
+					"Name": "pigment:pink_concrete_bricks"
+				}
+			]
+		},
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "pigment:white_concrete_bricks_slab"
+				},
+				{
+					"Name": "pigment:light_gray_concrete_bricks_slab"
+				},
+				{
+					"Name": "pigment:gray_concrete_bricks_slab"
+				},
+				{
+					"Name": "pigment:black_concrete_bricks_slab"
+				},
+				{
+					"Name": "pigment:brown_concrete_bricks_slab"
+				},
+				{
+					"Name": "pigment:red_concrete_bricks_slab"
+				},
+				{
+					"Name": "pigment:orange_concrete_bricks_slab"
+				},
+				{
+					"Name": "pigment:yellow_concrete_bricks_slab"
+				},
+				{
+					"Name": "pigment:lime_concrete_bricks_slab"
+				},
+				{
+					"Name": "pigment:green_concrete_bricks_slab"
+				},
+				{
+					"Name": "pigment:light_blue_concrete_bricks_slab"
+				},
+				{
+					"Name": "pigment:blue_concrete_bricks_slab"
+				},
+				{
+					"Name": "pigment:cyan_concrete_bricks_slab"
+				},
+				{
+					"Name": "pigment:purple_concrete_bricks_slab"
+				},
+				{
+					"Name": "pigment:magenta_concrete_bricks_slab"
+				},
+				{
+					"Name": "pigment:pink_concrete_bricks_slab"
+				}
+			]
+		},
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "pigment:white_concrete_bricks_stairs"
+				},
+				{
+					"Name": "pigment:light_gray_concrete_bricks_stairs"
+				},
+				{
+					"Name": "pigment:gray_concrete_bricks_stairs"
+				},
+				{
+					"Name": "pigment:black_concrete_bricks_stairs"
+				},
+				{
+					"Name": "pigment:brown_concrete_bricks_stairs"
+				},
+				{
+					"Name": "pigment:red_concrete_bricks_stairs"
+				},
+				{
+					"Name": "pigment:orange_concrete_bricks_stairs"
+				},
+				{
+					"Name": "pigment:yellow_concrete_bricks_stairs"
+				},
+				{
+					"Name": "pigment:lime_concrete_bricks_stairs"
+				},
+				{
+					"Name": "pigment:green_concrete_bricks_stairs"
+				},
+				{
+					"Name": "pigment:light_blue_concrete_bricks_stairs"
+				},
+				{
+					"Name": "pigment:blue_concrete_bricks_stairs"
+				},
+				{
+					"Name": "pigment:cyan_concrete_bricks_stairs"
+				},
+				{
+					"Name": "pigment:purple_concrete_bricks_stairs"
+				},
+				{
+					"Name": "pigment:magenta_concrete_bricks_stairs"
+				},
+				{
+					"Name": "pigment:pink_concrete_bricks_stairs"
+				}
+			]
+		},
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "pigment:white_concrete_bricks_wall"
+				},
+				{
+					"Name": "pigment:light_gray_concrete_bricks_wall"
+				},
+				{
+					"Name": "pigment:gray_concrete_bricks_wall"
+				},
+				{
+					"Name": "pigment:black_concrete_bricks_wall"
+				},
+				{
+					"Name": "pigment:brown_concrete_bricks_wall"
+				},
+				{
+					"Name": "pigment:red_concrete_bricks_wall"
+				},
+				{
+					"Name": "pigment:orange_concrete_bricks_wall"
+				},
+				{
+					"Name": "pigment:yellow_concrete_bricks_wall"
+				},
+				{
+					"Name": "pigment:lime_concrete_bricks_wall"
+				},
+				{
+					"Name": "pigment:green_concrete_bricks_wall"
+				},
+				{
+					"Name": "pigment:light_blue_concrete_bricks_wall"
+				},
+				{
+					"Name": "pigment:blue_concrete_bricks_wall"
+				},
+				{
+					"Name": "pigment:cyan_concrete_bricks_wall"
+				},
+				{
+					"Name": "pigment:purple_concrete_bricks_wall"
+				},
+				{
+					"Name": "pigment:magenta_concrete_bricks_wall"
+				},
+				{
+					"Name": "pigment:pink_concrete_bricks_wall"
+				}
+			]
+		},
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "pigment:white_patterned_wool"
+				},
+				{
+					"Name": "pigment:light_gray_patterned_wool"
+				},
+				{
+					"Name": "pigment:gray_patterned_wool"
+				},
+				{
+					"Name": "pigment:black_patterned_wool"
+				},
+				{
+					"Name": "pigment:brown_patterned_wool"
+				},
+				{
+					"Name": "pigment:red_patterned_wool"
+				},
+				{
+					"Name": "pigment:orange_patterned_wool"
+				},
+				{
+					"Name": "pigment:yellow_patterned_wool"
+				},
+				{
+					"Name": "pigment:lime_patterned_wool"
+				},
+				{
+					"Name": "pigment:green_patterned_wool"
+				},
+				{
+					"Name": "pigment:light_blue_patterned_wool"
+				},
+				{
+					"Name": "pigment:blue_patterned_wool"
+				},
+				{
+					"Name": "pigment:cyan_patterned_wool"
+				},
+				{
+					"Name": "pigment:purple_patterned_wool"
+				},
+				{
+					"Name": "pigment:magenta_patterned_wool"
+				},
+				{
+					"Name": "pigment:pink_patterned_wool"
+				}
+			]
+		},
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "pigment:white_terracotta_bricks"
+				},
+				{
+					"Name": "pigment:light_gray_terracotta_bricks"
+				},
+				{
+					"Name": "pigment:gray_terracotta_bricks"
+				},
+				{
+					"Name": "pigment:black_terracotta_bricks"
+				},
+				{
+					"Name": "pigment:brown_terracotta_bricks"
+				},
+				{
+					"Name": "pigment:red_terracotta_bricks"
+				},
+				{
+					"Name": "pigment:orange_terracotta_bricks"
+				},
+				{
+					"Name": "pigment:yellow_terracotta_bricks"
+				},
+				{
+					"Name": "pigment:lime_terracotta_bricks"
+				},
+				{
+					"Name": "pigment:green_terracotta_bricks"
+				},
+				{
+					"Name": "pigment:light_blue_terracotta_bricks"
+				},
+				{
+					"Name": "pigment:blue_terracotta_bricks"
+				},
+				{
+					"Name": "pigment:cyan_terracotta_bricks"
+				},
+				{
+					"Name": "pigment:purple_terracotta_bricks"
+				},
+				{
+					"Name": "pigment:magenta_terracotta_bricks"
+				},
+				{
+					"Name": "pigment:pink_terracotta_bricks"
+				}
+			]
+		},
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "pigment:white_terracotta_bricks_slab"
+				},
+				{
+					"Name": "pigment:light_gray_terracotta_bricks_slab"
+				},
+				{
+					"Name": "pigment:gray_terracotta_bricks_slab"
+				},
+				{
+					"Name": "pigment:black_terracotta_bricks_slab"
+				},
+				{
+					"Name": "pigment:brown_terracotta_bricks_slab"
+				},
+				{
+					"Name": "pigment:red_terracotta_bricks_slab"
+				},
+				{
+					"Name": "pigment:orange_terracotta_bricks_slab"
+				},
+				{
+					"Name": "pigment:yellow_terracotta_bricks_slab"
+				},
+				{
+					"Name": "pigment:lime_terracotta_bricks_slab"
+				},
+				{
+					"Name": "pigment:green_terracotta_bricks_slab"
+				},
+				{
+					"Name": "pigment:light_blue_terracotta_bricks_slab"
+				},
+				{
+					"Name": "pigment:blue_terracotta_bricks_slab"
+				},
+				{
+					"Name": "pigment:cyan_terracotta_bricks_slab"
+				},
+				{
+					"Name": "pigment:purple_terracotta_bricks_slab"
+				},
+				{
+					"Name": "pigment:magenta_terracotta_bricks_slab"
+				},
+				{
+					"Name": "pigment:pink_terracotta_bricks_slab"
+				}
+			]
+		},
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "pigment:white_terracotta_bricks_stairs"
+				},
+				{
+					"Name": "pigment:light_gray_terracotta_bricks_stairs"
+				},
+				{
+					"Name": "pigment:gray_terracotta_bricks_stairs"
+				},
+				{
+					"Name": "pigment:black_terracotta_bricks_stairs"
+				},
+				{
+					"Name": "pigment:brown_terracotta_bricks_stairs"
+				},
+				{
+					"Name": "pigment:red_terracotta_bricks_stairs"
+				},
+				{
+					"Name": "pigment:orange_terracotta_bricks_stairs"
+				},
+				{
+					"Name": "pigment:yellow_terracotta_bricks_stairs"
+				},
+				{
+					"Name": "pigment:lime_terracotta_bricks_stairs"
+				},
+				{
+					"Name": "pigment:green_terracotta_bricks_stairs"
+				},
+				{
+					"Name": "pigment:light_blue_terracotta_bricks_stairs"
+				},
+				{
+					"Name": "pigment:blue_terracotta_bricks_stairs"
+				},
+				{
+					"Name": "pigment:cyan_terracotta_bricks_stairs"
+				},
+				{
+					"Name": "pigment:purple_terracotta_bricks_stairs"
+				},
+				{
+					"Name": "pigment:magenta_terracotta_bricks_stairs"
+				},
+				{
+					"Name": "pigment:pink_terracotta_bricks_stairs"
+				}
+			]
+		},
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "pigment:white_terracotta_bricks_wall"
+				},
+				{
+					"Name": "pigment:light_gray_terracotta_bricks_wall"
+				},
+				{
+					"Name": "pigment:gray_terracotta_bricks_wall"
+				},
+				{
+					"Name": "pigment:black_terracotta_bricks_wall"
+				},
+				{
+					"Name": "pigment:brown_terracotta_bricks_wall"
+				},
+				{
+					"Name": "pigment:red_terracotta_bricks_wall"
+				},
+				{
+					"Name": "pigment:orange_terracotta_bricks_wall"
+				},
+				{
+					"Name": "pigment:yellow_terracotta_bricks_wall"
+				},
+				{
+					"Name": "pigment:lime_terracotta_bricks_wall"
+				},
+				{
+					"Name": "pigment:green_terracotta_bricks_wall"
+				},
+				{
+					"Name": "pigment:light_blue_terracotta_bricks_wall"
+				},
+				{
+					"Name": "pigment:blue_terracotta_bricks_wall"
+				},
+				{
+					"Name": "pigment:cyan_terracotta_bricks_wall"
+				},
+				{
+					"Name": "pigment:purple_terracotta_bricks_wall"
+				},
+				{
+					"Name": "pigment:magenta_terracotta_bricks_wall"
+				},
+				{
+					"Name": "pigment:pink_terracotta_bricks_wall"
+				}
+			]
+		},
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "pigment:white_terracotta_shingles"
+				},
+				{
+					"Name": "pigment:light_gray_terracotta_shingles"
+				},
+				{
+					"Name": "pigment:gray_terracotta_shingles"
+				},
+				{
+					"Name": "pigment:black_terracotta_shingles"
+				},
+				{
+					"Name": "pigment:brown_terracotta_shingles"
+				},
+				{
+					"Name": "pigment:red_terracotta_shingles"
+				},
+				{
+					"Name": "pigment:orange_terracotta_shingles"
+				},
+				{
+					"Name": "pigment:yellow_terracotta_shingles"
+				},
+				{
+					"Name": "pigment:lime_terracotta_shingles"
+				},
+				{
+					"Name": "pigment:green_terracotta_shingles"
+				},
+				{
+					"Name": "pigment:light_blue_terracotta_shingles"
+				},
+				{
+					"Name": "pigment:blue_terracotta_shingles"
+				},
+				{
+					"Name": "pigment:cyan_terracotta_shingles"
+				},
+				{
+					"Name": "pigment:purple_terracotta_shingles"
+				},
+				{
+					"Name": "pigment:magenta_terracotta_shingles"
+				},
+				{
+					"Name": "pigment:pink_terracotta_shingles"
+				}
+			]
+		},
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "pigment:white_terracotta_shingles_slab"
+				},
+				{
+					"Name": "pigment:light_gray_terracotta_shingles_slab"
+				},
+				{
+					"Name": "pigment:gray_terracotta_shingles_slab"
+				},
+				{
+					"Name": "pigment:black_terracotta_shingles_slab"
+				},
+				{
+					"Name": "pigment:brown_terracotta_shingles_slab"
+				},
+				{
+					"Name": "pigment:red_terracotta_shingles_slab"
+				},
+				{
+					"Name": "pigment:orange_terracotta_shingles_slab"
+				},
+				{
+					"Name": "pigment:yellow_terracotta_shingles_slab"
+				},
+				{
+					"Name": "pigment:lime_terracotta_shingles_slab"
+				},
+				{
+					"Name": "pigment:green_terracotta_shingles_slab"
+				},
+				{
+					"Name": "pigment:light_blue_terracotta_shingles_slab"
+				},
+				{
+					"Name": "pigment:blue_terracotta_shingles_slab"
+				},
+				{
+					"Name": "pigment:cyan_terracotta_shingles_slab"
+				},
+				{
+					"Name": "pigment:purple_terracotta_shingles_slab"
+				},
+				{
+					"Name": "pigment:magenta_terracotta_shingles_slab"
+				},
+				{
+					"Name": "pigment:pink_terracotta_shingles_slab"
+				}
+			]
+		},
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "pigment:white_terracotta_shingles_stairs"
+				},
+				{
+					"Name": "pigment:light_gray_terracotta_shingles_stairs"
+				},
+				{
+					"Name": "pigment:gray_terracotta_shingles_stairs"
+				},
+				{
+					"Name": "pigment:black_terracotta_shingles_stairs"
+				},
+				{
+					"Name": "pigment:brown_terracotta_shingles_stairs"
+				},
+				{
+					"Name": "pigment:red_terracotta_shingles_stairs"
+				},
+				{
+					"Name": "pigment:orange_terracotta_shingles_stairs"
+				},
+				{
+					"Name": "pigment:yellow_terracotta_shingles_stairs"
+				},
+				{
+					"Name": "pigment:lime_terracotta_shingles_stairs"
+				},
+				{
+					"Name": "pigment:green_terracotta_shingles_stairs"
+				},
+				{
+					"Name": "pigment:light_blue_terracotta_shingles_stairs"
+				},
+				{
+					"Name": "pigment:blue_terracotta_shingles_stairs"
+				},
+				{
+					"Name": "pigment:cyan_terracotta_shingles_stairs"
+				},
+				{
+					"Name": "pigment:purple_terracotta_shingles_stairs"
+				},
+				{
+					"Name": "pigment:magenta_terracotta_shingles_stairs"
+				},
+				{
+					"Name": "pigment:pink_terracotta_shingles_stairs"
+				}
+			]
+		},
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "pigment:white_terracotta_shingles_wall"
+				},
+				{
+					"Name": "pigment:light_gray_terracotta_shingles_wall"
+				},
+				{
+					"Name": "pigment:gray_terracotta_shingles_wall"
+				},
+				{
+					"Name": "pigment:black_terracotta_shingles_wall"
+				},
+				{
+					"Name": "pigment:brown_terracotta_shingles_wall"
+				},
+				{
+					"Name": "pigment:red_terracotta_shingles_wall"
+				},
+				{
+					"Name": "pigment:orange_terracotta_shingles_wall"
+				},
+				{
+					"Name": "pigment:yellow_terracotta_shingles_wall"
+				},
+				{
+					"Name": "pigment:lime_terracotta_shingles_wall"
+				},
+				{
+					"Name": "pigment:green_terracotta_shingles_wall"
+				},
+				{
+					"Name": "pigment:light_blue_terracotta_shingles_wall"
+				},
+				{
+					"Name": "pigment:blue_terracotta_shingles_wall"
+				},
+				{
+					"Name": "pigment:cyan_terracotta_shingles_wall"
+				},
+				{
+					"Name": "pigment:purple_terracotta_shingles_wall"
+				},
+				{
+					"Name": "pigment:magenta_terracotta_shingles_wall"
+				},
+				{
+					"Name": "pigment:pink_terracotta_shingles_wall"
+				}
+			]
+		}
+	]
+}

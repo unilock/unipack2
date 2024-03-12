@@ -1,0 +1,44 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "pridefurnaces:ace_furnace"
+		},
+		{
+			"weight": 1.0,
+			"key": "pridefurnaces:agender_furnace"
+		},
+		{
+			"weight": 1.0,
+			"key": "pridefurnaces:aro_furnace"
+		},
+		{
+			"weight": 1.0,
+			"key": "pridefurnaces:bi_furnace"
+		},
+		{
+			"weight": 1.0,
+			"key": "pridefurnaces:gay_furnace"
+		},
+		{
+			"weight": 1.0,
+			"key": "pridefurnaces:genderqueer_furnace"
+		},
+		{
+			"weight": 1.0,
+			"key": "pridefurnaces:lesbian_furnace"
+		},
+		{
+			"weight": 1.0,
+			"key": "pridefurnaces:nonbinary_furnace"
+		},
+		{
+			"weight": 1.0,
+			"key": "pridefurnaces:pan_furnace"
+		},
+		{
+			"weight": 1.0,
+			"key": "pridefurnaces:trans_furnace"
+		}
+	]
+}

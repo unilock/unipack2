@@ -1,0 +1,137 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": {
+				"fluidName": "delightfulcreators:apple_cider",
+				"Name": "delightfulcreators:apple_cider_block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"fluidName": "delightfulcreators:baked_cod_stew",
+				"Name": "delightfulcreators:baked_cod_stew_block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"fluidName": "delightfulcreators:beef_stew",
+				"Name": "delightfulcreators:beef_stew_block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"fluidName": "delightfulcreators:beetroot_soup",
+				"Name": "delightfulcreators:beetroot_soup_block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"fluidName": "delightfulcreators:bone_broth",
+				"Name": "delightfulcreators:bone_broth_block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"fluidName": "delightfulcreators:chicken_soup",
+				"Name": "delightfulcreators:chicken_soup_block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"fluidName": "delightfulcreators:cooked_rice",
+				"Name": "delightfulcreators:cooked_rice_block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"fluidName": "delightfulcreators:dog_food",
+				"Name": "delightfulcreators:dog_food_block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"fluidName": "delightfulcreators:fish_stew",
+				"Name": "delightfulcreators:fish_stew_block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"fluidName": "delightfulcreators:glow_berry_custard",
+				"Name": "delightfulcreators:glow_berry_custard_block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"fluidName": "delightfulcreators:hot_cocoa",
+				"Name": "delightfulcreators:hot_cocoa_block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"fluidName": "delightfulcreators:melon_juice",
+				"Name": "delightfulcreators:melon_juice_block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"fluidName": "delightfulcreators:mushroom_stew",
+				"Name": "delightfulcreators:mushroom_stew_block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"fluidName": "delightfulcreators:noodle_soup",
+				"Name": "delightfulcreators:noodle_soup_block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"fluidName": "delightfulcreators:pumpkin_soup",
+				"Name": "delightfulcreators:pumpkin_soup_block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"fluidName": "delightfulcreators:rabbit_stew",
+				"Name": "delightfulcreators:rabbit_stew_block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"fluidName": "delightfulcreators:ratatouille",
+				"Name": "delightfulcreators:ratatouille_block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"fluidName": "delightfulcreators:tomato_sauce",
+				"Name": "delightfulcreators:tomato_sauce_block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"fluidName": "delightfulcreators:vegetable_soup",
+				"Name": "delightfulcreators:vegetable_soup_block"
+			}
+		}
+	]
+}

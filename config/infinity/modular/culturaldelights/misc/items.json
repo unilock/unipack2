@@ -1,0 +1,256 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "culturaldelights:avocado"
+		},
+		{
+			"weight": 1.0,
+			"key": "culturaldelights:avocado_bundle"
+		},
+		{
+			"weight": 1.0,
+			"key": "culturaldelights:avocado_crate"
+		},
+		{
+			"weight": 1.0,
+			"key": "culturaldelights:avocado_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "culturaldelights:avocado_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "culturaldelights:avocado_pit"
+		},
+		{
+			"weight": 1.0,
+			"key": "culturaldelights:avocado_sapling"
+		},
+		{
+			"weight": 1.0,
+			"key": "culturaldelights:avocado_toast"
+		},
+		{
+			"weight": 1.0,
+			"key": "culturaldelights:avocado_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "culturaldelights:beef_burrito"
+		},
+		{
+			"weight": 1.0,
+			"key": "culturaldelights:calamari_roll"
+		},
+		{
+			"weight": 1.0,
+			"key": "culturaldelights:chicken_roll"
+		},
+		{
+			"weight": 1.0,
+			"key": "culturaldelights:chicken_roll_slice"
+		},
+		{
+			"weight": 1.0,
+			"key": "culturaldelights:chicken_taco"
+		},
+		{
+			"weight": 1.0,
+			"key": "culturaldelights:cooked_calamari"
+		},
+		{
+			"weight": 1.0,
+			"key": "culturaldelights:cooked_squid"
+		},
+		{
+			"weight": 1.0,
+			"key": "culturaldelights:corn_cob"
+		},
+		{
+			"weight": 1.0,
+			"key": "culturaldelights:corn_cob_crate"
+		},
+		{
+			"weight": 1.0,
+			"key": "culturaldelights:corn_dough"
+		},
+		{
+			"weight": 1.0,
+			"key": "culturaldelights:corn_kernels"
+		},
+		{
+			"weight": 1.0,
+			"key": "culturaldelights:creamed_corn"
+		},
+		{
+			"weight": 1.0,
+			"key": "culturaldelights:cucumber"
+		},
+		{
+			"weight": 1.0,
+			"key": "culturaldelights:cucumber_crate"
+		},
+		{
+			"weight": 1.0,
+			"key": "culturaldelights:cucumber_seeds"
+		},
+		{
+			"weight": 1.0,
+			"key": "culturaldelights:cut_avocado"
+		},
+		{
+			"weight": 1.0,
+			"key": "culturaldelights:cut_cucumber"
+		},
+		{
+			"weight": 1.0,
+			"key": "culturaldelights:cut_eggplant"
+		},
+		{
+			"weight": 1.0,
+			"key": "culturaldelights:cut_pickle"
+		},
+		{
+			"weight": 1.0,
+			"key": "culturaldelights:egg_roll"
+		},
+		{
+			"weight": 1.0,
+			"key": "culturaldelights:eggplant"
+		},
+		{
+			"weight": 1.0,
+			"key": "culturaldelights:eggplant_burger"
+		},
+		{
+			"weight": 1.0,
+			"key": "culturaldelights:eggplant_crate"
+		},
+		{
+			"weight": 1.0,
+			"key": "culturaldelights:eggplant_seeds"
+		},
+		{
+			"weight": 1.0,
+			"key": "culturaldelights:elote"
+		},
+		{
+			"weight": 1.0,
+			"key": "culturaldelights:exotic_roll_medley"
+		},
+		{
+			"weight": 1.0,
+			"key": "culturaldelights:fish_taco"
+		},
+		{
+			"weight": 1.0,
+			"key": "culturaldelights:fried_eggplant_pasta"
+		},
+		{
+			"weight": 1.0,
+			"key": "culturaldelights:glow_squid"
+		},
+		{
+			"weight": 1.0,
+			"key": "culturaldelights:hearty_salad"
+		},
+		{
+			"weight": 1.0,
+			"key": "culturaldelights:midori_roll"
+		},
+		{
+			"weight": 1.0,
+			"key": "culturaldelights:midori_roll_slice"
+		},
+		{
+			"weight": 1.0,
+			"key": "culturaldelights:mutton_sandwich"
+		},
+		{
+			"weight": 1.0,
+			"key": "culturaldelights:pickle"
+		},
+		{
+			"weight": 1.0,
+			"key": "culturaldelights:pickle_crate"
+		},
+		{
+			"weight": 1.0,
+			"key": "culturaldelights:popcorn"
+		},
+		{
+			"weight": 1.0,
+			"key": "culturaldelights:pork_wrap"
+		},
+		{
+			"weight": 1.0,
+			"key": "culturaldelights:pufferfish_roll"
+		},
+		{
+			"weight": 1.0,
+			"key": "culturaldelights:raw_calamari"
+		},
+		{
+			"weight": 1.0,
+			"key": "culturaldelights:rice_ball"
+		},
+		{
+			"weight": 1.0,
+			"key": "culturaldelights:smoked_corn"
+		},
+		{
+			"weight": 1.0,
+			"key": "culturaldelights:smoked_cut_eggplant"
+		},
+		{
+			"weight": 1.0,
+			"key": "culturaldelights:smoked_eggplant"
+		},
+		{
+			"weight": 1.0,
+			"key": "culturaldelights:smoked_tomato"
+		},
+		{
+			"weight": 1.0,
+			"key": "culturaldelights:smoked_white_eggplant"
+		},
+		{
+			"weight": 1.0,
+			"key": "culturaldelights:spicy_curry"
+		},
+		{
+			"weight": 1.0,
+			"key": "culturaldelights:squid"
+		},
+		{
+			"weight": 1.0,
+			"key": "culturaldelights:tortilla"
+		},
+		{
+			"weight": 1.0,
+			"key": "culturaldelights:tortilla_chips"
+		},
+		{
+			"weight": 1.0,
+			"key": "culturaldelights:tropical_roll"
+		},
+		{
+			"weight": 1.0,
+			"key": "culturaldelights:white_eggplant"
+		},
+		{
+			"weight": 1.0,
+			"key": "culturaldelights:wild_corn"
+		},
+		{
+			"weight": 1.0,
+			"key": "culturaldelights:wild_cucumbers"
+		},
+		{
+			"weight": 1.0,
+			"key": "culturaldelights:wild_eggplants"
+		}
+	]
+}

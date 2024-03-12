@@ -1,0 +1,48 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "visuality:big_slime_blob"
+		},
+		{
+			"weight": 1.0,
+			"key": "visuality:bone"
+		},
+		{
+			"weight": 1.0,
+			"key": "visuality:charge"
+		},
+		{
+			"weight": 1.0,
+			"key": "visuality:emerald"
+		},
+		{
+			"weight": 1.0,
+			"key": "visuality:feather"
+		},
+		{
+			"weight": 1.0,
+			"key": "visuality:medium_slime_blob"
+		},
+		{
+			"weight": 1.0,
+			"key": "visuality:small_slime_blob"
+		},
+		{
+			"weight": 1.0,
+			"key": "visuality:soul"
+		},
+		{
+			"weight": 1.0,
+			"key": "visuality:sparkle"
+		},
+		{
+			"weight": 1.0,
+			"key": "visuality:water_circle"
+		},
+		{
+			"weight": 1.0,
+			"key": "visuality:wither_bone"
+		}
+	]
+}

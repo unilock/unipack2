@@ -1,0 +1,56 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "bewitchment:baphomet"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:demon"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:ghost"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:hellhound"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:herne"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:leonard"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:lilith"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:owl"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:raven"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:snake"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:toad"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:vampire"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:werewolf"
+		}
+	]
+}

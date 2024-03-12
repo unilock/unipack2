@@ -1,0 +1,16 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "tricksy:tricksy_fox"
+		},
+		{
+			"weight": 1.0,
+			"key": "tricksy:tricksy_goat"
+		},
+		{
+			"weight": 1.0,
+			"key": "tricksy:tricksy_wolf"
+		}
+	]
+}

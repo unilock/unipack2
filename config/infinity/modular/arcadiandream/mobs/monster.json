@@ -1,0 +1,16 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "arcadiandream:fairy"
+		},
+		{
+			"weight": 1.0,
+			"key": "arcadiandream:ice_fairy"
+		},
+		{
+			"weight": 1.0,
+			"key": "arcadiandream:sunflower_fairy"
+		}
+	]
+}

@@ -1,0 +1,60 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "moderndynamics:attractor"
+		},
+		{
+			"weight": 1.0,
+			"key": "moderndynamics:debug_tool"
+		},
+		{
+			"weight": 1.0,
+			"key": "moderndynamics:ev_cable"
+		},
+		{
+			"weight": 1.0,
+			"key": "moderndynamics:extractor"
+		},
+		{
+			"weight": 1.0,
+			"key": "moderndynamics:filter"
+		},
+		{
+			"weight": 1.0,
+			"key": "moderndynamics:fluid_pipe"
+		},
+		{
+			"weight": 1.0,
+			"key": "moderndynamics:hv_cable"
+		},
+		{
+			"weight": 1.0,
+			"key": "moderndynamics:inhibitor"
+		},
+		{
+			"weight": 1.0,
+			"key": "moderndynamics:item_pipe"
+		},
+		{
+			"weight": 1.0,
+			"key": "moderndynamics:lv_cable"
+		},
+		{
+			"weight": 1.0,
+			"key": "moderndynamics:machine_extender"
+		},
+		{
+			"weight": 1.0,
+			"key": "moderndynamics:mv_cable"
+		},
+		{
+			"weight": 1.0,
+			"key": "moderndynamics:superconductor_cable"
+		},
+		{
+			"weight": 1.0,
+			"key": "moderndynamics:wrench"
+		}
+	]
+}

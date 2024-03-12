@@ -1,0 +1,57 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "neepmeat:smooth_tile_white"
+				},
+				{
+					"Name": "neepmeat:smooth_tile_light_gray"
+				},
+				{
+					"Name": "neepmeat:smooth_tile_gray"
+				},
+				{
+					"Name": "neepmeat:smooth_tile_black"
+				},
+				{
+					"Name": "neepmeat:smooth_tile_brown"
+				},
+				{
+					"Name": "neepmeat:smooth_tile_red"
+				},
+				{
+					"Name": "neepmeat:smooth_tile_orange"
+				},
+				{
+					"Name": "neepmeat:smooth_tile_yellow"
+				},
+				{
+					"Name": "neepmeat:smooth_tile_lime"
+				},
+				{
+					"Name": "neepmeat:smooth_tile_green"
+				},
+				{
+					"Name": "neepmeat:smooth_tile_light_blue"
+				},
+				{
+					"Name": "neepmeat:smooth_tile_blue"
+				},
+				{
+					"Name": "neepmeat:smooth_tile_cyan"
+				},
+				{
+					"Name": "neepmeat:smooth_tile_purple"
+				},
+				{
+					"Name": "neepmeat:smooth_tile_magenta"
+				},
+				{
+					"Name": "neepmeat:smooth_tile_pink"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,28 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "milk:flowing_milk_dripstone_lib_particle_type_fall"
+		},
+		{
+			"weight": 1.0,
+			"key": "milk:flowing_milk_dripstone_lib_particle_type_hang"
+		},
+		{
+			"weight": 1.0,
+			"key": "milk:flowing_milk_dripstone_lib_particle_type_splash"
+		},
+		{
+			"weight": 1.0,
+			"key": "milk:still_milk_dripstone_lib_particle_type_fall"
+		},
+		{
+			"weight": 1.0,
+			"key": "milk:still_milk_dripstone_lib_particle_type_hang"
+		},
+		{
+			"weight": 1.0,
+			"key": "milk:still_milk_dripstone_lib_particle_type_splash"
+		}
+	]
+}

@@ -1,0 +1,799 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "spectrum:potted_white_sapling"
+				},
+				{
+					"Name": "spectrum:potted_light_gray_sapling"
+				},
+				{
+					"Name": "spectrum:potted_gray_sapling"
+				},
+				{
+					"Name": "spectrum:potted_black_sapling"
+				},
+				{
+					"Name": "spectrum:potted_brown_sapling"
+				},
+				{
+					"Name": "spectrum:potted_red_sapling"
+				},
+				{
+					"Name": "spectrum:potted_orange_sapling"
+				},
+				{
+					"Name": "spectrum:potted_yellow_sapling"
+				},
+				{
+					"Name": "spectrum:potted_lime_sapling"
+				},
+				{
+					"Name": "spectrum:potted_green_sapling"
+				},
+				{
+					"Name": "spectrum:potted_light_blue_sapling"
+				},
+				{
+					"Name": "spectrum:potted_blue_sapling"
+				},
+				{
+					"Name": "spectrum:potted_cyan_sapling"
+				},
+				{
+					"Name": "spectrum:potted_purple_sapling"
+				},
+				{
+					"Name": "spectrum:potted_magenta_sapling"
+				},
+				{
+					"Name": "spectrum:potted_pink_sapling"
+				}
+			]
+		},
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "spectrum:stripped_white_log"
+				},
+				{
+					"Name": "spectrum:stripped_light_gray_log"
+				},
+				{
+					"Name": "spectrum:stripped_gray_log"
+				},
+				{
+					"Name": "spectrum:stripped_black_log"
+				},
+				{
+					"Name": "spectrum:stripped_brown_log"
+				},
+				{
+					"Name": "spectrum:stripped_red_log"
+				},
+				{
+					"Name": "spectrum:stripped_orange_log"
+				},
+				{
+					"Name": "spectrum:stripped_yellow_log"
+				},
+				{
+					"Name": "spectrum:stripped_lime_log"
+				},
+				{
+					"Name": "spectrum:stripped_green_log"
+				},
+				{
+					"Name": "spectrum:stripped_light_blue_log"
+				},
+				{
+					"Name": "spectrum:stripped_blue_log"
+				},
+				{
+					"Name": "spectrum:stripped_cyan_log"
+				},
+				{
+					"Name": "spectrum:stripped_purple_log"
+				},
+				{
+					"Name": "spectrum:stripped_magenta_log"
+				},
+				{
+					"Name": "spectrum:stripped_pink_log"
+				}
+			]
+		},
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "spectrum:stripped_white_wood"
+				},
+				{
+					"Name": "spectrum:stripped_light_gray_wood"
+				},
+				{
+					"Name": "spectrum:stripped_gray_wood"
+				},
+				{
+					"Name": "spectrum:stripped_black_wood"
+				},
+				{
+					"Name": "spectrum:stripped_brown_wood"
+				},
+				{
+					"Name": "spectrum:stripped_red_wood"
+				},
+				{
+					"Name": "spectrum:stripped_orange_wood"
+				},
+				{
+					"Name": "spectrum:stripped_yellow_wood"
+				},
+				{
+					"Name": "spectrum:stripped_lime_wood"
+				},
+				{
+					"Name": "spectrum:stripped_green_wood"
+				},
+				{
+					"Name": "spectrum:stripped_light_blue_wood"
+				},
+				{
+					"Name": "spectrum:stripped_blue_wood"
+				},
+				{
+					"Name": "spectrum:stripped_cyan_wood"
+				},
+				{
+					"Name": "spectrum:stripped_purple_wood"
+				},
+				{
+					"Name": "spectrum:stripped_magenta_wood"
+				},
+				{
+					"Name": "spectrum:stripped_pink_wood"
+				}
+			]
+		},
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "spectrum:white_block"
+				},
+				{
+					"Name": "spectrum:light_gray_block"
+				},
+				{
+					"Name": "spectrum:gray_block"
+				},
+				{
+					"Name": "spectrum:black_block"
+				},
+				{
+					"Name": "spectrum:brown_block"
+				},
+				{
+					"Name": "spectrum:red_block"
+				},
+				{
+					"Name": "spectrum:orange_block"
+				},
+				{
+					"Name": "spectrum:yellow_block"
+				},
+				{
+					"Name": "spectrum:lime_block"
+				},
+				{
+					"Name": "spectrum:green_block"
+				},
+				{
+					"Name": "spectrum:light_blue_block"
+				},
+				{
+					"Name": "spectrum:blue_block"
+				},
+				{
+					"Name": "spectrum:cyan_block"
+				},
+				{
+					"Name": "spectrum:purple_block"
+				},
+				{
+					"Name": "spectrum:magenta_block"
+				},
+				{
+					"Name": "spectrum:pink_block"
+				}
+			]
+		},
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "spectrum:white_chiseled_preservation_stone"
+				},
+				{
+					"Name": "spectrum:light_gray_chiseled_preservation_stone"
+				},
+				{
+					"Name": "spectrum:gray_chiseled_preservation_stone"
+				},
+				{
+					"Name": "spectrum:black_chiseled_preservation_stone"
+				},
+				{
+					"Name": "spectrum:brown_chiseled_preservation_stone"
+				},
+				{
+					"Name": "spectrum:red_chiseled_preservation_stone"
+				},
+				{
+					"Name": "spectrum:orange_chiseled_preservation_stone"
+				},
+				{
+					"Name": "spectrum:yellow_chiseled_preservation_stone"
+				},
+				{
+					"Name": "spectrum:lime_chiseled_preservation_stone"
+				},
+				{
+					"Name": "spectrum:green_chiseled_preservation_stone"
+				},
+				{
+					"Name": "spectrum:light_blue_chiseled_preservation_stone"
+				},
+				{
+					"Name": "spectrum:blue_chiseled_preservation_stone"
+				},
+				{
+					"Name": "spectrum:cyan_chiseled_preservation_stone"
+				},
+				{
+					"Name": "spectrum:purple_chiseled_preservation_stone"
+				},
+				{
+					"Name": "spectrum:magenta_chiseled_preservation_stone"
+				},
+				{
+					"Name": "spectrum:pink_chiseled_preservation_stone"
+				}
+			]
+		},
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "spectrum:white_fence"
+				},
+				{
+					"Name": "spectrum:light_gray_fence"
+				},
+				{
+					"Name": "spectrum:gray_fence"
+				},
+				{
+					"Name": "spectrum:black_fence"
+				},
+				{
+					"Name": "spectrum:brown_fence"
+				},
+				{
+					"Name": "spectrum:red_fence"
+				},
+				{
+					"Name": "spectrum:orange_fence"
+				},
+				{
+					"Name": "spectrum:yellow_fence"
+				},
+				{
+					"Name": "spectrum:lime_fence"
+				},
+				{
+					"Name": "spectrum:green_fence"
+				},
+				{
+					"Name": "spectrum:light_blue_fence"
+				},
+				{
+					"Name": "spectrum:blue_fence"
+				},
+				{
+					"Name": "spectrum:cyan_fence"
+				},
+				{
+					"Name": "spectrum:purple_fence"
+				},
+				{
+					"Name": "spectrum:magenta_fence"
+				},
+				{
+					"Name": "spectrum:pink_fence"
+				}
+			]
+		},
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "spectrum:white_fence_gate"
+				},
+				{
+					"Name": "spectrum:light_gray_fence_gate"
+				},
+				{
+					"Name": "spectrum:gray_fence_gate"
+				},
+				{
+					"Name": "spectrum:black_fence_gate"
+				},
+				{
+					"Name": "spectrum:brown_fence_gate"
+				},
+				{
+					"Name": "spectrum:red_fence_gate"
+				},
+				{
+					"Name": "spectrum:orange_fence_gate"
+				},
+				{
+					"Name": "spectrum:yellow_fence_gate"
+				},
+				{
+					"Name": "spectrum:lime_fence_gate"
+				},
+				{
+					"Name": "spectrum:green_fence_gate"
+				},
+				{
+					"Name": "spectrum:light_blue_fence_gate"
+				},
+				{
+					"Name": "spectrum:blue_fence_gate"
+				},
+				{
+					"Name": "spectrum:cyan_fence_gate"
+				},
+				{
+					"Name": "spectrum:purple_fence_gate"
+				},
+				{
+					"Name": "spectrum:magenta_fence_gate"
+				},
+				{
+					"Name": "spectrum:pink_fence_gate"
+				}
+			]
+		},
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "spectrum:white_glowblock"
+				},
+				{
+					"Name": "spectrum:light_gray_glowblock"
+				},
+				{
+					"Name": "spectrum:gray_glowblock"
+				},
+				{
+					"Name": "spectrum:black_glowblock"
+				},
+				{
+					"Name": "spectrum:brown_glowblock"
+				},
+				{
+					"Name": "spectrum:red_glowblock"
+				},
+				{
+					"Name": "spectrum:orange_glowblock"
+				},
+				{
+					"Name": "spectrum:yellow_glowblock"
+				},
+				{
+					"Name": "spectrum:lime_glowblock"
+				},
+				{
+					"Name": "spectrum:green_glowblock"
+				},
+				{
+					"Name": "spectrum:light_blue_glowblock"
+				},
+				{
+					"Name": "spectrum:blue_glowblock"
+				},
+				{
+					"Name": "spectrum:cyan_glowblock"
+				},
+				{
+					"Name": "spectrum:purple_glowblock"
+				},
+				{
+					"Name": "spectrum:magenta_glowblock"
+				},
+				{
+					"Name": "spectrum:pink_glowblock"
+				}
+			]
+		},
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "spectrum:white_lamp"
+				},
+				{
+					"Name": "spectrum:light_gray_lamp"
+				},
+				{
+					"Name": "spectrum:gray_lamp"
+				},
+				{
+					"Name": "spectrum:black_lamp"
+				},
+				{
+					"Name": "spectrum:brown_lamp"
+				},
+				{
+					"Name": "spectrum:red_lamp"
+				},
+				{
+					"Name": "spectrum:orange_lamp"
+				},
+				{
+					"Name": "spectrum:yellow_lamp"
+				},
+				{
+					"Name": "spectrum:lime_lamp"
+				},
+				{
+					"Name": "spectrum:green_lamp"
+				},
+				{
+					"Name": "spectrum:light_blue_lamp"
+				},
+				{
+					"Name": "spectrum:blue_lamp"
+				},
+				{
+					"Name": "spectrum:cyan_lamp"
+				},
+				{
+					"Name": "spectrum:purple_lamp"
+				},
+				{
+					"Name": "spectrum:magenta_lamp"
+				},
+				{
+					"Name": "spectrum:pink_lamp"
+				}
+			]
+		},
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "spectrum:white_leaves"
+				},
+				{
+					"Name": "spectrum:light_gray_leaves"
+				},
+				{
+					"Name": "spectrum:gray_leaves"
+				},
+				{
+					"Name": "spectrum:black_leaves"
+				},
+				{
+					"Name": "spectrum:brown_leaves"
+				},
+				{
+					"Name": "spectrum:red_leaves"
+				},
+				{
+					"Name": "spectrum:orange_leaves"
+				},
+				{
+					"Name": "spectrum:yellow_leaves"
+				},
+				{
+					"Name": "spectrum:lime_leaves"
+				},
+				{
+					"Name": "spectrum:green_leaves"
+				},
+				{
+					"Name": "spectrum:light_blue_leaves"
+				},
+				{
+					"Name": "spectrum:blue_leaves"
+				},
+				{
+					"Name": "spectrum:cyan_leaves"
+				},
+				{
+					"Name": "spectrum:purple_leaves"
+				},
+				{
+					"Name": "spectrum:magenta_leaves"
+				},
+				{
+					"Name": "spectrum:pink_leaves"
+				}
+			]
+		},
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "spectrum:white_log"
+				},
+				{
+					"Name": "spectrum:light_gray_log"
+				},
+				{
+					"Name": "spectrum:gray_log"
+				},
+				{
+					"Name": "spectrum:black_log"
+				},
+				{
+					"Name": "spectrum:brown_log"
+				},
+				{
+					"Name": "spectrum:red_log"
+				},
+				{
+					"Name": "spectrum:orange_log"
+				},
+				{
+					"Name": "spectrum:yellow_log"
+				},
+				{
+					"Name": "spectrum:lime_log"
+				},
+				{
+					"Name": "spectrum:green_log"
+				},
+				{
+					"Name": "spectrum:light_blue_log"
+				},
+				{
+					"Name": "spectrum:blue_log"
+				},
+				{
+					"Name": "spectrum:cyan_log"
+				},
+				{
+					"Name": "spectrum:purple_log"
+				},
+				{
+					"Name": "spectrum:magenta_log"
+				},
+				{
+					"Name": "spectrum:pink_log"
+				}
+			]
+		},
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "spectrum:white_planks"
+				},
+				{
+					"Name": "spectrum:light_gray_planks"
+				},
+				{
+					"Name": "spectrum:gray_planks"
+				},
+				{
+					"Name": "spectrum:black_planks"
+				},
+				{
+					"Name": "spectrum:brown_planks"
+				},
+				{
+					"Name": "spectrum:red_planks"
+				},
+				{
+					"Name": "spectrum:orange_planks"
+				},
+				{
+					"Name": "spectrum:yellow_planks"
+				},
+				{
+					"Name": "spectrum:lime_planks"
+				},
+				{
+					"Name": "spectrum:green_planks"
+				},
+				{
+					"Name": "spectrum:light_blue_planks"
+				},
+				{
+					"Name": "spectrum:blue_planks"
+				},
+				{
+					"Name": "spectrum:cyan_planks"
+				},
+				{
+					"Name": "spectrum:purple_planks"
+				},
+				{
+					"Name": "spectrum:magenta_planks"
+				},
+				{
+					"Name": "spectrum:pink_planks"
+				}
+			]
+		},
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "spectrum:white_slab"
+				},
+				{
+					"Name": "spectrum:light_gray_slab"
+				},
+				{
+					"Name": "spectrum:gray_slab"
+				},
+				{
+					"Name": "spectrum:black_slab"
+				},
+				{
+					"Name": "spectrum:brown_slab"
+				},
+				{
+					"Name": "spectrum:red_slab"
+				},
+				{
+					"Name": "spectrum:orange_slab"
+				},
+				{
+					"Name": "spectrum:yellow_slab"
+				},
+				{
+					"Name": "spectrum:lime_slab"
+				},
+				{
+					"Name": "spectrum:green_slab"
+				},
+				{
+					"Name": "spectrum:light_blue_slab"
+				},
+				{
+					"Name": "spectrum:blue_slab"
+				},
+				{
+					"Name": "spectrum:cyan_slab"
+				},
+				{
+					"Name": "spectrum:purple_slab"
+				},
+				{
+					"Name": "spectrum:magenta_slab"
+				},
+				{
+					"Name": "spectrum:pink_slab"
+				}
+			]
+		},
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "spectrum:white_stairs"
+				},
+				{
+					"Name": "spectrum:light_gray_stairs"
+				},
+				{
+					"Name": "spectrum:gray_stairs"
+				},
+				{
+					"Name": "spectrum:black_stairs"
+				},
+				{
+					"Name": "spectrum:brown_stairs"
+				},
+				{
+					"Name": "spectrum:red_stairs"
+				},
+				{
+					"Name": "spectrum:orange_stairs"
+				},
+				{
+					"Name": "spectrum:yellow_stairs"
+				},
+				{
+					"Name": "spectrum:lime_stairs"
+				},
+				{
+					"Name": "spectrum:green_stairs"
+				},
+				{
+					"Name": "spectrum:light_blue_stairs"
+				},
+				{
+					"Name": "spectrum:blue_stairs"
+				},
+				{
+					"Name": "spectrum:cyan_stairs"
+				},
+				{
+					"Name": "spectrum:purple_stairs"
+				},
+				{
+					"Name": "spectrum:magenta_stairs"
+				},
+				{
+					"Name": "spectrum:pink_stairs"
+				}
+			]
+		},
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "spectrum:white_wood"
+				},
+				{
+					"Name": "spectrum:light_gray_wood"
+				},
+				{
+					"Name": "spectrum:gray_wood"
+				},
+				{
+					"Name": "spectrum:black_wood"
+				},
+				{
+					"Name": "spectrum:brown_wood"
+				},
+				{
+					"Name": "spectrum:red_wood"
+				},
+				{
+					"Name": "spectrum:orange_wood"
+				},
+				{
+					"Name": "spectrum:yellow_wood"
+				},
+				{
+					"Name": "spectrum:lime_wood"
+				},
+				{
+					"Name": "spectrum:green_wood"
+				},
+				{
+					"Name": "spectrum:light_blue_wood"
+				},
+				{
+					"Name": "spectrum:blue_wood"
+				},
+				{
+					"Name": "spectrum:cyan_wood"
+				},
+				{
+					"Name": "spectrum:purple_wood"
+				},
+				{
+					"Name": "spectrum:magenta_wood"
+				},
+				{
+					"Name": "spectrum:pink_wood"
+				}
+			]
+		}
+	]
+}

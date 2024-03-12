@@ -1,0 +1,12 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "etcetera:chapple"
+		},
+		{
+			"weight": 1.0,
+			"key": "etcetera:weaver"
+		}
+	]
+}

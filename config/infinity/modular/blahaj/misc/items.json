@@ -1,0 +1,16 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "blahaj:blue_shark"
+		},
+		{
+			"weight": 1.0,
+			"key": "blahaj:bread"
+		},
+		{
+			"weight": 1.0,
+			"key": "blahaj:gray_shark"
+		}
+	]
+}

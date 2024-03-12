@@ -1,0 +1,1117 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "blockus:chiseled_white_concrete"
+				},
+				{
+					"Name": "blockus:chiseled_light_gray_concrete"
+				},
+				{
+					"Name": "blockus:chiseled_gray_concrete"
+				},
+				{
+					"Name": "blockus:chiseled_black_concrete"
+				},
+				{
+					"Name": "blockus:chiseled_brown_concrete"
+				},
+				{
+					"Name": "blockus:chiseled_red_concrete"
+				},
+				{
+					"Name": "blockus:chiseled_orange_concrete"
+				},
+				{
+					"Name": "blockus:chiseled_yellow_concrete"
+				},
+				{
+					"Name": "blockus:chiseled_lime_concrete"
+				},
+				{
+					"Name": "blockus:chiseled_green_concrete"
+				},
+				{
+					"Name": "blockus:chiseled_light_blue_concrete"
+				},
+				{
+					"Name": "blockus:chiseled_blue_concrete"
+				},
+				{
+					"Name": "blockus:chiseled_cyan_concrete"
+				},
+				{
+					"Name": "blockus:chiseled_purple_concrete"
+				},
+				{
+					"Name": "blockus:chiseled_magenta_concrete"
+				},
+				{
+					"Name": "blockus:chiseled_pink_concrete"
+				}
+			]
+		},
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "blockus:white_beveled_glass"
+				},
+				{
+					"Name": "blockus:light_gray_beveled_glass"
+				},
+				{
+					"Name": "blockus:gray_beveled_glass"
+				},
+				{
+					"Name": "blockus:black_beveled_glass"
+				},
+				{
+					"Name": "blockus:brown_beveled_glass"
+				},
+				{
+					"Name": "blockus:red_beveled_glass"
+				},
+				{
+					"Name": "blockus:orange_beveled_glass"
+				},
+				{
+					"Name": "blockus:yellow_beveled_glass"
+				},
+				{
+					"Name": "blockus:lime_beveled_glass"
+				},
+				{
+					"Name": "blockus:green_beveled_glass"
+				},
+				{
+					"Name": "blockus:light_blue_beveled_glass"
+				},
+				{
+					"Name": "blockus:blue_beveled_glass"
+				},
+				{
+					"Name": "blockus:cyan_beveled_glass"
+				},
+				{
+					"Name": "blockus:purple_beveled_glass"
+				},
+				{
+					"Name": "blockus:magenta_beveled_glass"
+				},
+				{
+					"Name": "blockus:pink_beveled_glass"
+				}
+			]
+		},
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "blockus:white_beveled_glass_pane"
+				},
+				{
+					"Name": "blockus:light_gray_beveled_glass_pane"
+				},
+				{
+					"Name": "blockus:gray_beveled_glass_pane"
+				},
+				{
+					"Name": "blockus:black_beveled_glass_pane"
+				},
+				{
+					"Name": "blockus:brown_beveled_glass_pane"
+				},
+				{
+					"Name": "blockus:red_beveled_glass_pane"
+				},
+				{
+					"Name": "blockus:orange_beveled_glass_pane"
+				},
+				{
+					"Name": "blockus:yellow_beveled_glass_pane"
+				},
+				{
+					"Name": "blockus:lime_beveled_glass_pane"
+				},
+				{
+					"Name": "blockus:green_beveled_glass_pane"
+				},
+				{
+					"Name": "blockus:light_blue_beveled_glass_pane"
+				},
+				{
+					"Name": "blockus:blue_beveled_glass_pane"
+				},
+				{
+					"Name": "blockus:cyan_beveled_glass_pane"
+				},
+				{
+					"Name": "blockus:purple_beveled_glass_pane"
+				},
+				{
+					"Name": "blockus:magenta_beveled_glass_pane"
+				},
+				{
+					"Name": "blockus:pink_beveled_glass_pane"
+				}
+			]
+		},
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "blockus:white_colored_tiles"
+				},
+				{
+					"Name": "blockus:light_gray_colored_tiles"
+				},
+				{
+					"Name": "blockus:gray_colored_tiles"
+				},
+				{
+					"Name": "blockus:black_colored_tiles"
+				},
+				{
+					"Name": "blockus:brown_colored_tiles"
+				},
+				{
+					"Name": "blockus:red_colored_tiles"
+				},
+				{
+					"Name": "blockus:orange_colored_tiles"
+				},
+				{
+					"Name": "blockus:yellow_colored_tiles"
+				},
+				{
+					"Name": "blockus:lime_colored_tiles"
+				},
+				{
+					"Name": "blockus:green_colored_tiles"
+				},
+				{
+					"Name": "blockus:light_blue_colored_tiles"
+				},
+				{
+					"Name": "blockus:blue_colored_tiles"
+				},
+				{
+					"Name": "blockus:cyan_colored_tiles"
+				},
+				{
+					"Name": "blockus:purple_colored_tiles"
+				},
+				{
+					"Name": "blockus:magenta_colored_tiles"
+				},
+				{
+					"Name": "blockus:pink_colored_tiles"
+				}
+			]
+		},
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "blockus:white_concrete_brick_slab"
+				},
+				{
+					"Name": "blockus:light_gray_concrete_brick_slab"
+				},
+				{
+					"Name": "blockus:gray_concrete_brick_slab"
+				},
+				{
+					"Name": "blockus:black_concrete_brick_slab"
+				},
+				{
+					"Name": "blockus:brown_concrete_brick_slab"
+				},
+				{
+					"Name": "blockus:red_concrete_brick_slab"
+				},
+				{
+					"Name": "blockus:orange_concrete_brick_slab"
+				},
+				{
+					"Name": "blockus:yellow_concrete_brick_slab"
+				},
+				{
+					"Name": "blockus:lime_concrete_brick_slab"
+				},
+				{
+					"Name": "blockus:green_concrete_brick_slab"
+				},
+				{
+					"Name": "blockus:light_blue_concrete_brick_slab"
+				},
+				{
+					"Name": "blockus:blue_concrete_brick_slab"
+				},
+				{
+					"Name": "blockus:cyan_concrete_brick_slab"
+				},
+				{
+					"Name": "blockus:purple_concrete_brick_slab"
+				},
+				{
+					"Name": "blockus:magenta_concrete_brick_slab"
+				},
+				{
+					"Name": "blockus:pink_concrete_brick_slab"
+				}
+			]
+		},
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "blockus:white_concrete_brick_stairs"
+				},
+				{
+					"Name": "blockus:light_gray_concrete_brick_stairs"
+				},
+				{
+					"Name": "blockus:gray_concrete_brick_stairs"
+				},
+				{
+					"Name": "blockus:black_concrete_brick_stairs"
+				},
+				{
+					"Name": "blockus:brown_concrete_brick_stairs"
+				},
+				{
+					"Name": "blockus:red_concrete_brick_stairs"
+				},
+				{
+					"Name": "blockus:orange_concrete_brick_stairs"
+				},
+				{
+					"Name": "blockus:yellow_concrete_brick_stairs"
+				},
+				{
+					"Name": "blockus:lime_concrete_brick_stairs"
+				},
+				{
+					"Name": "blockus:green_concrete_brick_stairs"
+				},
+				{
+					"Name": "blockus:light_blue_concrete_brick_stairs"
+				},
+				{
+					"Name": "blockus:blue_concrete_brick_stairs"
+				},
+				{
+					"Name": "blockus:cyan_concrete_brick_stairs"
+				},
+				{
+					"Name": "blockus:purple_concrete_brick_stairs"
+				},
+				{
+					"Name": "blockus:magenta_concrete_brick_stairs"
+				},
+				{
+					"Name": "blockus:pink_concrete_brick_stairs"
+				}
+			]
+		},
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "blockus:white_concrete_brick_wall"
+				},
+				{
+					"Name": "blockus:light_gray_concrete_brick_wall"
+				},
+				{
+					"Name": "blockus:gray_concrete_brick_wall"
+				},
+				{
+					"Name": "blockus:black_concrete_brick_wall"
+				},
+				{
+					"Name": "blockus:brown_concrete_brick_wall"
+				},
+				{
+					"Name": "blockus:red_concrete_brick_wall"
+				},
+				{
+					"Name": "blockus:orange_concrete_brick_wall"
+				},
+				{
+					"Name": "blockus:yellow_concrete_brick_wall"
+				},
+				{
+					"Name": "blockus:lime_concrete_brick_wall"
+				},
+				{
+					"Name": "blockus:green_concrete_brick_wall"
+				},
+				{
+					"Name": "blockus:light_blue_concrete_brick_wall"
+				},
+				{
+					"Name": "blockus:blue_concrete_brick_wall"
+				},
+				{
+					"Name": "blockus:cyan_concrete_brick_wall"
+				},
+				{
+					"Name": "blockus:purple_concrete_brick_wall"
+				},
+				{
+					"Name": "blockus:magenta_concrete_brick_wall"
+				},
+				{
+					"Name": "blockus:pink_concrete_brick_wall"
+				}
+			]
+		},
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "blockus:white_concrete_bricks"
+				},
+				{
+					"Name": "blockus:light_gray_concrete_bricks"
+				},
+				{
+					"Name": "blockus:gray_concrete_bricks"
+				},
+				{
+					"Name": "blockus:black_concrete_bricks"
+				},
+				{
+					"Name": "blockus:brown_concrete_bricks"
+				},
+				{
+					"Name": "blockus:red_concrete_bricks"
+				},
+				{
+					"Name": "blockus:orange_concrete_bricks"
+				},
+				{
+					"Name": "blockus:yellow_concrete_bricks"
+				},
+				{
+					"Name": "blockus:lime_concrete_bricks"
+				},
+				{
+					"Name": "blockus:green_concrete_bricks"
+				},
+				{
+					"Name": "blockus:light_blue_concrete_bricks"
+				},
+				{
+					"Name": "blockus:blue_concrete_bricks"
+				},
+				{
+					"Name": "blockus:cyan_concrete_bricks"
+				},
+				{
+					"Name": "blockus:purple_concrete_bricks"
+				},
+				{
+					"Name": "blockus:magenta_concrete_bricks"
+				},
+				{
+					"Name": "blockus:pink_concrete_bricks"
+				}
+			]
+		},
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "blockus:white_concrete_pillar"
+				},
+				{
+					"Name": "blockus:light_gray_concrete_pillar"
+				},
+				{
+					"Name": "blockus:gray_concrete_pillar"
+				},
+				{
+					"Name": "blockus:black_concrete_pillar"
+				},
+				{
+					"Name": "blockus:brown_concrete_pillar"
+				},
+				{
+					"Name": "blockus:red_concrete_pillar"
+				},
+				{
+					"Name": "blockus:orange_concrete_pillar"
+				},
+				{
+					"Name": "blockus:yellow_concrete_pillar"
+				},
+				{
+					"Name": "blockus:lime_concrete_pillar"
+				},
+				{
+					"Name": "blockus:green_concrete_pillar"
+				},
+				{
+					"Name": "blockus:light_blue_concrete_pillar"
+				},
+				{
+					"Name": "blockus:blue_concrete_pillar"
+				},
+				{
+					"Name": "blockus:cyan_concrete_pillar"
+				},
+				{
+					"Name": "blockus:purple_concrete_pillar"
+				},
+				{
+					"Name": "blockus:magenta_concrete_pillar"
+				},
+				{
+					"Name": "blockus:pink_concrete_pillar"
+				}
+			]
+		},
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "blockus:white_futurneo_block"
+				},
+				{
+					"Name": "blockus:light_gray_futurneo_block"
+				},
+				{
+					"Name": "blockus:gray_futurneo_block"
+				},
+				{
+					"Name": "blockus:black_futurneo_block"
+				},
+				{
+					"Name": "blockus:brown_futurneo_block"
+				},
+				{
+					"Name": "blockus:red_futurneo_block"
+				},
+				{
+					"Name": "blockus:orange_futurneo_block"
+				},
+				{
+					"Name": "blockus:yellow_futurneo_block"
+				},
+				{
+					"Name": "blockus:lime_futurneo_block"
+				},
+				{
+					"Name": "blockus:green_futurneo_block"
+				},
+				{
+					"Name": "blockus:light_blue_futurneo_block"
+				},
+				{
+					"Name": "blockus:blue_futurneo_block"
+				},
+				{
+					"Name": "blockus:cyan_futurneo_block"
+				},
+				{
+					"Name": "blockus:purple_futurneo_block"
+				},
+				{
+					"Name": "blockus:magenta_futurneo_block"
+				},
+				{
+					"Name": "blockus:pink_futurneo_block"
+				}
+			]
+		},
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "blockus:white_gingham_wool"
+				},
+				{
+					"Name": "blockus:light_gray_gingham_wool"
+				},
+				{
+					"Name": "blockus:gray_gingham_wool"
+				},
+				{
+					"Name": "blockus:black_gingham_wool"
+				},
+				{
+					"Name": "blockus:brown_gingham_wool"
+				},
+				{
+					"Name": "blockus:red_gingham_wool"
+				},
+				{
+					"Name": "blockus:orange_gingham_wool"
+				},
+				{
+					"Name": "blockus:yellow_gingham_wool"
+				},
+				{
+					"Name": "blockus:lime_gingham_wool"
+				},
+				{
+					"Name": "blockus:green_gingham_wool"
+				},
+				{
+					"Name": "blockus:light_blue_gingham_wool"
+				},
+				{
+					"Name": "blockus:blue_gingham_wool"
+				},
+				{
+					"Name": "blockus:cyan_gingham_wool"
+				},
+				{
+					"Name": "blockus:purple_gingham_wool"
+				},
+				{
+					"Name": "blockus:magenta_gingham_wool"
+				},
+				{
+					"Name": "blockus:pink_gingham_wool"
+				}
+			]
+		},
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "blockus:white_gingham_wool_slab"
+				},
+				{
+					"Name": "blockus:light_gray_gingham_wool_slab"
+				},
+				{
+					"Name": "blockus:gray_gingham_wool_slab"
+				},
+				{
+					"Name": "blockus:black_gingham_wool_slab"
+				},
+				{
+					"Name": "blockus:brown_gingham_wool_slab"
+				},
+				{
+					"Name": "blockus:red_gingham_wool_slab"
+				},
+				{
+					"Name": "blockus:orange_gingham_wool_slab"
+				},
+				{
+					"Name": "blockus:yellow_gingham_wool_slab"
+				},
+				{
+					"Name": "blockus:lime_gingham_wool_slab"
+				},
+				{
+					"Name": "blockus:green_gingham_wool_slab"
+				},
+				{
+					"Name": "blockus:light_blue_gingham_wool_slab"
+				},
+				{
+					"Name": "blockus:blue_gingham_wool_slab"
+				},
+				{
+					"Name": "blockus:cyan_gingham_wool_slab"
+				},
+				{
+					"Name": "blockus:purple_gingham_wool_slab"
+				},
+				{
+					"Name": "blockus:magenta_gingham_wool_slab"
+				},
+				{
+					"Name": "blockus:pink_gingham_wool_slab"
+				}
+			]
+		},
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "blockus:white_gingham_wool_stairs"
+				},
+				{
+					"Name": "blockus:light_gray_gingham_wool_stairs"
+				},
+				{
+					"Name": "blockus:gray_gingham_wool_stairs"
+				},
+				{
+					"Name": "blockus:black_gingham_wool_stairs"
+				},
+				{
+					"Name": "blockus:brown_gingham_wool_stairs"
+				},
+				{
+					"Name": "blockus:red_gingham_wool_stairs"
+				},
+				{
+					"Name": "blockus:orange_gingham_wool_stairs"
+				},
+				{
+					"Name": "blockus:yellow_gingham_wool_stairs"
+				},
+				{
+					"Name": "blockus:lime_gingham_wool_stairs"
+				},
+				{
+					"Name": "blockus:green_gingham_wool_stairs"
+				},
+				{
+					"Name": "blockus:light_blue_gingham_wool_stairs"
+				},
+				{
+					"Name": "blockus:blue_gingham_wool_stairs"
+				},
+				{
+					"Name": "blockus:cyan_gingham_wool_stairs"
+				},
+				{
+					"Name": "blockus:purple_gingham_wool_stairs"
+				},
+				{
+					"Name": "blockus:magenta_gingham_wool_stairs"
+				},
+				{
+					"Name": "blockus:pink_gingham_wool_stairs"
+				}
+			]
+		},
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "blockus:white_glazed_terracotta_pillar"
+				},
+				{
+					"Name": "blockus:light_gray_glazed_terracotta_pillar"
+				},
+				{
+					"Name": "blockus:gray_glazed_terracotta_pillar"
+				},
+				{
+					"Name": "blockus:black_glazed_terracotta_pillar"
+				},
+				{
+					"Name": "blockus:brown_glazed_terracotta_pillar"
+				},
+				{
+					"Name": "blockus:red_glazed_terracotta_pillar"
+				},
+				{
+					"Name": "blockus:orange_glazed_terracotta_pillar"
+				},
+				{
+					"Name": "blockus:yellow_glazed_terracotta_pillar"
+				},
+				{
+					"Name": "blockus:lime_glazed_terracotta_pillar"
+				},
+				{
+					"Name": "blockus:green_glazed_terracotta_pillar"
+				},
+				{
+					"Name": "blockus:light_blue_glazed_terracotta_pillar"
+				},
+				{
+					"Name": "blockus:blue_glazed_terracotta_pillar"
+				},
+				{
+					"Name": "blockus:cyan_glazed_terracotta_pillar"
+				},
+				{
+					"Name": "blockus:purple_glazed_terracotta_pillar"
+				},
+				{
+					"Name": "blockus:magenta_glazed_terracotta_pillar"
+				},
+				{
+					"Name": "blockus:pink_glazed_terracotta_pillar"
+				}
+			]
+		},
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "blockus:white_neon"
+				},
+				{
+					"Name": "blockus:light_gray_neon"
+				},
+				{
+					"Name": "blockus:gray_neon"
+				},
+				{
+					"Name": "blockus:black_neon"
+				},
+				{
+					"Name": "blockus:brown_neon"
+				},
+				{
+					"Name": "blockus:red_neon"
+				},
+				{
+					"Name": "blockus:orange_neon"
+				},
+				{
+					"Name": "blockus:yellow_neon"
+				},
+				{
+					"Name": "blockus:lime_neon"
+				},
+				{
+					"Name": "blockus:green_neon"
+				},
+				{
+					"Name": "blockus:light_blue_neon"
+				},
+				{
+					"Name": "blockus:blue_neon"
+				},
+				{
+					"Name": "blockus:cyan_neon"
+				},
+				{
+					"Name": "blockus:purple_neon"
+				},
+				{
+					"Name": "blockus:magenta_neon"
+				},
+				{
+					"Name": "blockus:pink_neon"
+				}
+			]
+		},
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "blockus:white_patterned_wool"
+				},
+				{
+					"Name": "blockus:light_gray_patterned_wool"
+				},
+				{
+					"Name": "blockus:gray_patterned_wool"
+				},
+				{
+					"Name": "blockus:black_patterned_wool"
+				},
+				{
+					"Name": "blockus:brown_patterned_wool"
+				},
+				{
+					"Name": "blockus:red_patterned_wool"
+				},
+				{
+					"Name": "blockus:orange_patterned_wool"
+				},
+				{
+					"Name": "blockus:yellow_patterned_wool"
+				},
+				{
+					"Name": "blockus:lime_patterned_wool"
+				},
+				{
+					"Name": "blockus:green_patterned_wool"
+				},
+				{
+					"Name": "blockus:light_blue_patterned_wool"
+				},
+				{
+					"Name": "blockus:blue_patterned_wool"
+				},
+				{
+					"Name": "blockus:cyan_patterned_wool"
+				},
+				{
+					"Name": "blockus:purple_patterned_wool"
+				},
+				{
+					"Name": "blockus:magenta_patterned_wool"
+				},
+				{
+					"Name": "blockus:pink_patterned_wool"
+				}
+			]
+		},
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "blockus:white_patterned_wool_slab"
+				},
+				{
+					"Name": "blockus:light_gray_patterned_wool_slab"
+				},
+				{
+					"Name": "blockus:gray_patterned_wool_slab"
+				},
+				{
+					"Name": "blockus:black_patterned_wool_slab"
+				},
+				{
+					"Name": "blockus:brown_patterned_wool_slab"
+				},
+				{
+					"Name": "blockus:red_patterned_wool_slab"
+				},
+				{
+					"Name": "blockus:orange_patterned_wool_slab"
+				},
+				{
+					"Name": "blockus:yellow_patterned_wool_slab"
+				},
+				{
+					"Name": "blockus:lime_patterned_wool_slab"
+				},
+				{
+					"Name": "blockus:green_patterned_wool_slab"
+				},
+				{
+					"Name": "blockus:light_blue_patterned_wool_slab"
+				},
+				{
+					"Name": "blockus:blue_patterned_wool_slab"
+				},
+				{
+					"Name": "blockus:cyan_patterned_wool_slab"
+				},
+				{
+					"Name": "blockus:purple_patterned_wool_slab"
+				},
+				{
+					"Name": "blockus:magenta_patterned_wool_slab"
+				},
+				{
+					"Name": "blockus:pink_patterned_wool_slab"
+				}
+			]
+		},
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "blockus:white_patterned_wool_stairs"
+				},
+				{
+					"Name": "blockus:light_gray_patterned_wool_stairs"
+				},
+				{
+					"Name": "blockus:gray_patterned_wool_stairs"
+				},
+				{
+					"Name": "blockus:black_patterned_wool_stairs"
+				},
+				{
+					"Name": "blockus:brown_patterned_wool_stairs"
+				},
+				{
+					"Name": "blockus:red_patterned_wool_stairs"
+				},
+				{
+					"Name": "blockus:orange_patterned_wool_stairs"
+				},
+				{
+					"Name": "blockus:yellow_patterned_wool_stairs"
+				},
+				{
+					"Name": "blockus:lime_patterned_wool_stairs"
+				},
+				{
+					"Name": "blockus:green_patterned_wool_stairs"
+				},
+				{
+					"Name": "blockus:light_blue_patterned_wool_stairs"
+				},
+				{
+					"Name": "blockus:blue_patterned_wool_stairs"
+				},
+				{
+					"Name": "blockus:cyan_patterned_wool_stairs"
+				},
+				{
+					"Name": "blockus:purple_patterned_wool_stairs"
+				},
+				{
+					"Name": "blockus:magenta_patterned_wool_stairs"
+				},
+				{
+					"Name": "blockus:pink_patterned_wool_stairs"
+				}
+			]
+		},
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "blockus:white_shingles"
+				},
+				{
+					"Name": "blockus:light_gray_shingles"
+				},
+				{
+					"Name": "blockus:gray_shingles"
+				},
+				{
+					"Name": "blockus:black_shingles"
+				},
+				{
+					"Name": "blockus:brown_shingles"
+				},
+				{
+					"Name": "blockus:red_shingles"
+				},
+				{
+					"Name": "blockus:orange_shingles"
+				},
+				{
+					"Name": "blockus:yellow_shingles"
+				},
+				{
+					"Name": "blockus:lime_shingles"
+				},
+				{
+					"Name": "blockus:green_shingles"
+				},
+				{
+					"Name": "blockus:light_blue_shingles"
+				},
+				{
+					"Name": "blockus:blue_shingles"
+				},
+				{
+					"Name": "blockus:cyan_shingles"
+				},
+				{
+					"Name": "blockus:purple_shingles"
+				},
+				{
+					"Name": "blockus:magenta_shingles"
+				},
+				{
+					"Name": "blockus:pink_shingles"
+				}
+			]
+		},
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "blockus:white_shingles_slab"
+				},
+				{
+					"Name": "blockus:light_gray_shingles_slab"
+				},
+				{
+					"Name": "blockus:gray_shingles_slab"
+				},
+				{
+					"Name": "blockus:black_shingles_slab"
+				},
+				{
+					"Name": "blockus:brown_shingles_slab"
+				},
+				{
+					"Name": "blockus:red_shingles_slab"
+				},
+				{
+					"Name": "blockus:orange_shingles_slab"
+				},
+				{
+					"Name": "blockus:yellow_shingles_slab"
+				},
+				{
+					"Name": "blockus:lime_shingles_slab"
+				},
+				{
+					"Name": "blockus:green_shingles_slab"
+				},
+				{
+					"Name": "blockus:light_blue_shingles_slab"
+				},
+				{
+					"Name": "blockus:blue_shingles_slab"
+				},
+				{
+					"Name": "blockus:cyan_shingles_slab"
+				},
+				{
+					"Name": "blockus:purple_shingles_slab"
+				},
+				{
+					"Name": "blockus:magenta_shingles_slab"
+				},
+				{
+					"Name": "blockus:pink_shingles_slab"
+				}
+			]
+		},
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "blockus:white_shingles_stairs"
+				},
+				{
+					"Name": "blockus:light_gray_shingles_stairs"
+				},
+				{
+					"Name": "blockus:gray_shingles_stairs"
+				},
+				{
+					"Name": "blockus:black_shingles_stairs"
+				},
+				{
+					"Name": "blockus:brown_shingles_stairs"
+				},
+				{
+					"Name": "blockus:red_shingles_stairs"
+				},
+				{
+					"Name": "blockus:orange_shingles_stairs"
+				},
+				{
+					"Name": "blockus:yellow_shingles_stairs"
+				},
+				{
+					"Name": "blockus:lime_shingles_stairs"
+				},
+				{
+					"Name": "blockus:green_shingles_stairs"
+				},
+				{
+					"Name": "blockus:light_blue_shingles_stairs"
+				},
+				{
+					"Name": "blockus:blue_shingles_stairs"
+				},
+				{
+					"Name": "blockus:cyan_shingles_stairs"
+				},
+				{
+					"Name": "blockus:purple_shingles_stairs"
+				},
+				{
+					"Name": "blockus:magenta_shingles_stairs"
+				},
+				{
+					"Name": "blockus:pink_shingles_stairs"
+				}
+			]
+		}
+	]
+}

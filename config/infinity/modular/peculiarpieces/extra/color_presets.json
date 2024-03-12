@@ -1,0 +1,110 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "peculiarpieces:white_elevator"
+				},
+				{
+					"Name": "peculiarpieces:light_gray_elevator"
+				},
+				{
+					"Name": "peculiarpieces:gray_elevator"
+				},
+				{
+					"Name": "peculiarpieces:black_elevator"
+				},
+				{
+					"Name": "peculiarpieces:brown_elevator"
+				},
+				{
+					"Name": "peculiarpieces:red_elevator"
+				},
+				{
+					"Name": "peculiarpieces:orange_elevator"
+				},
+				{
+					"Name": "peculiarpieces:yellow_elevator"
+				},
+				{
+					"Name": "peculiarpieces:lime_elevator"
+				},
+				{
+					"Name": "peculiarpieces:green_elevator"
+				},
+				{
+					"Name": "peculiarpieces:light_blue_elevator"
+				},
+				{
+					"Name": "peculiarpieces:blue_elevator"
+				},
+				{
+					"Name": "peculiarpieces:cyan_elevator"
+				},
+				{
+					"Name": "peculiarpieces:purple_elevator"
+				},
+				{
+					"Name": "peculiarpieces:magenta_elevator"
+				},
+				{
+					"Name": "peculiarpieces:pink_elevator"
+				}
+			]
+		},
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "peculiarpieces:white_rotating_elevator"
+				},
+				{
+					"Name": "peculiarpieces:light_gray_rotating_elevator"
+				},
+				{
+					"Name": "peculiarpieces:gray_rotating_elevator"
+				},
+				{
+					"Name": "peculiarpieces:black_rotating_elevator"
+				},
+				{
+					"Name": "peculiarpieces:brown_rotating_elevator"
+				},
+				{
+					"Name": "peculiarpieces:red_rotating_elevator"
+				},
+				{
+					"Name": "peculiarpieces:orange_rotating_elevator"
+				},
+				{
+					"Name": "peculiarpieces:yellow_rotating_elevator"
+				},
+				{
+					"Name": "peculiarpieces:lime_rotating_elevator"
+				},
+				{
+					"Name": "peculiarpieces:green_rotating_elevator"
+				},
+				{
+					"Name": "peculiarpieces:light_blue_rotating_elevator"
+				},
+				{
+					"Name": "peculiarpieces:blue_rotating_elevator"
+				},
+				{
+					"Name": "peculiarpieces:cyan_rotating_elevator"
+				},
+				{
+					"Name": "peculiarpieces:purple_rotating_elevator"
+				},
+				{
+					"Name": "peculiarpieces:magenta_rotating_elevator"
+				},
+				{
+					"Name": "peculiarpieces:pink_rotating_elevator"
+				}
+			]
+		}
+	]
+}

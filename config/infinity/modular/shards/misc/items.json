@@ -1,0 +1,72 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "shards:black_stained_glass_shard"
+		},
+		{
+			"weight": 1.0,
+			"key": "shards:blue_stained_glass_shard"
+		},
+		{
+			"weight": 1.0,
+			"key": "shards:brown_stained_glass_shard"
+		},
+		{
+			"weight": 1.0,
+			"key": "shards:cyan_stained_glass_shard"
+		},
+		{
+			"weight": 1.0,
+			"key": "shards:glass_shard"
+		},
+		{
+			"weight": 1.0,
+			"key": "shards:gray_stained_glass_shard"
+		},
+		{
+			"weight": 1.0,
+			"key": "shards:green_stained_glass_shard"
+		},
+		{
+			"weight": 1.0,
+			"key": "shards:light_blue_stained_glass_shard"
+		},
+		{
+			"weight": 1.0,
+			"key": "shards:light_gray_stained_glass_shard"
+		},
+		{
+			"weight": 1.0,
+			"key": "shards:lime_stained_glass_shard"
+		},
+		{
+			"weight": 1.0,
+			"key": "shards:magenta_stained_glass_shard"
+		},
+		{
+			"weight": 1.0,
+			"key": "shards:orange_stained_glass_shard"
+		},
+		{
+			"weight": 1.0,
+			"key": "shards:pink_stained_glass_shard"
+		},
+		{
+			"weight": 1.0,
+			"key": "shards:purple_stained_glass_shard"
+		},
+		{
+			"weight": 1.0,
+			"key": "shards:red_stained_glass_shard"
+		},
+		{
+			"weight": 1.0,
+			"key": "shards:white_stained_glass_shard"
+		},
+		{
+			"weight": 1.0,
+			"key": "shards:yellow_stained_glass_shard"
+		}
+	]
+}

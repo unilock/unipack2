@@ -1,0 +1,32 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": {
+				"fluidName": "spectrum:dragonrot",
+				"Name": "spectrum:dragonrot"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"fluidName": "spectrum:liquid_crystal",
+				"Name": "spectrum:liquid_crystal"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"fluidName": "spectrum:midnight_solution",
+				"Name": "spectrum:midnight_solution"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"fluidName": "spectrum:mud",
+				"Name": "spectrum:mud"
+			}
+		}
+	]
+}

@@ -1,0 +1,216 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "decorative_blocks:acacia_beam"
+		},
+		{
+			"weight": 1.0,
+			"key": "decorative_blocks:acacia_palisade"
+		},
+		{
+			"weight": 1.0,
+			"key": "decorative_blocks:acacia_seat"
+		},
+		{
+			"weight": 1.0,
+			"key": "decorative_blocks:acacia_support"
+		},
+		{
+			"weight": 1.0,
+			"key": "decorative_blocks:bamboo_palisade"
+		},
+		{
+			"weight": 1.0,
+			"key": "decorative_blocks:bamboo_seat"
+		},
+		{
+			"weight": 1.0,
+			"key": "decorative_blocks:bamboo_support"
+		},
+		{
+			"weight": 1.0,
+			"key": "decorative_blocks:bar_panel"
+		},
+		{
+			"weight": 1.0,
+			"key": "decorative_blocks:birch_beam"
+		},
+		{
+			"weight": 1.0,
+			"key": "decorative_blocks:birch_palisade"
+		},
+		{
+			"weight": 1.0,
+			"key": "decorative_blocks:birch_seat"
+		},
+		{
+			"weight": 1.0,
+			"key": "decorative_blocks:birch_support"
+		},
+		{
+			"weight": 1.0,
+			"key": "decorative_blocks:blockstate_copy_item"
+		},
+		{
+			"weight": 1.0,
+			"key": "decorative_blocks:brazier"
+		},
+		{
+			"weight": 1.0,
+			"key": "decorative_blocks:chain"
+		},
+		{
+			"weight": 1.0,
+			"key": "decorative_blocks:chandelier"
+		},
+		{
+			"weight": 1.0,
+			"key": "decorative_blocks:cherry_beam"
+		},
+		{
+			"weight": 1.0,
+			"key": "decorative_blocks:cherry_palisade"
+		},
+		{
+			"weight": 1.0,
+			"key": "decorative_blocks:cherry_seat"
+		},
+		{
+			"weight": 1.0,
+			"key": "decorative_blocks:cherry_support"
+		},
+		{
+			"weight": 1.0,
+			"key": "decorative_blocks:crimson_beam"
+		},
+		{
+			"weight": 1.0,
+			"key": "decorative_blocks:crimson_palisade"
+		},
+		{
+			"weight": 1.0,
+			"key": "decorative_blocks:crimson_seat"
+		},
+		{
+			"weight": 1.0,
+			"key": "decorative_blocks:crimson_support"
+		},
+		{
+			"weight": 1.0,
+			"key": "decorative_blocks:dark_oak_beam"
+		},
+		{
+			"weight": 1.0,
+			"key": "decorative_blocks:dark_oak_palisade"
+		},
+		{
+			"weight": 1.0,
+			"key": "decorative_blocks:dark_oak_seat"
+		},
+		{
+			"weight": 1.0,
+			"key": "decorative_blocks:dark_oak_support"
+		},
+		{
+			"weight": 1.0,
+			"key": "decorative_blocks:jungle_beam"
+		},
+		{
+			"weight": 1.0,
+			"key": "decorative_blocks:jungle_palisade"
+		},
+		{
+			"weight": 1.0,
+			"key": "decorative_blocks:jungle_seat"
+		},
+		{
+			"weight": 1.0,
+			"key": "decorative_blocks:jungle_support"
+		},
+		{
+			"weight": 1.0,
+			"key": "decorative_blocks:lattice"
+		},
+		{
+			"weight": 1.0,
+			"key": "decorative_blocks:mangrove_beam"
+		},
+		{
+			"weight": 1.0,
+			"key": "decorative_blocks:mangrove_palisade"
+		},
+		{
+			"weight": 1.0,
+			"key": "decorative_blocks:mangrove_seat"
+		},
+		{
+			"weight": 1.0,
+			"key": "decorative_blocks:mangrove_support"
+		},
+		{
+			"weight": 1.0,
+			"key": "decorative_blocks:oak_beam"
+		},
+		{
+			"weight": 1.0,
+			"key": "decorative_blocks:oak_palisade"
+		},
+		{
+			"weight": 1.0,
+			"key": "decorative_blocks:oak_seat"
+		},
+		{
+			"weight": 1.0,
+			"key": "decorative_blocks:oak_support"
+		},
+		{
+			"weight": 1.0,
+			"key": "decorative_blocks:rocky_dirt"
+		},
+		{
+			"weight": 1.0,
+			"key": "decorative_blocks:soul_brazier"
+		},
+		{
+			"weight": 1.0,
+			"key": "decorative_blocks:soul_chandelier"
+		},
+		{
+			"weight": 1.0,
+			"key": "decorative_blocks:spruce_beam"
+		},
+		{
+			"weight": 1.0,
+			"key": "decorative_blocks:spruce_palisade"
+		},
+		{
+			"weight": 1.0,
+			"key": "decorative_blocks:spruce_seat"
+		},
+		{
+			"weight": 1.0,
+			"key": "decorative_blocks:spruce_support"
+		},
+		{
+			"weight": 1.0,
+			"key": "decorative_blocks:stone_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "decorative_blocks:warped_beam"
+		},
+		{
+			"weight": 1.0,
+			"key": "decorative_blocks:warped_palisade"
+		},
+		{
+			"weight": 1.0,
+			"key": "decorative_blocks:warped_seat"
+		},
+		{
+			"weight": 1.0,
+			"key": "decorative_blocks:warped_support"
+		}
+	]
+}

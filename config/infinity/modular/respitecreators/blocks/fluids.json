@@ -1,0 +1,151 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": {
+				"fluidName": "respitecreators:black_tea",
+				"Name": "respitecreators:black_tea_block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"fluidName": "respitecreators:blazing_chili",
+				"Name": "respitecreators:blazing_chili_block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"fluidName": "respitecreators:coffee",
+				"Name": "respitecreators:coffee_block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"fluidName": "respitecreators:dandelion_tea",
+				"Name": "respitecreators:dandelion_tea_block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"fluidName": "respitecreators:green_tea",
+				"Name": "respitecreators:green_tea_block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"fluidName": "respitecreators:long_black_tea",
+				"Name": "respitecreators:long_black_tea_block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"fluidName": "respitecreators:long_coffee",
+				"Name": "respitecreators:long_coffee_block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"fluidName": "respitecreators:long_dandelion_tea",
+				"Name": "respitecreators:long_dandelion_tea_block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"fluidName": "respitecreators:long_green_tea",
+				"Name": "respitecreators:long_green_tea_block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"fluidName": "respitecreators:long_yellow_tea",
+				"Name": "respitecreators:long_yellow_tea_block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"fluidName": "respitecreators:purulent_tea",
+				"Name": "respitecreators:purulent_tea_block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"fluidName": "respitecreators:rose_hip_jam",
+				"Name": "respitecreators:rose_hip_jam_block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"fluidName": "respitecreators:rose_hip_tea",
+				"Name": "respitecreators:rose_hip_tea_block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"fluidName": "respitecreators:strong_black_tea",
+				"Name": "respitecreators:strong_black_tea_block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"fluidName": "respitecreators:strong_coffee",
+				"Name": "respitecreators:strong_coffee_block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"fluidName": "respitecreators:strong_green_tea",
+				"Name": "respitecreators:strong_green_tea_block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"fluidName": "respitecreators:strong_purulent_tea",
+				"Name": "respitecreators:strong_purulent_tea_block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"fluidName": "respitecreators:strong_rose_hip_tea",
+				"Name": "respitecreators:strong_rose_hip_tea_block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"fluidName": "respitecreators:strong_yellow_tea",
+				"Name": "respitecreators:strong_yellow_tea_block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"fluidName": "respitecreators:tea_curry",
+				"Name": "respitecreators:tea_curry_block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"fluidName": "respitecreators:yellow_tea",
+				"Name": "respitecreators:yellow_tea_block"
+			}
+		}
+	]
+}

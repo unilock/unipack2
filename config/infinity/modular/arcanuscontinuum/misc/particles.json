@@ -1,0 +1,24 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "arcanuscontinuum:bouncy"
+		},
+		{
+			"weight": 1.0,
+			"key": "arcanuscontinuum:collapse"
+		},
+		{
+			"weight": 1.0,
+			"key": "arcanuscontinuum:exchange"
+		},
+		{
+			"weight": 1.0,
+			"key": "arcanuscontinuum:feather"
+		},
+		{
+			"weight": 1.0,
+			"key": "arcanuscontinuum:speed"
+		}
+	]
+}

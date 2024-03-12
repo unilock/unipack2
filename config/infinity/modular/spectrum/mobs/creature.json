@@ -1,0 +1,12 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "spectrum:egg_laying_wooly_pig"
+		},
+		{
+			"weight": 1.0,
+			"key": "spectrum:kindling"
+		}
+	]
+}

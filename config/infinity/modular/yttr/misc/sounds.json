@@ -1,0 +1,484 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "yttr:aware_hopper_ambient"
+		},
+		{
+			"weight": 1.0,
+			"key": "yttr:aware_hopper_break"
+		},
+		{
+			"weight": 1.0,
+			"key": "yttr:aware_hopper_scream"
+		},
+		{
+			"weight": 1.0,
+			"key": "yttr:buzz"
+		},
+		{
+			"weight": 1.0,
+			"key": "yttr:centrifuge"
+		},
+		{
+			"weight": 1.0,
+			"key": "yttr:centrifuge_crackle"
+		},
+		{
+			"weight": 1.0,
+			"key": "yttr:chute_plated"
+		},
+		{
+			"weight": 1.0,
+			"key": "yttr:clang"
+		},
+		{
+			"weight": 1.0,
+			"key": "yttr:cleaver"
+		},
+		{
+			"weight": 1.0,
+			"key": "yttr:craft_aware_hopper"
+		},
+		{
+			"weight": 1.0,
+			"key": "yttr:craft_screeper_nest"
+		},
+		{
+			"weight": 1.0,
+			"key": "yttr:danger"
+		},
+		{
+			"weight": 1.0,
+			"key": "yttr:desert_heat"
+		},
+		{
+			"weight": 1.0,
+			"key": "yttr:desert_heat_mono"
+		},
+		{
+			"weight": 1.0,
+			"key": "yttr:dissolve"
+		},
+		{
+			"weight": 1.0,
+			"key": "yttr:dive"
+		},
+		{
+			"weight": 1.0,
+			"key": "yttr:dive_end"
+		},
+		{
+			"weight": 1.0,
+			"key": "yttr:dive_mono"
+		},
+		{
+			"weight": 1.0,
+			"key": "yttr:dive_thrust"
+		},
+		{
+			"weight": 1.0,
+			"key": "yttr:drop_cast"
+		},
+		{
+			"weight": 1.0,
+			"key": "yttr:drop_cast_cancel"
+		},
+		{
+			"weight": 1.0,
+			"key": "yttr:drop_cast_cancel_audible"
+		},
+		{
+			"weight": 1.0,
+			"key": "yttr:dsu_close"
+		},
+		{
+			"weight": 1.0,
+			"key": "yttr:dsu_open"
+		},
+		{
+			"weight": 1.0,
+			"key": "yttr:effector_close"
+		},
+		{
+			"weight": 1.0,
+			"key": "yttr:effector_open"
+		},
+		{
+			"weight": 1.0,
+			"key": "yttr:equip_suit"
+		},
+		{
+			"weight": 1.0,
+			"key": "yttr:high_note_banjo"
+		},
+		{
+			"weight": 1.0,
+			"key": "yttr:high_note_basedrum"
+		},
+		{
+			"weight": 1.0,
+			"key": "yttr:high_note_bass"
+		},
+		{
+			"weight": 1.0,
+			"key": "yttr:high_note_bell"
+		},
+		{
+			"weight": 1.0,
+			"key": "yttr:high_note_bit"
+		},
+		{
+			"weight": 1.0,
+			"key": "yttr:high_note_chime"
+		},
+		{
+			"weight": 1.0,
+			"key": "yttr:high_note_cow_bell"
+		},
+		{
+			"weight": 1.0,
+			"key": "yttr:high_note_didgeridoo"
+		},
+		{
+			"weight": 1.0,
+			"key": "yttr:high_note_flute"
+		},
+		{
+			"weight": 1.0,
+			"key": "yttr:high_note_guitar"
+		},
+		{
+			"weight": 1.0,
+			"key": "yttr:high_note_harp"
+		},
+		{
+			"weight": 1.0,
+			"key": "yttr:high_note_hat"
+		},
+		{
+			"weight": 1.0,
+			"key": "yttr:high_note_iron_xylophone"
+		},
+		{
+			"weight": 1.0,
+			"key": "yttr:high_note_pling"
+		},
+		{
+			"weight": 1.0,
+			"key": "yttr:high_note_snare"
+		},
+		{
+			"weight": 1.0,
+			"key": "yttr:high_note_xylophone"
+		},
+		{
+			"weight": 1.0,
+			"key": "yttr:hollowbreak"
+		},
+		{
+			"weight": 1.0,
+			"key": "yttr:hollowbreakhuge"
+		},
+		{
+			"weight": 1.0,
+			"key": "yttr:hollowhit"
+		},
+		{
+			"weight": 1.0,
+			"key": "yttr:hollowplace"
+		},
+		{
+			"weight": 1.0,
+			"key": "yttr:hollowplacehuge"
+		},
+		{
+			"weight": 1.0,
+			"key": "yttr:hollowstep"
+		},
+		{
+			"weight": 1.0,
+			"key": "yttr:honk"
+		},
+		{
+			"weight": 1.0,
+			"key": "yttr:low_note_banjo"
+		},
+		{
+			"weight": 1.0,
+			"key": "yttr:low_note_basedrum"
+		},
+		{
+			"weight": 1.0,
+			"key": "yttr:low_note_bass"
+		},
+		{
+			"weight": 1.0,
+			"key": "yttr:low_note_bell"
+		},
+		{
+			"weight": 1.0,
+			"key": "yttr:low_note_bit"
+		},
+		{
+			"weight": 1.0,
+			"key": "yttr:low_note_chime"
+		},
+		{
+			"weight": 1.0,
+			"key": "yttr:low_note_cow_bell"
+		},
+		{
+			"weight": 1.0,
+			"key": "yttr:low_note_didgeridoo"
+		},
+		{
+			"weight": 1.0,
+			"key": "yttr:low_note_flute"
+		},
+		{
+			"weight": 1.0,
+			"key": "yttr:low_note_guitar"
+		},
+		{
+			"weight": 1.0,
+			"key": "yttr:low_note_harp"
+		},
+		{
+			"weight": 1.0,
+			"key": "yttr:low_note_hat"
+		},
+		{
+			"weight": 1.0,
+			"key": "yttr:low_note_iron_xylophone"
+		},
+		{
+			"weight": 1.0,
+			"key": "yttr:low_note_pling"
+		},
+		{
+			"weight": 1.0,
+			"key": "yttr:low_note_snare"
+		},
+		{
+			"weight": 1.0,
+			"key": "yttr:low_note_xylophone"
+		},
+		{
+			"weight": 1.0,
+			"key": "yttr:magnet_step"
+		},
+		{
+			"weight": 1.0,
+			"key": "yttr:memorandum"
+		},
+		{
+			"weight": 1.0,
+			"key": "yttr:memorandum_mono"
+		},
+		{
+			"weight": 1.0,
+			"key": "yttr:metal_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "yttr:metal_plate_off"
+		},
+		{
+			"weight": 1.0,
+			"key": "yttr:metal_plate_on"
+		},
+		{
+			"weight": 1.0,
+			"key": "yttr:papillons"
+		},
+		{
+			"weight": 1.0,
+			"key": "yttr:project"
+		},
+		{
+			"weight": 1.0,
+			"key": "yttr:replicator_appear"
+		},
+		{
+			"weight": 1.0,
+			"key": "yttr:replicator_disappear"
+		},
+		{
+			"weight": 1.0,
+			"key": "yttr:replicator_refuse"
+		},
+		{
+			"weight": 1.0,
+			"key": "yttr:replicator_update"
+		},
+		{
+			"weight": 1.0,
+			"key": "yttr:replicator_vend"
+		},
+		{
+			"weight": 1.0,
+			"key": "yttr:rifle_charge"
+		},
+		{
+			"weight": 1.0,
+			"key": "yttr:rifle_charge_cancel"
+		},
+		{
+			"weight": 1.0,
+			"key": "yttr:rifle_charge_continue"
+		},
+		{
+			"weight": 1.0,
+			"key": "yttr:rifle_charge_fast"
+		},
+		{
+			"weight": 1.0,
+			"key": "yttr:rifle_charge_rattle"
+		},
+		{
+			"weight": 1.0,
+			"key": "yttr:rifle_fire"
+		},
+		{
+			"weight": 1.0,
+			"key": "yttr:rifle_fire_dud"
+		},
+		{
+			"weight": 1.0,
+			"key": "yttr:rifle_load"
+		},
+		{
+			"weight": 1.0,
+			"key": "yttr:rifle_overcharge"
+		},
+		{
+			"weight": 1.0,
+			"key": "yttr:rifle_scope"
+		},
+		{
+			"weight": 1.0,
+			"key": "yttr:rifle_vent"
+		},
+		{
+			"weight": 1.0,
+			"key": "yttr:rifle_waste"
+		},
+		{
+			"weight": 1.0,
+			"key": "yttr:rootbreak"
+		},
+		{
+			"weight": 1.0,
+			"key": "yttr:roothit"
+		},
+		{
+			"weight": 1.0,
+			"key": "yttr:roothitweak"
+		},
+		{
+			"weight": 1.0,
+			"key": "yttr:rootplace"
+		},
+		{
+			"weight": 1.0,
+			"key": "yttr:rootstep"
+		},
+		{
+			"weight": 1.0,
+			"key": "yttr:shift"
+		},
+		{
+			"weight": 1.0,
+			"key": "yttr:silence"
+		},
+		{
+			"weight": 1.0,
+			"key": "yttr:skeletal_sorter_ambient"
+		},
+		{
+			"weight": 1.0,
+			"key": "yttr:skeletal_sorter_hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "yttr:small_explode"
+		},
+		{
+			"weight": 1.0,
+			"key": "yttr:small_zap"
+		},
+		{
+			"weight": 1.0,
+			"key": "yttr:snap"
+		},
+		{
+			"weight": 1.0,
+			"key": "yttr:snare_break"
+		},
+		{
+			"weight": 1.0,
+			"key": "yttr:snare_grab"
+		},
+		{
+			"weight": 1.0,
+			"key": "yttr:snare_plop"
+		},
+		{
+			"weight": 1.0,
+			"key": "yttr:snare_release"
+		},
+		{
+			"weight": 1.0,
+			"key": "yttr:spectral_axe_disappear"
+		},
+		{
+			"weight": 1.0,
+			"key": "yttr:suit_station_crackle"
+		},
+		{
+			"weight": 1.0,
+			"key": "yttr:suit_station_melt"
+		},
+		{
+			"weight": 1.0,
+			"key": "yttr:suit_station_use_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "yttr:suit_station_weld"
+		},
+		{
+			"weight": 1.0,
+			"key": "yttr:swallow"
+		},
+		{
+			"weight": 1.0,
+			"key": "yttr:torus"
+		},
+		{
+			"weight": 1.0,
+			"key": "yttr:torus_mono"
+		},
+		{
+			"weight": 1.0,
+			"key": "yttr:void"
+		},
+		{
+			"weight": 1.0,
+			"key": "yttr:void_hole"
+		},
+		{
+			"weight": 1.0,
+			"key": "yttr:void_music"
+		},
+		{
+			"weight": 1.0,
+			"key": "yttr:vorpalhit1"
+		},
+		{
+			"weight": 1.0,
+			"key": "yttr:vorpalhit2"
+		}
+	]
+}

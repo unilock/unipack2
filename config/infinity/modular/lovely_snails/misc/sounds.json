@@ -1,0 +1,12 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "lovely_snails:entity.lovely_snails.snail.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "lovely_snails:entity.lovely_snails.snail.hurt"
+		}
+	]
+}

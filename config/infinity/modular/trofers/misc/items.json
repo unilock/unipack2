@@ -1,0 +1,28 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "trofers:large_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "trofers:large_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "trofers:medium_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "trofers:medium_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "trofers:small_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "trofers:small_plate"
+		}
+	]
+}

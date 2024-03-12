@@ -1,0 +1,552 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "thaumon:alchemists_greatwood_bookshelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "thaumon:alchemists_silverwood_bookshelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "thaumon:amber"
+		},
+		{
+			"weight": 1.0,
+			"key": "thaumon:amber_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "thaumon:amber_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "thaumon:amber_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "thaumon:amber_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "thaumon:amber_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "thaumon:amberglass"
+		},
+		{
+			"weight": 1.0,
+			"key": "thaumon:amberglass_pane"
+		},
+		{
+			"weight": 1.0,
+			"key": "thaumon:ancient_lantern"
+		},
+		{
+			"weight": 1.0,
+			"key": "thaumon:ancient_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "thaumon:ancient_stone_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "thaumon:ancient_stone_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "thaumon:ancient_stone_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "thaumon:ancient_stone_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "thaumon:ancient_stone_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "thaumon:ancient_stone_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "thaumon:ancient_stone_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "thaumon:ancient_stone_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "thaumon:ancient_stone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "thaumon:ancient_stone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "thaumon:ancient_stone_tile_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "thaumon:ancient_stone_tile_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "thaumon:ancient_stone_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "thaumon:ancient_stone_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "thaumon:ancient_stone_window"
+		},
+		{
+			"weight": 1.0,
+			"key": "thaumon:ancient_stone_window_pane"
+		},
+		{
+			"weight": 1.0,
+			"key": "thaumon:arcane_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "thaumon:arcane_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "thaumon:arcane_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "thaumon:arcane_lantern"
+		},
+		{
+			"weight": 1.0,
+			"key": "thaumon:arcane_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "thaumon:arcane_stone_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "thaumon:arcane_stone_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "thaumon:arcane_stone_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "thaumon:arcane_stone_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "thaumon:arcane_stone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "thaumon:arcane_stone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "thaumon:arcane_stone_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "thaumon:arcane_stone_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "thaumon:arcane_stone_window"
+		},
+		{
+			"weight": 1.0,
+			"key": "thaumon:arcane_stone_window_pane"
+		},
+		{
+			"weight": 1.0,
+			"key": "thaumon:arcane_tile_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "thaumon:arcane_tile_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "thaumon:carved_eldritch_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "thaumon:chiseled_ancient_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "thaumon:chiseled_eldritch_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "thaumon:classic_greatwood_bookshelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "thaumon:classic_silverwood_bookshelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "thaumon:cracked_ancient_stone_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "thaumon:crystal_lamp"
+		},
+		{
+			"weight": 1.0,
+			"key": "thaumon:crystal_stand"
+		},
+		{
+			"weight": 1.0,
+			"key": "thaumon:dusty_greatwood_bookshelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "thaumon:dusty_silverwood_bookshelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "thaumon:eldritch_lantern"
+		},
+		{
+			"weight": 1.0,
+			"key": "thaumon:eldritch_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "thaumon:eldritch_stone_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "thaumon:eldritch_stone_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "thaumon:eldritch_stone_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "thaumon:eldritch_stone_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "thaumon:eldritch_stone_capstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "thaumon:eldritch_stone_facade"
+		},
+		{
+			"weight": 1.0,
+			"key": "thaumon:eldritch_stone_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "thaumon:eldritch_stone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "thaumon:eldritch_stone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "thaumon:eldritch_stone_tile_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "thaumon:eldritch_stone_tile_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "thaumon:eldritch_stone_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "thaumon:eldritch_stone_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "thaumon:eldritch_stone_window"
+		},
+		{
+			"weight": 1.0,
+			"key": "thaumon:eldritch_stone_window_pane"
+		},
+		{
+			"weight": 1.0,
+			"key": "thaumon:empty_greatwood_bookshelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "thaumon:empty_silverwood_bookshelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "thaumon:engraved_ancient_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "thaumon:engraved_eldritch_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "thaumon:gilded_greatwood_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "thaumon:gilded_greatwood_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "thaumon:greatwood_bookshelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "thaumon:greatwood_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "thaumon:greatwood_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "thaumon:greatwood_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "thaumon:greatwood_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "thaumon:greatwood_grimoire_bookshelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "thaumon:greatwood_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "thaumon:greatwood_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "thaumon:greatwood_log_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "thaumon:greatwood_log_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "thaumon:greatwood_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "thaumon:greatwood_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "thaumon:greatwood_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "thaumon:greatwood_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "thaumon:greatwood_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "thaumon:greatwood_window"
+		},
+		{
+			"weight": 1.0,
+			"key": "thaumon:greatwood_window_pane"
+		},
+		{
+			"weight": 1.0,
+			"key": "thaumon:greatwood_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "thaumon:grimoire"
+		},
+		{
+			"weight": 1.0,
+			"key": "thaumon:grimoire_stack"
+		},
+		{
+			"weight": 1.0,
+			"key": "thaumon:inlaid_ancient_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "thaumon:inlaid_arcane_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "thaumon:inlaid_eldritch_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "thaumon:large_arcane_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "thaumon:large_arcane_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "thaumon:large_arcane_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "thaumon:large_arcane_stone_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "thaumon:mutagen"
+		},
+		{
+			"weight": 1.0,
+			"key": "thaumon:polished_ancient_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "thaumon:polished_ancient_stone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "thaumon:polished_ancient_stone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "thaumon:research_notes"
+		},
+		{
+			"weight": 1.0,
+			"key": "thaumon:retort"
+		},
+		{
+			"weight": 1.0,
+			"key": "thaumon:runic_ancient_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "thaumon:runic_arcane_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "thaumon:runic_arcane_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "thaumon:silverwood_bookshelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "thaumon:silverwood_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "thaumon:silverwood_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "thaumon:silverwood_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "thaumon:silverwood_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "thaumon:silverwood_grimoire_bookshelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "thaumon:silverwood_leaf_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "thaumon:silverwood_leaf_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "thaumon:silverwood_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "thaumon:silverwood_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "thaumon:silverwood_log_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "thaumon:silverwood_log_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "thaumon:silverwood_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "thaumon:silverwood_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "thaumon:silverwood_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "thaumon:silverwood_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "thaumon:silverwood_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "thaumon:silverwood_window"
+		},
+		{
+			"weight": 1.0,
+			"key": "thaumon:silverwood_window_pane"
+		},
+		{
+			"weight": 1.0,
+			"key": "thaumon:silverwood_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "thaumon:tiled_ancient_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "thaumon:tiled_arcane_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "thaumon:vial_rack"
+		}
+	]
+}

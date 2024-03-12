@@ -1,0 +1,176 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "brewinandchewin:beer"
+		},
+		{
+			"weight": 1.0,
+			"key": "brewinandchewin:bloody_mary"
+		},
+		{
+			"weight": 1.0,
+			"key": "brewinandchewin:cheesy_pasta"
+		},
+		{
+			"weight": 1.0,
+			"key": "brewinandchewin:cocoa_fudge"
+		},
+		{
+			"weight": 1.0,
+			"key": "brewinandchewin:creamy_onion_soup"
+		},
+		{
+			"weight": 1.0,
+			"key": "brewinandchewin:dread_nog"
+		},
+		{
+			"weight": 1.0,
+			"key": "brewinandchewin:egg_grog"
+		},
+		{
+			"weight": 1.0,
+			"key": "brewinandchewin:fermentation_controller"
+		},
+		{
+			"weight": 1.0,
+			"key": "brewinandchewin:fiery_fondue"
+		},
+		{
+			"weight": 1.0,
+			"key": "brewinandchewin:fiery_fondue_pot"
+		},
+		{
+			"weight": 1.0,
+			"key": "brewinandchewin:flaxen_cheese_wedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "brewinandchewin:flaxen_cheese_wheel"
+		},
+		{
+			"weight": 1.0,
+			"key": "brewinandchewin:glittering_grenadine"
+		},
+		{
+			"weight": 1.0,
+			"key": "brewinandchewin:ham_and_cheese_sandwich"
+		},
+		{
+			"weight": 1.0,
+			"key": "brewinandchewin:horror_lasagna"
+		},
+		{
+			"weight": 1.0,
+			"key": "brewinandchewin:item_coaster"
+		},
+		{
+			"weight": 1.0,
+			"key": "brewinandchewin:jerky"
+		},
+		{
+			"weight": 1.0,
+			"key": "brewinandchewin:keg"
+		},
+		{
+			"weight": 1.0,
+			"key": "brewinandchewin:kimchi"
+		},
+		{
+			"weight": 1.0,
+			"key": "brewinandchewin:kippers"
+		},
+		{
+			"weight": 1.0,
+			"key": "brewinandchewin:kombucha"
+		},
+		{
+			"weight": 1.0,
+			"key": "brewinandchewin:mead"
+		},
+		{
+			"weight": 1.0,
+			"key": "brewinandchewin:pale_jane"
+		},
+		{
+			"weight": 1.0,
+			"key": "brewinandchewin:pickled_pickles"
+		},
+		{
+			"weight": 1.0,
+			"key": "brewinandchewin:pizza"
+		},
+		{
+			"weight": 1.0,
+			"key": "brewinandchewin:pizza_slice"
+		},
+		{
+			"weight": 1.0,
+			"key": "brewinandchewin:quiche"
+		},
+		{
+			"weight": 1.0,
+			"key": "brewinandchewin:quiche_slice"
+		},
+		{
+			"weight": 1.0,
+			"key": "brewinandchewin:red_rum"
+		},
+		{
+			"weight": 1.0,
+			"key": "brewinandchewin:rice_wine"
+		},
+		{
+			"weight": 1.0,
+			"key": "brewinandchewin:saccharine_rum"
+		},
+		{
+			"weight": 1.0,
+			"key": "brewinandchewin:salty_folly"
+		},
+		{
+			"weight": 1.0,
+			"key": "brewinandchewin:scarlet_cheese_wedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "brewinandchewin:scarlet_cheese_wheel"
+		},
+		{
+			"weight": 1.0,
+			"key": "brewinandchewin:scarlet_pierogies"
+		},
+		{
+			"weight": 1.0,
+			"key": "brewinandchewin:steel_toe_stout"
+		},
+		{
+			"weight": 1.0,
+			"key": "brewinandchewin:strongroot_ale"
+		},
+		{
+			"weight": 1.0,
+			"key": "brewinandchewin:tankard"
+		},
+		{
+			"weight": 1.0,
+			"key": "brewinandchewin:unripe_flaxen_cheese_wheel"
+		},
+		{
+			"weight": 1.0,
+			"key": "brewinandchewin:unripe_scarlet_cheese_wheel"
+		},
+		{
+			"weight": 1.0,
+			"key": "brewinandchewin:vegetable_omelet"
+		},
+		{
+			"weight": 1.0,
+			"key": "brewinandchewin:vodka"
+		},
+		{
+			"weight": 1.0,
+			"key": "brewinandchewin:withering_dross"
+		}
+	]
+}

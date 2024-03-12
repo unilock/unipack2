@@ -1,0 +1,481 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "aurorasdeco:big_flower_pot/botania/white_buried_petals"
+				},
+				{
+					"Name": "aurorasdeco:big_flower_pot/botania/light_gray_buried_petals"
+				},
+				{
+					"Name": "aurorasdeco:big_flower_pot/botania/gray_buried_petals"
+				},
+				{
+					"Name": "aurorasdeco:big_flower_pot/botania/black_buried_petals"
+				},
+				{
+					"Name": "aurorasdeco:big_flower_pot/botania/brown_buried_petals"
+				},
+				{
+					"Name": "aurorasdeco:big_flower_pot/botania/red_buried_petals"
+				},
+				{
+					"Name": "aurorasdeco:big_flower_pot/botania/orange_buried_petals"
+				},
+				{
+					"Name": "aurorasdeco:big_flower_pot/botania/yellow_buried_petals"
+				},
+				{
+					"Name": "aurorasdeco:big_flower_pot/botania/lime_buried_petals"
+				},
+				{
+					"Name": "aurorasdeco:big_flower_pot/botania/green_buried_petals"
+				},
+				{
+					"Name": "aurorasdeco:big_flower_pot/botania/light_blue_buried_petals"
+				},
+				{
+					"Name": "aurorasdeco:big_flower_pot/botania/blue_buried_petals"
+				},
+				{
+					"Name": "aurorasdeco:big_flower_pot/botania/cyan_buried_petals"
+				},
+				{
+					"Name": "aurorasdeco:big_flower_pot/botania/purple_buried_petals"
+				},
+				{
+					"Name": "aurorasdeco:big_flower_pot/botania/magenta_buried_petals"
+				},
+				{
+					"Name": "aurorasdeco:big_flower_pot/botania/pink_buried_petals"
+				}
+			]
+		},
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "aurorasdeco:big_flower_pot/botania/white_double_flower"
+				},
+				{
+					"Name": "aurorasdeco:big_flower_pot/botania/light_gray_double_flower"
+				},
+				{
+					"Name": "aurorasdeco:big_flower_pot/botania/gray_double_flower"
+				},
+				{
+					"Name": "aurorasdeco:big_flower_pot/botania/black_double_flower"
+				},
+				{
+					"Name": "aurorasdeco:big_flower_pot/botania/brown_double_flower"
+				},
+				{
+					"Name": "aurorasdeco:big_flower_pot/botania/red_double_flower"
+				},
+				{
+					"Name": "aurorasdeco:big_flower_pot/botania/orange_double_flower"
+				},
+				{
+					"Name": "aurorasdeco:big_flower_pot/botania/yellow_double_flower"
+				},
+				{
+					"Name": "aurorasdeco:big_flower_pot/botania/lime_double_flower"
+				},
+				{
+					"Name": "aurorasdeco:big_flower_pot/botania/green_double_flower"
+				},
+				{
+					"Name": "aurorasdeco:big_flower_pot/botania/light_blue_double_flower"
+				},
+				{
+					"Name": "aurorasdeco:big_flower_pot/botania/blue_double_flower"
+				},
+				{
+					"Name": "aurorasdeco:big_flower_pot/botania/cyan_double_flower"
+				},
+				{
+					"Name": "aurorasdeco:big_flower_pot/botania/purple_double_flower"
+				},
+				{
+					"Name": "aurorasdeco:big_flower_pot/botania/magenta_double_flower"
+				},
+				{
+					"Name": "aurorasdeco:big_flower_pot/botania/pink_double_flower"
+				}
+			]
+		},
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "aurorasdeco:big_flower_pot/botania/white_mushroom"
+				},
+				{
+					"Name": "aurorasdeco:big_flower_pot/botania/light_gray_mushroom"
+				},
+				{
+					"Name": "aurorasdeco:big_flower_pot/botania/gray_mushroom"
+				},
+				{
+					"Name": "aurorasdeco:big_flower_pot/botania/black_mushroom"
+				},
+				{
+					"Name": "aurorasdeco:big_flower_pot/botania/brown_mushroom"
+				},
+				{
+					"Name": "aurorasdeco:big_flower_pot/botania/red_mushroom"
+				},
+				{
+					"Name": "aurorasdeco:big_flower_pot/botania/orange_mushroom"
+				},
+				{
+					"Name": "aurorasdeco:big_flower_pot/botania/yellow_mushroom"
+				},
+				{
+					"Name": "aurorasdeco:big_flower_pot/botania/lime_mushroom"
+				},
+				{
+					"Name": "aurorasdeco:big_flower_pot/botania/green_mushroom"
+				},
+				{
+					"Name": "aurorasdeco:big_flower_pot/botania/light_blue_mushroom"
+				},
+				{
+					"Name": "aurorasdeco:big_flower_pot/botania/blue_mushroom"
+				},
+				{
+					"Name": "aurorasdeco:big_flower_pot/botania/cyan_mushroom"
+				},
+				{
+					"Name": "aurorasdeco:big_flower_pot/botania/purple_mushroom"
+				},
+				{
+					"Name": "aurorasdeco:big_flower_pot/botania/magenta_mushroom"
+				},
+				{
+					"Name": "aurorasdeco:big_flower_pot/botania/pink_mushroom"
+				}
+			]
+		},
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "aurorasdeco:big_flower_pot/botania/white_mystical_flower"
+				},
+				{
+					"Name": "aurorasdeco:big_flower_pot/botania/light_gray_mystical_flower"
+				},
+				{
+					"Name": "aurorasdeco:big_flower_pot/botania/gray_mystical_flower"
+				},
+				{
+					"Name": "aurorasdeco:big_flower_pot/botania/black_mystical_flower"
+				},
+				{
+					"Name": "aurorasdeco:big_flower_pot/botania/brown_mystical_flower"
+				},
+				{
+					"Name": "aurorasdeco:big_flower_pot/botania/red_mystical_flower"
+				},
+				{
+					"Name": "aurorasdeco:big_flower_pot/botania/orange_mystical_flower"
+				},
+				{
+					"Name": "aurorasdeco:big_flower_pot/botania/yellow_mystical_flower"
+				},
+				{
+					"Name": "aurorasdeco:big_flower_pot/botania/lime_mystical_flower"
+				},
+				{
+					"Name": "aurorasdeco:big_flower_pot/botania/green_mystical_flower"
+				},
+				{
+					"Name": "aurorasdeco:big_flower_pot/botania/light_blue_mystical_flower"
+				},
+				{
+					"Name": "aurorasdeco:big_flower_pot/botania/blue_mystical_flower"
+				},
+				{
+					"Name": "aurorasdeco:big_flower_pot/botania/cyan_mystical_flower"
+				},
+				{
+					"Name": "aurorasdeco:big_flower_pot/botania/purple_mystical_flower"
+				},
+				{
+					"Name": "aurorasdeco:big_flower_pot/botania/magenta_mystical_flower"
+				},
+				{
+					"Name": "aurorasdeco:big_flower_pot/botania/pink_mystical_flower"
+				}
+			]
+		},
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "aurorasdeco:big_flower_pot/botania/white_shiny_flower"
+				},
+				{
+					"Name": "aurorasdeco:big_flower_pot/botania/light_gray_shiny_flower"
+				},
+				{
+					"Name": "aurorasdeco:big_flower_pot/botania/gray_shiny_flower"
+				},
+				{
+					"Name": "aurorasdeco:big_flower_pot/botania/black_shiny_flower"
+				},
+				{
+					"Name": "aurorasdeco:big_flower_pot/botania/brown_shiny_flower"
+				},
+				{
+					"Name": "aurorasdeco:big_flower_pot/botania/red_shiny_flower"
+				},
+				{
+					"Name": "aurorasdeco:big_flower_pot/botania/orange_shiny_flower"
+				},
+				{
+					"Name": "aurorasdeco:big_flower_pot/botania/yellow_shiny_flower"
+				},
+				{
+					"Name": "aurorasdeco:big_flower_pot/botania/lime_shiny_flower"
+				},
+				{
+					"Name": "aurorasdeco:big_flower_pot/botania/green_shiny_flower"
+				},
+				{
+					"Name": "aurorasdeco:big_flower_pot/botania/light_blue_shiny_flower"
+				},
+				{
+					"Name": "aurorasdeco:big_flower_pot/botania/blue_shiny_flower"
+				},
+				{
+					"Name": "aurorasdeco:big_flower_pot/botania/cyan_shiny_flower"
+				},
+				{
+					"Name": "aurorasdeco:big_flower_pot/botania/purple_shiny_flower"
+				},
+				{
+					"Name": "aurorasdeco:big_flower_pot/botania/magenta_shiny_flower"
+				},
+				{
+					"Name": "aurorasdeco:big_flower_pot/botania/pink_shiny_flower"
+				}
+			]
+		},
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "aurorasdeco:big_flower_pot/spectrum/white_sapling"
+				},
+				{
+					"Name": "aurorasdeco:big_flower_pot/spectrum/light_gray_sapling"
+				},
+				{
+					"Name": "aurorasdeco:big_flower_pot/spectrum/gray_sapling"
+				},
+				{
+					"Name": "aurorasdeco:big_flower_pot/spectrum/black_sapling"
+				},
+				{
+					"Name": "aurorasdeco:big_flower_pot/spectrum/brown_sapling"
+				},
+				{
+					"Name": "aurorasdeco:big_flower_pot/spectrum/red_sapling"
+				},
+				{
+					"Name": "aurorasdeco:big_flower_pot/spectrum/orange_sapling"
+				},
+				{
+					"Name": "aurorasdeco:big_flower_pot/spectrum/yellow_sapling"
+				},
+				{
+					"Name": "aurorasdeco:big_flower_pot/spectrum/lime_sapling"
+				},
+				{
+					"Name": "aurorasdeco:big_flower_pot/spectrum/green_sapling"
+				},
+				{
+					"Name": "aurorasdeco:big_flower_pot/spectrum/light_blue_sapling"
+				},
+				{
+					"Name": "aurorasdeco:big_flower_pot/spectrum/blue_sapling"
+				},
+				{
+					"Name": "aurorasdeco:big_flower_pot/spectrum/cyan_sapling"
+				},
+				{
+					"Name": "aurorasdeco:big_flower_pot/spectrum/purple_sapling"
+				},
+				{
+					"Name": "aurorasdeco:big_flower_pot/spectrum/magenta_sapling"
+				},
+				{
+					"Name": "aurorasdeco:big_flower_pot/spectrum/pink_sapling"
+				}
+			]
+		},
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "aurorasdeco:pet_bed/white"
+				},
+				{
+					"Name": "aurorasdeco:pet_bed/light_gray"
+				},
+				{
+					"Name": "aurorasdeco:pet_bed/gray"
+				},
+				{
+					"Name": "aurorasdeco:pet_bed/black"
+				},
+				{
+					"Name": "aurorasdeco:pet_bed/brown"
+				},
+				{
+					"Name": "aurorasdeco:pet_bed/red"
+				},
+				{
+					"Name": "aurorasdeco:pet_bed/orange"
+				},
+				{
+					"Name": "aurorasdeco:pet_bed/yellow"
+				},
+				{
+					"Name": "aurorasdeco:pet_bed/lime"
+				},
+				{
+					"Name": "aurorasdeco:pet_bed/green"
+				},
+				{
+					"Name": "aurorasdeco:pet_bed/light_blue"
+				},
+				{
+					"Name": "aurorasdeco:pet_bed/blue"
+				},
+				{
+					"Name": "aurorasdeco:pet_bed/cyan"
+				},
+				{
+					"Name": "aurorasdeco:pet_bed/purple"
+				},
+				{
+					"Name": "aurorasdeco:pet_bed/magenta"
+				},
+				{
+					"Name": "aurorasdeco:pet_bed/pink"
+				}
+			]
+		},
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "aurorasdeco:sleeping_bag/white"
+				},
+				{
+					"Name": "aurorasdeco:sleeping_bag/light_gray"
+				},
+				{
+					"Name": "aurorasdeco:sleeping_bag/gray"
+				},
+				{
+					"Name": "aurorasdeco:sleeping_bag/black"
+				},
+				{
+					"Name": "aurorasdeco:sleeping_bag/brown"
+				},
+				{
+					"Name": "aurorasdeco:sleeping_bag/red"
+				},
+				{
+					"Name": "aurorasdeco:sleeping_bag/orange"
+				},
+				{
+					"Name": "aurorasdeco:sleeping_bag/yellow"
+				},
+				{
+					"Name": "aurorasdeco:sleeping_bag/lime"
+				},
+				{
+					"Name": "aurorasdeco:sleeping_bag/green"
+				},
+				{
+					"Name": "aurorasdeco:sleeping_bag/light_blue"
+				},
+				{
+					"Name": "aurorasdeco:sleeping_bag/blue"
+				},
+				{
+					"Name": "aurorasdeco:sleeping_bag/cyan"
+				},
+				{
+					"Name": "aurorasdeco:sleeping_bag/purple"
+				},
+				{
+					"Name": "aurorasdeco:sleeping_bag/magenta"
+				},
+				{
+					"Name": "aurorasdeco:sleeping_bag/pink"
+				}
+			]
+		},
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "aurorasdeco:small_log_pile/spectrum/white"
+				},
+				{
+					"Name": "aurorasdeco:small_log_pile/spectrum/light_gray"
+				},
+				{
+					"Name": "aurorasdeco:small_log_pile/spectrum/gray"
+				},
+				{
+					"Name": "aurorasdeco:small_log_pile/spectrum/black"
+				},
+				{
+					"Name": "aurorasdeco:small_log_pile/spectrum/brown"
+				},
+				{
+					"Name": "aurorasdeco:small_log_pile/spectrum/red"
+				},
+				{
+					"Name": "aurorasdeco:small_log_pile/spectrum/orange"
+				},
+				{
+					"Name": "aurorasdeco:small_log_pile/spectrum/yellow"
+				},
+				{
+					"Name": "aurorasdeco:small_log_pile/spectrum/lime"
+				},
+				{
+					"Name": "aurorasdeco:small_log_pile/spectrum/green"
+				},
+				{
+					"Name": "aurorasdeco:small_log_pile/spectrum/light_blue"
+				},
+				{
+					"Name": "aurorasdeco:small_log_pile/spectrum/blue"
+				},
+				{
+					"Name": "aurorasdeco:small_log_pile/spectrum/cyan"
+				},
+				{
+					"Name": "aurorasdeco:small_log_pile/spectrum/purple"
+				},
+				{
+					"Name": "aurorasdeco:small_log_pile/spectrum/magenta"
+				},
+				{
+					"Name": "aurorasdeco:small_log_pile/spectrum/pink"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,28 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "arcpocalypse:abyss_lift"
+		},
+		{
+			"weight": 1.0,
+			"key": "arcpocalypse:crimson_gem"
+		},
+		{
+			"weight": 1.0,
+			"key": "arcpocalypse:holy_math_symbol"
+		},
+		{
+			"weight": 1.0,
+			"key": "arcpocalypse:hypnotic_stopwatch"
+		},
+		{
+			"weight": 1.0,
+			"key": "arcpocalypse:suspicious_broom"
+		},
+		{
+			"weight": 1.0,
+			"key": "arcpocalypse:true_ancestor_marble"
+		}
+	]
+}

@@ -1,0 +1,24 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "geologicexpansion:block.geyser.erupt"
+		},
+		{
+			"weight": 1.0,
+			"key": "geologicexpansion:entity.duck.ambient"
+		},
+		{
+			"weight": 1.0,
+			"key": "geologicexpansion:entity.duck.death"
+		},
+		{
+			"weight": 1.0,
+			"key": "geologicexpansion:entity.duck.hurt"
+		},
+		{
+			"weight": 1.0,
+			"key": "geologicexpansion:entity.duck.step"
+		}
+	]
+}

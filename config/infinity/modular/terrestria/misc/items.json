@@ -1,0 +1,920 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "terrestria:agave"
+		},
+		{
+			"weight": 1.0,
+			"key": "terrestria:aloe_vera"
+		},
+		{
+			"weight": 1.0,
+			"key": "terrestria:andisol_farmland"
+		},
+		{
+			"weight": 1.0,
+			"key": "terrestria:andisol_grass_path"
+		},
+		{
+			"weight": 1.0,
+			"key": "terrestria:basalt"
+		},
+		{
+			"weight": 1.0,
+			"key": "terrestria:basalt_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "terrestria:basalt_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "terrestria:basalt_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "terrestria:basalt_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "terrestria:basalt_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "terrestria:basalt_cobblestone"
+		},
+		{
+			"weight": 1.0,
+			"key": "terrestria:basalt_cobblestone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "terrestria:basalt_cobblestone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "terrestria:basalt_cobblestone_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "terrestria:basalt_dirt"
+		},
+		{
+			"weight": 1.0,
+			"key": "terrestria:basalt_grass_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "terrestria:basalt_podzol"
+		},
+		{
+			"weight": 1.0,
+			"key": "terrestria:basalt_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "terrestria:basalt_sand"
+		},
+		{
+			"weight": 1.0,
+			"key": "terrestria:basalt_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "terrestria:basalt_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "terrestria:basalt_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "terrestria:bryce_sapling"
+		},
+		{
+			"weight": 1.0,
+			"key": "terrestria:cattail"
+		},
+		{
+			"weight": 1.0,
+			"key": "terrestria:chiseled_basalt_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "terrestria:cracked_basalt_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "terrestria:cypress_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "terrestria:cypress_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "terrestria:cypress_chest_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "terrestria:cypress_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "terrestria:cypress_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "terrestria:cypress_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "terrestria:cypress_hanging_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "terrestria:cypress_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "terrestria:cypress_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "terrestria:cypress_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "terrestria:cypress_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "terrestria:cypress_quarter_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "terrestria:cypress_sapling"
+		},
+		{
+			"weight": 1.0,
+			"key": "terrestria:cypress_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "terrestria:cypress_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "terrestria:cypress_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "terrestria:cypress_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "terrestria:cypress_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "terrestria:dark_japanese_maple_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "terrestria:dark_japanese_maple_sapling"
+		},
+		{
+			"weight": 1.0,
+			"key": "terrestria:dead_grass"
+		},
+		{
+			"weight": 1.0,
+			"key": "terrestria:hemlock_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "terrestria:hemlock_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "terrestria:hemlock_chest_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "terrestria:hemlock_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "terrestria:hemlock_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "terrestria:hemlock_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "terrestria:hemlock_hanging_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "terrestria:hemlock_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "terrestria:hemlock_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "terrestria:hemlock_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "terrestria:hemlock_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "terrestria:hemlock_quarter_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "terrestria:hemlock_sapling"
+		},
+		{
+			"weight": 1.0,
+			"key": "terrestria:hemlock_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "terrestria:hemlock_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "terrestria:hemlock_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "terrestria:hemlock_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "terrestria:hemlock_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "terrestria:indian_paintbrush"
+		},
+		{
+			"weight": 1.0,
+			"key": "terrestria:japanese_maple_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "terrestria:japanese_maple_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "terrestria:japanese_maple_chest_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "terrestria:japanese_maple_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "terrestria:japanese_maple_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "terrestria:japanese_maple_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "terrestria:japanese_maple_hanging_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "terrestria:japanese_maple_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "terrestria:japanese_maple_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "terrestria:japanese_maple_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "terrestria:japanese_maple_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "terrestria:japanese_maple_sapling"
+		},
+		{
+			"weight": 1.0,
+			"key": "terrestria:japanese_maple_shrub_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "terrestria:japanese_maple_shrub_sapling"
+		},
+		{
+			"weight": 1.0,
+			"key": "terrestria:japanese_maple_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "terrestria:japanese_maple_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "terrestria:japanese_maple_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "terrestria:japanese_maple_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "terrestria:japanese_maple_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "terrestria:jungle_palm_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "terrestria:jungle_palm_sapling"
+		},
+		{
+			"weight": 1.0,
+			"key": "terrestria:log_turner"
+		},
+		{
+			"weight": 1.0,
+			"key": "terrestria:monsteras"
+		},
+		{
+			"weight": 1.0,
+			"key": "terrestria:mossy_basalt_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "terrestria:mossy_basalt_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "terrestria:mossy_basalt_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "terrestria:mossy_basalt_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "terrestria:mossy_basalt_cobblestone"
+		},
+		{
+			"weight": 1.0,
+			"key": "terrestria:mossy_basalt_cobblestone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "terrestria:mossy_basalt_cobblestone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "terrestria:mossy_basalt_cobblestone_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "terrestria:rainbow_eucalyptus_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "terrestria:rainbow_eucalyptus_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "terrestria:rainbow_eucalyptus_chest_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "terrestria:rainbow_eucalyptus_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "terrestria:rainbow_eucalyptus_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "terrestria:rainbow_eucalyptus_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "terrestria:rainbow_eucalyptus_hanging_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "terrestria:rainbow_eucalyptus_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "terrestria:rainbow_eucalyptus_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "terrestria:rainbow_eucalyptus_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "terrestria:rainbow_eucalyptus_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "terrestria:rainbow_eucalyptus_quarter_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "terrestria:rainbow_eucalyptus_sapling"
+		},
+		{
+			"weight": 1.0,
+			"key": "terrestria:rainbow_eucalyptus_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "terrestria:rainbow_eucalyptus_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "terrestria:rainbow_eucalyptus_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "terrestria:rainbow_eucalyptus_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "terrestria:rainbow_eucalyptus_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "terrestria:redwood_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "terrestria:redwood_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "terrestria:redwood_chest_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "terrestria:redwood_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "terrestria:redwood_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "terrestria:redwood_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "terrestria:redwood_hanging_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "terrestria:redwood_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "terrestria:redwood_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "terrestria:redwood_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "terrestria:redwood_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "terrestria:redwood_quarter_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "terrestria:redwood_sapling"
+		},
+		{
+			"weight": 1.0,
+			"key": "terrestria:redwood_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "terrestria:redwood_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "terrestria:redwood_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "terrestria:redwood_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "terrestria:redwood_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "terrestria:rubber_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "terrestria:rubber_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "terrestria:rubber_chest_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "terrestria:rubber_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "terrestria:rubber_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "terrestria:rubber_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "terrestria:rubber_hanging_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "terrestria:rubber_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "terrestria:rubber_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "terrestria:rubber_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "terrestria:rubber_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "terrestria:rubber_sapling"
+		},
+		{
+			"weight": 1.0,
+			"key": "terrestria:rubber_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "terrestria:rubber_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "terrestria:rubber_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "terrestria:rubber_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "terrestria:rubber_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "terrestria:saguaro_cactus"
+		},
+		{
+			"weight": 1.0,
+			"key": "terrestria:saguaro_cactus_sapling"
+		},
+		{
+			"weight": 1.0,
+			"key": "terrestria:sakura_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "terrestria:sakura_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "terrestria:sakura_chest_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "terrestria:sakura_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "terrestria:sakura_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "terrestria:sakura_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "terrestria:sakura_hanging_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "terrestria:sakura_leaf_pile"
+		},
+		{
+			"weight": 1.0,
+			"key": "terrestria:sakura_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "terrestria:sakura_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "terrestria:sakura_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "terrestria:sakura_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "terrestria:sakura_sapling"
+		},
+		{
+			"weight": 1.0,
+			"key": "terrestria:sakura_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "terrestria:sakura_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "terrestria:sakura_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "terrestria:sakura_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "terrestria:small_oak_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "terrestria:smooth_basalt"
+		},
+		{
+			"weight": 1.0,
+			"key": "terrestria:smooth_basalt_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "terrestria:smooth_basalt_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "terrestria:smooth_basalt_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "terrestria:stripped_cypress_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "terrestria:stripped_cypress_quarter_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "terrestria:stripped_cypress_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "terrestria:stripped_hemlock_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "terrestria:stripped_hemlock_quarter_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "terrestria:stripped_hemlock_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "terrestria:stripped_japanese_maple_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "terrestria:stripped_japanese_maple_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "terrestria:stripped_rainbow_eucalyptus_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "terrestria:stripped_rainbow_eucalyptus_quarter_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "terrestria:stripped_rainbow_eucalyptus_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "terrestria:stripped_redwood_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "terrestria:stripped_redwood_quarter_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "terrestria:stripped_redwood_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "terrestria:stripped_rubber_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "terrestria:stripped_rubber_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "terrestria:stripped_sakura_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "terrestria:stripped_small_oak_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "terrestria:stripped_willow_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "terrestria:stripped_willow_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "terrestria:stripped_yucca_palm_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "terrestria:tiny_cactus"
+		},
+		{
+			"weight": 1.0,
+			"key": "terrestria:willow_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "terrestria:willow_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "terrestria:willow_chest_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "terrestria:willow_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "terrestria:willow_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "terrestria:willow_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "terrestria:willow_hanging_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "terrestria:willow_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "terrestria:willow_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "terrestria:willow_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "terrestria:willow_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "terrestria:willow_sapling"
+		},
+		{
+			"weight": 1.0,
+			"key": "terrestria:willow_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "terrestria:willow_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "terrestria:willow_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "terrestria:willow_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "terrestria:willow_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "terrestria:yucca_palm_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "terrestria:yucca_palm_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "terrestria:yucca_palm_chest_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "terrestria:yucca_palm_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "terrestria:yucca_palm_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "terrestria:yucca_palm_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "terrestria:yucca_palm_hanging_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "terrestria:yucca_palm_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "terrestria:yucca_palm_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "terrestria:yucca_palm_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "terrestria:yucca_palm_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "terrestria:yucca_palm_sapling"
+		},
+		{
+			"weight": 1.0,
+			"key": "terrestria:yucca_palm_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "terrestria:yucca_palm_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "terrestria:yucca_palm_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "terrestria:yucca_palm_trapdoor"
+		}
+	]
+}

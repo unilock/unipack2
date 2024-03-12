@@ -1,0 +1,904 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "conventional_cubes:aero_gold"
+		},
+		{
+			"weight": 1.0,
+			"key": "conventional_cubes:aero_purple"
+		},
+		{
+			"weight": 1.0,
+			"key": "conventional_cubes:aero_purple_ridged"
+		},
+		{
+			"weight": 1.0,
+			"key": "conventional_cubes:aero_purple_round"
+		},
+		{
+			"weight": 1.0,
+			"key": "conventional_cubes:carmine_brick"
+		},
+		{
+			"weight": 1.0,
+			"key": "conventional_cubes:carmine_large_tile"
+		},
+		{
+			"weight": 1.0,
+			"key": "conventional_cubes:carmine_small_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "conventional_cubes:carmine_smooth"
+		},
+		{
+			"weight": 1.0,
+			"key": "conventional_cubes:carmine_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "conventional_cubes:celestite_brick"
+		},
+		{
+			"weight": 1.0,
+			"key": "conventional_cubes:celestite_brick_slope"
+		},
+		{
+			"weight": 1.0,
+			"key": "conventional_cubes:celestite_checker"
+		},
+		{
+			"weight": 1.0,
+			"key": "conventional_cubes:celestite_checker_slope"
+		},
+		{
+			"weight": 1.0,
+			"key": "conventional_cubes:celestite_dark_brick"
+		},
+		{
+			"weight": 1.0,
+			"key": "conventional_cubes:celestite_dark_hexagons"
+		},
+		{
+			"weight": 1.0,
+			"key": "conventional_cubes:celestite_dark_large_tile"
+		},
+		{
+			"weight": 1.0,
+			"key": "conventional_cubes:celestite_dark_prism"
+		},
+		{
+			"weight": 1.0,
+			"key": "conventional_cubes:celestite_dark_small_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "conventional_cubes:celestite_dark_smooth"
+		},
+		{
+			"weight": 1.0,
+			"key": "conventional_cubes:celestite_dark_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "conventional_cubes:celestite_hexagons"
+		},
+		{
+			"weight": 1.0,
+			"key": "conventional_cubes:celestite_large_tile"
+		},
+		{
+			"weight": 1.0,
+			"key": "conventional_cubes:celestite_prism"
+		},
+		{
+			"weight": 1.0,
+			"key": "conventional_cubes:celestite_small_checker"
+		},
+		{
+			"weight": 1.0,
+			"key": "conventional_cubes:celestite_small_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "conventional_cubes:celestite_smooth"
+		},
+		{
+			"weight": 1.0,
+			"key": "conventional_cubes:celestite_smooth_slope"
+		},
+		{
+			"weight": 1.0,
+			"key": "conventional_cubes:celestite_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "conventional_cubes:crystal_lamp_black"
+		},
+		{
+			"weight": 1.0,
+			"key": "conventional_cubes:crystal_lamp_blue"
+		},
+		{
+			"weight": 1.0,
+			"key": "conventional_cubes:crystal_lamp_golbez"
+		},
+		{
+			"weight": 1.0,
+			"key": "conventional_cubes:crystal_lamp_green"
+		},
+		{
+			"weight": 1.0,
+			"key": "conventional_cubes:crystal_lamp_lime"
+		},
+		{
+			"weight": 1.0,
+			"key": "conventional_cubes:crystal_lamp_magenta"
+		},
+		{
+			"weight": 1.0,
+			"key": "conventional_cubes:crystal_lamp_mint"
+		},
+		{
+			"weight": 1.0,
+			"key": "conventional_cubes:crystal_lamp_orange"
+		},
+		{
+			"weight": 1.0,
+			"key": "conventional_cubes:crystal_lamp_pink"
+		},
+		{
+			"weight": 1.0,
+			"key": "conventional_cubes:crystal_lamp_pulsing"
+		},
+		{
+			"weight": 1.0,
+			"key": "conventional_cubes:crystal_lamp_sky"
+		},
+		{
+			"weight": 1.0,
+			"key": "conventional_cubes:crystal_lamp_undersea_palace"
+		},
+		{
+			"weight": 1.0,
+			"key": "conventional_cubes:crystal_lamp_yellow"
+		},
+		{
+			"weight": 1.0,
+			"key": "conventional_cubes:dolomite_brick"
+		},
+		{
+			"weight": 1.0,
+			"key": "conventional_cubes:dolomite_brick_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "conventional_cubes:dolomite_brick_slope"
+		},
+		{
+			"weight": 1.0,
+			"key": "conventional_cubes:dolomite_checker"
+		},
+		{
+			"weight": 1.0,
+			"key": "conventional_cubes:dolomite_checker_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "conventional_cubes:dolomite_checker_slope"
+		},
+		{
+			"weight": 1.0,
+			"key": "conventional_cubes:dolomite_column"
+		},
+		{
+			"weight": 1.0,
+			"key": "conventional_cubes:dolomite_dark_brick"
+		},
+		{
+			"weight": 1.0,
+			"key": "conventional_cubes:dolomite_dark_hexagons"
+		},
+		{
+			"weight": 1.0,
+			"key": "conventional_cubes:dolomite_dark_large_tile"
+		},
+		{
+			"weight": 1.0,
+			"key": "conventional_cubes:dolomite_dark_prism"
+		},
+		{
+			"weight": 1.0,
+			"key": "conventional_cubes:dolomite_dark_small_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "conventional_cubes:dolomite_dark_smooth"
+		},
+		{
+			"weight": 1.0,
+			"key": "conventional_cubes:dolomite_dark_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "conventional_cubes:dolomite_hexagons"
+		},
+		{
+			"weight": 1.0,
+			"key": "conventional_cubes:dolomite_large_tile"
+		},
+		{
+			"weight": 1.0,
+			"key": "conventional_cubes:dolomite_prism"
+		},
+		{
+			"weight": 1.0,
+			"key": "conventional_cubes:dolomite_small_checker"
+		},
+		{
+			"weight": 1.0,
+			"key": "conventional_cubes:dolomite_small_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "conventional_cubes:dolomite_smooth"
+		},
+		{
+			"weight": 1.0,
+			"key": "conventional_cubes:dolomite_smooth_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "conventional_cubes:dolomite_smooth_slope"
+		},
+		{
+			"weight": 1.0,
+			"key": "conventional_cubes:dolomite_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "conventional_cubes:erechtheion_brick"
+		},
+		{
+			"weight": 1.0,
+			"key": "conventional_cubes:erechtheion_large_tile"
+		},
+		{
+			"weight": 1.0,
+			"key": "conventional_cubes:erechtheion_small_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "conventional_cubes:erechtheion_smooth"
+		},
+		{
+			"weight": 1.0,
+			"key": "conventional_cubes:erechtheion_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "conventional_cubes:figaro_acidic_gravel"
+		},
+		{
+			"weight": 1.0,
+			"key": "conventional_cubes:figaro_black_canal"
+		},
+		{
+			"weight": 1.0,
+			"key": "conventional_cubes:figaro_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "conventional_cubes:figaro_bright_canal"
+		},
+		{
+			"weight": 1.0,
+			"key": "conventional_cubes:figaro_bright_canal_slope"
+		},
+		{
+			"weight": 1.0,
+			"key": "conventional_cubes:figaro_cobble"
+		},
+		{
+			"weight": 1.0,
+			"key": "conventional_cubes:figaro_dark_canal"
+		},
+		{
+			"weight": 1.0,
+			"key": "conventional_cubes:figaro_edging"
+		},
+		{
+			"weight": 1.0,
+			"key": "conventional_cubes:figaro_path"
+		},
+		{
+			"weight": 1.0,
+			"key": "conventional_cubes:figaro_regular_canal"
+		},
+		{
+			"weight": 1.0,
+			"key": "conventional_cubes:figaro_roof_slate"
+		},
+		{
+			"weight": 1.0,
+			"key": "conventional_cubes:figaro_roof_slate_slope"
+		},
+		{
+			"weight": 1.0,
+			"key": "conventional_cubes:figaro_shingles"
+		},
+		{
+			"weight": 1.0,
+			"key": "conventional_cubes:figaro_thamasa"
+		},
+		{
+			"weight": 1.0,
+			"key": "conventional_cubes:figaro_thamasa_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "conventional_cubes:figaro_vector"
+		},
+		{
+			"weight": 1.0,
+			"key": "conventional_cubes:figaro_vector_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "conventional_cubes:figaro_zozo"
+		},
+		{
+			"weight": 1.0,
+			"key": "conventional_cubes:figaro_zozo_slope"
+		},
+		{
+			"weight": 1.0,
+			"key": "conventional_cubes:fortyfive_brick"
+		},
+		{
+			"weight": 1.0,
+			"key": "conventional_cubes:fortyfive_dots"
+		},
+		{
+			"weight": 1.0,
+			"key": "conventional_cubes:fortyfive_embossed"
+		},
+		{
+			"weight": 1.0,
+			"key": "conventional_cubes:fortyfive_grate"
+		},
+		{
+			"weight": 1.0,
+			"key": "conventional_cubes:fortyfive_large_tile"
+		},
+		{
+			"weight": 1.0,
+			"key": "conventional_cubes:fortyfive_panel"
+		},
+		{
+			"weight": 1.0,
+			"key": "conventional_cubes:fortyfive_t"
+		},
+		{
+			"weight": 1.0,
+			"key": "conventional_cubes:fortyfive_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "conventional_cubes:gestahl_dark_panel"
+		},
+		{
+			"weight": 1.0,
+			"key": "conventional_cubes:gestahl_domino"
+		},
+		{
+			"weight": 1.0,
+			"key": "conventional_cubes:gestahl_girder"
+		},
+		{
+			"weight": 1.0,
+			"key": "conventional_cubes:gestahl_grate"
+		},
+		{
+			"weight": 1.0,
+			"key": "conventional_cubes:gestahl_gray_treads"
+		},
+		{
+			"weight": 1.0,
+			"key": "conventional_cubes:gestahl_light_panel"
+		},
+		{
+			"weight": 1.0,
+			"key": "conventional_cubes:gestahl_medium_panel"
+		},
+		{
+			"weight": 1.0,
+			"key": "conventional_cubes:gestahl_platform"
+		},
+		{
+			"weight": 1.0,
+			"key": "conventional_cubes:gestahl_rumpled_tech"
+		},
+		{
+			"weight": 1.0,
+			"key": "conventional_cubes:gestahl_rusted_girder"
+		},
+		{
+			"weight": 1.0,
+			"key": "conventional_cubes:gestahl_scaffold"
+		},
+		{
+			"weight": 1.0,
+			"key": "conventional_cubes:gestahl_shadowed"
+		},
+		{
+			"weight": 1.0,
+			"key": "conventional_cubes:gestahl_smooth_surface"
+		},
+		{
+			"weight": 1.0,
+			"key": "conventional_cubes:gestahl_smooth_tech"
+		},
+		{
+			"weight": 1.0,
+			"key": "conventional_cubes:gestahl_steps"
+		},
+		{
+			"weight": 1.0,
+			"key": "conventional_cubes:gestahl_surface"
+		},
+		{
+			"weight": 1.0,
+			"key": "conventional_cubes:gestahl_treads"
+		},
+		{
+			"weight": 1.0,
+			"key": "conventional_cubes:ghosthouse_brick"
+		},
+		{
+			"weight": 1.0,
+			"key": "conventional_cubes:ghosthouse_gray_dents"
+		},
+		{
+			"weight": 1.0,
+			"key": "conventional_cubes:ghosthouse_uneven_gray_brick"
+		},
+		{
+			"weight": 1.0,
+			"key": "conventional_cubes:ghosthouse_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "conventional_cubes:lofi_wood_crate"
+		},
+		{
+			"weight": 1.0,
+			"key": "conventional_cubes:lofi_wood_laminated"
+		},
+		{
+			"weight": 1.0,
+			"key": "conventional_cubes:lofi_wood_panel"
+		},
+		{
+			"weight": 1.0,
+			"key": "conventional_cubes:lofi_wood_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "conventional_cubes:lofi_wood_polished"
+		},
+		{
+			"weight": 1.0,
+			"key": "conventional_cubes:oneup_bevel"
+		},
+		{
+			"weight": 1.0,
+			"key": "conventional_cubes:oneup_depleted_question"
+		},
+		{
+			"weight": 1.0,
+			"key": "conventional_cubes:oneup_gold_brick"
+		},
+		{
+			"weight": 1.0,
+			"key": "conventional_cubes:oneup_lime_seastone"
+		},
+		{
+			"weight": 1.0,
+			"key": "conventional_cubes:oneup_orange_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "conventional_cubes:oneup_orange_brick"
+		},
+		{
+			"weight": 1.0,
+			"key": "conventional_cubes:oneup_uneven_orange_brick"
+		},
+		{
+			"weight": 1.0,
+			"key": "conventional_cubes:peridot_brick"
+		},
+		{
+			"weight": 1.0,
+			"key": "conventional_cubes:peridot_brick_slope"
+		},
+		{
+			"weight": 1.0,
+			"key": "conventional_cubes:peridot_checker"
+		},
+		{
+			"weight": 1.0,
+			"key": "conventional_cubes:peridot_checker_slope"
+		},
+		{
+			"weight": 1.0,
+			"key": "conventional_cubes:peridot_dark_brick"
+		},
+		{
+			"weight": 1.0,
+			"key": "conventional_cubes:peridot_dark_hexagons"
+		},
+		{
+			"weight": 1.0,
+			"key": "conventional_cubes:peridot_dark_large_tile"
+		},
+		{
+			"weight": 1.0,
+			"key": "conventional_cubes:peridot_dark_prism"
+		},
+		{
+			"weight": 1.0,
+			"key": "conventional_cubes:peridot_dark_rock"
+		},
+		{
+			"weight": 1.0,
+			"key": "conventional_cubes:peridot_dark_small_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "conventional_cubes:peridot_dark_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "conventional_cubes:peridot_hexagons"
+		},
+		{
+			"weight": 1.0,
+			"key": "conventional_cubes:peridot_large_tile"
+		},
+		{
+			"weight": 1.0,
+			"key": "conventional_cubes:peridot_prism"
+		},
+		{
+			"weight": 1.0,
+			"key": "conventional_cubes:peridot_rock"
+		},
+		{
+			"weight": 1.0,
+			"key": "conventional_cubes:peridot_rock_slope"
+		},
+		{
+			"weight": 1.0,
+			"key": "conventional_cubes:peridot_small_checker"
+		},
+		{
+			"weight": 1.0,
+			"key": "conventional_cubes:peridot_small_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "conventional_cubes:peridot_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "conventional_cubes:sanic_bright_checker"
+		},
+		{
+			"weight": 1.0,
+			"key": "conventional_cubes:sanic_bright_large_tile"
+		},
+		{
+			"weight": 1.0,
+			"key": "conventional_cubes:sanic_bright_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "conventional_cubes:sanic_bright_tiles_slope"
+		},
+		{
+			"weight": 1.0,
+			"key": "conventional_cubes:sanic_dark_checker"
+		},
+		{
+			"weight": 1.0,
+			"key": "conventional_cubes:sanic_dark_large_tile"
+		},
+		{
+			"weight": 1.0,
+			"key": "conventional_cubes:sanic_dark_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "conventional_cubes:sanic_dark_tiles_slope"
+		},
+		{
+			"weight": 1.0,
+			"key": "conventional_cubes:sanic_darkest_large_tile"
+		},
+		{
+			"weight": 1.0,
+			"key": "conventional_cubes:sanic_darkest_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "conventional_cubes:sanic_darkest_tiles_slope"
+		},
+		{
+			"weight": 1.0,
+			"key": "conventional_cubes:sanic_gold_oil_spike"
+		},
+		{
+			"weight": 1.0,
+			"key": "conventional_cubes:sanic_gold_oil_spikes"
+		},
+		{
+			"weight": 1.0,
+			"key": "conventional_cubes:sanic_medium_checker"
+		},
+		{
+			"weight": 1.0,
+			"key": "conventional_cubes:sanic_medium_large_tile"
+		},
+		{
+			"weight": 1.0,
+			"key": "conventional_cubes:sanic_medium_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "conventional_cubes:sanic_medium_tiles_slope"
+		},
+		{
+			"weight": 1.0,
+			"key": "conventional_cubes:sanic_oil_checker"
+		},
+		{
+			"weight": 1.0,
+			"key": "conventional_cubes:sanic_oil_checker_slope"
+		},
+		{
+			"weight": 1.0,
+			"key": "conventional_cubes:sanic_purple_oil_spike"
+		},
+		{
+			"weight": 1.0,
+			"key": "conventional_cubes:sanic_purple_oil_spikes"
+		},
+		{
+			"weight": 1.0,
+			"key": "conventional_cubes:sanic_white_checker"
+		},
+		{
+			"weight": 1.0,
+			"key": "conventional_cubes:sanic_white_large_tile"
+		},
+		{
+			"weight": 1.0,
+			"key": "conventional_cubes:sanic_white_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "conventional_cubes:sanic_white_tiles_slope"
+		},
+		{
+			"weight": 1.0,
+			"key": "conventional_cubes:tourian_bevel"
+		},
+		{
+			"weight": 1.0,
+			"key": "conventional_cubes:tourian_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "conventional_cubes:tourian_conduit_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "conventional_cubes:tourian_cracked_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "conventional_cubes:tourian_dented_bevel"
+		},
+		{
+			"weight": 1.0,
+			"key": "conventional_cubes:tourian_hollow_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "conventional_cubes:tourian_interface"
+		},
+		{
+			"weight": 1.0,
+			"key": "conventional_cubes:tourian_pedestal"
+		},
+		{
+			"weight": 1.0,
+			"key": "conventional_cubes:tourian_ruined_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "conventional_cubes:tourian_small_blocks"
+		},
+		{
+			"weight": 1.0,
+			"key": "conventional_cubes:tourian_spawner"
+		},
+		{
+			"weight": 1.0,
+			"key": "conventional_cubes:tourian_spawner_on"
+		},
+		{
+			"weight": 1.0,
+			"key": "conventional_cubes:tourian_vent"
+		},
+		{
+			"weight": 1.0,
+			"key": "conventional_cubes:tourian_vent_node"
+		},
+		{
+			"weight": 1.0,
+			"key": "conventional_cubes:verdigris_border"
+		},
+		{
+			"weight": 1.0,
+			"key": "conventional_cubes:verdigris_girder"
+		},
+		{
+			"weight": 1.0,
+			"key": "conventional_cubes:verdigris_grate"
+		},
+		{
+			"weight": 1.0,
+			"key": "conventional_cubes:verdigris_pipe"
+		},
+		{
+			"weight": 1.0,
+			"key": "conventional_cubes:verdigris_spout"
+		},
+		{
+			"weight": 1.0,
+			"key": "conventional_cubes:verdigris_surface"
+		},
+		{
+			"weight": 1.0,
+			"key": "conventional_cubes:verdigris_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "conventional_cubes:verdigris_triangles"
+		},
+		{
+			"weight": 1.0,
+			"key": "conventional_cubes:verdigris_yoku_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "conventional_cubes:warpzone_blue_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "conventional_cubes:warpzone_blue_brick"
+		},
+		{
+			"weight": 1.0,
+			"key": "conventional_cubes:warpzone_cyan_seastone"
+		},
+		{
+			"weight": 1.0,
+			"key": "conventional_cubes:warpzone_minty_rivets"
+		},
+		{
+			"weight": 1.0,
+			"key": "conventional_cubes:warpzone_reinforced"
+		},
+		{
+			"weight": 1.0,
+			"key": "conventional_cubes:wattle_brace"
+		},
+		{
+			"weight": 1.0,
+			"key": "conventional_cubes:wattle_eave"
+		},
+		{
+			"weight": 1.0,
+			"key": "conventional_cubes:wattle_horizontal"
+		},
+		{
+			"weight": 1.0,
+			"key": "conventional_cubes:wattle_mini_window"
+		},
+		{
+			"weight": 1.0,
+			"key": "conventional_cubes:wattle_port"
+		},
+		{
+			"weight": 1.0,
+			"key": "conventional_cubes:wattle_squares"
+		},
+		{
+			"weight": 1.0,
+			"key": "conventional_cubes:wattle_star_brace"
+		},
+		{
+			"weight": 1.0,
+			"key": "conventional_cubes:wattle_vertical"
+		},
+		{
+			"weight": 1.0,
+			"key": "conventional_cubes:wingfortress_brace"
+		},
+		{
+			"weight": 1.0,
+			"key": "conventional_cubes:wingfortress_caution"
+		},
+		{
+			"weight": 1.0,
+			"key": "conventional_cubes:wingfortress_controller"
+		},
+		{
+			"weight": 1.0,
+			"key": "conventional_cubes:wingfortress_coolant"
+		},
+		{
+			"weight": 1.0,
+			"key": "conventional_cubes:wingfortress_corroded"
+		},
+		{
+			"weight": 1.0,
+			"key": "conventional_cubes:wingfortress_digital"
+		},
+		{
+			"weight": 1.0,
+			"key": "conventional_cubes:wingfortress_fluids"
+		},
+		{
+			"weight": 1.0,
+			"key": "conventional_cubes:wingfortress_gauges"
+		},
+		{
+			"weight": 1.0,
+			"key": "conventional_cubes:wingfortress_lift"
+		},
+		{
+			"weight": 1.0,
+			"key": "conventional_cubes:wingfortress_orb"
+		},
+		{
+			"weight": 1.0,
+			"key": "conventional_cubes:wingfortress_panel"
+		},
+		{
+			"weight": 1.0,
+			"key": "conventional_cubes:wingfortress_panel_light"
+		},
+		{
+			"weight": 1.0,
+			"key": "conventional_cubes:wingfortress_piston"
+		},
+		{
+			"weight": 1.0,
+			"key": "conventional_cubes:wingfortress_ports"
+		},
+		{
+			"weight": 1.0,
+			"key": "conventional_cubes:wingfortress_scaffold"
+		},
+		{
+			"weight": 1.0,
+			"key": "conventional_cubes:wingfortress_vents"
+		}
+	]
+}

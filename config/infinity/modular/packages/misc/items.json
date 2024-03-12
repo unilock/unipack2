@@ -1,0 +1,12 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "packages:package"
+		},
+		{
+			"weight": 1.0,
+			"key": "packages:package_maker"
+		}
+	]
+}

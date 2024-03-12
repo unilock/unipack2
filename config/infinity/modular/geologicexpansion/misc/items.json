@@ -1,0 +1,596 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "geologicexpansion:black_polished_prismatic_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "geologicexpansion:black_polished_prismatic_stone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "geologicexpansion:black_polished_prismatic_stone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "geologicexpansion:black_polished_prismatic_stone_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "geologicexpansion:black_prismatic_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "geologicexpansion:black_prismatic_stone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "geologicexpansion:black_prismatic_stone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "geologicexpansion:black_prismatic_stone_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "geologicexpansion:blue_polished_prismatic_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "geologicexpansion:blue_polished_prismatic_stone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "geologicexpansion:blue_polished_prismatic_stone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "geologicexpansion:blue_polished_prismatic_stone_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "geologicexpansion:blue_prismatic_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "geologicexpansion:blue_prismatic_stone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "geologicexpansion:blue_prismatic_stone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "geologicexpansion:blue_prismatic_stone_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "geologicexpansion:brown_polished_prismatic_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "geologicexpansion:brown_polished_prismatic_stone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "geologicexpansion:brown_polished_prismatic_stone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "geologicexpansion:brown_polished_prismatic_stone_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "geologicexpansion:brown_prismatic_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "geologicexpansion:brown_prismatic_stone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "geologicexpansion:brown_prismatic_stone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "geologicexpansion:brown_prismatic_stone_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "geologicexpansion:cyan_polished_prismatic_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "geologicexpansion:cyan_polished_prismatic_stone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "geologicexpansion:cyan_polished_prismatic_stone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "geologicexpansion:cyan_polished_prismatic_stone_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "geologicexpansion:cyan_prismatic_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "geologicexpansion:cyan_prismatic_stone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "geologicexpansion:cyan_prismatic_stone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "geologicexpansion:cyan_prismatic_stone_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "geologicexpansion:duck_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "geologicexpansion:duck_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "geologicexpansion:geyser"
+		},
+		{
+			"weight": 1.0,
+			"key": "geologicexpansion:gray_polished_prismatic_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "geologicexpansion:gray_polished_prismatic_stone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "geologicexpansion:gray_polished_prismatic_stone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "geologicexpansion:gray_polished_prismatic_stone_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "geologicexpansion:gray_prismatic_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "geologicexpansion:gray_prismatic_stone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "geologicexpansion:gray_prismatic_stone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "geologicexpansion:gray_prismatic_stone_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "geologicexpansion:green_polished_prismatic_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "geologicexpansion:green_polished_prismatic_stone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "geologicexpansion:green_polished_prismatic_stone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "geologicexpansion:green_polished_prismatic_stone_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "geologicexpansion:green_prismatic_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "geologicexpansion:green_prismatic_stone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "geologicexpansion:green_prismatic_stone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "geologicexpansion:green_prismatic_stone_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "geologicexpansion:light_blue_polished_prismatic_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "geologicexpansion:light_blue_polished_prismatic_stone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "geologicexpansion:light_blue_polished_prismatic_stone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "geologicexpansion:light_blue_polished_prismatic_stone_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "geologicexpansion:light_blue_prismatic_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "geologicexpansion:light_blue_prismatic_stone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "geologicexpansion:light_blue_prismatic_stone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "geologicexpansion:light_blue_prismatic_stone_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "geologicexpansion:light_gray_polished_prismatic_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "geologicexpansion:light_gray_polished_prismatic_stone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "geologicexpansion:light_gray_polished_prismatic_stone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "geologicexpansion:light_gray_polished_prismatic_stone_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "geologicexpansion:light_gray_prismatic_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "geologicexpansion:light_gray_prismatic_stone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "geologicexpansion:light_gray_prismatic_stone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "geologicexpansion:light_gray_prismatic_stone_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "geologicexpansion:lime_polished_prismatic_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "geologicexpansion:lime_polished_prismatic_stone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "geologicexpansion:lime_polished_prismatic_stone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "geologicexpansion:lime_polished_prismatic_stone_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "geologicexpansion:lime_prismatic_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "geologicexpansion:lime_prismatic_stone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "geologicexpansion:lime_prismatic_stone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "geologicexpansion:lime_prismatic_stone_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "geologicexpansion:limestone"
+		},
+		{
+			"weight": 1.0,
+			"key": "geologicexpansion:limestone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "geologicexpansion:limestone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "geologicexpansion:limestone_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "geologicexpansion:magenta_polished_prismatic_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "geologicexpansion:magenta_polished_prismatic_stone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "geologicexpansion:magenta_polished_prismatic_stone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "geologicexpansion:magenta_polished_prismatic_stone_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "geologicexpansion:magenta_prismatic_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "geologicexpansion:magenta_prismatic_stone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "geologicexpansion:magenta_prismatic_stone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "geologicexpansion:magenta_prismatic_stone_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "geologicexpansion:orange_polished_prismatic_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "geologicexpansion:orange_polished_prismatic_stone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "geologicexpansion:orange_polished_prismatic_stone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "geologicexpansion:orange_polished_prismatic_stone_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "geologicexpansion:orange_prismatic_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "geologicexpansion:orange_prismatic_stone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "geologicexpansion:orange_prismatic_stone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "geologicexpansion:orange_prismatic_stone_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "geologicexpansion:overgrowth"
+		},
+		{
+			"weight": 1.0,
+			"key": "geologicexpansion:pink_polished_prismatic_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "geologicexpansion:pink_polished_prismatic_stone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "geologicexpansion:pink_polished_prismatic_stone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "geologicexpansion:pink_polished_prismatic_stone_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "geologicexpansion:pink_prismatic_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "geologicexpansion:pink_prismatic_stone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "geologicexpansion:pink_prismatic_stone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "geologicexpansion:pink_prismatic_stone_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "geologicexpansion:polished_limestone"
+		},
+		{
+			"weight": 1.0,
+			"key": "geologicexpansion:polished_limestone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "geologicexpansion:polished_limestone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "geologicexpansion:polished_limestone_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "geologicexpansion:polished_prismatic_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "geologicexpansion:polished_prismatic_stone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "geologicexpansion:polished_prismatic_stone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "geologicexpansion:polished_prismatic_stone_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "geologicexpansion:prismatic_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "geologicexpansion:prismatic_stone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "geologicexpansion:prismatic_stone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "geologicexpansion:prismatic_stone_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "geologicexpansion:purple_polished_prismatic_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "geologicexpansion:purple_polished_prismatic_stone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "geologicexpansion:purple_polished_prismatic_stone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "geologicexpansion:purple_polished_prismatic_stone_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "geologicexpansion:purple_prismatic_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "geologicexpansion:purple_prismatic_stone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "geologicexpansion:purple_prismatic_stone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "geologicexpansion:purple_prismatic_stone_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "geologicexpansion:red_polished_prismatic_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "geologicexpansion:red_polished_prismatic_stone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "geologicexpansion:red_polished_prismatic_stone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "geologicexpansion:red_polished_prismatic_stone_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "geologicexpansion:red_prismatic_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "geologicexpansion:red_prismatic_stone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "geologicexpansion:red_prismatic_stone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "geologicexpansion:red_prismatic_stone_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "geologicexpansion:white_polished_prismatic_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "geologicexpansion:white_polished_prismatic_stone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "geologicexpansion:white_polished_prismatic_stone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "geologicexpansion:white_polished_prismatic_stone_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "geologicexpansion:white_prismatic_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "geologicexpansion:white_prismatic_stone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "geologicexpansion:white_prismatic_stone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "geologicexpansion:white_prismatic_stone_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "geologicexpansion:yellow_polished_prismatic_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "geologicexpansion:yellow_polished_prismatic_stone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "geologicexpansion:yellow_polished_prismatic_stone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "geologicexpansion:yellow_polished_prismatic_stone_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "geologicexpansion:yellow_prismatic_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "geologicexpansion:yellow_prismatic_stone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "geologicexpansion:yellow_prismatic_stone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "geologicexpansion:yellow_prismatic_stone_wall"
+		}
+	]
+}

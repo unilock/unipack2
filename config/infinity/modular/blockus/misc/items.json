@@ -1,0 +1,5840 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "blockus:acacia_cross_timber_frame"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:acacia_diagonal_timber_frame"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:acacia_mosaic"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:acacia_mosaic_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:acacia_mosaic_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:acacia_small_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:acacia_small_logs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:acacia_timber_frame"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:amethyst_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:amethyst_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:amethyst_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:amethyst_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:amethyst_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:andesite_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:andesite_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:andesite_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:andesite_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:andesite_circular_paving"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:apple_crate"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:asphalt"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:asphalt_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:asphalt_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:azalea_small_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:azalea_small_hedge_flowers"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:bamboo_cross_timber_frame"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:bamboo_diagonal_timber_frame"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:bamboo_timber_frame"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:beetroot_crate"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:beveled_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:beveled_glass_pane"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:birch_cross_timber_frame"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:birch_diagonal_timber_frame"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:birch_mosaic"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:birch_mosaic_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:birch_mosaic_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:birch_small_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:birch_small_logs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:birch_timber_frame"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:black_beveled_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:black_beveled_glass_pane"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:black_blue_colored_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:black_brown_colored_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:black_colored_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:black_concrete_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:black_concrete_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:black_concrete_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:black_concrete_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:black_concrete_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:black_cyan_colored_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:black_futurneo_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:black_gingham_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:black_gingham_wool"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:black_gingham_wool_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:black_gingham_wool_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:black_glazed_terracotta_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:black_gray_colored_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:black_green_colored_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:black_light_blue_colored_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:black_light_gray_colored_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:black_lime_colored_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:black_magenta_colored_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:black_neon"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:black_orange_colored_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:black_patterned_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:black_patterned_wool"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:black_patterned_wool_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:black_patterned_wool_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:black_pink_colored_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:black_purple_colored_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:black_red_colored_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:black_shingles"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:black_shingles_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:black_shingles_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:black_stone_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:black_stone_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:black_stone_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:black_stone_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:black_yellow_colored_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:blackstone_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:blackstone_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:blaze_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:blaze_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:blaze_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:blaze_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:blaze_lantern"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:blaze_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:blue_asphalt"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:blue_asphalt_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:blue_asphalt_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:blue_beveled_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:blue_beveled_glass_pane"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:blue_brown_colored_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:blue_colored_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:blue_concrete_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:blue_concrete_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:blue_concrete_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:blue_concrete_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:blue_concrete_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:blue_cyan_colored_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:blue_futurneo_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:blue_gingham_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:blue_gingham_wool"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:blue_gingham_wool_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:blue_gingham_wool_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:blue_glazed_terracotta_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:blue_gray_colored_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:blue_green_colored_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:blue_light_blue_colored_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:blue_light_gray_colored_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:blue_lime_colored_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:blue_magenta_colored_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:blue_neon"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:blue_orange_colored_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:blue_patterned_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:blue_patterned_wool"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:blue_patterned_wool_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:blue_patterned_wool_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:blue_pink_colored_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:blue_purple_colored_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:blue_redstone_lamp"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:blue_redstone_lamp_lit"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:blue_shingles"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:blue_shingles_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:blue_shingles_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:blue_stone_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:blue_stone_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:blue_stone_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:blue_stone_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:blue_yellow_colored_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:bluestone"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:bluestone_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:bluestone_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:bluestone_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:bluestone_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:bluestone_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:bluestone_circular_paving"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:bluestone_lines"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:bluestone_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:bluestone_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:bluestone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:bluestone_squares"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:bluestone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:bluestone_tile_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:bluestone_tile_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:bluestone_tile_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:bluestone_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:bluestone_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:bread_box"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:brown_asphalt"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:brown_asphalt_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:brown_asphalt_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:brown_beveled_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:brown_beveled_glass_pane"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:brown_colored_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:brown_concrete_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:brown_concrete_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:brown_concrete_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:brown_concrete_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:brown_concrete_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:brown_futurneo_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:brown_gingham_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:brown_gingham_wool"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:brown_gingham_wool_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:brown_gingham_wool_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:brown_glazed_terracotta_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:brown_gray_colored_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:brown_light_gray_colored_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:brown_neon"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:brown_patterned_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:brown_patterned_wool"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:brown_patterned_wool_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:brown_patterned_wool_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:brown_redstone_lamp"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:brown_redstone_lamp_lit"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:brown_shingles"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:brown_shingles_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:brown_shingles_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:brown_stone_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:brown_stone_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:brown_stone_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:brown_stone_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:burnt_paper_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:carrot_crate"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:caution_barrier"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:caution_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:charcoal_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:charred_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:charred_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:charred_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:charred_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:charred_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:charred_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:charred_chest_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:charred_cross_timber_frame"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:charred_diagonal_timber_frame"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:charred_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:charred_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:charred_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:charred_hanging_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:charred_mosaic"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:charred_mosaic_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:charred_mosaic_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:charred_nether_brick_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:charred_nether_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:charred_nether_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:charred_nether_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:charred_nether_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:charred_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:charred_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:charred_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:charred_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:charred_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:charred_timber_frame"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:charred_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:cherry_cross_timber_frame"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:cherry_diagonal_timber_frame"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:cherry_mosaic"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:cherry_mosaic_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:cherry_mosaic_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:cherry_small_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:cherry_small_logs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:cherry_timber_frame"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:chiseled_amethyst"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:chiseled_andesite_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:chiseled_black_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:chiseled_blue_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:chiseled_bluestone"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:chiseled_bluestone_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:chiseled_brown_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:chiseled_cyan_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:chiseled_dark_prismarine"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:chiseled_diorite_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:chiseled_dripstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:chiseled_end_stone_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:chiseled_granite_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:chiseled_gray_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:chiseled_green_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:chiseled_lava_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:chiseled_lava_polished_blackstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:chiseled_light_blue_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:chiseled_light_gray_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:chiseled_lime_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:chiseled_limestone"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:chiseled_limestone_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:chiseled_magenta_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:chiseled_magma_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:chiseled_marble"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:chiseled_marble_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:chiseled_mud_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:chiseled_orange_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:chiseled_phantom_purpur"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:chiseled_pink_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:chiseled_polished_basalt"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:chiseled_prismarine"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:chiseled_purple_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:chiseled_purpur"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:chiseled_red_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:chiseled_sculk_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:chiseled_soul_sandstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:chiseled_tuff"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:chiseled_viridite"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:chiseled_viridite_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:chiseled_water_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:chiseled_white_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:chiseled_yellow_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:chocolate_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:chocolate_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:chocolate_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:chocolate_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:chocolate_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:chocolate_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:chocolate_squares"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:chocolate_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:chocolate_tablet"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:chorus_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:cod_crate"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:companion_cube"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:cookie_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:cracked_andesite_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:cracked_diorite_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:cracked_dripstone_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:cracked_end_stone_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:cracked_granite_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:cracked_obsidian_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:cracked_polished_basalt_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:cracked_tuff_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:crimson_cross_timber_frame"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:crimson_diagonal_timber_frame"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:crimson_mosaic"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:crimson_mosaic_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:crimson_mosaic_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:crimson_small_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:crimson_small_stems"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:crimson_timber_frame"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:crimson_wart_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:crimson_wart_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:crimson_wart_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:crimson_wart_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:crimson_warty_blackstone_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:crimson_warty_blackstone_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:crimson_warty_blackstone_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:crimson_warty_blackstone_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:cut_soul_sandstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:cut_soul_sandstone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:cyan_asphalt"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:cyan_asphalt_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:cyan_asphalt_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:cyan_beveled_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:cyan_beveled_glass_pane"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:cyan_brown_colored_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:cyan_colored_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:cyan_concrete_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:cyan_concrete_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:cyan_concrete_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:cyan_concrete_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:cyan_concrete_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:cyan_futurneo_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:cyan_gingham_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:cyan_gingham_wool"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:cyan_gingham_wool_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:cyan_gingham_wool_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:cyan_glazed_terracotta_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:cyan_gray_colored_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:cyan_light_gray_colored_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:cyan_neon"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:cyan_patterned_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:cyan_patterned_wool"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:cyan_patterned_wool_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:cyan_patterned_wool_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:cyan_redstone_lamp"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:cyan_redstone_lamp_lit"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:cyan_shingles"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:cyan_shingles_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:cyan_shingles_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:cyan_stone_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:cyan_stone_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:cyan_stone_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:cyan_stone_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:dark_oak_cross_timber_frame"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:dark_oak_diagonal_timber_frame"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:dark_oak_mosaic"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:dark_oak_mosaic_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:dark_oak_mosaic_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:dark_oak_small_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:dark_oak_small_logs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:dark_oak_timber_frame"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:dark_prismarine_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:deepslate_circular_paving"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:deepslate_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:diamond_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:diamond_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:diamond_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:diamond_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:diorite_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:diorite_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:diorite_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:diorite_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:diorite_circular_paving"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:dripstone_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:dripstone_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:dripstone_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:dripstone_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:dripstone_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:emerald_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:emerald_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:emerald_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:emerald_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:end_stone_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:end_tile_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:end_tile_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:end_tile_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:end_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:ender_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:framed_paper_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:glow_berries_crate"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:glowing_obsidian"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:gold_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:gold_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:gold_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:gold_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:gold_decorated_polished_blackstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:gold_decorated_red_sandstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:gold_decorated_sandstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:gold_decorated_soul_sandstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:gold_plating"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:gold_plating_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:gold_plating_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:golden_apple_crate"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:golden_bars"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:golden_carrot_crate"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:golden_chain"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:golden_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:granite_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:granite_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:granite_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:granite_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:granite_circular_paving"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:gray_asphalt"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:gray_asphalt_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:gray_asphalt_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:gray_beveled_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:gray_beveled_glass_pane"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:gray_bright_futurneo_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:gray_colored_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:gray_concrete_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:gray_concrete_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:gray_concrete_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:gray_concrete_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:gray_concrete_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:gray_futurneo_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:gray_gingham_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:gray_gingham_wool"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:gray_gingham_wool_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:gray_gingham_wool_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:gray_glazed_terracotta_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:gray_light_gray_colored_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:gray_neon"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:gray_patterned_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:gray_patterned_wool"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:gray_patterned_wool_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:gray_patterned_wool_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:gray_redstone_lamp"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:gray_redstone_lamp_lit"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:gray_shingles"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:gray_shingles_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:gray_shingles_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:gray_stone_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:gray_stone_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:gray_stone_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:gray_stone_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:green_asphalt"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:green_asphalt_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:green_asphalt_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:green_beveled_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:green_beveled_glass_pane"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:green_brown_colored_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:green_colored_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:green_concrete_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:green_concrete_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:green_concrete_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:green_concrete_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:green_concrete_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:green_cyan_colored_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:green_futurneo_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:green_gingham_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:green_gingham_wool"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:green_gingham_wool_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:green_gingham_wool_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:green_glazed_terracotta_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:green_gray_colored_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:green_light_gray_colored_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:green_lime_colored_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:green_magenta_colored_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:green_neon"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:green_orange_colored_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:green_patterned_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:green_patterned_wool"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:green_patterned_wool_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:green_patterned_wool_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:green_pink_colored_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:green_purple_colored_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:green_redstone_lamp"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:green_redstone_lamp_lit"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:green_shingles"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:green_shingles_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:green_shingles_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:green_stone_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:green_stone_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:green_stone_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:green_stone_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:green_yellow_colored_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:herringbone_acacia_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:herringbone_andesite_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:herringbone_bamboo_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:herringbone_birch_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:herringbone_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:herringbone_charred_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:herringbone_charred_nether_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:herringbone_charred_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:herringbone_cherry_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:herringbone_crimson_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:herringbone_dark_oak_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:herringbone_deepslate_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:herringbone_diorite_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:herringbone_end_stone_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:herringbone_granite_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:herringbone_jungle_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:herringbone_mangrove_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:herringbone_nether_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:herringbone_oak_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:herringbone_polished_basalt_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:herringbone_polished_blackstone_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:herringbone_raw_bamboo_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:herringbone_red_nether_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:herringbone_sandy_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:herringbone_soaked_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:herringbone_spruce_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:herringbone_stone_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:herringbone_teal_nether_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:herringbone_tuff_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:herringbone_warped_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:herringbone_white_oak_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:honeycomb_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:honeycomb_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:honeycomb_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:honeycomb_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:ice_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:ice_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:ice_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:iron_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:iron_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:iron_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:iron_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:iron_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:iron_plating"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:iron_plating_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:iron_plating_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:jungle_cross_timber_frame"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:jungle_diagonal_timber_frame"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:jungle_mosaic"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:jungle_mosaic_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:jungle_mosaic_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:jungle_small_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:jungle_small_logs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:jungle_timber_frame"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:lantern_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:lapis_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:lapis_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:lapis_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:lapis_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:lapis_decorated_red_sandstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:lapis_decorated_sandstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:lapis_decorated_soul_sandstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:large_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:large_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:large_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:large_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:large_flower_pot"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:lava_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:lava_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:lava_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:lava_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:lava_polished_blackstone_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:lava_polished_blackstone_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:lava_polished_blackstone_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:lava_polished_blackstone_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:legacy_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:legacy_coal_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:legacy_cobblestone"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:legacy_crying_obsidian"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:legacy_diamond_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:legacy_explosion_proof_gold_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:legacy_first_cobblestone"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:legacy_first_grass_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:legacy_glowing_obsidian"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:legacy_glowstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:legacy_gold_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:legacy_grass_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:legacy_gravel"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:legacy_iron_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:legacy_lapis_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:legacy_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:legacy_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:legacy_mossy_cobblestone"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:legacy_nether_reactor_core"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:legacy_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:legacy_sapling"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:legacy_sponge"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:legacy_stonecutter"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:light_blue_asphalt"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:light_blue_asphalt_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:light_blue_asphalt_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:light_blue_beveled_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:light_blue_beveled_glass_pane"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:light_blue_brown_colored_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:light_blue_colored_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:light_blue_concrete_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:light_blue_concrete_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:light_blue_concrete_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:light_blue_concrete_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:light_blue_concrete_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:light_blue_cyan_colored_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:light_blue_futurneo_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:light_blue_gingham_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:light_blue_gingham_wool"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:light_blue_gingham_wool_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:light_blue_gingham_wool_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:light_blue_glazed_terracotta_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:light_blue_gray_colored_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:light_blue_green_colored_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:light_blue_light_gray_colored_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:light_blue_lime_colored_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:light_blue_magenta_colored_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:light_blue_neon"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:light_blue_orange_colored_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:light_blue_patterned_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:light_blue_patterned_wool"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:light_blue_patterned_wool_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:light_blue_patterned_wool_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:light_blue_pink_colored_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:light_blue_purple_colored_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:light_blue_redstone_lamp"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:light_blue_redstone_lamp_lit"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:light_blue_shingles"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:light_blue_shingles_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:light_blue_shingles_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:light_blue_stone_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:light_blue_stone_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:light_blue_stone_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:light_blue_stone_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:light_blue_yellow_colored_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:light_gray_asphalt"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:light_gray_asphalt_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:light_gray_asphalt_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:light_gray_beveled_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:light_gray_beveled_glass_pane"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:light_gray_colored_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:light_gray_concrete_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:light_gray_concrete_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:light_gray_concrete_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:light_gray_concrete_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:light_gray_concrete_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:light_gray_futurneo_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:light_gray_gingham_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:light_gray_gingham_wool"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:light_gray_gingham_wool_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:light_gray_gingham_wool_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:light_gray_glazed_terracotta_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:light_gray_neon"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:light_gray_patterned_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:light_gray_patterned_wool"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:light_gray_patterned_wool_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:light_gray_patterned_wool_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:light_gray_redstone_lamp"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:light_gray_redstone_lamp_lit"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:light_gray_shingles"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:light_gray_shingles_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:light_gray_shingles_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:lime_asphalt"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:lime_asphalt_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:lime_asphalt_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:lime_beveled_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:lime_beveled_glass_pane"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:lime_brown_colored_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:lime_colored_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:lime_concrete_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:lime_concrete_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:lime_concrete_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:lime_concrete_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:lime_concrete_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:lime_cyan_colored_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:lime_futurneo_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:lime_gingham_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:lime_gingham_wool"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:lime_gingham_wool_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:lime_gingham_wool_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:lime_glazed_terracotta_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:lime_gray_colored_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:lime_light_gray_colored_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:lime_magenta_colored_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:lime_neon"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:lime_orange_colored_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:lime_patterned_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:lime_patterned_wool"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:lime_patterned_wool_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:lime_patterned_wool_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:lime_pink_colored_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:lime_purple_colored_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:lime_redstone_lamp"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:lime_redstone_lamp_lit"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:lime_shingles"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:lime_shingles_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:lime_shingles_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:lime_stone_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:lime_stone_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:lime_stone_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:lime_stone_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:lime_yellow_colored_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:limestone"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:limestone_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:limestone_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:limestone_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:limestone_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:limestone_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:limestone_circular_paving"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:limestone_lines"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:limestone_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:limestone_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:limestone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:limestone_squares"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:limestone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:limestone_tile_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:limestone_tile_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:limestone_tile_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:limestone_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:limestone_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:love_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:magenta_asphalt"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:magenta_asphalt_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:magenta_asphalt_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:magenta_beveled_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:magenta_beveled_glass_pane"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:magenta_brown_colored_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:magenta_colored_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:magenta_concrete_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:magenta_concrete_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:magenta_concrete_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:magenta_concrete_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:magenta_concrete_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:magenta_cyan_colored_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:magenta_futurneo_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:magenta_gingham_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:magenta_gingham_wool"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:magenta_gingham_wool_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:magenta_gingham_wool_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:magenta_glazed_terracotta_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:magenta_gray_colored_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:magenta_light_gray_colored_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:magenta_neon"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:magenta_orange_colored_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:magenta_patterned_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:magenta_patterned_wool"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:magenta_patterned_wool_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:magenta_patterned_wool_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:magenta_redstone_lamp"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:magenta_redstone_lamp_lit"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:magenta_shingles"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:magenta_shingles_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:magenta_shingles_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:magenta_stone_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:magenta_stone_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:magenta_stone_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:magenta_stone_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:magma_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:magma_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:magma_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:magma_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:mangrove_cross_timber_frame"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:mangrove_diagonal_timber_frame"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:mangrove_mosaic"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:mangrove_mosaic_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:mangrove_mosaic_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:mangrove_small_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:mangrove_small_logs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:mangrove_timber_frame"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:marble"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:marble_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:marble_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:marble_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:marble_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:marble_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:marble_circular_paving"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:marble_lines"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:marble_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:marble_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:marble_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:marble_squares"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:marble_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:marble_tile_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:marble_tile_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:marble_tile_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:marble_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:marble_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:membrane_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:moss_small_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:mossy_acacia_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:mossy_acacia_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:mossy_acacia_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:mossy_bamboo_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:mossy_bamboo_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:mossy_bamboo_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:mossy_birch_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:mossy_birch_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:mossy_birch_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:mossy_charred_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:mossy_charred_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:mossy_charred_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:mossy_cherry_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:mossy_cherry_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:mossy_cherry_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:mossy_crimson_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:mossy_crimson_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:mossy_crimson_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:mossy_dark_oak_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:mossy_dark_oak_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:mossy_dark_oak_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:mossy_deepslate_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:mossy_deepslate_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:mossy_deepslate_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:mossy_deepslate_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:mossy_jungle_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:mossy_jungle_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:mossy_jungle_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:mossy_mangrove_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:mossy_mangrove_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:mossy_mangrove_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:mossy_oak_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:mossy_oak_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:mossy_oak_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:mossy_raw_bamboo_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:mossy_raw_bamboo_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:mossy_raw_bamboo_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:mossy_spruce_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:mossy_spruce_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:mossy_spruce_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:mossy_tuff_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:mossy_tuff_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:mossy_tuff_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:mossy_tuff_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:mossy_warped_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:mossy_warped_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:mossy_warped_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:mossy_white_oak_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:mossy_white_oak_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:mossy_white_oak_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:mud_brick_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:nether_brick_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:nether_stars_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:nether_tile_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:nether_tile_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:nether_tile_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:nether_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:netherite_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:netherite_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:netherite_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:netherite_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:netherite_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:netherite_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:netherrack_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:netherrack_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:netherrack_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:netherrack_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:netherrack_circular_paving"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:oak_cross_timber_frame"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:oak_diagonal_timber_frame"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:oak_mosaic"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:oak_mosaic_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:oak_mosaic_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:oak_small_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:oak_small_logs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:oak_timber_frame"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:obsidian_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:obsidian_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:obsidian_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:obsidian_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:obsidian_circular_paving"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:obsidian_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:obsidian_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:obsidian_reinforced_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:obsidian_reinforced_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:orange_asphalt"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:orange_asphalt_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:orange_asphalt_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:orange_beveled_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:orange_beveled_glass_pane"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:orange_brown_colored_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:orange_colored_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:orange_concrete_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:orange_concrete_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:orange_concrete_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:orange_concrete_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:orange_concrete_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:orange_cyan_colored_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:orange_futurneo_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:orange_gingham_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:orange_gingham_wool"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:orange_gingham_wool_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:orange_gingham_wool_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:orange_glazed_terracotta_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:orange_gray_colored_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:orange_light_gray_colored_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:orange_neon"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:orange_patterned_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:orange_patterned_wool"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:orange_patterned_wool_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:orange_patterned_wool_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:orange_redstone_lamp"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:orange_redstone_lamp_lit"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:orange_shingles"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:orange_shingles_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:orange_shingles_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:orange_stone_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:orange_stone_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:orange_stone_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:orange_stone_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:paper_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:paper_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:paper_lamp"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:paper_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:paper_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:path"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:phantom_purpur_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:phantom_purpur_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:phantom_purpur_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:phantom_purpur_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:phantom_purpur_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:phantom_purpur_decorated_end_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:phantom_purpur_lines"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:phantom_purpur_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:phantom_purpur_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:phantom_purpur_squares"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:phantom_purpur_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:pink_asphalt"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:pink_asphalt_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:pink_asphalt_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:pink_beveled_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:pink_beveled_glass_pane"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:pink_brown_colored_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:pink_colored_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:pink_concrete_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:pink_concrete_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:pink_concrete_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:pink_concrete_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:pink_concrete_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:pink_cyan_colored_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:pink_futurneo_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:pink_gingham_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:pink_gingham_wool"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:pink_gingham_wool_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:pink_gingham_wool_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:pink_glazed_terracotta_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:pink_gray_colored_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:pink_light_gray_colored_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:pink_magenta_colored_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:pink_neon"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:pink_orange_colored_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:pink_patterned_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:pink_patterned_wool"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:pink_patterned_wool_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:pink_patterned_wool_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:pink_purple_colored_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:pink_redstone_lamp"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:pink_redstone_lamp_lit"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:pink_shingles"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:pink_shingles_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:pink_shingles_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:pink_stone_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:pink_stone_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:pink_stone_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:pink_stone_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:polished_amethyst"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:polished_amethyst_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:polished_amethyst_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:polished_andesite_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:polished_andesite_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:polished_andesite_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:polished_basalt_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:polished_basalt_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:polished_basalt_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:polished_basalt_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:polished_basalt_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:polished_basalt_circular_paving"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:polished_basalt_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:polished_basalt_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:polished_blackstone_circular_paving"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:polished_blackstone_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:polished_blackstone_tile_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:polished_blackstone_tile_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:polished_blackstone_tile_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:polished_blackstone_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:polished_bluestone"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:polished_bluestone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:polished_bluestone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:polished_charred_nether_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:polished_deepslate_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:polished_deepslate_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:polished_diorite_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:polished_diorite_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:polished_diorite_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:polished_dripstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:polished_dripstone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:polished_dripstone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:polished_end_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:polished_end_stone_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:polished_end_stone_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:polished_end_stone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:polished_end_stone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:polished_granite_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:polished_granite_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:polished_granite_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:polished_limestone"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:polished_limestone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:polished_limestone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:polished_marble"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:polished_marble_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:polished_marble_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:polished_nether_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:polished_netherrack"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:polished_netherrack_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:polished_netherrack_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:polished_netherrack_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:polished_netherrack_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:polished_phantom_purpur"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:polished_phantom_purpur_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:polished_phantom_purpur_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:polished_purpur"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:polished_purpur_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:polished_purpur_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:polished_red_nether_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:polished_sculk"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:polished_sculk_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:polished_sculk_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:polished_sculk_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:polished_sculk_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:polished_teal_nether_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:polished_tuff"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:polished_tuff_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:polished_tuff_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:polished_tuff_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:polished_tuff_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:polished_viridite"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:polished_viridite_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:polished_viridite_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:potato_crate"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:prismarine_circular_paving"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:prismarine_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:prismarine_tile_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:prismarine_tile_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:prismarine_tile_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:prismarine_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:pufferfish_crate"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:purple_asphalt"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:purple_asphalt_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:purple_asphalt_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:purple_beveled_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:purple_beveled_glass_pane"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:purple_brown_colored_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:purple_colored_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:purple_concrete_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:purple_concrete_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:purple_concrete_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:purple_concrete_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:purple_concrete_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:purple_cyan_colored_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:purple_futurneo_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:purple_gingham_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:purple_gingham_wool"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:purple_gingham_wool_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:purple_gingham_wool_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:purple_glazed_terracotta_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:purple_gray_colored_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:purple_light_gray_colored_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:purple_magenta_colored_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:purple_neon"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:purple_orange_colored_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:purple_patterned_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:purple_patterned_wool"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:purple_patterned_wool_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:purple_patterned_wool_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:purple_redstone_lamp"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:purple_redstone_lamp_lit"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:purple_shingles"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:purple_shingles_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:purple_shingles_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:purple_stone_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:purple_stone_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:purple_stone_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:purple_stone_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:purpur_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:purpur_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:purpur_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:purpur_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:purpur_decorated_end_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:purpur_lines"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:purpur_squares"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:quartz_circular_paving"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:quartz_tile_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:quartz_tile_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:quartz_tile_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:quartz_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:rainbow_asphalt"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:rainbow_beveled_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:rainbow_beveled_glass_pane"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:rainbow_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:rainbow_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:rainbow_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:rainbow_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:rainbow_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:rainbow_colored_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:rainbow_futurneo_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:rainbow_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:rainbow_glass_pane"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:rainbow_glowstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:rainbow_lamp"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:rainbow_lamp_lit"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:rainbow_petal"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:rainbow_rose"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:raw_bamboo_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:raw_bamboo_chest_raft"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:raw_bamboo_cross_timber_frame"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:raw_bamboo_diagonal_timber_frame"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:raw_bamboo_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:raw_bamboo_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:raw_bamboo_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:raw_bamboo_hanging_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:raw_bamboo_mosaic"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:raw_bamboo_mosaic_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:raw_bamboo_mosaic_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:raw_bamboo_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:raw_bamboo_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:raw_bamboo_raft"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:raw_bamboo_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:raw_bamboo_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:raw_bamboo_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:raw_bamboo_timber_frame"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:raw_bamboo_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:red_asphalt"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:red_asphalt_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:red_asphalt_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:red_beveled_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:red_beveled_glass_pane"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:red_blue_colored_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:red_brown_colored_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:red_colored_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:red_concrete_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:red_concrete_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:red_concrete_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:red_concrete_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:red_concrete_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:red_cyan_colored_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:red_futurneo_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:red_gingham_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:red_gingham_wool"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:red_gingham_wool_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:red_gingham_wool_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:red_glazed_terracotta_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:red_gray_colored_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:red_green_colored_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:red_light_blue_colored_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:red_light_gray_colored_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:red_lime_colored_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:red_magenta_colored_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:red_neon"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:red_nether_brick_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:red_orange_colored_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:red_patterned_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:red_patterned_wool"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:red_patterned_wool_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:red_patterned_wool_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:red_pink_colored_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:red_purple_colored_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:red_redstone_lamp"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:red_redstone_lamp_lit"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:red_sandstone_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:red_sandstone_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:red_sandstone_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:red_sandstone_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:red_sandstone_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:red_shingles"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:red_shingles_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:red_shingles_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:red_stone_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:red_stone_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:red_stone_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:red_stone_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:red_yellow_colored_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:redstone_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:redstone_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:redstone_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:redstone_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:redstone_lamp_lit"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:redstone_lantern"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:redstone_lantern_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:redstone_o_lantern"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:redstone_sand"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:road_barrier"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:rotten_flesh_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:rough_basalt"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:rough_basalt_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:rough_basalt_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:rough_red_sandstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:rough_red_sandstone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:rough_red_sandstone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:rough_sandstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:rough_sandstone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:rough_sandstone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:rough_soul_sandstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:rough_soul_sandstone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:rough_soul_sandstone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:salmon_crate"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:sandstone_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:sandstone_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:sandstone_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:sandstone_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:sandstone_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:sandy_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:sandy_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:sandy_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:sandy_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:sculk_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:sculk_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:sculk_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:sculk_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:sculk_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:shingles"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:shingles_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:shingles_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:small_bluestone_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:small_bluestone_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:small_bluestone_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:small_bluestone_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:small_end_stone_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:small_end_stone_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:small_end_stone_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:small_end_stone_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:small_limestone_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:small_limestone_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:small_limestone_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:small_limestone_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:small_magma_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:small_magma_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:small_magma_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:small_magma_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:small_marble_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:small_marble_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:small_marble_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:small_marble_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:small_obsidian_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:small_obsidian_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:small_obsidian_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:small_obsidian_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:small_phantom_purpur_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:small_phantom_purpur_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:small_phantom_purpur_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:small_phantom_purpur_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:small_purpur_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:small_purpur_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:small_purpur_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:small_purpur_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:small_red_sandstone_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:small_red_sandstone_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:small_red_sandstone_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:small_red_sandstone_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:small_sandstone_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:small_sandstone_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:small_sandstone_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:small_sandstone_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:small_soul_sandstone_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:small_soul_sandstone_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:small_soul_sandstone_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:small_soul_sandstone_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:small_viridite_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:small_viridite_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:small_viridite_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:small_viridite_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:smooth_soul_sandstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:smooth_soul_sandstone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:smooth_soul_sandstone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:smooth_stone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:snow_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:snow_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:snow_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:snow_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:snow_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:soaked_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:soaked_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:soaked_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:soaked_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:soul_lantern_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:soul_o_lantern"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:soul_sandstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:soul_sandstone_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:soul_sandstone_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:soul_sandstone_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:soul_sandstone_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:soul_sandstone_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:soul_sandstone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:soul_sandstone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:soul_sandstone_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:spruce_cross_timber_frame"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:spruce_diagonal_timber_frame"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:spruce_mosaic"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:spruce_mosaic_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:spruce_mosaic_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:spruce_small_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:spruce_small_logs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:spruce_timber_frame"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:stars_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:stone_brick_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:stone_circular_paving"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:stone_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:stone_tile_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:stone_tile_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:stone_tile_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:stone_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:stone_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:stripped_white_oak_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:stripped_white_oak_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:sturdy_blackstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:sturdy_deepslate"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:sturdy_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:sugar_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:sweet_berries_crate"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:teal_nether_brick_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:teal_nether_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:teal_nether_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:teal_nether_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:teal_nether_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:thatch"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:thatch_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:thatch_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:tinted_beveled_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:tropical_fish_crate"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:tuff_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:tuff_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:tuff_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:tuff_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:tuff_circular_paving"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:tuff_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:viridite"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:viridite_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:viridite_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:viridite_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:viridite_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:viridite_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:viridite_circular_paving"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:viridite_lines"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:viridite_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:viridite_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:viridite_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:viridite_squares"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:viridite_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:viridite_tile_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:viridite_tile_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:viridite_tile_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:viridite_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:viridite_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:warped_cross_timber_frame"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:warped_diagonal_timber_frame"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:warped_mosaic"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:warped_mosaic_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:warped_mosaic_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:warped_small_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:warped_small_stems"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:warped_timber_frame"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:warped_wart_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:warped_wart_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:warped_wart_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:warped_wart_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:warped_warty_blackstone_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:warped_warty_blackstone_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:warped_warty_blackstone_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:warped_warty_blackstone_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:water_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:water_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:water_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:water_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:weight_storage_cube"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:white_asphalt"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:white_asphalt_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:white_asphalt_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:white_beveled_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:white_beveled_glass_pane"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:white_black_colored_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:white_blue_colored_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:white_brown_colored_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:white_colored_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:white_concrete_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:white_concrete_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:white_concrete_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:white_concrete_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:white_concrete_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:white_cyan_colored_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:white_futurneo_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:white_gingham_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:white_gingham_wool"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:white_gingham_wool_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:white_gingham_wool_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:white_glazed_terracotta_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:white_gray_colored_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:white_green_colored_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:white_light_blue_colored_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:white_light_gray_colored_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:white_lime_colored_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:white_magenta_colored_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:white_neon"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:white_oak_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:white_oak_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:white_oak_chest_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:white_oak_cross_timber_frame"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:white_oak_diagonal_timber_frame"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:white_oak_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:white_oak_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:white_oak_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:white_oak_hanging_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:white_oak_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:white_oak_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:white_oak_mosaic"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:white_oak_mosaic_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:white_oak_mosaic_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:white_oak_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:white_oak_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:white_oak_sapling"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:white_oak_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:white_oak_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:white_oak_small_hedge"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:white_oak_small_logs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:white_oak_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:white_oak_timber_frame"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:white_oak_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:white_oak_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:white_orange_colored_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:white_patterned_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:white_patterned_wool"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:white_patterned_wool_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:white_patterned_wool_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:white_pink_colored_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:white_purple_colored_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:white_red_colored_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:white_redstone_lamp"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:white_redstone_lamp_lit"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:white_shingles"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:white_shingles_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:white_shingles_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:white_stone_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:white_stone_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:white_stone_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:white_stone_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:white_yellow_colored_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:wooden_frame"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:yellow_asphalt"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:yellow_asphalt_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:yellow_asphalt_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:yellow_beveled_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:yellow_beveled_glass_pane"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:yellow_brown_colored_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:yellow_colored_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:yellow_concrete_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:yellow_concrete_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:yellow_concrete_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:yellow_concrete_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:yellow_concrete_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:yellow_cyan_colored_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:yellow_futurneo_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:yellow_gingham_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:yellow_gingham_wool"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:yellow_gingham_wool_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:yellow_gingham_wool_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:yellow_glazed_terracotta_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:yellow_gray_colored_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:yellow_light_gray_colored_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:yellow_magenta_colored_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:yellow_neon"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:yellow_orange_colored_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:yellow_patterned_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:yellow_patterned_wool"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:yellow_patterned_wool_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:yellow_patterned_wool_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:yellow_pink_colored_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:yellow_purple_colored_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:yellow_redstone_lamp"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:yellow_redstone_lamp_lit"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:yellow_shingles"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:yellow_shingles_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:yellow_shingles_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:yellow_stone_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:yellow_stone_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:yellow_stone_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "blockus:yellow_stone_bricks"
+		}
+	]
+}

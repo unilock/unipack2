@@ -1,0 +1,92 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "oceansdelight:baked_tentacle_on_a_stick"
+		},
+		{
+			"weight": 1.0,
+			"key": "oceansdelight:bowl_of_guardian_soup"
+		},
+		{
+			"weight": 1.0,
+			"key": "oceansdelight:braised_sea_pickle"
+		},
+		{
+			"weight": 1.0,
+			"key": "oceansdelight:cabbage_wrapped_elder_guardian"
+		},
+		{
+			"weight": 1.0,
+			"key": "oceansdelight:cooked_elder_guardian_slice"
+		},
+		{
+			"weight": 1.0,
+			"key": "oceansdelight:cooked_guardian_tail"
+		},
+		{
+			"weight": 1.0,
+			"key": "oceansdelight:cooked_stuffed_cod"
+		},
+		{
+			"weight": 1.0,
+			"key": "oceansdelight:cut_tentacles"
+		},
+		{
+			"weight": 1.0,
+			"key": "oceansdelight:elder_guardian_roll"
+		},
+		{
+			"weight": 1.0,
+			"key": "oceansdelight:elder_guardian_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "oceansdelight:elder_guardian_slice"
+		},
+		{
+			"weight": 1.0,
+			"key": "oceansdelight:fugu_roll"
+		},
+		{
+			"weight": 1.0,
+			"key": "oceansdelight:fugu_slice"
+		},
+		{
+			"weight": 1.0,
+			"key": "oceansdelight:guardian"
+		},
+		{
+			"weight": 1.0,
+			"key": "oceansdelight:guardian_soup"
+		},
+		{
+			"weight": 1.0,
+			"key": "oceansdelight:guardian_tail"
+		},
+		{
+			"weight": 1.0,
+			"key": "oceansdelight:honey_fried_kelp"
+		},
+		{
+			"weight": 1.0,
+			"key": "oceansdelight:seagrass_salad"
+		},
+		{
+			"weight": 1.0,
+			"key": "oceansdelight:squid_rings"
+		},
+		{
+			"weight": 1.0,
+			"key": "oceansdelight:stuffed_cod"
+		},
+		{
+			"weight": 1.0,
+			"key": "oceansdelight:tentacle_on_a_stick"
+		},
+		{
+			"weight": 1.0,
+			"key": "oceansdelight:tentacles"
+		}
+	]
+}

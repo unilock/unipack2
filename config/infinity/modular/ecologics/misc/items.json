@@ -1,0 +1,408 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "ecologics:azalea_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "ecologics:azalea_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "ecologics:azalea_chest_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "ecologics:azalea_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "ecologics:azalea_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "ecologics:azalea_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "ecologics:azalea_flower"
+		},
+		{
+			"weight": 1.0,
+			"key": "ecologics:azalea_hanging_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "ecologics:azalea_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "ecologics:azalea_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "ecologics:azalea_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "ecologics:azalea_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "ecologics:azalea_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "ecologics:azalea_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "ecologics:azalea_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "ecologics:azalea_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "ecologics:coconut"
+		},
+		{
+			"weight": 1.0,
+			"key": "ecologics:coconut_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "ecologics:coconut_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "ecologics:coconut_chest_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "ecologics:coconut_crab_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "ecologics:coconut_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "ecologics:coconut_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "ecologics:coconut_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "ecologics:coconut_hanging_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "ecologics:coconut_husk"
+		},
+		{
+			"weight": 1.0,
+			"key": "ecologics:coconut_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "ecologics:coconut_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "ecologics:coconut_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "ecologics:coconut_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "ecologics:coconut_seedling"
+		},
+		{
+			"weight": 1.0,
+			"key": "ecologics:coconut_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "ecologics:coconut_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "ecologics:coconut_slice"
+		},
+		{
+			"weight": 1.0,
+			"key": "ecologics:coconut_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "ecologics:coconut_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "ecologics:coconut_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "ecologics:cooked_prickly_pear"
+		},
+		{
+			"weight": 1.0,
+			"key": "ecologics:crab_claw"
+		},
+		{
+			"weight": 1.0,
+			"key": "ecologics:crab_meat"
+		},
+		{
+			"weight": 1.0,
+			"key": "ecologics:flowering_azalea_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "ecologics:flowering_azalea_chest_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "ecologics:flowering_azalea_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "ecologics:flowering_azalea_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "ecologics:flowering_azalea_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "ecologics:flowering_azalea_hanging_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "ecologics:flowering_azalea_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "ecologics:flowering_azalea_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "ecologics:flowering_azalea_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "ecologics:flowering_azalea_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "ecologics:flowering_azalea_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "ecologics:flowering_azalea_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "ecologics:flowering_azalea_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "ecologics:ice_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "ecologics:ice_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "ecologics:ice_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "ecologics:ice_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "ecologics:music_disc_coconut"
+		},
+		{
+			"weight": 1.0,
+			"key": "ecologics:penguin_feather"
+		},
+		{
+			"weight": 1.0,
+			"key": "ecologics:penguin_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "ecologics:pot"
+		},
+		{
+			"weight": 1.0,
+			"key": "ecologics:prickly_pear"
+		},
+		{
+			"weight": 1.0,
+			"key": "ecologics:sandcastle"
+		},
+		{
+			"weight": 1.0,
+			"key": "ecologics:seashell"
+		},
+		{
+			"weight": 1.0,
+			"key": "ecologics:seashell_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "ecologics:seashell_tile_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "ecologics:seashell_tile_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "ecologics:seashell_tile_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "ecologics:seashell_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "ecologics:snow_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "ecologics:snow_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "ecologics:snow_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "ecologics:snow_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "ecologics:squirrel_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "ecologics:stripped_azalea_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "ecologics:stripped_azalea_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "ecologics:stripped_coconut_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "ecologics:stripped_coconut_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "ecologics:stripped_walnut_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "ecologics:stripped_walnut_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "ecologics:surface_moss"
+		},
+		{
+			"weight": 1.0,
+			"key": "ecologics:thin_ice"
+		},
+		{
+			"weight": 1.0,
+			"key": "ecologics:tropical_stew"
+		},
+		{
+			"weight": 1.0,
+			"key": "ecologics:walnut"
+		},
+		{
+			"weight": 1.0,
+			"key": "ecologics:walnut_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "ecologics:walnut_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "ecologics:walnut_chest_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "ecologics:walnut_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "ecologics:walnut_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "ecologics:walnut_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "ecologics:walnut_hanging_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "ecologics:walnut_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "ecologics:walnut_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "ecologics:walnut_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "ecologics:walnut_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "ecologics:walnut_sapling"
+		},
+		{
+			"weight": 1.0,
+			"key": "ecologics:walnut_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "ecologics:walnut_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "ecologics:walnut_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "ecologics:walnut_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "ecologics:walnut_wood"
+		}
+	]
+}

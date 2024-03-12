@@ -1,0 +1,24 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "mystcraft-ages:book_receptacle"
+		},
+		{
+			"weight": 1.0,
+			"key": "mystcraft-ages:ink_vial"
+		},
+		{
+			"weight": 1.0,
+			"key": "mystcraft-ages:linked_book"
+		},
+		{
+			"weight": 1.0,
+			"key": "mystcraft-ages:unlinked_book"
+		},
+		{
+			"weight": 1.0,
+			"key": "mystcraft-ages:writing_stand"
+		}
+	]
+}

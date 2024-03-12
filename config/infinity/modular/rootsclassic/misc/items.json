@@ -1,0 +1,244 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "rootsclassic:acacia_bark"
+		},
+		{
+			"weight": 1.0,
+			"key": "rootsclassic:accelerator_standing_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "rootsclassic:aesthetic_standing_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "rootsclassic:altar"
+		},
+		{
+			"weight": 1.0,
+			"key": "rootsclassic:attuned_standing_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "rootsclassic:bark_knife"
+		},
+		{
+			"weight": 1.0,
+			"key": "rootsclassic:birch_bark"
+		},
+		{
+			"weight": 1.0,
+			"key": "rootsclassic:blackcurrant"
+		},
+		{
+			"weight": 1.0,
+			"key": "rootsclassic:brazier"
+		},
+		{
+			"weight": 1.0,
+			"key": "rootsclassic:charged_runic_focus"
+		},
+		{
+			"weight": 1.0,
+			"key": "rootsclassic:crystal_staff"
+		},
+		{
+			"weight": 1.0,
+			"key": "rootsclassic:dark_oak_bark"
+		},
+		{
+			"weight": 1.0,
+			"key": "rootsclassic:dragons_eye"
+		},
+		{
+			"weight": 1.0,
+			"key": "rootsclassic:elderberry"
+		},
+		{
+			"weight": 1.0,
+			"key": "rootsclassic:engraved_blade"
+		},
+		{
+			"weight": 1.0,
+			"key": "rootsclassic:entangler_standing_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "rootsclassic:flare_orchid"
+		},
+		{
+			"weight": 1.0,
+			"key": "rootsclassic:fruit_salad"
+		},
+		{
+			"weight": 1.0,
+			"key": "rootsclassic:grower_standing_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "rootsclassic:growth_powder"
+		},
+		{
+			"weight": 1.0,
+			"key": "rootsclassic:healer_standing_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "rootsclassic:healing_poultice"
+		},
+		{
+			"weight": 1.0,
+			"key": "rootsclassic:igniter_standing_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "rootsclassic:imbuer"
+		},
+		{
+			"weight": 1.0,
+			"key": "rootsclassic:infernal_bulb"
+		},
+		{
+			"weight": 1.0,
+			"key": "rootsclassic:jungle_bark"
+		},
+		{
+			"weight": 1.0,
+			"key": "rootsclassic:living_axe"
+		},
+		{
+			"weight": 1.0,
+			"key": "rootsclassic:living_hoe"
+		},
+		{
+			"weight": 1.0,
+			"key": "rootsclassic:living_pickaxe"
+		},
+		{
+			"weight": 1.0,
+			"key": "rootsclassic:living_shovel"
+		},
+		{
+			"weight": 1.0,
+			"key": "rootsclassic:living_sword"
+		},
+		{
+			"weight": 1.0,
+			"key": "rootsclassic:mana_research_icon"
+		},
+		{
+			"weight": 1.0,
+			"key": "rootsclassic:midnight_bloom"
+		},
+		{
+			"weight": 1.0,
+			"key": "rootsclassic:mortar"
+		},
+		{
+			"weight": 1.0,
+			"key": "rootsclassic:mundane_standing_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "rootsclassic:mutating_powder"
+		},
+		{
+			"weight": 1.0,
+			"key": "rootsclassic:nightshade"
+		},
+		{
+			"weight": 1.0,
+			"key": "rootsclassic:oak_bark"
+		},
+		{
+			"weight": 1.0,
+			"key": "rootsclassic:old_root"
+		},
+		{
+			"weight": 1.0,
+			"key": "rootsclassic:pestle"
+		},
+		{
+			"weight": 1.0,
+			"key": "rootsclassic:radiant_daisy"
+		},
+		{
+			"weight": 1.0,
+			"key": "rootsclassic:redcurrant"
+		},
+		{
+			"weight": 1.0,
+			"key": "rootsclassic:repulsor_standing_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "rootsclassic:rooty_stew"
+		},
+		{
+			"weight": 1.0,
+			"key": "rootsclassic:runic_focus"
+		},
+		{
+			"weight": 1.0,
+			"key": "rootsclassic:runic_tablet"
+		},
+		{
+			"weight": 1.0,
+			"key": "rootsclassic:spell_powder"
+		},
+		{
+			"weight": 1.0,
+			"key": "rootsclassic:spruce_bark"
+		},
+		{
+			"weight": 1.0,
+			"key": "rootsclassic:staff"
+		},
+		{
+			"weight": 1.0,
+			"key": "rootsclassic:sylvan_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "rootsclassic:sylvan_hood"
+		},
+		{
+			"weight": 1.0,
+			"key": "rootsclassic:sylvan_robe"
+		},
+		{
+			"weight": 1.0,
+			"key": "rootsclassic:sylvan_tunic"
+		},
+		{
+			"weight": 1.0,
+			"key": "rootsclassic:vacuum_standing_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "rootsclassic:verdant_sprig"
+		},
+		{
+			"weight": 1.0,
+			"key": "rootsclassic:whitecurrant"
+		},
+		{
+			"weight": 1.0,
+			"key": "rootsclassic:wildwood_boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "rootsclassic:wildwood_leggings"
+		},
+		{
+			"weight": 1.0,
+			"key": "rootsclassic:wildwood_mask"
+		},
+		{
+			"weight": 1.0,
+			"key": "rootsclassic:wildwood_plate"
+		}
+	]
+}

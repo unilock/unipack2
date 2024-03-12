@@ -1,0 +1,60 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "ochetgenyo:a_glyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "ochetgenyo:e_glyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "ochetgenyo:g_glyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "ochetgenyo:glyph_base"
+		},
+		{
+			"weight": 1.0,
+			"key": "ochetgenyo:glyph_chisel"
+		},
+		{
+			"weight": 1.0,
+			"key": "ochetgenyo:j_glyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "ochetgenyo:k_glyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "ochetgenyo:n_glyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "ochetgenyo:o_glyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "ochetgenyo:p_glyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "ochetgenyo:s_glyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "ochetgenyo:stop_glyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "ochetgenyo:t_glyph"
+		},
+		{
+			"weight": 1.0,
+			"key": "ochetgenyo:v_glyph"
+		}
+	]
+}

@@ -1,0 +1,84 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "hexcasting:abacus"
+		},
+		{
+			"weight": 1.0,
+			"key": "hexcasting:abacus.shake"
+		},
+		{
+			"weight": 1.0,
+			"key": "hexcasting:casting.ambiance"
+		},
+		{
+			"weight": 1.0,
+			"key": "hexcasting:casting.cast.fail"
+		},
+		{
+			"weight": 1.0,
+			"key": "hexcasting:casting.cast.hermes"
+		},
+		{
+			"weight": 1.0,
+			"key": "hexcasting:casting.cast.normal"
+		},
+		{
+			"weight": 1.0,
+			"key": "hexcasting:casting.cast.spell"
+		},
+		{
+			"weight": 1.0,
+			"key": "hexcasting:casting.cast.thoth"
+		},
+		{
+			"weight": 1.0,
+			"key": "hexcasting:casting.pattern.add_segment"
+		},
+		{
+			"weight": 1.0,
+			"key": "hexcasting:casting.pattern.start"
+		},
+		{
+			"weight": 1.0,
+			"key": "hexcasting:flight.ambience"
+		},
+		{
+			"weight": 1.0,
+			"key": "hexcasting:flight.finish"
+		},
+		{
+			"weight": 1.0,
+			"key": "hexcasting:impetus.fletcher.tick"
+		},
+		{
+			"weight": 1.0,
+			"key": "hexcasting:impetus.redstone.register"
+		},
+		{
+			"weight": 1.0,
+			"key": "hexcasting:lore_fragment.read"
+		},
+		{
+			"weight": 1.0,
+			"key": "hexcasting:scroll.dust"
+		},
+		{
+			"weight": 1.0,
+			"key": "hexcasting:scroll.scribble"
+		},
+		{
+			"weight": 1.0,
+			"key": "hexcasting:spellcircle.fail"
+		},
+		{
+			"weight": 1.0,
+			"key": "hexcasting:spellcircle.find_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "hexcasting:staff.reset"
+		}
+	]
+}

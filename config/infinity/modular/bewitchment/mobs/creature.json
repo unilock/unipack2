@@ -1,0 +1,20 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "bewitchment:owl"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:raven"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:snake"
+		},
+		{
+			"weight": 1.0,
+			"key": "bewitchment:toad"
+		}
+	]
+}

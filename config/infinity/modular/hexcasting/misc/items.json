@@ -1,0 +1,504 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "hexcasting:abacus"
+		},
+		{
+			"weight": 1.0,
+			"key": "hexcasting:akashic_bookshelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "hexcasting:akashic_connector"
+		},
+		{
+			"weight": 1.0,
+			"key": "hexcasting:akashic_record"
+		},
+		{
+			"weight": 1.0,
+			"key": "hexcasting:amethyst_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "hexcasting:amethyst_bricks_small"
+		},
+		{
+			"weight": 1.0,
+			"key": "hexcasting:amethyst_dust"
+		},
+		{
+			"weight": 1.0,
+			"key": "hexcasting:amethyst_dust_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "hexcasting:amethyst_edified_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "hexcasting:amethyst_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "hexcasting:amethyst_sconce"
+		},
+		{
+			"weight": 1.0,
+			"key": "hexcasting:amethyst_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "hexcasting:ancient_scroll_paper"
+		},
+		{
+			"weight": 1.0,
+			"key": "hexcasting:ancient_scroll_paper_lantern"
+		},
+		{
+			"weight": 1.0,
+			"key": "hexcasting:artifact"
+		},
+		{
+			"weight": 1.0,
+			"key": "hexcasting:aventurine_edified_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "hexcasting:battery"
+		},
+		{
+			"weight": 1.0,
+			"key": "hexcasting:charged_amethyst"
+		},
+		{
+			"weight": 1.0,
+			"key": "hexcasting:citrine_edified_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "hexcasting:conjured_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "hexcasting:conjured_light"
+		},
+		{
+			"weight": 1.0,
+			"key": "hexcasting:creative_unlocker"
+		},
+		{
+			"weight": 1.0,
+			"key": "hexcasting:cypher"
+		},
+		{
+			"weight": 1.0,
+			"key": "hexcasting:default_colorizer"
+		},
+		{
+			"weight": 1.0,
+			"key": "hexcasting:directrix/boolean"
+		},
+		{
+			"weight": 1.0,
+			"key": "hexcasting:directrix/empty"
+		},
+		{
+			"weight": 1.0,
+			"key": "hexcasting:directrix/redstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "hexcasting:dye_colorizer_black"
+		},
+		{
+			"weight": 1.0,
+			"key": "hexcasting:dye_colorizer_blue"
+		},
+		{
+			"weight": 1.0,
+			"key": "hexcasting:dye_colorizer_brown"
+		},
+		{
+			"weight": 1.0,
+			"key": "hexcasting:dye_colorizer_cyan"
+		},
+		{
+			"weight": 1.0,
+			"key": "hexcasting:dye_colorizer_gray"
+		},
+		{
+			"weight": 1.0,
+			"key": "hexcasting:dye_colorizer_green"
+		},
+		{
+			"weight": 1.0,
+			"key": "hexcasting:dye_colorizer_light_blue"
+		},
+		{
+			"weight": 1.0,
+			"key": "hexcasting:dye_colorizer_light_gray"
+		},
+		{
+			"weight": 1.0,
+			"key": "hexcasting:dye_colorizer_lime"
+		},
+		{
+			"weight": 1.0,
+			"key": "hexcasting:dye_colorizer_magenta"
+		},
+		{
+			"weight": 1.0,
+			"key": "hexcasting:dye_colorizer_orange"
+		},
+		{
+			"weight": 1.0,
+			"key": "hexcasting:dye_colorizer_pink"
+		},
+		{
+			"weight": 1.0,
+			"key": "hexcasting:dye_colorizer_purple"
+		},
+		{
+			"weight": 1.0,
+			"key": "hexcasting:dye_colorizer_red"
+		},
+		{
+			"weight": 1.0,
+			"key": "hexcasting:dye_colorizer_white"
+		},
+		{
+			"weight": 1.0,
+			"key": "hexcasting:dye_colorizer_yellow"
+		},
+		{
+			"weight": 1.0,
+			"key": "hexcasting:edified_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "hexcasting:edified_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "hexcasting:edified_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "hexcasting:edified_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "hexcasting:edified_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "hexcasting:edified_log_amethyst"
+		},
+		{
+			"weight": 1.0,
+			"key": "hexcasting:edified_log_aventurine"
+		},
+		{
+			"weight": 1.0,
+			"key": "hexcasting:edified_log_citrine"
+		},
+		{
+			"weight": 1.0,
+			"key": "hexcasting:edified_log_purple"
+		},
+		{
+			"weight": 1.0,
+			"key": "hexcasting:edified_panel"
+		},
+		{
+			"weight": 1.0,
+			"key": "hexcasting:edified_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "hexcasting:edified_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "hexcasting:edified_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "hexcasting:edified_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "hexcasting:edified_tile"
+		},
+		{
+			"weight": 1.0,
+			"key": "hexcasting:edified_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "hexcasting:edified_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "hexcasting:focus"
+		},
+		{
+			"weight": 1.0,
+			"key": "hexcasting:impetus/empty"
+		},
+		{
+			"weight": 1.0,
+			"key": "hexcasting:impetus/look"
+		},
+		{
+			"weight": 1.0,
+			"key": "hexcasting:impetus/redstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "hexcasting:impetus/rightclick"
+		},
+		{
+			"weight": 1.0,
+			"key": "hexcasting:jeweler_hammer"
+		},
+		{
+			"weight": 1.0,
+			"key": "hexcasting:lens"
+		},
+		{
+			"weight": 1.0,
+			"key": "hexcasting:lore_fragment"
+		},
+		{
+			"weight": 1.0,
+			"key": "hexcasting:pride_colorizer_agender"
+		},
+		{
+			"weight": 1.0,
+			"key": "hexcasting:pride_colorizer_aroace"
+		},
+		{
+			"weight": 1.0,
+			"key": "hexcasting:pride_colorizer_aromantic"
+		},
+		{
+			"weight": 1.0,
+			"key": "hexcasting:pride_colorizer_asexual"
+		},
+		{
+			"weight": 1.0,
+			"key": "hexcasting:pride_colorizer_bisexual"
+		},
+		{
+			"weight": 1.0,
+			"key": "hexcasting:pride_colorizer_demiboy"
+		},
+		{
+			"weight": 1.0,
+			"key": "hexcasting:pride_colorizer_demigirl"
+		},
+		{
+			"weight": 1.0,
+			"key": "hexcasting:pride_colorizer_gay"
+		},
+		{
+			"weight": 1.0,
+			"key": "hexcasting:pride_colorizer_genderfluid"
+		},
+		{
+			"weight": 1.0,
+			"key": "hexcasting:pride_colorizer_genderqueer"
+		},
+		{
+			"weight": 1.0,
+			"key": "hexcasting:pride_colorizer_intersex"
+		},
+		{
+			"weight": 1.0,
+			"key": "hexcasting:pride_colorizer_lesbian"
+		},
+		{
+			"weight": 1.0,
+			"key": "hexcasting:pride_colorizer_nonbinary"
+		},
+		{
+			"weight": 1.0,
+			"key": "hexcasting:pride_colorizer_pansexual"
+		},
+		{
+			"weight": 1.0,
+			"key": "hexcasting:pride_colorizer_plural"
+		},
+		{
+			"weight": 1.0,
+			"key": "hexcasting:pride_colorizer_transgender"
+		},
+		{
+			"weight": 1.0,
+			"key": "hexcasting:quenched_allay"
+		},
+		{
+			"weight": 1.0,
+			"key": "hexcasting:quenched_allay_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "hexcasting:quenched_allay_bricks_small"
+		},
+		{
+			"weight": 1.0,
+			"key": "hexcasting:quenched_allay_shard"
+		},
+		{
+			"weight": 1.0,
+			"key": "hexcasting:quenched_allay_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "hexcasting:scroll"
+		},
+		{
+			"weight": 1.0,
+			"key": "hexcasting:scroll_medium"
+		},
+		{
+			"weight": 1.0,
+			"key": "hexcasting:scroll_paper"
+		},
+		{
+			"weight": 1.0,
+			"key": "hexcasting:scroll_paper_lantern"
+		},
+		{
+			"weight": 1.0,
+			"key": "hexcasting:scroll_small"
+		},
+		{
+			"weight": 1.0,
+			"key": "hexcasting:slate"
+		},
+		{
+			"weight": 1.0,
+			"key": "hexcasting:slate_amethyst_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "hexcasting:slate_amethyst_bricks_small"
+		},
+		{
+			"weight": 1.0,
+			"key": "hexcasting:slate_amethyst_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "hexcasting:slate_amethyst_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "hexcasting:slate_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "hexcasting:slate_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "hexcasting:slate_bricks_small"
+		},
+		{
+			"weight": 1.0,
+			"key": "hexcasting:slate_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "hexcasting:slate_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "hexcasting:spellbook"
+		},
+		{
+			"weight": 1.0,
+			"key": "hexcasting:staff/acacia"
+		},
+		{
+			"weight": 1.0,
+			"key": "hexcasting:staff/bamboo"
+		},
+		{
+			"weight": 1.0,
+			"key": "hexcasting:staff/birch"
+		},
+		{
+			"weight": 1.0,
+			"key": "hexcasting:staff/cherry"
+		},
+		{
+			"weight": 1.0,
+			"key": "hexcasting:staff/crimson"
+		},
+		{
+			"weight": 1.0,
+			"key": "hexcasting:staff/dark_oak"
+		},
+		{
+			"weight": 1.0,
+			"key": "hexcasting:staff/edified"
+		},
+		{
+			"weight": 1.0,
+			"key": "hexcasting:staff/jungle"
+		},
+		{
+			"weight": 1.0,
+			"key": "hexcasting:staff/mangrove"
+		},
+		{
+			"weight": 1.0,
+			"key": "hexcasting:staff/mindsplice"
+		},
+		{
+			"weight": 1.0,
+			"key": "hexcasting:staff/oak"
+		},
+		{
+			"weight": 1.0,
+			"key": "hexcasting:staff/quenched"
+		},
+		{
+			"weight": 1.0,
+			"key": "hexcasting:staff/spruce"
+		},
+		{
+			"weight": 1.0,
+			"key": "hexcasting:staff/warped"
+		},
+		{
+			"weight": 1.0,
+			"key": "hexcasting:stripped_edified_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "hexcasting:stripped_edified_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "hexcasting:sub_sandwich"
+		},
+		{
+			"weight": 1.0,
+			"key": "hexcasting:thought_knot"
+		},
+		{
+			"weight": 1.0,
+			"key": "hexcasting:trinket"
+		},
+		{
+			"weight": 1.0,
+			"key": "hexcasting:uuid_colorizer"
+		}
+	]
+}

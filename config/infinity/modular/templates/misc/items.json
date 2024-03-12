@@ -1,0 +1,88 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "templates:button"
+		},
+		{
+			"weight": 1.0,
+			"key": "templates:candle"
+		},
+		{
+			"weight": 1.0,
+			"key": "templates:carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "templates:cool_rivulet"
+		},
+		{
+			"weight": 1.0,
+			"key": "templates:cube"
+		},
+		{
+			"weight": 1.0,
+			"key": "templates:door"
+		},
+		{
+			"weight": 1.0,
+			"key": "templates:fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "templates:fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "templates:iron_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "templates:iron_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "templates:lever"
+		},
+		{
+			"weight": 1.0,
+			"key": "templates:pane"
+		},
+		{
+			"weight": 1.0,
+			"key": "templates:post"
+		},
+		{
+			"weight": 1.0,
+			"key": "templates:pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "templates:slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "templates:slope"
+		},
+		{
+			"weight": 1.0,
+			"key": "templates:stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "templates:tiny_slope"
+		},
+		{
+			"weight": 1.0,
+			"key": "templates:trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "templates:vertical_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "templates:wall"
+		}
+	]
+}

@@ -1,0 +1,32 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "packages:insert_all"
+		},
+		{
+			"weight": 1.0,
+			"key": "packages:insert_one"
+		},
+		{
+			"weight": 1.0,
+			"key": "packages:insert_stack"
+		},
+		{
+			"weight": 1.0,
+			"key": "packages:package_maker_craft"
+		},
+		{
+			"weight": 1.0,
+			"key": "packages:take_all"
+		},
+		{
+			"weight": 1.0,
+			"key": "packages:take_one"
+		},
+		{
+			"weight": 1.0,
+			"key": "packages:take_stack"
+		}
+	]
+}

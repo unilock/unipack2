@@ -1,0 +1,24 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "tricksy:clap"
+		},
+		{
+			"weight": 1.0,
+			"key": "tricksy:fan"
+		},
+		{
+			"weight": 1.0,
+			"key": "tricksy:snap"
+		},
+		{
+			"weight": 1.0,
+			"key": "tricksy:tricksy_enlightened"
+		},
+		{
+			"weight": 1.0,
+			"key": "tricksy:whiteboard_updated"
+		}
+	]
+}

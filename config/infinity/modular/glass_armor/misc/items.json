@@ -1,0 +1,24 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "glass_armor:boots"
+		},
+		{
+			"weight": 1.0,
+			"key": "glass_armor:chestplate"
+		},
+		{
+			"weight": 1.0,
+			"key": "glass_armor:glass_ingot"
+		},
+		{
+			"weight": 1.0,
+			"key": "glass_armor:helmet"
+		},
+		{
+			"weight": 1.0,
+			"key": "glass_armor:leggings"
+		}
+	]
+}

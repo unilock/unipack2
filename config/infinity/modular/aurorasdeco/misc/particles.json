@@ -1,0 +1,20 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "aurorasdeco:amethyst_glint"
+		},
+		{
+			"weight": 1.0,
+			"key": "aurorasdeco:copper_sulfate_flame"
+		},
+		{
+			"weight": 1.0,
+			"key": "aurorasdeco:copper_sulfate_lava"
+		},
+		{
+			"weight": 1.0,
+			"key": "aurorasdeco:lavender_petal"
+		}
+	]
+}

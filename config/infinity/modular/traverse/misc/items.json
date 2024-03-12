@@ -1,0 +1,112 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "traverse:brown_autumnal_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "traverse:brown_autumnal_sapling"
+		},
+		{
+			"weight": 1.0,
+			"key": "traverse:fir_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "traverse:fir_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "traverse:fir_chest_boat"
+		},
+		{
+			"weight": 1.0,
+			"key": "traverse:fir_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "traverse:fir_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "traverse:fir_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "traverse:fir_hanging_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "traverse:fir_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "traverse:fir_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "traverse:fir_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "traverse:fir_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "traverse:fir_sapling"
+		},
+		{
+			"weight": 1.0,
+			"key": "traverse:fir_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "traverse:fir_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "traverse:fir_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "traverse:fir_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "traverse:fir_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "traverse:orange_autumnal_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "traverse:orange_autumnal_sapling"
+		},
+		{
+			"weight": 1.0,
+			"key": "traverse:red_autumnal_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "traverse:red_autumnal_sapling"
+		},
+		{
+			"weight": 1.0,
+			"key": "traverse:stripped_fir_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "traverse:stripped_fir_wood"
+		},
+		{
+			"weight": 1.0,
+			"key": "traverse:yellow_autumnal_leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "traverse:yellow_autumnal_sapling"
+		}
+	]
+}

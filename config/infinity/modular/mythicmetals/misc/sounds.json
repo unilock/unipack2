@@ -1,0 +1,156 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:banglum_nuke_explosion"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:banglum_nuke_ignite"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:carmot_staff_empty"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:deepslate_morkite_ore_break"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:dog"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:equip_adamantite"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:equip_aquarium"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:equip_banglum"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:equip_bronze"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:equip_carmot"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:equip_celestium"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:equip_celestium_elytra"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:equip_copper"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:equip_durasteel"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:equip_hallowed"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:equip_kyber"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:equip_legendary_banglum"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:equip_metallurgium"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:equip_midas_gold"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:equip_mythril"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:equip_orichalcum"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:equip_osmium"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:equip_osmium_chainmail"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:equip_palladium"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:equip_prometheum"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:equip_runite"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:equip_silver"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:equip_star_platinum"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:equip_steel"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:equip_stormyx"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:equip_tidesinger"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:melody"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:morkite_ore_break"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:mythril_drill_activate"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:mythril_drill_deactivate"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:projectile_barrier_begin"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:projectile_barrier_end"
+		},
+		{
+			"weight": 1.0,
+			"key": "mythicmetals:projectile_barrier_maintain"
+		}
+	]
+}

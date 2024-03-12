@@ -1,0 +1,68 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "extended_drawers:access_point"
+		},
+		{
+			"weight": 1.0,
+			"key": "extended_drawers:compacting_drawer"
+		},
+		{
+			"weight": 1.0,
+			"key": "extended_drawers:connector"
+		},
+		{
+			"weight": 1.0,
+			"key": "extended_drawers:creative_upgrade"
+		},
+		{
+			"weight": 1.0,
+			"key": "extended_drawers:double_drawer"
+		},
+		{
+			"weight": 1.0,
+			"key": "extended_drawers:dupe_wand"
+		},
+		{
+			"weight": 1.0,
+			"key": "extended_drawers:limiter"
+		},
+		{
+			"weight": 1.0,
+			"key": "extended_drawers:lock"
+		},
+		{
+			"weight": 1.0,
+			"key": "extended_drawers:quad_drawer"
+		},
+		{
+			"weight": 1.0,
+			"key": "extended_drawers:shadow_drawer"
+		},
+		{
+			"weight": 1.0,
+			"key": "extended_drawers:single_drawer"
+		},
+		{
+			"weight": 1.0,
+			"key": "extended_drawers:t1_upgrade"
+		},
+		{
+			"weight": 1.0,
+			"key": "extended_drawers:t2_upgrade"
+		},
+		{
+			"weight": 1.0,
+			"key": "extended_drawers:t3_upgrade"
+		},
+		{
+			"weight": 1.0,
+			"key": "extended_drawers:t4_upgrade"
+		},
+		{
+			"weight": 1.0,
+			"key": "extended_drawers:upgrade_frame"
+		}
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": {
+				"fluidName": "milk:still_milk",
+				"Name": "milk:milk_fluid_block"
+			}
+		}
+	]
+}
