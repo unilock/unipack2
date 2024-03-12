@@ -1,0 +1,226 @@
+{
+  "modPriorities": [
+    "minecraft",
+    "modern_industrialization",
+    "mythicmetals"
+    "create",
+    "bewitchment"
+  ],
+  "stoneStrata": [
+    "stone",
+    "nether",
+    "deepslate",
+    "granite",
+    "diorite",
+    "andesite"
+  ],
+  "tags": [
+    "c:{material}_nuggets",
+    "c:{material}_dusts",
+    "c:{material}_gears",
+    "c:{material}_gems",
+    "c:{material}_ingots",
+    "c:{material}_raw_materials",
+    "c:{material}_plates",
+    "c:{material}_rods",
+    "c:{material}_blocks",
+    "c:{material}_wires",
+    "c:{material}_storage_blocks",
+    "c:raw_{material}_blocks",
+    "c:raw_{material}_storage_blocks",
+    "c:silicon"
+  ],
+  "materials": [
+    "adamantite",
+    "aeternium",
+    "aluminum",
+    "amber",
+    "apatite",
+    "aquarium",
+    "arcane_gold",
+    "azure_silver",
+    "banglum",
+    "bismuth",
+    "bitumen",
+    "blutonium",
+    "brass",
+    "bronze",
+    "calorite",
+    "carmot",
+    "cast_iron",
+    "celestium",
+    "charcoal",
+    "chrome",
+    "chromium",
+    "cinnabar",
+    "coal",
+    "coal_coke",
+    "cobalt",
+    "conductive_alloy",
+    "constantan",
+    "copper",
+    "copper_alloy",
+    "copshowium",
+    "crimson_iron",
+    "cyanite",
+    "dark_steel",
+    "dawnstone",
+    "deorum",
+    "desh",
+    "diamond",
+    "draconium",
+    "durasteel",
+    "electrum",
+    "elementium",
+    "emerald",
+    "end_steel",
+    "enderium",
+    "energetic_alloy",
+    "fluorite",
+    "gold",
+    "graphite",
+    "hallowed",
+    "hellforged",
+    "hop_graphite",
+    "iesnium",
+    "inanite",
+    "insanite",
+    "invar",
+    "iridium",
+    "iridium_alloy",
+    "iron",
+    "kyber",
+    "lapis",
+    "lead",
+    "lithium",
+    "ludicrite",
+    "lumium",
+    "magentite",
+    "manasteel",
+    "manganese",
+    "metallurgium",
+    "midas_gold",
+    "mithril",
+    "mythril",
+    "necronium",
+    "neptunium",
+    "netherite",
+    "nickel",
+    "obsidian",
+    "oratchalcum",
+    "orichalcum",
+    "osmium",
+    "ostrum",
+    "palladium",
+    "peridot",
+    "pewter",
+    "platinum",
+    "plutonium",
+    "potassium_nitrate",
+    "prometheum",
+    "pulsating_alloy",
+    "quadrillum",
+    "redstone_alloy",
+    "refined_glowstone",
+    "refined_obsidian",
+    "rhodium",
+    "ridiculite",
+    "rose_gold",
+    "ruby",
+    "runite",
+    "sapphire",
+    "signalum",
+    "silver",
+    "sky_steel",
+    "soularium",
+    "steel",
+    "stormyx",
+    "stratus",
+    "sulfur",
+    "superconductor",
+    "terrasteel",
+    "tin",
+    "titanium",
+    "tungsten",
+    "tungstensteel",
+    "uranium",
+    "veridium",
+    "vibrant_alloy",
+    "zinc"
+  ],
+  "priorityOverrides": {},
+  "customTags": {
+    "c:bronze_nuggets": [
+      "mythicmetals:bronze_nugget"
+    ],
+    "c:copper_nuggets": [
+      "mythicmetals:copper_nugget"
+    ],
+    "c:osmium_nuggets": [
+      "mythicmetals:osmium_nugget"
+    ],
+    "c:platinum_nuggets": [
+      "mythicmetals:platinum_nugget"
+    ],
+    "c:silver_nuggets": [
+      "mythicmetals:silver_nugget"
+    ],
+    "c:steel_nuggets": [
+      "mythicmetals:steel_nugget"
+    ],
+    "c:tin_nuggets": [
+      "mythicmetals:tin_nugget"
+    ],
+    "c:aluminum_rods": [
+      "modern_industrialization:aluminum_rod"
+    ],
+    "c:bronze_rods": [
+      "modern_industrialization:bronze_rod"
+    ],
+    "c:copper_rods": [
+      "modern_industrialization:copper_rod"
+    ],
+    "c:gold_rods": [
+      "modern_industrialization:gold_rod"
+    ],
+    "c:invar_rods": [
+      "modern_industrialization:invar_rod"
+    ],
+    "c:iron_rods": [
+      "modern_industrialization:iron_rod"
+    ],
+    "c:stainless_steel_rods": [
+      "modern_industrialization:stainless_steel_rod"
+    ],
+    "c:steel_rods": [
+      "modern_industrialization:steel_rod"
+    ],
+    "c:tin_rods": [
+      "modern_industrialization:tin_rod"
+    ],
+    "c:titanium_rods": [
+      "modern_industrialization:titanium_rod"
+    ],
+    "c:tungsten_rods": [
+      "modern_industrialization:tungsten_rod"
+    ],
+    "c:dragonstone_storage_blocks": [
+      "botania:dragonstone_block"
+    ],
+    "c:mana_diamond_storage_blocks": [
+      "botania:mana_diamond_block"
+    ]
+  },
+  "tagOwnerships": {},
+  "itemTagInheritanceMode": "ALLOW",
+  "itemTagInheritance": {},
+  "blockTagInheritanceMode": "ALLOW",
+  "blockTagInheritance": {},
+  "ignoredTags": [],
+  "ignoredItems": [],
+  "ignoredRecipeTypes": [
+    "cucumber:shaped_tag"
+  ],
+  "ignoredRecipes": [],
+  "itemsHidingJeiRei": true
+}
