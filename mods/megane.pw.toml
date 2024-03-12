@@ -1,13 +1,13 @@
 name = "Megane: Fabric"
-filename = "megane-fabric-20.1.0.jar"
+filename = "megane-fabric-20.1.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "593b5e14c3be430fa695610272674a3025573153"
+hash = "d514017918d33957ec765469b279050cd9567626"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5079949
+file-id = 5174184
 project-id = 408118
