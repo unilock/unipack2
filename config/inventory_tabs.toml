@@ -96,8 +96,8 @@ allowScreensByDefault = true
 # Non-registry Tab Providers like player_inventory and vehicle_inventory can't be disabled here
 #
 [registryProviderDefaults]
-	"inventory_tabs:block_shulker_box" = true
-	"inventory_tabs:block_ender_chest" = true
+	"inventory_tabs:block_shulker_box" = false
+	"inventory_tabs:block_ender_chest" = false
 	"inventory_tabs:block_chest" = false
 	"inventory_tabs:block_unique" = true
 	"inventory_tabs:block_simple_storage" = false
@@ -109,5 +109,5 @@ allowScreensByDefault = true
 	"inventory_tabs:player_inventory" = true
 	"inventory_tabs:vehicle_inventory" = true
 	"portable_crafting:item_portable_crafting" = true
-	"expandedstorage:block_chest" = true
+	"expandedstorage:block_chest" = false
 
