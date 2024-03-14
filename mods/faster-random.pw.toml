@@ -1,13 +1,8 @@
 name = "Faster Random"
-filename = "fasterrandom-3.0.1.jar"
+filename = "fasterrandom-3.0.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/RfFxanNh/versions/HYIdySZo/fasterrandom-3.0.1.jar"
-hash-format = "sha1"
-hash = "bd68e5aeadbd731bd0944c80652add9d015434d0"
-
-[update]
-[update.modrinth]
-mod-id = "RfFxanNh"
-version = "HYIdySZo"
+url = "https://play.fennet.rentals/packwiz/unipack2/manual-jars/both/fasterrandom-3.0.2.jar"
+hash-format = "sha256"
+hash = "9bab2b077ee3c66c028f1783a8c44d934c409d8a0d2a691c15b394704d4a0375"
