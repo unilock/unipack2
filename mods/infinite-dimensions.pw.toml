@@ -3,11 +3,6 @@ filename = "infinity-1.8.0-1.20.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/KgKqTqPj/versions/wEe6hi0E/infinity-1.8.0-1.20.1.jar"
-hash-format = "sha1"
-hash = "cf92e5de8667b8b7314438bb385942912eb3e293"
-
-[update]
-[update.modrinth]
-mod-id = "KgKqTqPj"
-version = "wEe6hi0E"
+url = "https://play.fennet.rentals/packwiz/unipack2/manual-jars/both/infinity-1.8.0-1.20.1.jar"
+hash-format = "sha256"
+hash = "a4c63babfcec377a2db34b6bba6ca759eaa12d2db57e783d3d656f94bbd6f478"
