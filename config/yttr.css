@@ -10,7 +10,7 @@
 	 * timing on the server side. This makes timing firing the rifle feel much better, but a hacked
 	 * client can get perfect shots every time.
 	 */
-	trust-players: off;
+	trust-players: on;
 
 	/*
 	 * If set to "on", allows players to break bedrock anywhere in any dimension, instead of only at
@@ -28,7 +28,7 @@
 	 * creative breaking) will still create Void Geysers. Turn this off if you have other mods that
 	 * need void holes for their own reasons.
 	 */
-	convert-void-holes: on;
+	convert-void-holes: off;
 }
 
 #client {
@@ -44,7 +44,7 @@
 	/*
 	 * The color of the ingame configuration menu.
 	 */
-	config-color: teal;
+	config-color: white;
 	
 	/*
 	 * If on, contextual control hints will appear when holding some items, providing information on
@@ -123,7 +123,7 @@
 	/*
 	 * If on, Yttr's Curses can be obtained via regular enchanting.
 	 */
-	curses-in-table: on;
+	curses-in-table: off;
 }
 
 #worldgen {
