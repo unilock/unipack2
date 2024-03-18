@@ -1169,6 +1169,10 @@ file = "config/magna.json"
 hash = "e65299c1a432f2aae4374bdb01e71d06a6e3fb7350e905e5ba93217fa7178911"
 
 [[files]]
+file = "config/mantle-client.toml"
+hash = "662dd86da164be0b8b715fcbe16597d660c298b6ac3455c11515e654606dabbe"
+
+[[files]]
 file = "config/modern_industrialization.toml"
 hash = "e9787b0b4b089916f890ec692dcd4c6e4f5970520f65039c548e589218dc37f8"
 
@@ -1887,11 +1891,6 @@ hash = "55a4537d46958dadd9cfb7999fcc076cdaf600f1aa8f283b7c4550307ff488b6"
 metafile = true
 
 [[files]]
-file = "mods/etched.pw.toml"
-hash = "60a18209268cd7da9f7356c8065726ec3f3500c76085bb6b30a4ec192d3f6d2f"
-metafile = true
-
-[[files]]
 file = "mods/expanded-delight.pw.toml"
 hash = "ed4c38ef8040a7007c47bdf2292a88cb3f31443517bd416f22dc10f622c0726b"
 metafile = true
@@ -2069,6 +2068,11 @@ metafile = true
 [[files]]
 file = "mods/held-item-info.pw.toml"
 hash = "c634e78573e2e9f84aabe4fa2bedc2844c1245f08bfa15e9db770df165a1f2bf"
+metafile = true
+
+[[files]]
+file = "mods/hephaestus.pw.toml"
+hash = "b633daed2cf3a7985ed6602174a768932bff07fd8f4d700517ff0906726e100a"
 metafile = true
 
 [[files]]
