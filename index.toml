@@ -1784,7 +1784,7 @@ metafile = true
 
 [[files]]
 file = "mods/dye-depot.pw.toml"
-hash = "04b9a07d6f4b948336974c4c2afc946658e7a4031ffb84f2ce50852c55d4f064"
+hash = "7d86ee8628ab74f870498e18473d155ef0e8e1e033f75cdcdf32691ad0b869a2"
 metafile = true
 
 [[files]]
