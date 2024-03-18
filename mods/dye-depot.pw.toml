@@ -3,11 +3,6 @@ filename = "dye_depot-1.0.0-fabric.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "97d0143e53015d6df53fe4b83c4892e40e03f988"
-mode = "metadata:curseforge"
-
-[update]
-[update.curseforge]
-file-id = 5191266
-project-id = 988504
+url = "https://play.fennet.rentals/packwiz/unipack2/manual-jars/both/dye_depot-1.0.0-fabric.jar"
+hash-format = "sha256"
+hash = "fecb886a045be83ecca3d63a1b1e1c91ab5c5997f808c9f1a73e9e9e8535b2c7"
