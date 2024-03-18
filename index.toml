@@ -101,6 +101,10 @@ file = "config/dsurround/dsurround.json"
 hash = "06e68f96ef11e081e0ab8ab4b1ad4f2088658931253e54f16bd34592ee60e3bc"
 
 [[files]]
+file = "config/eccentrictome-common.toml"
+hash = "fdc1809377bd35e8babc1c625f513d0a3fe38f5a675ca0b18ce96d835e1ce2f2"
+
+[[files]]
 file = "config/embeddium-options.json"
 hash = "826157c104a0e7fea4aa69bd56e9f5c6c8db9081ec9d52cf626d9862c95d9c9e"
 
@@ -3010,6 +3014,14 @@ hash = "ccd833c48f93133bad335cac00b5d9dac831743457a0bd3375e63cdd1a2bc35b"
 [[files]]
 file = "resources/data/peculiarpieces/advancements/patchouli_book.json"
 hash = "ccd833c48f93133bad335cac00b5d9dac831743457a0bd3375e63cdd1a2bc35b"
+
+[[files]]
+file = "resources/data/unipack/advancements/book.json"
+hash = "f8df36b03b72cef51fc3ebb1557fb3c618c0d8dfa777af284383b3677f7a8971"
+
+[[files]]
+file = "resources/data/unipack/loot_tables/book.json"
+hash = "0951fa43af13287679a84185877e7eeb31758bd0f20e7c591d6bce24f816d7fa"
 
 [[files]]
 file = "resources/resourcepacks/emi-create-cobble-gen-compat.pw.toml"
