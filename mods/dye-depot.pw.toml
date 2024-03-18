@@ -1,8 +1,0 @@
-name = "Dye Depot"
-filename = "dye_depot-1.0.0-fabric.jar"
-side = "both"
-
-[download]
-url = "https://play.fennet.rentals/packwiz/unipack2/manual-jars/both/dye_depot-1.0.0-fabric.jar"
-hash-format = "sha256"
-hash = "7efb985f6ec10316df2a1ca7a606fe91a2f127f5a27c2f4db1f4bdd0b840a68c"

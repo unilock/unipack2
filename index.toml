@@ -1783,11 +1783,6 @@ hash = "347854a4e6c22c1d878583b5fe0278c2504a5ebc9db4665b9ed9d4edbd155f01"
 metafile = true
 
 [[files]]
-file = "mods/dye-depot.pw.toml"
-hash = "7d86ee8628ab74f870498e18473d155ef0e8e1e033f75cdcdf32691ad0b869a2"
-metafile = true
-
-[[files]]
 file = "mods/dynamic-surroundings-fabric-edition.pw.toml"
 hash = "fd0c6a300e5634d955ff4a8bbe54069b1ad2bb2cf31eea149f7bd0e83f8e5db7"
 metafile = true
