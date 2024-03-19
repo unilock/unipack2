@@ -1,13 +1,13 @@
 name = "NEEPMeat"
-filename = "neepmeat-0.2.17-alpha+1.20.1.jar"
+filename = "neepmeat-0.2.18-beta+1.20.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "08027f2b44184ba870f13a6053ed903c7027f5f6"
+hash = "4bd50f69f38cd60eb8eae23cacde2fa79861a5af"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5153896
+file-id = 5191820
 project-id = 973778
