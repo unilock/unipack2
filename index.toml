@@ -106,7 +106,7 @@ hash = "fdc1809377bd35e8babc1c625f513d0a3fe38f5a675ca0b18ce96d835e1ce2f2"
 
 [[files]]
 file = "config/embeddium-options.json"
-hash = "826157c104a0e7fea4aa69bd56e9f5c6c8db9081ec9d52cf626d9862c95d9c9e"
+hash = "e167e5ede2e769a4548deaea837718d4e8a924fd5fd1784715c11ac3f4b82acc"
 
 [[files]]
 file = "config/enchancement.json"
