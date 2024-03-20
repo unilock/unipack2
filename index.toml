@@ -105,6 +105,10 @@ file = "config/eccentrictome-common.toml"
 hash = "fdc1809377bd35e8babc1c625f513d0a3fe38f5a675ca0b18ce96d835e1ce2f2"
 
 [[files]]
+file = "config/effecttimerplus.json"
+hash = "d34fc7d19228f2a8104c5f4ad98a2f2f8ba7a3f9604cc6cd1e2606336c346be1"
+
+[[files]]
 file = "config/embeddium-options.json"
 hash = "e167e5ede2e769a4548deaea837718d4e8a924fd5fd1784715c11ac3f4b82acc"
 
@@ -1821,6 +1825,11 @@ hash = "6e28aecc1374da8b38cef4b63578bb4d00c8a17c19948ced3e1284e60c221011"
 metafile = true
 
 [[files]]
+file = "mods/effecttimerplus.pw.toml"
+hash = "8f26fbccdded00d70478222b4a75c1e4e6834e718a857e90f555ee1561ba247d"
+metafile = true
+
+[[files]]
 file = "mods/elytra-slot.pw.toml"
 hash = "70797ed409f7c0d3d7642b909c7e5859c0ebd382567aa2b096cef0c0a4a7f913"
 metafile = true
@@ -2758,11 +2767,6 @@ metafile = true
 [[files]]
 file = "mods/stairdoors-extended.pw.toml"
 hash = "00cc61bf4e627b548f057658dcc0c9da43a02ee43c4ce7d3ba32134bc732f450"
-metafile = true
-
-[[files]]
-file = "mods/status-effect-bars.pw.toml"
-hash = "bcd20f96626401ce2deaa104187952027372203cce06ce02cb830318efc37eeb"
 metafile = true
 
 [[files]]
