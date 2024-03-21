@@ -1,8 +1,0 @@
-name = "Etched"
-filename = "etched-3.0.1+1.20.1+fabric.jar"
-side = "both"
-
-[download]
-url = "https://play.fennet.rentals/packwiz/unipack2/manual-jars/both/etched-3.0.1+1.20.1+fabric.jar"
-hash-format = "sha256"
-hash = "0b108bf30b6a2c74127d7ad71ab09374723292eea18234f63a3e7a1bf08c2185"
