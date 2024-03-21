@@ -1466,7 +1466,7 @@ metafile = true
 
 [[files]]
 file = "mods/bank-storage.pw.toml"
-hash = "bb267ae525721f73793c4bd907d716538a3570c05bae2942bed4e8fc13f77583"
+hash = "ff3a8280fb8a6dad671c9a51d84a617eeaaa41603467f10292e5469f34394124"
 metafile = true
 
 [[files]]
@@ -1876,7 +1876,7 @@ metafile = true
 
 [[files]]
 file = "mods/enchancement.pw.toml"
-hash = "bc8b7efa3a243936c7b98df7eb53b98a8b19e79c9f858f6debfb527db6c7962f"
+hash = "67fd51411e174b2e31a91e61ead147affa50929de886458f9b616557695dae88"
 metafile = true
 
 [[files]]
@@ -2311,7 +2311,7 @@ metafile = true
 
 [[files]]
 file = "mods/model-gap-fix.pw.toml"
-hash = "20fced7e2015be74a65981214b09b8aa6782baef49a9a05e0d200853a84fcea7"
+hash = "d1227e0de3fd38dc06b040845dcaf6d182480c76f82c0ccc7f09003484334720"
 metafile = true
 
 [[files]]
@@ -2721,7 +2721,7 @@ metafile = true
 
 [[files]]
 file = "mods/snow-real-magic-fabric.pw.toml"
-hash = "eba8bd57983e2e1bd24b3553c121e3d370c3b6c76996868f49ccace7ab165666"
+hash = "6d912d2b1339e1f524ce8e99d5ac6218f52f76225858b2efe33ff7789fc82aff"
 metafile = true
 
 [[files]]
@@ -2876,7 +2876,7 @@ metafile = true
 
 [[files]]
 file = "mods/vein-mining.pw.toml"
-hash = "874fbaf7e16f9ffbe5e57c210bac6268d3062f669a91c784cad10b8fc52117da"
+hash = "fd83a05bb617d732fe8e5f7a370823800c9999e198d25b33f05d2fe99d6ba8b2"
 metafile = true
 
 [[files]]
