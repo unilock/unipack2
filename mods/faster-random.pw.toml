@@ -1,6 +1,6 @@
 name = "Faster Random"
 filename = "fasterrandom-3.0.2.jar"
-side = "both"
+side = "server"
 
 [download]
 url = "https://play.fennet.rentals/packwiz/unipack2/manual-jars/both/fasterrandom-3.0.2.jar"
