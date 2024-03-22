@@ -2867,6 +2867,11 @@ hash = "b8c5e9285d52235c664227cde70a61d71c90cd4dbc12218cf0984587aadda54f"
 metafile = true
 
 [[files]]
+file = "mods/toms-storage-fabric.pw.toml"
+hash = "6d550472363cf38a2058928fe4110c71dd5e4ea4319078674b277b24c00dadf5"
+metafile = true
+
+[[files]]
 file = "mods/tooltip-tool-tips.pw.toml"
 hash = "2712a11d19090ad2fb31660b7b48bb32ea18f09fc39b7ecb2cec109e2cfc2990"
 metafile = true
