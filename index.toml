@@ -2765,6 +2765,11 @@ hash = "76e4ea239bb4f733b8e92ef2086f5b303e7c15ea909d73152873189dc6da003f"
 metafile = true
 
 [[files]]
+file = "mods/stackdeobf.pw.toml"
+hash = "f873a549b596170178920aefb8bda3956f3014700af54b36f32a34f373309a57"
+metafile = true
+
+[[files]]
 file = "mods/staff-of-building.pw.toml"
 hash = "6090690dd09d31f814e38cbeb7e34bc37073242edcf0e6f802f3dc94168b3d8a"
 metafile = true
