@@ -3077,15 +3077,15 @@ hash = "ccd833c48f93133bad335cac00b5d9dac831743457a0bd3375e63cdd1a2bc35b"
 
 [[files]]
 file = "resources/data/rightclickharvest/tags/items/high_tier_hoes.json"
-hash = "4a0b8ff2271e94dd901cd3d399f645128e8dadd790d5d58ff0619a45c6bfccdc"
+hash = "ac426cd1c66fd9b491ee4c157854bb66001181e005a1cffaf0d45f44b91bb08e"
 
 [[files]]
 file = "resources/data/rightclickharvest/tags/items/low_tier_hoes.json"
-hash = "c41b459a717e7105719cc88d6eb744f5aeb3a8f66a4ba7c3aecfcfe81bdb3e0d"
+hash = "0923afd47d1dbd7a461812cd0e952b561c6b342651bae877c52270e7fa064e18"
 
 [[files]]
 file = "resources/data/rightclickharvest/tags/items/mid_tier_hoes.json"
-hash = "0923afd47d1dbd7a461812cd0e952b561c6b342651bae877c52270e7fa064e18"
+hash = "d4d8c5d71e7504461018eef267a328c26f1cea97ec90a8d8c7bf53ad7932e532"
 
 [[files]]
 file = "resources/data/unipack/advancements/book.json"
