@@ -38,7 +38,7 @@ hash = "8172e5fd74b6c135dcad74e3601c3d63854ff362973259fa5ed7ec0b0dc05814"
 
 [[files]]
 file = "config/almostunified/unify.json"
-hash = "9d20aa3c17e33656b4fa10ec0b3d97d8aefd500f591112eecaf5be0b9aac30a2"
+hash = "fd76bda4664e546f09cc12bdd475ac77253855d3bf60964ec409e15ec44192f3"
 
 [[files]]
 file = "config/arcadiandream.json5"
@@ -3077,7 +3077,7 @@ hash = "ccd833c48f93133bad335cac00b5d9dac831743457a0bd3375e63cdd1a2bc35b"
 
 [[files]]
 file = "resources/data/rightclickharvest/tags/items/high_tier_hoes.json"
-hash = "f67de48a50679686ede542596c91570a517e58a512f6d9906ef0f0daee1b0ce4"
+hash = "4a0b8ff2271e94dd901cd3d399f645128e8dadd790d5d58ff0619a45c6bfccdc"
 
 [[files]]
 file = "resources/data/rightclickharvest/tags/items/low_tier_hoes.json"
