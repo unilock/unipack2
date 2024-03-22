@@ -3084,6 +3084,22 @@ file = "resources/data/unipack/loot_tables/book.json"
 hash = "0951fa43af13287679a84185877e7eeb31758bd0f20e7c591d6bce24f816d7fa"
 
 [[files]]
+file = "resources/data/unipack/recipes/glass_boots.json"
+hash = "f2691c4fb2968cf31031d221bf1915c820fac17281d7bff6e61f0197c2ce0e6f"
+
+[[files]]
+file = "resources/data/unipack/recipes/glass_chestplate.json"
+hash = "0fd586b46edcc51eaa904549daa73522c8e4fe7f5bc0dd5d9609767dce052729"
+
+[[files]]
+file = "resources/data/unipack/recipes/glass_helmet.json"
+hash = "d52015bf87da20a851339f24e6dba27a155818465f3f461a4a4b14b0a4fd7580"
+
+[[files]]
+file = "resources/data/unipack/recipes/glass_leggings.json"
+hash = "88990b4f2bbaaf4ad3ed99e9d3c52932f384ac20ed79a32950e498fc1606518f"
+
+[[files]]
 file = "resources/resourcepacks/emi-create-cobble-gen-compat.pw.toml"
 hash = "fd37b834317eabc107cd68ca83518e9f35d1563b13eb09c6d4102c3fda584d27"
 metafile = true
