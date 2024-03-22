@@ -3076,6 +3076,18 @@ file = "resources/data/peculiarpieces/advancements/patchouli_book.json"
 hash = "ccd833c48f93133bad335cac00b5d9dac831743457a0bd3375e63cdd1a2bc35b"
 
 [[files]]
+file = "resources/data/rightclickharvest/tags/items/high_tier_hoes.json"
+hash = "f67de48a50679686ede542596c91570a517e58a512f6d9906ef0f0daee1b0ce4"
+
+[[files]]
+file = "resources/data/rightclickharvest/tags/items/low_tier_hoes.json"
+hash = "c41b459a717e7105719cc88d6eb744f5aeb3a8f66a4ba7c3aecfcfe81bdb3e0d"
+
+[[files]]
+file = "resources/data/rightclickharvest/tags/items/mid_tier_hoes.json"
+hash = "0923afd47d1dbd7a461812cd0e952b561c6b342651bae877c52270e7fa064e18"
+
+[[files]]
 file = "resources/data/unipack/advancements/book.json"
 hash = "f8df36b03b72cef51fc3ebb1557fb3c618c0d8dfa777af284383b3677f7a8971"
 
