@@ -1,0 +1,13 @@
+name = "ColorBricks"
+filename = "colorbricks-fabric-1.20.1-1.2.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8da69d36badde7d6be1f40828b3818e950ac9f1d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4646177
+project-id = 395026

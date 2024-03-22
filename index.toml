@@ -1660,6 +1660,11 @@ hash = "1b222f2d73036e0d08be25c3c8c5a77a8454b1f399467ff212d09e936426734e"
 metafile = true
 
 [[files]]
+file = "mods/colorbricks.pw.toml"
+hash = "d958f9ede4abb3b9f90ac4e7e2fd738a665d4cc0b64c491b0d723a46bebd1176"
+metafile = true
+
+[[files]]
 file = "mods/colorful-hearts.pw.toml"
 hash = "b5cc0ca7fa61dc98b6ab5a5179a7ba9743fad206b67e0dc1699eb831e24e615a"
 metafile = true
@@ -1722,6 +1727,11 @@ metafile = true
 [[files]]
 file = "mods/crooked-crooks.pw.toml"
 hash = "8d175ee3ca4bbc042ebb29af34428528bed2dfe4a956dc181b3ff1a840d03658"
+metafile = true
+
+[[files]]
+file = "mods/crops-love-rain.pw.toml"
+hash = "13f1580427f5255b261446351e24ee1865adf71a6c846b7b027c321dd787d3cd"
 metafile = true
 
 [[files]]
@@ -1981,7 +1991,7 @@ metafile = true
 
 [[files]]
 file = "mods/faster-random.pw.toml"
-hash = "0d14e8b739bbeeab88a6823201376846ea93af2b4126e46cfd2f11a275cc0a64"
+hash = "b9e7d4dcc3ba7fbd5bcaab8aea1ca63665eba597761b6237f3ea39dfbe1865c5"
 metafile = true
 
 [[files]]
@@ -2427,6 +2437,16 @@ metafile = true
 [[files]]
 file = "mods/on-soul-fire.pw.toml"
 hash = "b9b79a11ff0192235b6fae321b52b385ecc2aae1b4ac1f311fcb75b40e42f3b8"
+metafile = true
+
+[[files]]
+file = "mods/opac-fabric-create-support.pw.toml"
+hash = "2a12fede80d8aa1e788fda98f34068fc080082a5ef0fffcb89b9d4f865909587"
+metafile = true
+
+[[files]]
+file = "mods/open-parties-and-claims.pw.toml"
+hash = "84643181b5182bc5c95570b60c0b823d4235f0c851826ce85c0bfc2c6f02e1ed"
 metafile = true
 
 [[files]]
@@ -2940,8 +2960,18 @@ hash = "5a8debab804138d7d652b047b0bbf74fbed68c0c9c575df80857c68a71e5f610"
 metafile = true
 
 [[files]]
+file = "mods/wood-you-dye-companion.pw.toml"
+hash = "dbafccd29495ea54027c8820fb40484cf8326f7c3603213481d957df6dab6091"
+metafile = true
+
+[[files]]
 file = "mods/wthit.pw.toml"
 hash = "361f3bc214efc7b58d63ed1448af1538b6bceca81eec8c24301a3e528a944f62"
+metafile = true
+
+[[files]]
+file = "mods/wyd.pw.toml"
+hash = "73a8bd0d5aebfc2a7884833806b1f2814c7e53fbe87aea03a658a8022dd6b6ef"
 metafile = true
 
 [[files]]
@@ -2962,6 +2992,11 @@ metafile = true
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
 hash = "804c6a009e34e2247a81d5df2376a559ebfe89116359bfffbe32447afc5153b9"
+metafile = true
+
+[[files]]
+file = "mods/xpcrops.pw.toml"
+hash = "0734d08a6b7fb9f23ab696a9f10bb4888a3abbd0b673704bf0afc0b7ffac5678"
 metafile = true
 
 [[files]]

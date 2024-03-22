@@ -1,0 +1,13 @@
+name = "Wood You Dye Companion"
+filename = "woodyoudyecompanion-1.0.1+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/JVm24yzP/versions/WvM2pTi0/woodyoudyecompanion-1.0.1%2B1.20.1.jar"
+hash-format = "sha1"
+hash = "c26c8daf6877b3b3ee6810dab2dd19a1ff56fd8c"
+
+[update]
+[update.modrinth]
+mod-id = "JVm24yzP"
+version = "WvM2pTi0"
