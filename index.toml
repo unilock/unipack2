@@ -1277,6 +1277,10 @@ file = "config/styledplayerlist/styles/default.json"
 hash = "ee7cfed4b302fffab83af2fe1fe2704be35bb1463c1da1929c3663ed8529bf25"
 
 [[files]]
+file = "config/tconstruct-common.toml"
+hash = "17d88f0f1fbb67f125015a0a8963dfb4870183ed321ffd0a878846063f452e7d"
+
+[[files]]
 file = "config/terrestria/client.json"
 hash = "51ad67b3d76388c73106cf59ffc2e612128ab36a641550f9d457a6e76728b056"
 
