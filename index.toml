@@ -1250,7 +1250,7 @@ hash = "2845060c46714e296df74a8211f0a58ca57b4d5bbbceb338360704ee04131672"
 
 [[files]]
 file = "config/sdrp-common.json"
-hash = "671e6d142f61b35c9754ef8b653913331c43f193195211ae28516a0a037a4b59"
+hash = "735833c8cdfc4bc2666d07d3ffe309a8f64e996762a871030236a9be9a53a901"
 
 [[files]]
 file = "config/sodium-extra-options.json"
