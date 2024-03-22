@@ -85,6 +85,10 @@ file = "config/create-client.toml"
 hash = "c1781f643c9f3593039b79642669fbb4f882884ba99cea4fa2f58f4a684e3b10"
 
 [[files]]
+file = "config/crops-love-rain.toml"
+hash = "3078da59a2bc322a409362f286ae57ade6d1ef0822bcd706f5b4419e95ffecf7"
+
+[[files]]
 file = "config/defaultoptions/keybindings.txt"
 hash = "6f23859697a4a3d12b2104e39c12cd083dff6f29c6f31bf44aff64b9c7960ca9"
 
@@ -1205,6 +1209,10 @@ file = "config/ok_zoomer/config.toml"
 hash = "f2f2847c6cf4792db6979a9fdc555b6c93da9d63510cc3ab3726a4d993219451"
 
 [[files]]
+file = "config/openpartiesandclaims-server.toml"
+hash = "2e4c5e4ad88e81a8565358bc45723e94ea543663d4c0136b6a99674aff9952c2"
+
+[[files]]
 file = "config/passablefoliage-common.yaml"
 hash = "10fd30865c6b22432336cc87520c1583d8daf085cddc1fc0a7f78817ff2c809f"
 
@@ -1343,6 +1351,10 @@ hash = "60e3e6147976e5eae5d73a81a5afd64dc330f6003d8e3b6fcd9a9af2aa65f0bf"
 [[files]]
 file = "defaultconfigs/emi.css"
 hash = "c3fe066e947ea3babe2be331cb079a160977ccd1cefa9f8bf3ec67c735cad437"
+
+[[files]]
+file = "defaultconfigs/openpartiesandclaims-default-player-config.toml"
+hash = "0d63220256950def521688da5035b9f5ee05a98eeb7fa8afb58f712353e5f63f"
 
 [[files]]
 file = "mods/affectionate.pw.toml"
