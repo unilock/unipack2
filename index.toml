@@ -153,6 +153,10 @@ file = "config/farmersdelight.json"
 hash = "673fecba7b8d578e84f720e204d7d6648cde315639c6fc5d98a6c4ce1909aadb"
 
 [[files]]
+file = "config/flywheel.json"
+hash = "085e0ea22bd592a73d7e400b3fed9dd3eb838f0d9ed3a85ecd106cfd5b60513c"
+
+[[files]]
 file = "config/forgeconfigapiport.toml"
 hash = "da82326e21db344255a22d1dd09b104a039719c94ab3a9e64e1c71ca378ea7a1"
 
