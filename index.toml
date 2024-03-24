@@ -1346,7 +1346,7 @@ hash = "a5df3263b62ba6ea5f2f06edd3dc0cee81fc885d87cfef3f90096b850b9309c3"
 
 [[files]]
 file = "config/yttr.css"
-hash = "e891cf57ba128c6ce5dd615f77bc037140028186b086176e4beea21f78612a5f"
+hash = "15f00c189440fd98dae54762d0023fb979c7f262c5fc0b536e999296da2d3692"
 
 [[files]]
 file = "config/yungsmenutweaks-fabric-1_20_1.toml"
@@ -3046,7 +3046,7 @@ metafile = true
 
 [[files]]
 file = "mods/yttr.pw.toml"
-hash = "2828d7dd4221ccc78e3032805445215d51ca8bbf17014c8ef63e534f02a82947"
+hash = "e1ece2dd102fbb8435675d6bdf62c4c6fc7281f12b7f2a735799e5808c7df72d"
 metafile = true
 
 [[files]]
