@@ -1546,7 +1546,7 @@ metafile = true
 
 [[files]]
 file = "mods/bewitchment.pw.toml"
-hash = "5cd6a1ee42d854aa931e6bf051a2bfd8490eb7015492e60e02835ce556ca22bf"
+hash = "daf8030dfb7a2c8c335982310e387a4a6825b26b340bbabc904a3895a9eea77a"
 metafile = true
 
 [[files]]
@@ -1896,7 +1896,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "16ce3134960b4d6a920ad03a859bf0b23907355ccfc1cf62f5e16c156e1e752d"
+hash = "8865897b48fe88ed2770379d5c1effdd8fe1cc62d84304482df323fb55982570"
 metafile = true
 
 [[files]]
@@ -2181,7 +2181,7 @@ metafile = true
 
 [[files]]
 file = "mods/infinite-dimensions.pw.toml"
-hash = "f7e25fe7e818ce3299cd9b3a86fd755a34812cf91fc582002a0887ac6d40b23d"
+hash = "b9e35331cf17370166a0a15a4b80034bb1b884fd124718fb9981fecaa3c1e939"
 metafile = true
 
 [[files]]
@@ -2361,7 +2361,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "7aceb0a96eeb16e68d5332f8937cf42b4f3066f719729959e67c9876cb471186"
+hash = "cb5f4d5b3be1a067da34881e7ce08aa98b4c5b20ff801f1aae5cdd80d53f4ce4"
 metafile = true
 
 [[files]]
@@ -2401,7 +2401,7 @@ metafile = true
 
 [[files]]
 file = "mods/neepmeat.pw.toml"
-hash = "7582fb96fb6fab70ae39e099b5becb61495d6be35a92bad034a907c8fa47a8fe"
+hash = "1ef08fbfabe00006106f06aa56924a61f9a05dc9d9292a4280cd1b3d21835eb5"
 metafile = true
 
 [[files]]
@@ -2761,7 +2761,7 @@ metafile = true
 
 [[files]]
 file = "mods/snow-real-magic-fabric.pw.toml"
-hash = "6d912d2b1339e1f524ce8e99d5ac6218f52f76225858b2efe33ff7789fc82aff"
+hash = "6c9a0e40bc440ffd2737fe7cb0429253e33c72d70735fa705abc3c5bc9481f06"
 metafile = true
 
 [[files]]
