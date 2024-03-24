@@ -3085,6 +3085,10 @@ file = "resources/data/hexcasting/advancements/grant_patchi_book.json"
 hash = "ccd833c48f93133bad335cac00b5d9dac831743457a0bd3375e63cdd1a2bc35b"
 
 [[files]]
+file = "resources/data/minecraft/tags/items/hoes.json"
+hash = "96b450608a580c2dfccb8d49099c9b02a052b92e263549a1c3a28e6505c26ea3"
+
+[[files]]
 file = "resources/data/peculiarpieces/advancements/patchouli_book.json"
 hash = "ccd833c48f93133bad335cac00b5d9dac831743457a0bd3375e63cdd1a2bc35b"
 

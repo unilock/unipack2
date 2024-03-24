@@ -1,0 +1,8 @@
+{
+    "replace": false,
+    "values": [
+        "#rightclickharvest:low_tier_hoes",
+        "#rightclickharvest:mid_tier_hoes",
+        "#rightclickharvest:high_tier_hoes"
+    ]
+}
