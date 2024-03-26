@@ -1745,6 +1745,11 @@ hash = "d67269baf485814ebd40b2f12475e2fd639db6c3d69863dee6af0d0ab2ab6216"
 metafile = true
 
 [[files]]
+file = "mods/create-metalwork-fabric.pw.toml"
+hash = "703df6714ae820f332b83d18954c1c309c4bfd0fbd8ab32e17f5d317fd9b23f3"
+metafile = true
+
+[[files]]
 file = "mods/crooked-crooks.pw.toml"
 hash = "8d175ee3ca4bbc042ebb29af34428528bed2dfe4a956dc181b3ff1a840d03658"
 metafile = true
