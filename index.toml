@@ -1871,7 +1871,7 @@ metafile = true
 
 [[files]]
 file = "mods/embeddium.pw.toml"
-hash = "f58984c1a3eb3ee4adbc78214c64f12dcdc2d8869f0099c5133f97a93e945156"
+hash = "af71c88395b3859fdb826db09e1e1612ce0c31d33f8ff72ba01dbeed309f4bbe"
 metafile = true
 
 [[files]]
@@ -1886,7 +1886,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi-ores.pw.toml"
-hash = "a56886f6b0b6e6b3200813f9771cdfcc42119e6941989aa67d360db586cc9cc6"
+hash = "b6c519c77dacae8431b342b7428044d068e44b49ffff5977d03aaea30f0c255b"
 metafile = true
 
 [[files]]
@@ -1981,7 +1981,7 @@ metafile = true
 
 [[files]]
 file = "mods/falling-leaves-fabric.pw.toml"
-hash = "e651193b4394351dd5246cf112ccff75efd3053e152cd102fb42d0d7ae8aa018"
+hash = "bb8d25bfaa946d7d85e2215c61b6e15c580487acc95715d26add374b8d2d3464"
 metafile = true
 
 [[files]]
@@ -2181,7 +2181,7 @@ metafile = true
 
 [[files]]
 file = "mods/infinite-dimensions.pw.toml"
-hash = "b9e35331cf17370166a0a15a4b80034bb1b884fd124718fb9981fecaa3c1e939"
+hash = "a07e67bbcbbdf29c454b550681d2fc6d2e5107d9d373325a333183a1ec55b760"
 metafile = true
 
 [[files]]
@@ -2201,7 +2201,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.pw.toml"
-hash = "88a9c0d5d574ecbaecaf9226c7b6a905bee7c7d73543ca9e56ec3636ce6d2782"
+hash = "f0b6bfe45dfe823accf5a32d6b478075e14fc5cff549ba579f4142c9906e3d53"
 metafile = true
 
 [[files]]
@@ -2276,7 +2276,7 @@ metafile = true
 
 [[files]]
 file = "mods/libipn.pw.toml"
-hash = "c865fca57e5572a111ca9777de38b96d574d574a73faf005958ae5a407d87bb4"
+hash = "012de3a4e455635d53ac76f73d5574c2a5f7db17e27c635c437e54829438c6d0"
 metafile = true
 
 [[files]]
@@ -2401,7 +2401,7 @@ metafile = true
 
 [[files]]
 file = "mods/neepmeat.pw.toml"
-hash = "1ef08fbfabe00006106f06aa56924a61f9a05dc9d9292a4280cd1b3d21835eb5"
+hash = "7582fb96fb6fab70ae39e099b5becb61495d6be35a92bad034a907c8fa47a8fe"
 metafile = true
 
 [[files]]
@@ -2457,6 +2457,11 @@ metafile = true
 [[files]]
 file = "mods/on-soul-fire.pw.toml"
 hash = "b9b79a11ff0192235b6fae321b52b385ecc2aae1b4ac1f311fcb75b40e42f3b8"
+metafile = true
+
+[[files]]
+file = "mods/on1chest.pw.toml"
+hash = "9766a29ea6f04850288480c1c1464ad30babfeea06b40a658c413d21b4c40a7f"
 metafile = true
 
 [[files]]
@@ -2536,7 +2541,7 @@ metafile = true
 
 [[files]]
 file = "mods/pehkui.pw.toml"
-hash = "c02e49fc6a3512123893e59e61be0ba804ba9bc9069dcc71683d9efa98145192"
+hash = "d6ba97570ac7eb8bc4fcf20b176583c5e4181b388da4f3fe11440828808df96a"
 metafile = true
 
 [[files]]
@@ -2681,7 +2686,7 @@ metafile = true
 
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
-hash = "d6d950f5e4c8d00ae178690e45a47068792733e7652fe600e83f6995a1c1f798"
+hash = "b587bea8ab6df349f3a8035d1f5b8492819c2a72722e770468fc9b0ddfb9fdd3"
 metafile = true
 
 [[files]]
@@ -2875,11 +2880,6 @@ hash = "b8c5e9285d52235c664227cde70a61d71c90cd4dbc12218cf0984587aadda54f"
 metafile = true
 
 [[files]]
-file = "mods/toms-storage-fabric.pw.toml"
-hash = "6d550472363cf38a2058928fe4110c71dd5e4ea4319078674b277b24c00dadf5"
-metafile = true
-
-[[files]]
 file = "mods/tooltip-tool-tips.pw.toml"
 hash = "2712a11d19090ad2fb31660b7b48bb32ea18f09fc39b7ecb2cec109e2cfc2990"
 metafile = true
@@ -2991,7 +2991,7 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
-hash = "361f3bc214efc7b58d63ed1448af1538b6bceca81eec8c24301a3e528a944f62"
+hash = "dad40198c5686f5f900981bd41adb6201595b25d911fa25836d2de41608aefe8"
 metafile = true
 
 [[files]]
@@ -3011,7 +3011,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "69c19c2144e19d0a2d48873ed669c051c91ccf01b73dbdaa25eb22167b051025"
+hash = "900fcc6d3b1952084fd3a051e465e5ac49f011bca18899e83947983766583adf"
 metafile = true
 
 [[files]]
@@ -3041,7 +3041,7 @@ metafile = true
 
 [[files]]
 file = "mods/youre-in-grave-danger.pw.toml"
-hash = "c59ee1114d6ecf79d1920ed7aa8d973aa254d313cd0e200f7ed4cdd5d3985f6b"
+hash = "2bc247f734f47679b68df617b2c7877d613493f2fee496d22169e94c4b080482"
 metafile = true
 
 [[files]]

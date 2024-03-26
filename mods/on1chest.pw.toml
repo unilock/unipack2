@@ -1,0 +1,13 @@
+name = "Only Need One Chest"
+filename = "On1Chest-Fabric-0.3+1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7fcb5904c218007744d55cd74926331f6952482a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4886861
+project-id = 905503

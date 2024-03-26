@@ -1,13 +1,13 @@
 name = "WTHIT"
-filename = "wthit-quilt-8.8.0.jar"
+filename = "wthit-quilt-8.9.0.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "4bc0a08b12d394d6a9894d47b9e542153c6c9c5a"
+hash = "8275212bca4943b781f0dc371dddf285c25c3d1c"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5173682
+file-id = 5208291
 project-id = 440979
