@@ -2715,6 +2715,11 @@ hash = "71d55ec45f16806bbde04f5d7b9242dea6a3256dd4e9429b122a052db54f5e74"
 metafile = true
 
 [[files]]
+file = "mods/roses-quilt.pw.toml"
+hash = "8946867360c10649e434dc52f671506f4b8e63790bf909e502ff5480b8bfedca"
+metafile = true
+
+[[files]]
 file = "mods/seamless.pw.toml"
 hash = "b71dbeffb1ab80f098523c02a26b5fbdf9752e4eb4c7ca720e23c9120f3c4884"
 metafile = true
@@ -3051,7 +3056,7 @@ metafile = true
 
 [[files]]
 file = "mods/yttr.pw.toml"
-hash = "e1ece2dd102fbb8435675d6bdf62c4c6fc7281f12b7f2a735799e5808c7df72d"
+hash = "db54552e9bcedd252b4870b14aabcba8f86d9963a6b0c53db167f50c5cbcfe73"
 metafile = true
 
 [[files]]
