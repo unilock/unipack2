@@ -2186,7 +2186,7 @@ metafile = true
 
 [[files]]
 file = "mods/infinite-dimensions.pw.toml"
-hash = "08c37b9a276d9e5c59703e7d1819fc8cad0e9f2204ce939930c3baf001424f80"
+hash = "c9922019ebbef2df93b262704f8649f144f08164dc55c56347dc23dda8d12a55"
 metafile = true
 
 [[files]]
@@ -2712,11 +2712,6 @@ metafile = true
 [[files]]
 file = "mods/roots-classic.pw.toml"
 hash = "71d55ec45f16806bbde04f5d7b9242dea6a3256dd4e9429b122a052db54f5e74"
-metafile = true
-
-[[files]]
-file = "mods/roses-quilt.pw.toml"
-hash = "8946867360c10649e434dc52f671506f4b8e63790bf909e502ff5480b8bfedca"
 metafile = true
 
 [[files]]
