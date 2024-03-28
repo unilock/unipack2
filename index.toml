@@ -2186,7 +2186,7 @@ metafile = true
 
 [[files]]
 file = "mods/infinite-dimensions.pw.toml"
-hash = "a07e67bbcbbdf29c454b550681d2fc6d2e5107d9d373325a333183a1ec55b760"
+hash = "08c37b9a276d9e5c59703e7d1819fc8cad0e9f2204ce939930c3baf001424f80"
 metafile = true
 
 [[files]]
@@ -2406,7 +2406,7 @@ metafile = true
 
 [[files]]
 file = "mods/neepmeat.pw.toml"
-hash = "7582fb96fb6fab70ae39e099b5becb61495d6be35a92bad034a907c8fa47a8fe"
+hash = "06eb84b299d010a0af20f7beb9a7677f4c5f039f9afbc6d94644f8a72e9ef222"
 metafile = true
 
 [[files]]
@@ -2926,7 +2926,7 @@ metafile = true
 
 [[files]]
 file = "mods/trinkets.pw.toml"
-hash = "792155426992079177fe1ee62c1df969fb71540becd719de8efca2ebc6bec896"
+hash = "07619668821f2aad9dbd40084ad80f25595d8715a9ef204a4a9629225729a7d9"
 metafile = true
 
 [[files]]
