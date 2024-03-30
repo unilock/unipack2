@@ -3133,6 +3133,10 @@ file = "resources/assets/emi/index/stacks/removals.json"
 hash = "9a3850f332412deef38ff6d72a3d0725304cd01cd1de7924efb287a11794aec6"
 
 [[files]]
+file = "resources/assets/on1chest/lang/en_us.json"
+hash = "7153128c5eb68bc139efa3abc51595a1eb0dee3241fe4cdbc9b38f3472e43848"
+
+[[files]]
 file = "resources/data/arcanuscontinuum/advancements/grant_compendium_arcanus.json"
 hash = "ccd833c48f93133bad335cac00b5d9dac831743457a0bd3375e63cdd1a2bc35b"
 
@@ -3141,12 +3145,60 @@ file = "resources/data/culturaldelights/loot_tables/blocks/avocado_leaves.json"
 hash = "ee6d4d14a7b6b601a85d26cd479565379417ae184972a7549e7257f7bf6df46b"
 
 [[files]]
+file = "resources/data/ducky-periphs/recipes/duck_block_plastic.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "resources/data/fabric-hammers/advancements/recipes/tools/emerald_pickaxe.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "resources/data/fabric-hammers/recipes/emerald_pickaxe.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "resources/data/fabrichammers/recipes/emerald_axe.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "resources/data/fabrichammers/recipes/emerald_excavator.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "resources/data/fabrichammers/recipes/emerald_hammer.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "resources/data/fabrichammers/recipes/emerald_hoe.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "resources/data/fabrichammers/recipes/emerald_shovel.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "resources/data/fabrichammers/recipes/emerald_sword.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
 file = "resources/data/hexcasting/advancements/grant_patchi_book.json"
 hash = "ccd833c48f93133bad335cac00b5d9dac831743457a0bd3375e63cdd1a2bc35b"
 
 [[files]]
+file = "resources/data/liquidburner/recipes/morkite_burning.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "resources/data/liquidburner/recipes/starrite_burning.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
 file = "resources/data/minecraft/tags/items/hoes.json"
 hash = "96b450608a580c2dfccb8d49099c9b02a052b92e263549a1c3a28e6505c26ea3"
+
+[[files]]
+file = "resources/data/naturescompass/advancements/natures_compass.json"
+hash = "c6022c2fc62c77a5c81a52972451fddee63a822582f76263fa41f7044c6de48d"
 
 [[files]]
 file = "resources/data/peculiarpieces/advancements/patchouli_book.json"
@@ -3163,6 +3215,10 @@ hash = "0923afd47d1dbd7a461812cd0e952b561c6b342651bae877c52270e7fa064e18"
 [[files]]
 file = "resources/data/rightclickharvest/tags/items/mid_tier_hoes.json"
 hash = "d4d8c5d71e7504461018eef267a328c26f1cea97ec90a8d8c7bf53ad7932e532"
+
+[[files]]
+file = "resources/data/staffofbuilding/recipes/netherite_builder_staff.json"
+hash = "75cf283a48d0ac2d7b8716a5ab48b52bbdda0c8ae6a38ac8482f5a4cef435aa3"
 
 [[files]]
 file = "resources/data/unipack/advancements/book.json"
