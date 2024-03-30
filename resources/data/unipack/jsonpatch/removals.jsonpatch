@@ -13,7 +13,7 @@ val removals = [
 	"fabrichammers:recipes/emerald_sword.json",
 	"liquidburner:recipes/morkite_burning.json",
 	"liquidburner:recipes/starrite_burning.json"
-]
+];
 
 foreach (i in removals) {
 	metapatch.deleteFile(i);
