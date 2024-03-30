@@ -73,6 +73,21 @@
 			]
 		},
 		{
+			"id": "sc-text",
+			"depends": [
+				{
+					"replace": {
+						"id": "fabric-language-kotlin",
+						"versions": ">=1.10.19+kotlin.1.9.23"
+					},
+					"with": {
+						"id": "fabric-language-kotlin",
+						"versions": ">=1.10.10+kotlin.1.9.10"
+					}
+				}
+			]
+		},
+		{
 			"id": "specutils",
 			"depends": [
 				{

@@ -1238,7 +1238,7 @@ hash = "702aa9ed417d546c560b51cdffdddf248f31a033e681ad370a57a3e5b9ec87a5"
 
 [[files]]
 file = "config/quilt-loader-overrides.json"
-hash = "51ff6b72cda3e1e88d241d77f24bba5942f554d80d1847902da3805da2fdbe42"
+hash = "956634688bccde3ae07d236e0f1e00fa35faa67a574662bc267a77c2a22e53b4"
 
 [[files]]
 file = "config/quilt/qsl/registry.toml"
