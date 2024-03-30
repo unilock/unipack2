@@ -1,0 +1,13 @@
+name = "Digital Items 3"
+filename = "digitalitems-fabric-1.20.1-0.3.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "233e1dbad03a770d7e9f9cd238e93de10b998657"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4658359
+project-id = 875780

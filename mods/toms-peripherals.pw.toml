@@ -1,0 +1,13 @@
+name = "Tom's Peripherals"
+filename = "toms_peripherals_fabric-1.20.1-1.2.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5964ccd1cf7472f98a56258e1356ab91553500a4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5050501
+project-id = 931210

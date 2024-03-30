@@ -1234,7 +1234,7 @@ hash = "702aa9ed417d546c560b51cdffdddf248f31a033e681ad370a57a3e5b9ec87a5"
 
 [[files]]
 file = "config/quilt-loader-overrides.json"
-hash = "f89c02d11dfaf40ca211768c6513d5512e3e0e0b58edf6aa29c53f184673a6a4"
+hash = "c34bcca056d464fc960cdf313ccce97495b60bac9ceb3eb8d5696ca1c0c4cd15"
 
 [[files]]
 file = "config/quilt/qsl/registry.toml"
@@ -1620,6 +1620,16 @@ hash = "784568c3a84665e7ba13ed00de6d7be7676464e2b08390ffcc7012f2b3ee9e08"
 metafile = true
 
 [[files]]
+file = "mods/cc-tweaked.pw.toml"
+hash = "4db8922347711e86adef046e17589b240068bf3449ffa0abfdd7da63d5912557"
+metafile = true
+
+[[files]]
+file = "mods/cccbridge.pw.toml"
+hash = "5e96138dce35e95b6efd048968440332a42c8c6d3bafe384cc303c18f073da31"
+metafile = true
+
+[[files]]
 file = "mods/charm-of-undying.pw.toml"
 hash = "5d8b3949d9273133b54eb5f0e512cdf8c3a1ad270e4760442d62646374f2e727"
 metafile = true
@@ -1697,6 +1707,11 @@ metafile = true
 [[files]]
 file = "mods/completeconfig.pw.toml"
 hash = "f639cf7e7dc85a5f3e1f2a35dffbbef188f2468cb4b39502a6a8c171ac238044"
+metafile = true
+
+[[files]]
+file = "mods/computer-cartographer.pw.toml"
+hash = "e567a249b43bf4a6fdc41409be12be3bd775161d561f1889a0bcc18afc829b31"
 metafile = true
 
 [[files]]
@@ -1815,6 +1830,11 @@ hash = "463b41c5825e272a6250145b9e9ca21c118abb2eba68192811ffe601591241ea"
 metafile = true
 
 [[files]]
+file = "mods/digital-items-3.pw.toml"
+hash = "5bd7fc6ad8bc4b8b35e6e3875ab0dce29209a4b1315ac8477b2ab2b7ff1836c5"
+metafile = true
+
+[[files]]
 file = "mods/ding.pw.toml"
 hash = "7c5259e9ac7df8366d01465703abcfbb38b59ab68c885cba988f259bea36afb2"
 metafile = true
@@ -1827,6 +1847,11 @@ metafile = true
 [[files]]
 file = "mods/draggable-lists.pw.toml"
 hash = "347854a4e6c22c1d878583b5fe0278c2504a5ebc9db4665b9ed9d4edbd155f01"
+metafile = true
+
+[[files]]
+file = "mods/ducky-periphs.pw.toml"
+hash = "3dc065eeb299cc0e9641d049e4657dfa6a37077be7506e2efa36086cd32382c3"
 metafile = true
 
 [[files]]
@@ -2550,6 +2575,11 @@ hash = "d6ba97570ac7eb8bc4fcf20b176583c5e4181b388da4f3fe11440828808df96a"
 metafile = true
 
 [[files]]
+file = "mods/peripheralium.pw.toml"
+hash = "7ab75ac7228b4462d6899a5a0e5f04a30169fe70e945bd048ddbc917e77d07f0"
+metafile = true
+
+[[files]]
 file = "mods/piercingpaxels.pw.toml"
 hash = "0ddbfb3c0a0dec61c63d1e4e76f42832838630035dc546da2e3ea65fc36f5a04"
 metafile = true
@@ -2562,6 +2592,11 @@ metafile = true
 [[files]]
 file = "mods/player-pronouns.pw.toml"
 hash = "c960e04a54b1a2a27309710081b044d85ec56d1f8402516e23c6ec1e0f166f2a"
+metafile = true
+
+[[files]]
+file = "mods/plethora-peripherals.pw.toml"
+hash = "ba723f70a050846bbc290d1ac03382e7bfd915173c0c92246bad2cdd998ab437"
 metafile = true
 
 [[files]]
@@ -2712,6 +2747,11 @@ metafile = true
 [[files]]
 file = "mods/roots-classic.pw.toml"
 hash = "71d55ec45f16806bbde04f5d7b9242dea6a3256dd4e9429b122a052db54f5e74"
+metafile = true
+
+[[files]]
+file = "mods/sc-peripherals.pw.toml"
+hash = "84b57ccef2a9b1bd3f32b8b6c90cbc9f913841f895ba3585f24a9ba5f9c21c90"
 metafile = true
 
 [[files]]
@@ -2885,6 +2925,11 @@ hash = "b8c5e9285d52235c664227cde70a61d71c90cd4dbc12218cf0984587aadda54f"
 metafile = true
 
 [[files]]
+file = "mods/toms-peripherals.pw.toml"
+hash = "fbc9fa9c40efb5c1d257da78465da59b938875b49917d477305208a961396da7"
+metafile = true
+
+[[files]]
 file = "mods/tooltip-tool-tips.pw.toml"
 hash = "2712a11d19090ad2fb31660b7b48bb32ea18f09fc39b7ecb2cec109e2cfc2990"
 metafile = true
@@ -2927,6 +2972,16 @@ metafile = true
 [[files]]
 file = "mods/trofers.pw.toml"
 hash = "baca5acbeb01d222f6c2a44bb843fefb34ceb42be5f7ba220766a45e6cb41fae"
+metafile = true
+
+[[files]]
+file = "mods/turtlematic.pw.toml"
+hash = "0a63a831cec0f3434ea6cbf3dd72247ae229c17e8d015fa8f781837a6cfd5f19"
+metafile = true
+
+[[files]]
+file = "mods/unlimitedperipheralworks.pw.toml"
+hash = "b61011a2bb1aecc3a7205841601d5762d2ab8bf088ffa1d0fa98729f8a4bb647"
 metafile = true
 
 [[files]]

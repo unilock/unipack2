@@ -2,7 +2,7 @@
 	"schema_version": 1,
 	"overrides": [
 		{
-			"path": "<mods>/extendeddrawersaddon-1.0.2.jar",
+			"id": "extendeddrawersaddon",
 			"depends": [
 				{
 					"remove": {
@@ -13,7 +13,52 @@
 			]
 		},
 		{
-			"path": "<mods>/specutils-1.0.1.jar",
+			"id": "plethora",
+			"depends": [
+				{
+					"replace": {
+						"id": "fabric-language-kotlin",
+						"versions": ">=1.10.19+kotlin.1.9.23"
+					},
+					"with": {
+						"id": "fabric-language-kotlin",
+						"versions": ">=1.10.10+kotlin.1.9.10"
+					}
+				}
+			]
+		},
+		{
+			"id": "sc-library",
+			"depends": [
+				{
+					"replace": {
+						"id": "fabric-language-kotlin",
+						"versions": ">=1.10.19+kotlin.1.9.23"
+					},
+					"with": {
+						"id": "fabric-language-kotlin",
+						"versions": ">=1.10.10+kotlin.1.9.10"
+					}
+				}
+			]
+		},
+		{
+			"id": "sc-peripherals",
+			"depends": [
+				{
+					"replace": {
+						"id": "fabric-language-kotlin",
+						"versions": ">=1.10.19+kotlin.1.9.23"
+					},
+					"with": {
+						"id": "fabric-language-kotlin",
+						"versions": ">=1.10.10+kotlin.1.9.10"
+					}
+				}
+			]
+		},
+		{
+			"id": "specutils",
 			"depends": [
 				{
 					"replace": {
