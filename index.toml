@@ -2715,11 +2715,6 @@ hash = "71d55ec45f16806bbde04f5d7b9242dea6a3256dd4e9429b122a052db54f5e74"
 metafile = true
 
 [[files]]
-file = "mods/scout.pw.toml"
-hash = "7dce9c1f8d25054c70cce6b859602a8b777421d031a86c6885a96304024588c1"
-metafile = true
-
-[[files]]
 file = "mods/seamless.pw.toml"
 hash = "b71dbeffb1ab80f098523c02a26b5fbdf9752e4eb4c7ca720e23c9120f3c4884"
 metafile = true
