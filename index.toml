@@ -3145,52 +3145,8 @@ file = "resources/data/culturaldelights/loot_tables/blocks/avocado_leaves.json"
 hash = "ee6d4d14a7b6b601a85d26cd479565379417ae184972a7549e7257f7bf6df46b"
 
 [[files]]
-file = "resources/data/ducky-periphs/recipes/duck_block_plastic.json"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
-file = "resources/data/fabric-hammers/advancements/recipes/tools/emerald_pickaxe.json"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
-file = "resources/data/fabric-hammers/recipes/emerald_pickaxe.json"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
-file = "resources/data/fabrichammers/recipes/emerald_axe.json"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
-file = "resources/data/fabrichammers/recipes/emerald_excavator.json"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
-file = "resources/data/fabrichammers/recipes/emerald_hammer.json"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
-file = "resources/data/fabrichammers/recipes/emerald_hoe.json"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
-file = "resources/data/fabrichammers/recipes/emerald_shovel.json"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
-file = "resources/data/fabrichammers/recipes/emerald_sword.json"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
 file = "resources/data/hexcasting/advancements/grant_patchi_book.json"
 hash = "ccd833c48f93133bad335cac00b5d9dac831743457a0bd3375e63cdd1a2bc35b"
-
-[[files]]
-file = "resources/data/liquidburner/recipes/morkite_burning.json"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
-file = "resources/data/liquidburner/recipes/starrite_burning.json"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "resources/data/minecraft/tags/items/hoes.json"
