@@ -2265,6 +2265,11 @@ hash = "df1f66f500c693e7c17eb46c282abaad211401dae80c2a8e881ec6d2a328f12d"
 metafile = true
 
 [[files]]
+file = "mods/jsonpatcher.pw.toml"
+hash = "4a5c89b56505989909130495229682b4b11e03cde3f00d3394935dcfc526ae05"
+metafile = true
+
+[[files]]
 file = "mods/kaffees-dual-ride.pw.toml"
 hash = "aec565d92734e89cff9aae713f93ce8013c0edb9b63546dcb4d960e6cbe74730"
 metafile = true
@@ -3179,6 +3184,10 @@ hash = "75cf283a48d0ac2d7b8716a5ab48b52bbdda0c8ae6a38ac8482f5a4cef435aa3"
 [[files]]
 file = "resources/data/unipack/advancements/book.json"
 hash = "f8df36b03b72cef51fc3ebb1557fb3c618c0d8dfa777af284383b3677f7a8971"
+
+[[files]]
+file = "resources/data/unipack/jsonpatch/removals.jsonpatch"
+hash = "e533958eb6a0350188777c30716844c287658d8905249bac153a7258383afabc"
 
 [[files]]
 file = "resources/data/unipack/loot_tables/book.json"
