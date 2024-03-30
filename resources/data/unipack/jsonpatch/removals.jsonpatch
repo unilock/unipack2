@@ -1,14 +1,20 @@
 @version "1";
 @metapatch;
 
-metapatch.deleteFile("ducky-periphs:recipes/duck_block_plastic.json")
-metapatch.deleteFile("fabric-hammers:advancements/recipes/tools/emerald_pickaxe.json")
-metapatch.deleteFile("fabric-hammers:recipes/emerald_pickaxe.json")
-metapatch.deleteFile("fabrichammers:recipes/emerald_axe.json")
-metapatch.deleteFile("fabrichammers:recipes/emerald_excavator.json")
-metapatch.deleteFile("fabrichammers:recipes/emerald_hammer.json")
-metapatch.deleteFile("fabrichammers:recipes/emerald_hoe.json")
-metapatch.deleteFile("fabrichammers:recipes/emerald_shovel.json")
-metapatch.deleteFile("fabrichammers:recipes/emerald_sword.json")
-metapatch.deleteFile("liquidburner:recipes/morkite_burning.json")
-metapatch.deleteFile("liquidburner:recipes/starrite_burning.json")
+val removals = [
+	"ducky-periphs:recipes/duck_block_plastic.json",
+	"fabric-hammers:advancements/recipes/tools/emerald_pickaxe.json",
+	"fabric-hammers:recipes/emerald_pickaxe.json",
+	"fabrichammers:recipes/emerald_axe.json",
+	"fabrichammers:recipes/emerald_excavator.json",
+	"fabrichammers:recipes/emerald_hammer.json",
+	"fabrichammers:recipes/emerald_hoe.json",
+	"fabrichammers:recipes/emerald_shovel.json",
+	"fabrichammers:recipes/emerald_sword.json",
+	"liquidburner:recipes/morkite_burning.json",
+	"liquidburner:recipes/starrite_burning.json"
+]
+
+foreach (i in removals) {
+	metapatch.deleteFile(i);
+}
