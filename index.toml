@@ -1214,7 +1214,7 @@ hash = "f2f2847c6cf4792db6979a9fdc555b6c93da9d63510cc3ab3726a4d993219451"
 
 [[files]]
 file = "config/openpartiesandclaims-server.toml"
-hash = "2e4c5e4ad88e81a8565358bc45723e94ea543663d4c0136b6a99674aff9952c2"
+hash = "6209325a299536a56d78adbe5007d7a712f2c8266aff5e959bcd4b5744020872"
 
 [[files]]
 file = "config/passablefoliage-common.yaml"
@@ -3146,39 +3146,39 @@ hash = "ee6d4d14a7b6b601a85d26cd479565379417ae184972a7549e7257f7bf6df46b"
 
 [[files]]
 file = "resources/data/ducky-periphs/recipes/duck_block_plastic.json"
-hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "resources/data/fabric-hammers/advancements/recipes/tools/emerald_pickaxe.json"
-hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "resources/data/fabric-hammers/recipes/emerald_pickaxe.json"
-hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "resources/data/fabrichammers/recipes/emerald_axe.json"
-hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "resources/data/fabrichammers/recipes/emerald_excavator.json"
-hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "resources/data/fabrichammers/recipes/emerald_hammer.json"
-hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "resources/data/fabrichammers/recipes/emerald_hoe.json"
-hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "resources/data/fabrichammers/recipes/emerald_shovel.json"
-hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "resources/data/fabrichammers/recipes/emerald_sword.json"
-hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "resources/data/hexcasting/advancements/grant_patchi_book.json"
@@ -3186,11 +3186,11 @@ hash = "ccd833c48f93133bad335cac00b5d9dac831743457a0bd3375e63cdd1a2bc35b"
 
 [[files]]
 file = "resources/data/liquidburner/recipes/morkite_burning.json"
-hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "resources/data/liquidburner/recipes/starrite_burning.json"
-hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "resources/data/minecraft/tags/items/hoes.json"
