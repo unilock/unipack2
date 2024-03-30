@@ -1157,6 +1157,10 @@ file = "config/iris.properties"
 hash = "bebc8fb916718b04d4ddf2e8d7a5010147933c988d556efee1c3f9a1795e65a6"
 
 [[files]]
+file = "config/item_obliterator.json5"
+hash = "7c70f4ac1420046ebd8c8eb5ec54e0af52769f0b978ea5e7ab78d0b0919c9b23"
+
+[[files]]
 file = "config/itemflexer.mcfg"
 hash = "99989fa2ad0da68ed12f77795c0994a3862a8b33ff473f1c06d1b9b0848a74cc"
 
@@ -1234,7 +1238,7 @@ hash = "702aa9ed417d546c560b51cdffdddf248f31a033e681ad370a57a3e5b9ec87a5"
 
 [[files]]
 file = "config/quilt-loader-overrides.json"
-hash = "c34bcca056d464fc960cdf313ccce97495b60bac9ceb3eb8d5696ca1c0c4cd15"
+hash = "51ff6b72cda3e1e88d241d77f24bba5942f554d80d1847902da3805da2fdbe42"
 
 [[files]]
 file = "config/quilt/qsl/registry.toml"
@@ -2245,6 +2249,11 @@ hash = "eb0d9a1475b609eb82f26d0440846d52034c1aef8fcc21ee1cc327dc52648f7d"
 metafile = true
 
 [[files]]
+file = "mods/item-obliterator.pw.toml"
+hash = "9785c074b8ffaeb91fb0120b3b56fa8ba96ce5547205af2695e11f0bcc21faf7"
+metafile = true
+
+[[files]]
 file = "mods/itemflexer.pw.toml"
 hash = "c010bbe9c9943ec0ca2599a2294bf3baa6eec47dfec01d497a4f4bcc78e12941"
 metafile = true
@@ -2432,6 +2441,11 @@ metafile = true
 [[files]]
 file = "mods/nbt-autocomplete.pw.toml"
 hash = "05c3ed1b073bc05df9a43a81a68a07627ac7eb4604301cf325d20791e3bfd9d4"
+metafile = true
+
+[[files]]
+file = "mods/necronomicon.pw.toml"
+hash = "82353cd9b74b15dc32229b2ad2cac620a35972422ebc15db60e2268c42c05f0e"
 metafile = true
 
 [[files]]
@@ -2752,6 +2766,11 @@ metafile = true
 [[files]]
 file = "mods/roots-classic.pw.toml"
 hash = "71d55ec45f16806bbde04f5d7b9242dea6a3256dd4e9429b122a052db54f5e74"
+metafile = true
+
+[[files]]
+file = "mods/sc-goodies.pw.toml"
+hash = "338e95c42a4afd764faabde9ce8fe6455f6c074cc87ded8be8fbb46dfd3bce03"
 metafile = true
 
 [[files]]
