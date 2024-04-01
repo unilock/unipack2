@@ -1665,7 +1665,7 @@ metafile = true
 
 [[files]]
 file = "mods/cit-resewn.pw.toml"
-hash = "be98aae7bd138bda301bc309b0d5f2bc5c5f852ccc4d86a8d14574613b670761"
+hash = "66d05a663646e41a3062f298b12e501e1000f77d8d5201f594dd1ea364ed8c27"
 metafile = true
 
 [[files]]
@@ -2110,7 +2110,7 @@ metafile = true
 
 [[files]]
 file = "mods/grappling-hook-restitched.pw.toml"
-hash = "6552b7216d14ff5bde808e7440e6c8eb8e21ef42510849d166266364ae10d960"
+hash = "264e085b17e6b29f95c4d3d19e0534808367c2f995fcbc9ca016b7be9e08a196"
 metafile = true
 
 [[files]]
@@ -2770,12 +2770,12 @@ metafile = true
 
 [[files]]
 file = "mods/sc-goodies.pw.toml"
-hash = "338e95c42a4afd764faabde9ce8fe6455f6c074cc87ded8be8fbb46dfd3bce03"
+hash = "229f62da583d3c560ed2e1fca27eb5ee1169f7e56f9ba0d4cfc1f108f34889d4"
 metafile = true
 
 [[files]]
 file = "mods/sc-peripherals.pw.toml"
-hash = "84b57ccef2a9b1bd3f32b8b6c90cbc9f913841f895ba3585f24a9ba5f9c21c90"
+hash = "c327324d3f07c4e9a39f4df1f45701467e2bbb5bdb3eea8416f965f7757d281d"
 metafile = true
 
 [[files]]

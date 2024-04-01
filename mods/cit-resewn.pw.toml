@@ -1,13 +1,13 @@
 name = "CIT Resewn"
-filename = "citresewn-1.1.4+1.20.1.jar"
+filename = "citresewn-1.1.5+1.20.1.jar"
 side = "client"
 
 [download]
 hash-format = "sha1"
-hash = "e92e8b9b4f4cfb892a3863aa5f31aaa99ae926e3"
+hash = "80d5b5b7bd73a1af7e3ea2c3a770efd7043d399e"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5221979
+file-id = 5222582
 project-id = 521427
