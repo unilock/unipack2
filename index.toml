@@ -57,6 +57,10 @@ file = "config/bwncr.toml"
 hash = "719ac523430d387933b2d284d2b9148ffea47d9826c23a97f7505ea02a006158"
 
 [[files]]
+file = "config/cardinal-components-api.properties"
+hash = "27f9628d41f987a7d7c7063ed98cca6e2c9cb5c0ca2e87ffc8830db1b92acc3c"
+
+[[files]]
 file = "config/chatpatches.json"
 hash = "83d3220bfc144c8fa3aad1a0b47d92fc95d075fe76deaee8ffd0fb5d6da163ae"
 
