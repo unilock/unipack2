@@ -2799,7 +2799,7 @@ metafile = true
 
 [[files]]
 file = "mods/sc-goodies.pw.toml"
-hash = "229f62da583d3c560ed2e1fca27eb5ee1169f7e56f9ba0d4cfc1f108f34889d4"
+hash = "8e49d4fd7a732cec2a9163ff600a3f9f14f9d145618d0ce608cd17e9d2462de6"
 metafile = true
 
 [[files]]
