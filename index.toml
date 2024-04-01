@@ -1238,7 +1238,7 @@ hash = "702aa9ed417d546c560b51cdffdddf248f31a033e681ad370a57a3e5b9ec87a5"
 
 [[files]]
 file = "config/quilt-loader-overrides.json"
-hash = "956634688bccde3ae07d236e0f1e00fa35faa67a574662bc267a77c2a22e53b4"
+hash = "483c1bb81a26dc8425514b4497e8548fb2586eb3b3c2ba8405fc1aad937eb9ab"
 
 [[files]]
 file = "config/quilt/qsl/registry.toml"
@@ -1355,6 +1355,30 @@ hash = "15f00c189440fd98dae54762d0023fb979c7f262c5fc0b536e999296da2d3692"
 [[files]]
 file = "config/yungsmenutweaks-fabric-1_20_1.toml"
 hash = "8bfc87c16159918bed07c43e569c7ed4cc89148091fbfc8825aeae941292145c"
+
+[[files]]
+file = "config/zenith/adventure.cfg"
+hash = "5d05544b32d0ce2d72c1c1cd47592f51370ad07902f1e116744e43ec17d58d29"
+
+[[files]]
+file = "config/zenith/ench.cfg"
+hash = "8e26eea59070d50f71a812db17743b559e1474325111e827a0df32138895d8ec"
+
+[[files]]
+file = "config/zenith/enchantments.cfg"
+hash = "788453956ca32d2282ad24d91d2b6683c3dada83386ddb931956f03f9bfe8731"
+
+[[files]]
+file = "config/zenith/spawner.cfg"
+hash = "2759c2c2d2ae47edc56db8ab4a34da560f5cb931849a2e8be65ca3f1d1096831"
+
+[[files]]
+file = "config/zenith/village.cfg"
+hash = "f51a93f5a8e45acd597de4bb31566ae1911c5deebdb4cdf48ef971f75ac28a62"
+
+[[files]]
+file = "config/zenith/zenith.cfg"
+hash = "7a90881355a96da918620a3d44ab9754a7d21af34ba95f65bd04f57eaa1cf63f"
 
 [[files]]
 file = "config/zzz_rawr/config.toml"
@@ -2011,6 +2035,11 @@ metafile = true
 [[files]]
 file = "mods/fabricproxy-legacy.pw.toml"
 hash = "8e6de714243f958f53c0c89a5e32630568ff66e29ad69b748d1b8942f9031847"
+metafile = true
+
+[[files]]
+file = "mods/fakerlib.pw.toml"
+hash = "5638b7449ae51f0e4238a48d1977a3a8c9b98d132d16a89866a0d92d7621ad37"
 metafile = true
 
 [[files]]
@@ -3144,6 +3173,16 @@ hash = "6c599300ab4227fac15619a55fbcd3d36955cf142be09f94d8c384010f791172"
 metafile = true
 
 [[files]]
+file = "mods/zenith-attributes.pw.toml"
+hash = "2d081fa60a57a06ff678ce61563966fedd4eaa89065ffb0bd05aa56ec898ba84"
+metafile = true
+
+[[files]]
+file = "mods/zenith.pw.toml"
+hash = "0020391cc0f81696a386aafc041a83bd5e36c05f1409c8dda181cdfe44f84ad9"
+metafile = true
+
+[[files]]
 file = "mods/zzz-rawr.pw.toml"
 hash = "0a4f9eeb25ba875b515bd1421c1867df0a5e9fbcbc626e1799286f69f4d0c05c"
 metafile = true
@@ -3210,7 +3249,7 @@ hash = "dbfd8baeea7059b04d5d0504174bc91622c9d9976bb67d29d0d7a9d895f62699"
 
 [[files]]
 file = "resources/data/unipack/loot_tables/book.json"
-hash = "0951fa43af13287679a84185877e7eeb31758bd0f20e7c591d6bce24f816d7fa"
+hash = "a609beb39cedad2b4cb8846a93168d3895237b08a0505113c17ea2e18b1dca7a"
 
 [[files]]
 file = "resources/data/unipack/recipes/glass_boots.json"
@@ -3227,6 +3266,18 @@ hash = "d52015bf87da20a851339f24e6dba27a155818465f3f461a4a4b14b0a4fd7580"
 [[files]]
 file = "resources/data/unipack/recipes/glass_leggings.json"
 hash = "88990b4f2bbaaf4ad3ed99e9d3c52932f384ac20ed79a32950e498fc1606518f"
+
+[[files]]
+file = "resources/data/zenith/enchanting_stats/gaia_pylon.json"
+hash = "8a8c6ed1b23368fd4edc6ce659d14557dc76cb6dd34fc06adfb22cb453234645"
+
+[[files]]
+file = "resources/data/zenith/enchanting_stats/mana_pylon.json"
+hash = "77390f2724d5e4080bbd1ffe02a8363592d5e7572f9d8b69baabd8668bce78f3"
+
+[[files]]
+file = "resources/data/zenith/enchanting_stats/natura_pylon.json"
+hash = "2b50493592442c973f5c39273a62d674e1eadaf86f8f38960f778f7f5be8c1ee"
 
 [[files]]
 file = "resources/resourcepacks/emi-create-cobble-gen-compat.pw.toml"
