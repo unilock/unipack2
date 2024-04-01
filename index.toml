@@ -1458,6 +1458,11 @@ hash = "2a48303ae156db6088118aa192a6d7a7c09df27c5390196ebab9c0e090cb48f5"
 metafile = true
 
 [[files]]
+file = "mods/artifacts.pw.toml"
+hash = "22fd8053af8e618b9a63b59c8e6a81902cd4efdd2c78212c57be0d4f26d02d53"
+metafile = true
+
+[[files]]
 file = "mods/astrocraft.pw.toml"
 hash = "123f21da49a4fa42cb73819bf5cecf04da92b9916028ef9decca4d2e3996b2d2"
 metafile = true
@@ -3019,7 +3024,7 @@ metafile = true
 
 [[files]]
 file = "mods/trinkets.pw.toml"
-hash = "07619668821f2aad9dbd40084ad80f25595d8715a9ef204a4a9629225729a7d9"
+hash = "d9bfec2cf36b6bae2d85a1136560e047ab8ce1b0e9798e7b6be5d0670f65fb55"
 metafile = true
 
 [[files]]
@@ -3030,6 +3035,11 @@ metafile = true
 [[files]]
 file = "mods/turtlematic.pw.toml"
 hash = "0a63a831cec0f3434ea6cbf3dd72247ae229c17e8d015fa8f781837a6cfd5f19"
+metafile = true
+
+[[files]]
+file = "mods/twigs.pw.toml"
+hash = "7b9d811345bc97947c0eb2eaa90871c1d22c733779797aa582be0afe7377066a"
 metafile = true
 
 [[files]]
