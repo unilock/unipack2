@@ -3228,6 +3228,10 @@ file = "resources/data/naturescompass/advancements/natures_compass.json"
 hash = "c6022c2fc62c77a5c81a52972451fddee63a822582f76263fa41f7044c6de48d"
 
 [[files]]
+file = "resources/data/neepmeat/recipes/ingredients/copper_coil.json"
+hash = "19eb251a6ac0d3d57827b314d4c00117cd3787f843ab909cc0e9d5d7f9130cad"
+
+[[files]]
 file = "resources/data/peculiarpieces/advancements/patchouli_book.json"
 hash = "ccd833c48f93133bad335cac00b5d9dac831743457a0bd3375e63cdd1a2bc35b"
 
