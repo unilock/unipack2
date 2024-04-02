@@ -1,13 +1,13 @@
 name = "BotaniaCombat"
-filename = "botaniacombat-1.20.1-1.1.2.jar"
+filename = "botaniacombat-1.20.1-1.1.3.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "66e9678870e76f538422c3b4d303e826f5f578f2"
+hash = "67bac70b28685ce481be835b7993a12c32133dff"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5142150
+file-id = 5227774
 project-id = 937159

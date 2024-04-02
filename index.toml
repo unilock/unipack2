@@ -1633,7 +1633,7 @@ metafile = true
 
 [[files]]
 file = "mods/botaniacombat.pw.toml"
-hash = "42afdef9256f613eb498ddafa9625863b0ed231c78090cba9c2bc8d7751e5e3d"
+hash = "998c860b7bf4a8215ed43143edacb2d7e5fc5a34e57ff56c136336c88581e677"
 metafile = true
 
 [[files]]
@@ -2673,7 +2673,7 @@ metafile = true
 
 [[files]]
 file = "mods/porting-lib.pw.toml"
-hash = "9af82e4834adea20114d440de86fc8ba15b6a4b4233d6e3ddc9553afd1e93839"
+hash = "456113e674efcbccd9b3a46ac7dc1724da04c43643985ae379980a8f5aa5fc42"
 metafile = true
 
 [[files]]
@@ -2813,7 +2813,7 @@ metafile = true
 
 [[files]]
 file = "mods/sc-peripherals.pw.toml"
-hash = "c327324d3f07c4e9a39f4df1f45701467e2bbb5bdb3eea8416f965f7757d281d"
+hash = "479ed7eb1d9daa81e1ec242ac5a53ce0752a8f653dce319b8420c4b4f40ff359"
 metafile = true
 
 [[files]]
@@ -3018,7 +3018,7 @@ metafile = true
 
 [[files]]
 file = "mods/tricksy-foxes.pw.toml"
-hash = "d70482f990439b17504287ed587270171846ee721f07bcbae7e8d99e60e4e00e"
+hash = "0495aa1f8601004dc6d2f3993306bdd8f88580c6f36d6d400a618aa7fe4060e8"
 metafile = true
 
 [[files]]
@@ -3028,7 +3028,7 @@ metafile = true
 
 [[files]]
 file = "mods/trinkets.pw.toml"
-hash = "d9bfec2cf36b6bae2d85a1136560e047ab8ce1b0e9798e7b6be5d0670f65fb55"
+hash = "215ae21ea03cf93944d49414d497a221926f7fc9bf54babc7747ed0a080b8afe"
 metafile = true
 
 [[files]]

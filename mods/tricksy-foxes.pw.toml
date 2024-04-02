@@ -1,13 +1,13 @@
 name = "Tricksy Foxes"
-filename = "tricksy-3.6.jar"
+filename = "tricksy-4.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/96nXM8BO/versions/th6q3Ayq/tricksy-3.6.jar"
+url = "https://cdn.modrinth.com/data/96nXM8BO/versions/PrxGUAy4/tricksy-4.0.jar"
 hash-format = "sha1"
-hash = "dc5f4149faefc36f5315116faeb888d217a10374"
+hash = "a645bbc843d6d4146e012139d7b117f9f182d339"
 
 [update]
 [update.modrinth]
 mod-id = "96nXM8BO"
-version = "th6q3Ayq"
+version = "PrxGUAy4"
