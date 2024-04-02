@@ -113,6 +113,10 @@ file = "config/eccentrictome-common.toml"
 hash = "fdc1809377bd35e8babc1c625f513d0a3fe38f5a675ca0b18ce96d835e1ce2f2"
 
 [[files]]
+file = "config/effective.json"
+hash = "9645a35b5717edef7e81313f48dde19e9fb99116e62068b94724e336467c1a76"
+
+[[files]]
 file = "config/effecttimerplus.json"
 hash = "4c2970ca41c2313adb3a51c151d9a394e3b952a459e0779f513ef917e529a772"
 
@@ -1919,6 +1923,11 @@ metafile = true
 [[files]]
 file = "mods/ecologics.pw.toml"
 hash = "6e28aecc1374da8b38cef4b63578bb4d00c8a17c19948ced3e1284e60c221011"
+metafile = true
+
+[[files]]
+file = "mods/effective.pw.toml"
+hash = "c102c17148affae740d8152d7a9123b79a808a3f6eb5734791e22cde43cf19a4"
 metafile = true
 
 [[files]]
