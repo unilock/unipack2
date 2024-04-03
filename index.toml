@@ -2051,6 +2051,11 @@ hash = "8e6de714243f958f53c0c89a5e32630568ff66e29ad69b748d1b8942f9031847"
 metafile = true
 
 [[files]]
+file = "mods/fakerlib.pw.toml"
+hash = "5638b7449ae51f0e4238a48d1977a3a8c9b98d132d16a89866a0d92d7621ad37"
+metafile = true
+
+[[files]]
 file = "mods/falling-leaves-fabric.pw.toml"
 hash = "bb8d25bfaa946d7d85e2215c61b6e15c580487acc95715d26add374b8d2d3464"
 metafile = true
@@ -3188,6 +3193,16 @@ metafile = true
 [[files]]
 file = "mods/yungs-menu-tweaks-fabric.pw.toml"
 hash = "6c599300ab4227fac15619a55fbcd3d36955cf142be09f94d8c384010f791172"
+metafile = true
+
+[[files]]
+file = "mods/zenith-attributes.pw.toml"
+hash = "2d081fa60a57a06ff678ce61563966fedd4eaa89065ffb0bd05aa56ec898ba84"
+metafile = true
+
+[[files]]
+file = "mods/zenith.pw.toml"
+hash = "0020391cc0f81696a386aafc041a83bd5e36c05f1409c8dda181cdfe44f84ad9"
 metafile = true
 
 [[files]]
