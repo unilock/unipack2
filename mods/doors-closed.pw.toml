@@ -1,0 +1,13 @@
+name = "Doors Closed"
+filename = "doors-closed-1.0.0+1.19.4.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/L49j7sQG/versions/fdAdmwpI/doors-closed-1.0.0%2B1.19.4.jar"
+hash-format = "sha1"
+hash = "9727bc46bd05c995b6f3cfac284995b107de1601"
+
+[update]
+[update.modrinth]
+mod-id = "L49j7sQG"
+version = "fdAdmwpI"

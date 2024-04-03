@@ -1,0 +1,13 @@
+name = "Smelt Raw Ore Blocks [PurpurPack]"
+filename = "purpurpack-smelt-raw-ore-blocks-1.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Sue2z8Bl/versions/JGsyxycS/purpurpack-smelt-raw-ore-blocks-1.3.jar"
+hash-format = "sha1"
+hash = "fc18f2958df6390e9f3645568839105bd1539704"
+
+[update]
+[update.modrinth]
+mod-id = "Sue2z8Bl"
+version = "JGsyxycS"

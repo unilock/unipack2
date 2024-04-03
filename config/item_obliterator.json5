@@ -16,6 +16,12 @@
   // Items here will be unusable completely
   //    Example: minecraft:diamond
   "blacklisted_items": [
+    "coxinhautilities:cardboard_box",
+    "kibe:chunk_loader",
+    "kibe:entangled_bag",
+    "kibe:entangled_chest",
+    "kibe:slime_boots",
+    "kibe:slime_sling",
     "sc-goodies:iron_chest",
     "sc-goodies:iron_barrel",
     "sc-goodies:gold_chest",

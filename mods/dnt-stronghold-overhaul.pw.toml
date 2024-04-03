@@ -1,0 +1,13 @@
+name = "DnT Stronghold Overhaul"
+filename = "dungeons-and-taverns-stronghold-rework-1 [Fabric].jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "cbbc4288faa52139e82d61da3c505ecca3a73993"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4785952
+project-id = 920416

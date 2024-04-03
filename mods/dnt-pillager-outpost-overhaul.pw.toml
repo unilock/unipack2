@@ -1,0 +1,13 @@
+name = "DnT Pillager Outpost Overhaul"
+filename = "dungeons-and-taverns-pillager-outpost-rework-1.1 [Fabric].jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0929a3a80ba2fa06944c0d3d4c4d8075712f4bb8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4788279
+project-id = 920423

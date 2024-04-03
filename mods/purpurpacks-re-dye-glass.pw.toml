@@ -1,0 +1,13 @@
+name = "Re-Dye Glass [PurpurPack]"
+filename = "purpurpacks-re-dye-glass-1.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/sbHA4Z4I/versions/Q2dMMsU2/purpurpacks-re-dye-glass-1.3.jar"
+hash-format = "sha1"
+hash = "9d09553d443ed6f3ab6b90b995cf5fc4f089b33a"
+
+[update]
+[update.modrinth]
+mod-id = "sbHA4Z4I"
+version = "Q2dMMsU2"
