@@ -2911,13 +2911,18 @@ hash = "7f79b5b72fbb01e97b6a2eb8e3371234988f491a3ca2cb9210a455b3e7dbf185"
 metafile = true
 
 [[files]]
+file = "mods/spectral-decorations.pw.toml"
+hash = "573f8213f9667d5b292801e8500accac1cb132cba85b4ea33d451337e56f0888"
+metafile = true
+
+[[files]]
 file = "mods/spectral-utilities.pw.toml"
 hash = "ed5b4a5bd389bf1603772f74d04a154aedc53384fa890b0cd68c37bfd122ed0a"
 metafile = true
 
 [[files]]
 file = "mods/spectrum.pw.toml"
-hash = "49df6b5421c0576ffd3774a6314a03ae32d14a5308fd50c8a67c46f5865098ab"
+hash = "0dd89c6716091f97233e7f27850263c51455fb1b6dc43737c4e7c6609301e13c"
 metafile = true
 
 [[files]]
