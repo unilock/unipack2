@@ -1942,7 +1942,7 @@ metafile = true
 
 [[files]]
 file = "mods/embeddium.pw.toml"
-hash = "af71c88395b3859fdb826db09e1e1612ce0c31d33f8ff72ba01dbeed309f4bbe"
+hash = "4c4552e2fdd75be80a0e38008a2b5e7d5ff0b655316abcefa8676c4ffea5a750"
 metafile = true
 
 [[files]]
@@ -2462,7 +2462,7 @@ metafile = true
 
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
-hash = "c7f72402aaf7ab801a3876aaaaf8ed9bc412db981039a866a003d741161920b7"
+hash = "7ccd7e24f278303579a874288c0fa2385e4f2e2fa1b64a6afb25d4c8b25088c0"
 metafile = true
 
 [[files]]
@@ -2542,7 +2542,7 @@ metafile = true
 
 [[files]]
 file = "mods/ok-zoomer.pw.toml"
-hash = "41e3fcb3f7e0cf8e162a9569539ae442d6dea6af466af079fb40623fad8ee107"
+hash = "f51d3b512213bcbae1da9d04159bff662adfbc04ad113d07a9c8eeff79587ab3"
 metafile = true
 
 [[files]]
@@ -2912,7 +2912,7 @@ metafile = true
 
 [[files]]
 file = "mods/spectrum.pw.toml"
-hash = "4dcfed0216f0935074ecbe40eae9163ad3ffd33938e40654cd9f686269e2ca62"
+hash = "49df6b5421c0576ffd3774a6314a03ae32d14a5308fd50c8a67c46f5865098ab"
 metafile = true
 
 [[files]]
