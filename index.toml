@@ -1977,7 +1977,7 @@ metafile = true
 
 [[files]]
 file = "mods/enchancement.pw.toml"
-hash = "67fd51411e174b2e31a91e61ead147affa50929de886458f9b616557695dae88"
+hash = "10114a30990669e252682731259d48b94f95ad360615347dd7506b350bd4f48d"
 metafile = true
 
 [[files]]
@@ -2922,7 +2922,7 @@ metafile = true
 
 [[files]]
 file = "mods/spectrum.pw.toml"
-hash = "0dd89c6716091f97233e7f27850263c51455fb1b6dc43737c4e7c6609301e13c"
+hash = "cffd31fb07701c5c014dda75ff67d34f1040f527b6a64e6b8f21c1b2cc57893e"
 metafile = true
 
 [[files]]
