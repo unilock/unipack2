@@ -2,17 +2,6 @@
 	"schema_version": 1,
 	"overrides": [
 		{
-			"id": "extendeddrawersaddon",
-			"depends": [
-				{
-					"remove": {
-						"id": "modelfix",
-						"versions": "*"
-					}
-				}
-			]
-		},
-		{
 			"id": "fakerlib",
 			"depends": [
 				{

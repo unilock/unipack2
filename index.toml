@@ -1246,7 +1246,7 @@ hash = "702aa9ed417d546c560b51cdffdddf248f31a033e681ad370a57a3e5b9ec87a5"
 
 [[files]]
 file = "config/quilt-loader-overrides.json"
-hash = "483c1bb81a26dc8425514b4497e8548fb2586eb3b3c2ba8405fc1aad937eb9ab"
+hash = "d4c1f909c7be596c0174f54ac3aa88d42ee453dcc373148afb30d7b69d56d498"
 
 [[files]]
 file = "config/quilt/qsl/registry.toml"
@@ -2008,16 +2008,6 @@ metafile = true
 [[files]]
 file = "mods/expanded-storage.pw.toml"
 hash = "14fed30c25944c4f66da60ed6797b1da59b33c3de118014fc018b2e7a28dd9e0"
-metafile = true
-
-[[files]]
-file = "mods/extended-drawers.pw.toml"
-hash = "ff360ba97565b8efba9387e2b9a267937634568a8d56c39ae8711701ab499c3d"
-metafile = true
-
-[[files]]
-file = "mods/extendeddrawersaddon.pw.toml"
-hash = "95f0371aec1097d7ed48da182e4d43b961af5eb96e46674e530cd6183e57fd58"
 metafile = true
 
 [[files]]
