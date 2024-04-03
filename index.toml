@@ -1521,7 +1521,7 @@ metafile = true
 
 [[files]]
 file = "mods/autochefs-delight.pw.toml"
-hash = "b9607667360a92ec9d657ed6a192a7f19b538d358559c6e9a37b094ea56f4375"
+hash = "d3eb4bfb4916ba372683fba04e84b4fa81b588ee9d2bd3c35d8b5b4c104d9750"
 metafile = true
 
 [[files]]
@@ -2243,6 +2243,11 @@ hash = "c634e78573e2e9f84aabe4fa2bedc2844c1245f08bfa15e9db770df165a1f2bf"
 metafile = true
 
 [[files]]
+file = "mods/hephaestus-expansion.pw.toml"
+hash = "a187c46340129ce7d88a15e225b9a896384b2d5b0970506b77052f16f8970bd6"
+metafile = true
+
+[[files]]
 file = "mods/hephaestus.pw.toml"
 hash = "b633daed2cf3a7985ed6602174a768932bff07fd8f4d700517ff0906726e100a"
 metafile = true
@@ -2250,11 +2255,6 @@ metafile = true
 [[files]]
 file = "mods/hephaestusplus.pw.toml"
 hash = "b96ce3cc2eaaf8258df3944886175016c44bd5411714bef82e76bd9ecf823916"
-metafile = true
-
-[[files]]
-file = "mods/hepheastus-expansion.pw.toml"
-hash = "e4ee35c309207d8760c8ca90c3461e17c14549cf6c0ee7b76e6368c4097d0dda"
 metafile = true
 
 [[files]]
@@ -2759,7 +2759,7 @@ metafile = true
 
 [[files]]
 file = "mods/plethora-peripherals.pw.toml"
-hash = "ba723f70a050846bbc290d1ac03382e7bfd915173c0c92246bad2cdd998ab437"
+hash = "76e4bb09f248953855dfba961de4b2566f4a4b34456267e546ccfbeec66e09c7"
 metafile = true
 
 [[files]]
@@ -3009,7 +3009,7 @@ metafile = true
 
 [[files]]
 file = "mods/snow-real-magic-fabric.pw.toml"
-hash = "6c9a0e40bc440ffd2737fe7cb0429253e33c72d70735fa705abc3c5bc9481f06"
+hash = "1574e5c3b0a69fdd0da15f1bef65e51a6c4fb68e0af94d73d707641a274eac51"
 metafile = true
 
 [[files]]
