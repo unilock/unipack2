@@ -1967,7 +1967,7 @@ metafile = true
 
 [[files]]
 file = "mods/ends-delight.pw.toml"
-hash = "5d35e517bbbe776d4779fac654acd1ae330b9db322ba9a57fcb133821eb26983"
+hash = "eaf1ccd2f10b95d58026be6dd07ce11224758a6d1916478be7b85547a4aba598"
 metafile = true
 
 [[files]]
@@ -2038,6 +2038,11 @@ metafile = true
 [[files]]
 file = "mods/falling-tree.pw.toml"
 hash = "8c319dc9be07b01f52370beba89dfff019d8adae14278685641cc28f2ef19b2a"
+metafile = true
+
+[[files]]
+file = "mods/farmers-delight-refabricated.pw.toml"
+hash = "447feeaefb23f02df86416a958e316d90a8cda0b240affc520cd8698a3440170"
 metafile = true
 
 [[files]]
@@ -2502,7 +2507,7 @@ metafile = true
 
 [[files]]
 file = "mods/oceans-delight.pw.toml"
-hash = "1c5732b5010aab54d9937825a1a898292fbeeb4cba818ddb625703ac6f283838"
+hash = "32e2d40c761d984e1832e63d53661bc7dde0feb305f033fd906a7f32dfcc9e53"
 metafile = true
 
 [[files]]
