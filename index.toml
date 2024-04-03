@@ -1646,11 +1646,6 @@ hash = "fd1cb2986a49e05f430f74c2a3d25184d54c6301e7f8ad13fe1edc9187d053eb"
 metafile = true
 
 [[files]]
-file = "mods/brewin-and-chewin-fabric.pw.toml"
-hash = "7c198cb527e6c7c0d8f239e2880f167edc414d202a3686142a558415a8cd00a2"
-metafile = true
-
-[[files]]
 file = "mods/canary-safety.pw.toml"
 hash = "fe2380b7a797f6c7f5b9932d9648929f90bb69437ec3af8a8f9427ea5aaf9929"
 metafile = true
@@ -1823,16 +1818,6 @@ metafile = true
 [[files]]
 file = "mods/ctrl-q.pw.toml"
 hash = "7aab133819e17cc8a3823518c2ee673de88bb547e2a9771bc9fb3e76491e8cc0"
-metafile = true
-
-[[files]]
-file = "mods/cultural-creators-fabric-create-and-cultural.pw.toml"
-hash = "d9222864cb47d7aaba2f81de639c2304077e506671f6bd38f5ef499b1a1cd984"
-metafile = true
-
-[[files]]
-file = "mods/cultural-delights-fabric.pw.toml"
-hash = "21129c99e43e347dccafc77af2bfb42708a5994cad7427a9d5105869979c1ae0"
 metafile = true
 
 [[files]]
@@ -2056,18 +2041,8 @@ hash = "8c319dc9be07b01f52370beba89dfff019d8adae14278685641cc28f2ef19b2a"
 metafile = true
 
 [[files]]
-file = "mods/farmers-delight-fabric.pw.toml"
-hash = "65a7238736733ebdba6bd8932edaff631f42b1c08efa50025247996c2ec25401"
-metafile = true
-
-[[files]]
 file = "mods/farmers-knives.pw.toml"
 hash = "17c6927d306012053d7b519381ef6428b6da04f11d57e590f2eb3ed34a59dc4c"
-metafile = true
-
-[[files]]
-file = "mods/farmers-respite-fabric.pw.toml"
-hash = "3b09bb825c6293c1c1fb2addd2c88e03af6cb4f0cc72040cd8696a51a3ef8f5f"
 metafile = true
 
 [[files]]
@@ -2783,11 +2758,6 @@ metafile = true
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "b587bea8ab6df349f3a8035d1f5b8492819c2a72722e770468fc9b0ddfb9fdd3"
-metafile = true
-
-[[files]]
-file = "mods/respite-creators-fabric.pw.toml"
-hash = "3b965df2088aeee820b257b07107da73c1ab92a59b91667aed59ab5f542381e4"
 metafile = true
 
 [[files]]
