@@ -1,13 +1,13 @@
 name = "SwitchCraft Goodies"
-filename = "sc-goodies-1.12.5.jar"
+filename = "sc-goodies-1.12.6.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "1b3501bba2af4e139ad09ba36c89143c0783e882"
+hash = "623784d06fac7b3e67fa2ad033e1d0daf93d6335"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5227330
+file-id = 5233900
 project-id = 807667

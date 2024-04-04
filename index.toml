@@ -1496,7 +1496,7 @@ metafile = true
 
 [[files]]
 file = "mods/artifacts.pw.toml"
-hash = "22fd8053af8e618b9a63b59c8e6a81902cd4efdd2c78212c57be0d4f26d02d53"
+hash = "2273ca6fea8e93efdf86a24bf1d7b2151c7d6bfa504d9c7dc0022e27d5f02535"
 metafile = true
 
 [[files]]
@@ -2949,7 +2949,7 @@ metafile = true
 
 [[files]]
 file = "mods/sc-goodies.pw.toml"
-hash = "8e49d4fd7a732cec2a9163ff600a3f9f14f9d145618d0ce608cd17e9d2462de6"
+hash = "584cbd041506143428d5c9135ae6dd9ab4e6d35ee3339ce66da6fcc25af9c179"
 metafile = true
 
 [[files]]
