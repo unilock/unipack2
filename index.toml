@@ -38,7 +38,7 @@ hash = "8172e5fd74b6c135dcad74e3601c3d63854ff362973259fa5ed7ec0b0dc05814"
 
 [[files]]
 file = "config/almostunified/unify.json"
-hash = "fd76bda4664e546f09cc12bdd475ac77253855d3bf60964ec409e15ec44192f3"
+hash = "818bd7df58963764bdcb55f8edfb01a299e993621afff5c5363d04ef90e0edb4"
 
 [[files]]
 file = "config/arcadiandream.json5"
