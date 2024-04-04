@@ -2363,6 +2363,11 @@ hash = "46e66342d144d7fd461494a4e530af96baf94a9ec44823318045002da7896d49"
 metafile = true
 
 [[files]]
+file = "mods/iris-flywheel-compat.pw.toml"
+hash = "7bd67429011cf3593464a6e3768558941a827c8cd46050a71a8c2716f3781b26"
+metafile = true
+
+[[files]]
 file = "mods/iris.pw.toml"
 hash = "eb0d9a1475b609eb82f26d0440846d52034c1aef8fcc21ee1cc327dc52648f7d"
 metafile = true
