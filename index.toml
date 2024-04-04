@@ -2143,11 +2143,6 @@ hash = "27058ff24b894fe8d1157017c13db4bb5f4953d9a89a76b7ba0ad9d1723f4d19"
 metafile = true
 
 [[files]]
-file = "mods/faster-random.pw.toml"
-hash = "b9e7d4dcc3ba7fbd5bcaab8aea1ca63665eba597761b6237f3ea39dfbe1865c5"
-metafile = true
-
-[[files]]
 file = "mods/ferritecore-fabric.pw.toml"
 hash = "28f53f38c111e3d6aa7f6854fa976a1456f4094dc504a929a6d4bf1f9f8cc30a"
 metafile = true
