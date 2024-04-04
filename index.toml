@@ -1174,7 +1174,7 @@ hash = "5ec559846c5aa30d45a80cc06240baac2156e3781f129aa1283d30465dbf37eb"
 
 [[files]]
 file = "config/inventory_tabs.toml"
-hash = "0f4314c721c29c32dba47ea0dba6bdcf272b94fa425867484116af498bbfb8de"
+hash = "328b17b0e0f38a47dd447dc5f6faa3364e93a5a6b1950c8f94f942757eaab2cb"
 
 [[files]]
 file = "config/inventoryprofilesnext/inventoryprofiles.json"
@@ -1271,10 +1271,6 @@ hash = "702aa9ed417d546c560b51cdffdddf248f31a033e681ad370a57a3e5b9ec87a5"
 [[files]]
 file = "config/quilt-loader-overrides.json"
 hash = "d4c1f909c7be596c0174f54ac3aa88d42ee453dcc373148afb30d7b69d56d498"
-
-[[files]]
-file = "config/quilt/qsl/registry.toml"
-hash = "01f104e56e5c4cc8764019720ed01c631f74583d4a7edfc515cb2203b7b2cb38"
 
 [[files]]
 file = "config/railways-client.toml"
@@ -3084,6 +3080,11 @@ metafile = true
 [[files]]
 file = "mods/stairdoors-extended.pw.toml"
 hash = "00cc61bf4e627b548f057658dcc0c9da43a02ee43c4ce7d3ba32134bc732f450"
+metafile = true
+
+[[files]]
+file = "mods/statement.pw.toml"
+hash = "12c4fe626574a1f306ae6c3c992de6d18016a73784ab447d41a5ccab317298c4"
 metafile = true
 
 [[files]]
