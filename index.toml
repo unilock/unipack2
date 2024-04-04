@@ -1237,6 +1237,10 @@ file = "config/mythicmetalsdecorations.json5"
 hash = "3d370dd8c1f86e6de75259dcbb520926ae1e9cfd86242add0b57877cf4d2334c"
 
 [[files]]
+file = "config/nicerskies.json"
+hash = "98c036271d058b001af5b93de1d6d0a099783ac48de0d3449cd067de7af83a91"
+
+[[files]]
 file = "config/noindium.json"
 hash = "1fe9c8370e7d57e1283193791f8f8f28e67a3ce7b4fab4acc9e52c227c028ebd"
 
@@ -1497,11 +1501,6 @@ metafile = true
 [[files]]
 file = "mods/artifacts.pw.toml"
 hash = "2273ca6fea8e93efdf86a24bf1d7b2151c7d6bfa504d9c7dc0022e27d5f02535"
-metafile = true
-
-[[files]]
-file = "mods/astrocraft.pw.toml"
-hash = "123f21da49a4fa42cb73819bf5cecf04da92b9916028ef9decca4d2e3996b2d2"
 metafile = true
 
 [[files]]
@@ -2613,6 +2612,11 @@ hash = "3dda9d9871e608fd8b97db8797e70ed5473036485257035409fb9c568b2c6c08"
 metafile = true
 
 [[files]]
+file = "mods/nicer-skies.pw.toml"
+hash = "9f63e31a11f16310e0da0fd0bbbdee4f60a41189def40f2bcfba830c68b8e0b9"
+metafile = true
+
+[[files]]
 file = "mods/no-resource-pack-warnings.pw.toml"
 hash = "d14f1843e5d9fde0511bf7e37ee2166e2727bdb6a9b7a4e808a2d88a90397bd2"
 metafile = true
@@ -2750,6 +2754,11 @@ metafile = true
 [[files]]
 file = "mods/pigment.pw.toml"
 hash = "a293f934bb21ecafb42a000e15f6d5deb7f8561cbac0fa05ece007116f249b77"
+metafile = true
+
+[[files]]
+file = "mods/planetarium.pw.toml"
+hash = "9f672e5511d96ef885c9ba2ab026bdb806b96e020c39f8468a30400a22ba7722"
 metafile = true
 
 [[files]]
