@@ -2353,7 +2353,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-tabs.pw.toml"
-hash = "46e66342d144d7fd461494a4e530af96baf94a9ec44823318045002da7896d49"
+hash = "ef34bb4a2081c428393a16c71891672a119d4c42e67189fb8dd77395d4947cfc"
 metafile = true
 
 [[files]]
@@ -2613,7 +2613,7 @@ metafile = true
 
 [[files]]
 file = "mods/nicer-skies.pw.toml"
-hash = "9f63e31a11f16310e0da0fd0bbbdee4f60a41189def40f2bcfba830c68b8e0b9"
+hash = "2693ff55b675e593f1b5152a3f6ccf3f004cb6badc290211621ccfb14cd3b1f0"
 metafile = true
 
 [[files]]
