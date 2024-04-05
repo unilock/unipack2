@@ -2624,7 +2624,7 @@ metafile = true
 
 [[files]]
 file = "mods/noisium.pw.toml"
-hash = "9ca0bad38fed184ee50085d17a401105b3e848ff8ce12cf79441d5170082512c"
+hash = "e96aaa7d953f793cbfc854a648f00ba86d726f4d679caf56dbb2ed5fa9c114c4"
 metafile = true
 
 [[files]]
@@ -2669,7 +2669,7 @@ metafile = true
 
 [[files]]
 file = "mods/open-parties-and-claims.pw.toml"
-hash = "84643181b5182bc5c95570b60c0b823d4235f0c851826ce85c0bfc2c6f02e1ed"
+hash = "a8e78756fab40c2ca32794f30aa1c8188e721c463f6c797e1b3b7d972ae0d8b1"
 metafile = true
 
 [[files]]
