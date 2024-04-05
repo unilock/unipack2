@@ -1644,6 +1644,11 @@ hash = "186c7bec273cf2a762cbeba8810551714da1453fd6a7040d0ca05da554b63991"
 metafile = true
 
 [[files]]
+file = "mods/blocky-bass.pw.toml"
+hash = "c1748f23f755a47f2941120d6e0ad8f2b15e1f82152977c5c66d8595a104e434"
+metafile = true
+
+[[files]]
 file = "mods/blossomback.pw.toml"
 hash = "88ffe6dcd64fb05faec2f93151d610b6f472c6e1adb70f2dca4522f1fe85f914"
 metafile = true
