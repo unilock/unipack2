@@ -3420,6 +3420,10 @@ file = "resources/assets/on1chest/lang/en_us.json"
 hash = "7153128c5eb68bc139efa3abc51595a1eb0dee3241fe4cdbc9b38f3472e43848"
 
 [[files]]
+file = "resources/assets/spiceoffabric/lang/en_us.json"
+hash = "af973310a8f91854d1ac4c5990bf34557058967316e22df29804c5328e591bd1"
+
+[[files]]
 file = "resources/data/arcanuscontinuum/advancements/grant_compendium_arcanus.json"
 hash = "ccd833c48f93133bad335cac00b5d9dac831743457a0bd3375e63cdd1a2bc35b"
 
