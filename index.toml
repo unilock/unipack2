@@ -2143,6 +2143,11 @@ hash = "27058ff24b894fe8d1157017c13db4bb5f4953d9a89a76b7ba0ad9d1723f4d19"
 metafile = true
 
 [[files]]
+file = "mods/fdrfdcrf.pw.toml"
+hash = "aa138dc06124598475edfc23c6d179a3d02692abe834f99ecfe7077d41d9d936"
+metafile = true
+
+[[files]]
 file = "mods/ferritecore-fabric.pw.toml"
 hash = "28f53f38c111e3d6aa7f6854fa976a1456f4094dc504a929a6d4bf1f9f8cc30a"
 metafile = true
