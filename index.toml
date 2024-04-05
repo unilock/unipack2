@@ -3513,6 +3513,10 @@ file = "resources/data/zenith/enchanting_stats/natura_pylon.json"
 hash = "2b50493592442c973f5c39273a62d674e1eadaf86f8f38960f778f7f5be8c1ee"
 
 [[files]]
+file = "resources/resourcepacks/Chaotix Apotheotic Tweaks v1.0.zip"
+hash = "146c8b50d4ddfef6fe8012f2acb88aa3d7db507923258ba6ecd0522380bb8620"
+
+[[files]]
 file = "resources/resourcepacks/emi-create-cobble-gen-compat.pw.toml"
 hash = "fd37b834317eabc107cd68ca83518e9f35d1563b13eb09c6d4102c3fda584d27"
 metafile = true
