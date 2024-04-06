@@ -1496,7 +1496,7 @@ metafile = true
 
 [[files]]
 file = "mods/artifacts.pw.toml"
-hash = "2273ca6fea8e93efdf86a24bf1d7b2151c7d6bfa504d9c7dc0022e27d5f02535"
+hash = "fd81f7cddd5aa7d70701b77cc92db7e94aed7d42125e61f558f5e898d822abdc"
 metafile = true
 
 [[files]]
@@ -2119,7 +2119,7 @@ metafile = true
 
 [[files]]
 file = "mods/falling-leaves-fabric.pw.toml"
-hash = "bb8d25bfaa946d7d85e2215c61b6e15c580487acc95715d26add374b8d2d3464"
+hash = "d61a2e6668979d6245714e6de8618f643c85805c28e707288fd7c59dbedf0ead"
 metafile = true
 
 [[files]]
@@ -2359,7 +2359,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-tabs.pw.toml"
-hash = "ef34bb4a2081c428393a16c71891672a119d4c42e67189fb8dd77395d4947cfc"
+hash = "b964d20d0adbb05417701611a4ec55cf5868a526c52c089bf55eac3aa4069a25"
 metafile = true
 
 [[files]]
