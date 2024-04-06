@@ -1309,6 +1309,14 @@ file = "config/status-effect-bars.json"
 hash = "fbaeff575797f2cb30fb6364a432f222fc8aa466962be159d676fcc344f24eed"
 
 [[files]]
+file = "config/styled-chat.json"
+hash = "163df7196b140db5e881663485d6fc09af3a77b658bf9dffff435ebb7b39f2ad"
+
+[[files]]
+file = "config/styled-nicknames.json"
+hash = "c3a68ff97284d5fa78b1eb0afef89baf9faa8b73ed5473e88f79bd2336ab1434"
+
+[[files]]
 file = "config/styledplayerlist/config.json"
 hash = "cac57c41d913837246c829ce560243952fe5f1463252009b1d57955881f86287"
 
@@ -3105,6 +3113,16 @@ metafile = true
 [[files]]
 file = "mods/structure-essentials-forge-fabric.pw.toml"
 hash = "b25dcfe10e77071dea13e6134feb21ae84711bc201fa64a11d467b97d57f0314"
+metafile = true
+
+[[files]]
+file = "mods/styled-chat.pw.toml"
+hash = "440d9eb8db00ed2daf35b8fecd1874c48c514bf85529852a4d2ef70f4ca1a952"
+metafile = true
+
+[[files]]
+file = "mods/styled-nicknames.pw.toml"
+hash = "1c33c0b5784daab00580964a59ea0062da9aae7b626dc396f8ae13b08f50bf8c"
 metafile = true
 
 [[files]]
