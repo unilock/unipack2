@@ -1318,7 +1318,7 @@ hash = "3a2daf79740e20545c2ea275a528b71e2fcef9e2651d1a372375440f6c0f1bf8"
 
 [[files]]
 file = "config/styledplayerlist/config.json"
-hash = "cac57c41d913837246c829ce560243952fe5f1463252009b1d57955881f86287"
+hash = "014539fa1af259ef8b427effb5504b25fa36dcd6944ba0f8ec875207e749bed3"
 
 [[files]]
 file = "config/styledplayerlist/styles/default.json"
