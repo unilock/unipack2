@@ -1314,7 +1314,7 @@ hash = "163df7196b140db5e881663485d6fc09af3a77b658bf9dffff435ebb7b39f2ad"
 
 [[files]]
 file = "config/styled-nicknames.json"
-hash = "c3a68ff97284d5fa78b1eb0afef89baf9faa8b73ed5473e88f79bd2336ab1434"
+hash = "3a2daf79740e20545c2ea275a528b71e2fcef9e2651d1a372375440f6c0f1bf8"
 
 [[files]]
 file = "config/styledplayerlist/config.json"
