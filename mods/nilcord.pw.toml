@@ -1,0 +1,8 @@
+name = "nilcord"
+filename = "nilcord-2.1.0+1.20.1+fabric.jar"
+side = "server"
+
+[download]
+url = "https://play.fennet.rentals/packwiz/unipack2/manual-jars/server/nilcord-2.1.0+1.20.1+fabric.jar"
+hash-format = "sha256"
+hash = "a19ef4a6a5db4bfb7e7b8dbb8138a0e0768948b3fd5c43dead2999e22e3b0ede"

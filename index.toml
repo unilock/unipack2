@@ -2623,6 +2623,11 @@ hash = "2693ff55b675e593f1b5152a3f6ccf3f004cb6badc290211621ccfb14cd3b1f0"
 metafile = true
 
 [[files]]
+file = "mods/nilcord.pw.toml"
+hash = "25636a36d1a2aa89d2a67dfb43a3f4715b8e872f16a41a38e130d3bb7df9dffe"
+metafile = true
+
+[[files]]
 file = "mods/no-resource-pack-warnings.pw.toml"
 hash = "d14f1843e5d9fde0511bf7e37ee2166e2727bdb6a9b7a4e808a2d88a90397bd2"
 metafile = true
@@ -3335,11 +3340,6 @@ metafile = true
 [[files]]
 file = "mods/yacl.pw.toml"
 hash = "200557716291399497216a70e772a4f3df1e4e6c7c52b5949b8fc7271b5a42e9"
-metafile = true
-
-[[files]]
-file = "mods/yeptwo.pw.toml"
-hash = "ffa2ce75a1b342a54b60bf2d9bbfeeb45919558faee803bb1a571292e4dfa704"
 metafile = true
 
 [[files]]
