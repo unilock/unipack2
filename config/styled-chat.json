@@ -61,7 +61,7 @@
       "yellow": true
     },
     "emoticons": {
-      "$emojibase:builtin:joypixels": "<white><font:'polymania:emoji'>${emoji}</white>",
+      "$emojibase:builtin:joypixels": "<white><font:'polymania:emoji'>${emoji}",
       "shrug": "¯\\_(ツ)_/¯",
       "table": "(╯°□°）╯︵ ┻━┻",
       "sword": "🗡",
