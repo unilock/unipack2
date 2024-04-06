@@ -1,8 +1,0 @@
-name = "OwnDevices"
-filename = "owndevices-1.0.0+1.20.1+fabric.jar"
-side = "client"
-
-[download]
-url = "https://play.fennet.rentals/packwiz/unipack2/manual-jars/client/owndevices-1.0.0+1.20.1+fabric.jar"
-hash-format = "sha256"
-hash = "0f924a4e72d1e72f2432d123d0b782d3ed93e4e37c1d492692cbbbf5fafef0a0"

@@ -2688,11 +2688,6 @@ hash = "81aeb91299b18d5fa560decd9aaae296210532b4e39a1252aaba5bcf1eaba777"
 metafile = true
 
 [[files]]
-file = "mods/owndevices.pw.toml"
-hash = "4e1040417aece80a751374b46c08a4aa24eb6ef8be86c3e5353200269d7308d0"
-metafile = true
-
-[[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "9a0ab52020c3a2d073e71f07ce11b9d2d8ae0a17b8a3cf0c9227029a51df51c3"
 metafile = true
