@@ -2626,6 +2626,11 @@ hash = "25636a36d1a2aa89d2a67dfb43a3f4715b8e872f16a41a38e130d3bb7df9dffe"
 metafile = true
 
 [[files]]
+file = "mods/nitor.pw.toml"
+hash = "405d0348d312bf564f0865c07c831b40df186eb2c23ffe96f2f18892261baf18"
+metafile = true
+
+[[files]]
 file = "mods/no-resource-pack-warnings.pw.toml"
 hash = "d14f1843e5d9fde0511bf7e37ee2166e2727bdb6a9b7a4e808a2d88a90397bd2"
 metafile = true
