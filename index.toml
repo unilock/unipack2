@@ -1693,7 +1693,7 @@ metafile = true
 
 [[files]]
 file = "mods/botaniacombat.pw.toml"
-hash = "998c860b7bf4a8215ed43143edacb2d7e5fc5a34e57ff56c136336c88581e677"
+hash = "cb7142484dc9098ee9182abc9d3ebeb0385e59cb20f3f36e761d48a060b18733"
 metafile = true
 
 [[files]]
@@ -2083,7 +2083,7 @@ metafile = true
 
 [[files]]
 file = "mods/expanded-storage.pw.toml"
-hash = "d573caa6cd29b541e2c0773d9f08ebd528cab61c909f81f8afaecea7861f88a0"
+hash = "4a999842b7c44c56165b31488c441a0a1279f8de969a6d028beb8a74bae6eee8"
 metafile = true
 
 [[files]]
