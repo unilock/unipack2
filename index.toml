@@ -1718,7 +1718,7 @@ metafile = true
 
 [[files]]
 file = "mods/cc-tweaked.pw.toml"
-hash = "4db8922347711e86adef046e17589b240068bf3449ffa0abfdd7da63d5912557"
+hash = "a397ed7c9e0250ed16f039b47171855f32007c9d3210e194b4dce2239ef5aff4"
 metafile = true
 
 [[files]]
@@ -2602,7 +2602,7 @@ metafile = true
 
 [[files]]
 file = "mods/neepmeat.pw.toml"
-hash = "06b4cf49a7a18f38ec416c4c02255db735e118829e65da44a7d457a4eb9b1cb2"
+hash = "9c6f51bffa0ad49a40a20ade1d6a429fa2d11347eab4afed87917157a30e1686"
 metafile = true
 
 [[files]]
@@ -2782,7 +2782,7 @@ metafile = true
 
 [[files]]
 file = "mods/plethora-peripherals.pw.toml"
-hash = "76e4bb09f248953855dfba961de4b2566f4a4b34456267e546ccfbeec66e09c7"
+hash = "fb134231d982d1ba9f86f189dcee5f0da303a769289af46b4c4ecfc74c435d41"
 metafile = true
 
 [[files]]

@@ -1,13 +1,13 @@
 name = "Plethora Peripherals"
-filename = "Plethora-Fabric-1.11.3.jar"
+filename = "Plethora-Fabric-1.11.6.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "d7d34f8a5b35126d66f388b93ea41ca4c9ae1bfb"
+hash = "514d76718aceccf5c0c6bbb1329b675b34951916"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5233527
+file-id = 5243954
 project-id = 248425
