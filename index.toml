@@ -1582,6 +1582,11 @@ hash = "2e835de52707ca820100e9732c4be90f01e8b09dfc2b3fc3033184283fcf87ab"
 metafile = true
 
 [[files]]
+file = "mods/beekeeping.pw.toml"
+hash = "ea76fc4be94f8d16fc3fafff61598d40ae2e4b98105aa1ea5927320fd4438c0a"
+metafile = true
+
+[[files]]
 file = "mods/better-climbing.pw.toml"
 hash = "2f0c572f52bd5508491258b40a1d18e3b5c93dfba89848d09ca68d43e0d3a8ee"
 metafile = true
@@ -2797,7 +2802,7 @@ metafile = true
 
 [[files]]
 file = "mods/porting-lib.pw.toml"
-hash = "b2aed67cd7934fee02a562f1203e3764a6d550455cc72f3efbbd22ce378b3baf"
+hash = "456113e674efcbccd9b3a46ac7dc1724da04c43643985ae379980a8f5aa5fc42"
 metafile = true
 
 [[files]]
