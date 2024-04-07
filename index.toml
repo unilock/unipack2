@@ -2611,8 +2611,8 @@ hash = "23ab8cbe4992e305825d977af0aa8d023a7acff693d0a3a311dae1e78f43a5d1"
 metafile = true
 
 [[files]]
-file = "mods/nethers-delight-fabric.pw.toml"
-hash = "3dda9d9871e608fd8b97db8797e70ed5473036485257035409fb9c568b2c6c08"
+file = "mods/nethers-delight-refabricated.pw.toml"
+hash = "fddcb64731d3541e6d163a85940a3c04c27bae22d03b2687927fdd9e5eb119c6"
 metafile = true
 
 [[files]]
