@@ -2326,11 +2326,6 @@ hash = "5ba86432dafed77442fbc2ea11db62a15b1919e47656fda26c393b4ee62f6eca"
 metafile = true
 
 [[files]]
-file = "mods/immersive-cursedness-updated.pw.toml"
-hash = "c12bafa724745962ee1db93b59d06e54da4e867d4d05f3dcf284388229683784"
-metafile = true
-
-[[files]]
 file = "mods/immersive-structures-ii.pw.toml"
 hash = "2704e1663784137c7f0bf37b2a3cbe0f1fcf9af9b9137f65a0a8f6c6db8c9a9f"
 metafile = true
