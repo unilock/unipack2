@@ -2067,11 +2067,6 @@ hash = "63e1916f7e0447dee1e84963ae9c847a4eb183fe338b07d836644da2e3b853b1"
 metafile = true
 
 [[files]]
-file = "mods/esreacompat.pw.toml"
-hash = "e69919f4de3996aeb364f963f0b23a42642c4d9fca9ca342c3c0dcd2c821d59e"
-metafile = true
-
-[[files]]
 file = "mods/etcetera.pw.toml"
 hash = "55a4537d46958dadd9cfb7999fcc076cdaf600f1aa8f283b7c4550307ff488b6"
 metafile = true
