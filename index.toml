@@ -1863,7 +1863,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-fabric.pw.toml"
-hash = "d67269baf485814ebd40b2f12475e2fd639db6c3d69863dee6af0d0ab2ab6216"
+hash = "252878ad67eb85e89d725478bd36a64ce6f84b247c3ac8a1851f3b4f553f11f4"
 metafile = true
 
 [[files]]
@@ -2137,7 +2137,7 @@ metafile = true
 
 [[files]]
 file = "mods/farmers-delight-refabricated.pw.toml"
-hash = "447feeaefb23f02df86416a958e316d90a8cda0b240affc520cd8698a3440170"
+hash = "49dac44577ac03c40a9c1a0746488d32d3fb4fd48e8696e355aa078351716601"
 metafile = true
 
 [[files]]
@@ -2362,7 +2362,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-tabs.pw.toml"
-hash = "b964d20d0adbb05417701611a4ec55cf5868a526c52c089bf55eac3aa4069a25"
+hash = "888c65b3df100f58d5b13426abedcc49e1a66438e73df2704fdc6a03e1127048"
 metafile = true
 
 [[files]]
@@ -2802,7 +2802,7 @@ metafile = true
 
 [[files]]
 file = "mods/porting-lib.pw.toml"
-hash = "456113e674efcbccd9b3a46ac7dc1724da04c43643985ae379980a8f5aa5fc42"
+hash = "a8620b16620512363e19175d7dd97b3513091365fae53e221c7fb9d60675d04e"
 metafile = true
 
 [[files]]
@@ -2967,12 +2967,12 @@ metafile = true
 
 [[files]]
 file = "mods/sc-goodies.pw.toml"
-hash = "584cbd041506143428d5c9135ae6dd9ab4e6d35ee3339ce66da6fcc25af9c179"
+hash = "fff9bdbbaa26873536ba8a63b304f06c982bd0f7fcd7adfd29e3cc657213a544"
 metafile = true
 
 [[files]]
 file = "mods/sc-peripherals.pw.toml"
-hash = "479ed7eb1d9daa81e1ec242ac5a53ce0752a8f653dce319b8420c4b4f40ff359"
+hash = "85ce2777b2c58c6a6ca1f090a8fe385bfa490578b78b671b52feac9c448928ad"
 metafile = true
 
 [[files]]
