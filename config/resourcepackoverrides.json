@@ -1,0 +1,65 @@
+{
+  "schema_version": 2,
+  "failed_reloads_per_session": 3,
+  "default_packs": [
+    "vanilla",
+    "fabric",
+    "Fabrication",
+    "Fabrication grayscale",
+    "QDResLoader Resources",
+    "seamless/default_seamless",
+    "polymania-emoji.zip",
+    "Midnighttiggers-FCT-Default_1.20.1_V1.zip",
+    "linkedstorage/enderstorage",
+    "hibernalherbs/modernized",
+    "ECCGC.zip",
+    "EBE_1.20.x_v1.1.zip",
+    "Chaotix Apotheotic Tweaks v1.0.zip",
+    "botaniacombat/botaniacombatlang",
+    "$polymer-resources"
+  ],
+  "default_overrides": {
+    "force_compatible": true
+  },
+  "pack_overrides": {
+    "optionals": [
+      "Midnighttiggers-FCT-Default_1.20.1_V1.zip",
+      "EBE_1.20.x_v1.1.zip",
+      "Chaotix Apotheotic Tweaks v1.0.zip"
+    ],
+    "defaults": [
+      "vanilla"
+    ],
+    "defaults_hiddens": [
+      "fabric",
+      "Fabrication",
+      "Fabrication grayscale",
+      "QDResLoader Resources",
+      "seamless/default_seamless",
+      "polymania-emoji.zip",
+      "linkedstorage/enderstorage",
+      "hibernalherbs/modernized",
+      "ECCGC.zip",
+      "botaniacombat/botaniacombatlang",
+      "$polymer-resources"
+    ],
+    "hiddens": [
+      "grapplemod/original_textures",
+      "create/legacy_copper",
+      "enchancement/alternate_dash",
+      "enchancement/alternate_gale",
+      "hibernalherbs/barebones",
+      "potionparticlepack/legacy_colors"
+    ],
+    "$$defaults": {
+      "required": true
+    },
+    "$$defaults_hiddens": {
+      "required": true,
+      "hidden": true
+    },
+    "$$hiddens": {
+      "hidden": true
+    }
+  }
+}
