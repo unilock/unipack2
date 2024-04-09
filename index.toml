@@ -1289,6 +1289,10 @@ file = "config/reacharound.json"
 hash = "f5a3e757ca74a0ee07e5e63052b31f68105c0538f9e64ef6e705934632b3c4e9"
 
 [[files]]
+file = "config/resourcepackoverrides.json"
+hash = "a2969fe911ebc0fa3891a7c1dbdbd66874c808bd5e439b173a83c1811e290772"
+
+[[files]]
 file = "config/rightclickharvest.json"
 hash = "2845060c46714e296df74a8211f0a58ca57b4d5bbbceb338360704ee04131672"
 
@@ -1504,7 +1508,7 @@ metafile = true
 
 [[files]]
 file = "mods/artifacts.pw.toml"
-hash = "fd81f7cddd5aa7d70701b77cc92db7e94aed7d42125e61f558f5e898d822abdc"
+hash = "4f6ff35744b972978a0e35447752f17cd1d7c991418857aedbb34df42d7035eb"
 metafile = true
 
 [[files]]
@@ -1863,7 +1867,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-fabric.pw.toml"
-hash = "252878ad67eb85e89d725478bd36a64ce6f84b247c3ac8a1851f3b4f553f11f4"
+hash = "d67269baf485814ebd40b2f12475e2fd639db6c3d69863dee6af0d0ab2ab6216"
 metafile = true
 
 [[files]]
@@ -2058,7 +2062,7 @@ metafile = true
 
 [[files]]
 file = "mods/enchancement.pw.toml"
-hash = "10114a30990669e252682731259d48b94f95ad360615347dd7506b350bd4f48d"
+hash = "54dd5eadadf0b8d4b67606435dc42f214d6110629ff2e0054be73594c8cf9acb"
 metafile = true
 
 [[files]]
@@ -2802,7 +2806,7 @@ metafile = true
 
 [[files]]
 file = "mods/porting-lib.pw.toml"
-hash = "a8620b16620512363e19175d7dd97b3513091365fae53e221c7fb9d60675d04e"
+hash = "456113e674efcbccd9b3a46ac7dc1724da04c43643985ae379980a8f5aa5fc42"
 metafile = true
 
 [[files]]
@@ -2941,6 +2945,11 @@ hash = "ede6796f50e85b0f6e214a61c33619ebacdb5331d98c51f58c47d875ce7a3c4c"
 metafile = true
 
 [[files]]
+file = "mods/resource-pack-overrides.pw.toml"
+hash = "c27c5ecee525aa7c5884f0807a34430b14c29a58fd38e1f9e7830969dd1c13d7"
+metafile = true
+
+[[files]]
 file = "mods/resourceful-config.pw.toml"
 hash = "2937f8044610c554d49b4617210885a76d3f81cb9325a36dba6bfbd131cc45ab"
 metafile = true
@@ -3062,7 +3071,7 @@ metafile = true
 
 [[files]]
 file = "mods/spectral-decorations.pw.toml"
-hash = "573f8213f9667d5b292801e8500accac1cb132cba85b4ea33d451337e56f0888"
+hash = "82c320513fe8b9fdb29bba1820aae93c93b6a6bb491b14cd7adc46f7fddc3f11"
 metafile = true
 
 [[files]]
@@ -3153,6 +3162,11 @@ metafile = true
 [[files]]
 file = "mods/templates-2.pw.toml"
 hash = "67f8ed9dc63d928444a9d6b32211b9f7ea947f24c5553bc6bbb027562b635eee"
+metafile = true
+
+[[files]]
+file = "mods/terra-armory.pw.toml"
+hash = "1593659ee905769b061040f578f27c201b60255b2edddcbc856734bf0ea0532f"
 metafile = true
 
 [[files]]
@@ -3532,7 +3546,7 @@ hash = "2b50493592442c973f5c39273a62d674e1eadaf86f8f38960f778f7f5be8c1ee"
 
 [[files]]
 file = "resources/resourcepacks/Chaotix Apotheotic Tweaks v1.0.zip"
-hash = "146c8b50d4ddfef6fe8012f2acb88aa3d7db507923258ba6ecd0522380bb8620"
+hash = "1311d44a39903f7fb951fbb9e2561ab5f4e527843c59481ad386159a58c84ddd"
 
 [[files]]
 file = "resources/resourcepacks/emi-create-cobble-gen-compat.pw.toml"
