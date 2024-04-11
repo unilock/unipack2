@@ -1,13 +1,13 @@
 name = "Hephaestus Expansion"
-filename = "hephaestusexpansion-1.0.1+1.20.1.jar"
+filename = "hephaestusexpansion-1.0.1h+1.20.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/H6K8bKGy/versions/y0gaJYOj/hephaestusexpansion-1.0.1%2B1.20.1.jar"
+url = "https://cdn.modrinth.com/data/H6K8bKGy/versions/NYcF2iHr/hephaestusexpansion-1.0.1h%2B1.20.1.jar"
 hash-format = "sha1"
-hash = "85a0b12ef765853ce77fdd6500f92d9d96da473f"
+hash = "e45770ab7f1acdc768432d72a855ad1764fa64d1"
 
 [update]
 [update.modrinth]
 mod-id = "H6K8bKGy"
-version = "y0gaJYOj"
+version = "NYcF2iHr"

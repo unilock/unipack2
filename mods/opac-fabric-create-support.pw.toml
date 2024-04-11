@@ -1,13 +1,13 @@
 name = "Create Support for Open Parties and Claims"
-filename = "opac-fabric-create-support-1.5.0.jar"
+filename = "opac-fabric-create-support-mc1.20-1.6.0.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "43b39760170f9204b9b8f95cf96bd87c8999427f"
+hash = "2d56dd406d70f0a9e9c2a87ca73632cbfa9bccc9"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5235993
+file-id = 5251027
 project-id = 650095

@@ -1622,7 +1622,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-stats.pw.toml"
-hash = "1cd20ab4f6459e60b18d4cfd1d686967ed747b185be38f0b41d6dbe554f21e95"
+hash = "c938d7304e448940072bc922cf6616dc6386289d1421e563dfd2a4ce5f5afa17"
 metafile = true
 
 [[files]]
@@ -1702,7 +1702,7 @@ metafile = true
 
 [[files]]
 file = "mods/botaniacombat.pw.toml"
-hash = "cb7142484dc9098ee9182abc9d3ebeb0385e59cb20f3f36e761d48a060b18733"
+hash = "21f08d54a31f9d94643e1028edaa0f9b59e7bf42f66aacafd4d067f870068b28"
 metafile = true
 
 [[files]]
@@ -2062,7 +2062,7 @@ metafile = true
 
 [[files]]
 file = "mods/enchancement.pw.toml"
-hash = "54dd5eadadf0b8d4b67606435dc42f214d6110629ff2e0054be73594c8cf9acb"
+hash = "1003e36080ce3030178acaeae477add1095e677e12f2bdec35314259d46d2ade"
 metafile = true
 
 [[files]]
@@ -2087,7 +2087,7 @@ metafile = true
 
 [[files]]
 file = "mods/expanded-storage.pw.toml"
-hash = "4a999842b7c44c56165b31488c441a0a1279f8de969a6d028beb8a74bae6eee8"
+hash = "47dc1443b564e9625cb16e3b58e963c56861eed9df2befdc4be90e7a606f5c51"
 metafile = true
 
 [[files]]
@@ -2256,7 +2256,7 @@ metafile = true
 
 [[files]]
 file = "mods/hephaestus-expansion.pw.toml"
-hash = "6eb35048a04be10ae0f24b13c3d856c6ef182ddf9b36770dbc2894e5311e26c7"
+hash = "a916473217ef902e17ec70cc1dcaecbea064242e4e9db1b024e6a6460d3b676b"
 metafile = true
 
 [[files]]
@@ -2676,7 +2676,7 @@ metafile = true
 
 [[files]]
 file = "mods/on-soul-fire.pw.toml"
-hash = "b9b79a11ff0192235b6fae321b52b385ecc2aae1b4ac1f311fcb75b40e42f3b8"
+hash = "654e006236c269a2a4c5ff859a530828dd26821fa1861d28d81e7a4965767d2e"
 metafile = true
 
 [[files]]
@@ -2686,7 +2686,7 @@ metafile = true
 
 [[files]]
 file = "mods/opac-fabric-create-support.pw.toml"
-hash = "841f099fb592e5c60a0c828cba374267b77d8b6998aaa682dcf85202da3ddd87"
+hash = "695b9f5005afd8b091a887ae44a63b1626cf5a223031682dfe69eac21fec71f9"
 metafile = true
 
 [[files]]
@@ -2786,7 +2786,7 @@ metafile = true
 
 [[files]]
 file = "mods/plethora-peripherals.pw.toml"
-hash = "fb134231d982d1ba9f86f189dcee5f0da303a769289af46b4c4ecfc74c435d41"
+hash = "712943d94a6733d694ca8231f2ed6b368e07c9c8ca248e1d22ea0cc630644f94"
 metafile = true
 
 [[files]]
@@ -2822,11 +2822,6 @@ metafile = true
 [[files]]
 file = "mods/pride-furnaces.pw.toml"
 hash = "19ccf5c4fd3d3baeb426be8f4827ac2192fa9b1807538e73fec78feaa9517333"
-metafile = true
-
-[[files]]
-file = "mods/projectile-damage-attribute.pw.toml"
-hash = "a0f4e71abdcb3fa24e45fe8fb83aa43fb40e1be7d0729795ae15f42a8b642f27"
 metafile = true
 
 [[files]]
@@ -2911,7 +2906,7 @@ metafile = true
 
 [[files]]
 file = "mods/ranged-weapon-api.pw.toml"
-hash = "a227a86d31c54c09e4a43012ff5f649c6bdf08964e6d5a8b59c08dbc6dcc6a5c"
+hash = "119234949c4304f2a934762ac15ad92a072462b03e2909a2fdade76482fd2077"
 metafile = true
 
 [[files]]
