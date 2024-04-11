@@ -1706,6 +1706,11 @@ hash = "21f08d54a31f9d94643e1028edaa0f9b59e7bf42f66aacafd4d067f870068b28"
 metafile = true
 
 [[files]]
+file = "mods/brainier-bees.pw.toml"
+hash = "a08b0e9c2340f4b5432f643331348ad8153d6bc4bf89d4e38732e9ae0a2fe94d"
+metafile = true
+
+[[files]]
 file = "mods/breakfree.pw.toml"
 hash = "fd1cb2986a49e05f430f74c2a3d25184d54c6301e7f8ad13fe1edc9187d053eb"
 metafile = true
