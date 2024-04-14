@@ -1,4 +1,8 @@
 {
+  "megane": {
+    "create.schematicannon.gunpowder": true,
+    "create.contraption": true
+  },
   "waila": {
     "show_blocks": true,
     "show_fluids": false,
@@ -59,19 +63,9 @@
     "book.enchantment_cycle_timing": 500,
     "book.written": true
   },
-  "megane": {
-    "create.schematicannon.gunpowder": true,
-    "create.contraption": true,
-    "ie.metal_press_mold": true,
-    "ie.assembler_recipes": true
-  },
-  "mekanism": {
-    "energy": true,
-    "fluid": true,
-    "gas": true,
-    "infuse_type": true,
-    "pigment": true,
-    "slurry": true
+  "harvest": {
+    "enabled": true,
+    "display_mode": "MODERN"
   },
   "wailax": {
     "energy.enabled_block": true,

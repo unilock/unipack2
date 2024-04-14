@@ -1358,7 +1358,7 @@ hash = "3224046589b128f227ad7bf6bcabb8d6aeec26bfdd65c3074579d01783e63395"
 
 [[files]]
 file = "config/waila/waila_plugins.json"
-hash = "0e3400dfe9b2ff3fe8576dba6dbf5e9685068db9258351d2498e42c0555bfd09"
+hash = "1089a291e14c7cfef290f241d5094a345c7c384bad6009b8ea5bc519f856e993"
 
 [[files]]
 file = "config/wiredredstone/common.json5"
