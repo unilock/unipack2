@@ -137,10 +137,6 @@ file = "config/effecttimerplus.json"
 hash = "4c2970ca41c2313adb3a51c151d9a394e3b952a459e0779f513ef917e529a772"
 
 [[files]]
-file = "config/embeddium-options.json"
-hash = "e167e5ede2e769a4548deaea837718d4e8a924fd5fd1784715c11ac3f4b82acc"
-
-[[files]]
 file = "config/enchancement.json"
 hash = "22fe3904861b435364aa2e0dbb323a9453f8b2f2254436e325e1df5fc81cf420"
 
@@ -2031,11 +2027,6 @@ hash = "ff4dd07cf9a495dae6984258ef86f32efbd963ee580a0008782c3fe9a862edf3"
 metafile = true
 
 [[files]]
-file = "mods/embeddium.pw.toml"
-hash = "4c4552e2fdd75be80a0e38008a2b5e7d5ff0b655316abcefa8676c4ffea5a750"
-metafile = true
-
-[[files]]
 file = "mods/emi-enchanting.pw.toml"
 hash = "7b2795b2bb74d77fc1cafcc093754181c143fb36758d112540cdd62c071eb626"
 metafile = true
@@ -2342,6 +2333,11 @@ metafile = true
 [[files]]
 file = "mods/immersive-structures.pw.toml"
 hash = "f085fada4c6433c9d178de70d6ef47f721298cd66d4cd2fa112bec0232d1d906"
+metafile = true
+
+[[files]]
+file = "mods/indium.pw.toml"
+hash = "e416b18eebf514dea2014cf5c7fd3ee8493934a0b4e937509f15172ad271fde2"
 metafile = true
 
 [[files]]
@@ -3052,6 +3048,11 @@ metafile = true
 [[files]]
 file = "mods/sodium-shadowy-path-blocks.pw.toml"
 hash = "c2fb8a64bc4610b7d026dc4cce78ad2a2f7264e5be4755849187e3caed5cac55"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "cd49906a91e2ff1c11acba79192d609c232f2f73d82cc6a646e7338c8e76aa8a"
 metafile = true
 
 [[files]]
