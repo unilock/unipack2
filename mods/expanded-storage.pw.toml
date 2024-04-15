@@ -1,13 +1,13 @@
 name = "Expanded Storage"
-filename = "expandedstorage-10.3.0-beta.3+1.20.1-quilt.jar"
+filename = "expandedstorage-10.3.0-beta.4+1.20.1-quilt.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "ba4a0be47105bbcd37814d4f9278ae2824a0f83d"
+hash = "fa8cdaa281c75f4638a750dbd276f8f0032d3a4a"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5253766
+file-id = 5262499
 project-id = 978068

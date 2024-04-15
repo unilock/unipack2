@@ -1,13 +1,13 @@
 name = "Spectral Decorations"
-filename = "SpectralDecorations-1.0.0.jar"
+filename = "SpectralDecorations-1.1.0.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "f27385e4f8afbf59fcc91efc76cbd826dbd89695"
+hash = "634464510268fbce41fb5941e29739173e27d13c"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5205328
+file-id = 5248277
 project-id = 990498
