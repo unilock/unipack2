@@ -1873,7 +1873,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-fabric.pw.toml"
-hash = "cef3a59856aff5dd427f1cf02c653045bb77147219fe3dcf2745ad0c06cc1d22"
+hash = "252878ad67eb85e89d725478bd36a64ce6f84b247c3ac8a1851f3b4f553f11f4"
 metafile = true
 
 [[files]]
@@ -2147,7 +2147,7 @@ metafile = true
 
 [[files]]
 file = "mods/farmers-delight-refabricated.pw.toml"
-hash = "d17391916b0dff6af716919130c6b038ce7909ac4033976378ca8dc7e6b47da6"
+hash = "b76d4c3ab643a7073d0618ff1b74b6cb85ae4c56619c9de14e291879cee96a2e"
 metafile = true
 
 [[files]]
@@ -2317,7 +2317,7 @@ metafile = true
 
 [[files]]
 file = "mods/icarus.pw.toml"
-hash = "fafdddc6cc934e3a1dbc53cafa7158655f2155427b06369b5571e8acbf995b92"
+hash = "1581308dc32ff109b0fe2b13677325aca2c8fd33335f29def889d9c59e95b503"
 metafile = true
 
 [[files]]
@@ -2562,7 +2562,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "4ce67a00cd0f643c10317ad730317cc8e8d4baec16d04876ddd5a4a64efac48e"
+hash = "46ad0c07009fa651a6a50ec5b95a6be93256177f6ccacbfbef00f1ccbc8f55eb"
 metafile = true
 
 [[files]]
@@ -2617,7 +2617,7 @@ metafile = true
 
 [[files]]
 file = "mods/neepmeat.pw.toml"
-hash = "9c6f51bffa0ad49a40a20ade1d6a429fa2d11347eab4afed87917157a30e1686"
+hash = "f2d2fe253ccf906c9111675ee4d280d825c8bad9e5d43027b41597122f6dc329"
 metafile = true
 
 [[files]]
@@ -3207,7 +3207,7 @@ metafile = true
 
 [[files]]
 file = "mods/tis-3d.pw.toml"
-hash = "b8c5e9285d52235c664227cde70a61d71c90cd4dbc12218cf0984587aadda54f"
+hash = "d346ed969a51b62c23e6de3ea44f65f1cebb1dbc4d65051cbf5b4acea609d203"
 metafile = true
 
 [[files]]
