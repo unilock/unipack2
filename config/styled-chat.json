@@ -61,17 +61,8 @@
       "yellow": true
     },
     "emoticons": {
-      "$emojibase:builtin:joypixels": "<white><font:'polymania:emoji'>${emoji}",
       "shrug": "¯\\_(ツ)_/¯",
       "table": "(╯°□°）╯︵ ┻━┻",
-      "sword": "🗡",
-      "bow": "🏹",
-      "trident": "🔱",
-      "rod": "🎣",
-      "potion": "🧪",
-      "shears": "✂",
-      "bucket": "🪣",
-      "bell": "🔔",
       "item": "[%player:equipment_slot mainhand%]",
       "pos": "%player:pos_x% %player:pos_y% %player:pos_z%"
     },

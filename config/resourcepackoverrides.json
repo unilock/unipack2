@@ -8,7 +8,6 @@
     "Fabrication grayscale",
     "QDResLoader Resources",
     "seamless/default_seamless",
-    "polymania-emoji.zip",
     "Midnighttiggers-FCT-Default_1.20.1_V1.zip",
     "linkedstorage/enderstorage",
     "hibernalherbs/modernized",
@@ -16,6 +15,7 @@
     "EBE_1.20.x_v1.1.zip",
     "Chaotix Apotheotic Tweaks v1.0.zip",
     "botaniacombat/botaniacombatlang",
+	"uniemoji",
     "$polymer-resources"
   ],
   "default_overrides": {

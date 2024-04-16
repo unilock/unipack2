@@ -1286,7 +1286,7 @@ hash = "f5a3e757ca74a0ee07e5e63052b31f68105c0538f9e64ef6e705934632b3c4e9"
 
 [[files]]
 file = "config/resourcepackoverrides.json"
-hash = "a2969fe911ebc0fa3891a7c1dbdbd66874c808bd5e439b173a83c1811e290772"
+hash = "efb2823035fa53a283f3295ef63089cc2aba70a5be80f4e1896e055a18b8d27c"
 
 [[files]]
 file = "config/rightclickharvest.json"
@@ -1310,7 +1310,7 @@ hash = "fbaeff575797f2cb30fb6364a432f222fc8aa466962be159d676fcc344f24eed"
 
 [[files]]
 file = "config/styled-chat.json"
-hash = "e51b3c83623e4896e860fc7555f6f66884b25d1b49b99e846613809659f40bd3"
+hash = "9249e88b12c640b4f365762ff2adddec3f303d6025dd1d5ffd48a8b24f2814dc"
 
 [[files]]
 file = "config/styled-nicknames.json"
@@ -2059,6 +2059,11 @@ metafile = true
 [[files]]
 file = "mods/emiffect-status-effects-emi-plugin.pw.toml"
 hash = "1cafd31169228e1888380d040b806baf1bb1e0b973d46c7b22b1b1e78db57e41"
+metafile = true
+
+[[files]]
+file = "mods/emogg.pw.toml"
+hash = "17245535751a9ed088fddef08e270a95ea24edb42928af9c342becb134efbfbd"
 metafile = true
 
 [[files]]
@@ -3570,8 +3575,92 @@ hash = "15f270ef34f21e33da2f6b787a8cadfda0dfe4ef8eab03036c09a9695bfa88cf"
 metafile = true
 
 [[files]]
-file = "resources/resourcepacks/polymania-emoji.zip"
-hash = "9f01debaccfdb935d4840555880216c8da5e6c632ea0d3f24920a273c9335d07"
+file = "resources/resourcepacks/uniemoji/assets/emogg/emoji/unilock/blobfox.png"
+hash = "e48d2e3a8113ad9abf80fb27b4bc80729aafb32b2be957fcecaff8beaae40930"
+
+[[files]]
+file = "resources/resourcepacks/uniemoji/assets/emogg/emoji/unilock/bshock.png"
+hash = "8fa458bf27f9cf6cc36ae4126860bafa33d5b78e79db936226478c2770efeb11"
+
+[[files]]
+file = "resources/resourcepacks/uniemoji/assets/emogg/emoji/unilock/cuteheart.png"
+hash = "91e39f20c20072b1cf4e26d7a292c2702d326fbf92953301b888fc98fa66f40c"
+
+[[files]]
+file = "resources/resourcepacks/uniemoji/assets/emogg/emoji/unilock/doe.png"
+hash = "1da3f420141c49a35b113b7f1cdc90aa60cb23713bd93d9017e7caf7f21a4dfc"
+
+[[files]]
+file = "resources/resourcepacks/uniemoji/assets/emogg/emoji/unilock/dwm.png"
+hash = "6946dbc6c0d5089c209e7f3d745751c2528188e92f68ad28c5bf8b4681890289"
+
+[[files]]
+file = "resources/resourcepacks/uniemoji/assets/emogg/emoji/unilock/lyra.png"
+hash = "9ddf17399dd65c57bd2d1f2c7081e2dc95b208bf422a850ae25f741639c7740d"
+
+[[files]]
+file = "resources/resourcepacks/uniemoji/assets/emogg/emoji/unilock/mommy.png"
+hash = "f7d3bf2098f733e7680a69c3a8cc85df64e7a0d01d1137f00b187724e0636f07"
+
+[[files]]
+file = "resources/resourcepacks/uniemoji/assets/emogg/emoji/unilock/rshock.png"
+hash = "729d5cc5ed3b58394012af98d89613c0a2e992f177b3cda82b8cdbcfbb0a9a6b"
+
+[[files]]
+file = "resources/resourcepacks/uniemoji/assets/emogg/emoji/unilock/rshrug.png"
+hash = "cbb534cf4775b9ea8787e1cb77213ad8ce1f05afa14c0eb3b7cab495accc62f1"
+
+[[files]]
+file = "resources/resourcepacks/uniemoji/assets/emogg/emoji/unilock/rthink.png"
+hash = "a6fe9b4772fa4103fa2419bce5278a49deff96aee2e80d070defefaf5903ef76"
+
+[[files]]
+file = "resources/resourcepacks/uniemoji/assets/emogg/emoji/unilock/shimmer.png"
+hash = "146254e4706da7d2be892c3307318456eec86bf47e46090a74c789ac452f9b4d"
+
+[[files]]
+file = "resources/resourcepacks/uniemoji/assets/emogg/emoji/unilock/smugly.png"
+hash = "7cae029d59daaac16c4f3623e67cb562c189dcd79b15cbdc0b59579d82126be8"
+
+[[files]]
+file = "resources/resourcepacks/uniemoji/assets/emogg/emoji/unilock/smuglyverse.png"
+hash = "d47cb80036f4d8da063204b24803d9159075f6e1e583d9e88395645ce7d3f470"
+
+[[files]]
+file = "resources/resourcepacks/uniemoji/assets/emogg/emoji/unilock/squintyjack.png"
+hash = "5f26d823a628af3db714a09e553ff9be1b39350a5c2258ba083d465c04511a39"
+
+[[files]]
+file = "resources/resourcepacks/uniemoji/assets/emogg/emoji/unilock/this.png"
+hash = "6046f91432b0f6896958453cd2fec2590bb58339577784368b1f5bfebff46b56"
+
+[[files]]
+file = "resources/resourcepacks/uniemoji/assets/emogg/emoji/unilock/timeswuuh.png"
+hash = "5ef350d400994b282366d6cb1807853194d918450feda9700ad6982dca2c8b33"
+
+[[files]]
+file = "resources/resourcepacks/uniemoji/assets/emogg/emoji/unilock/truegun.png"
+hash = "a34142b2100ad35781d2431cb629c60ac7618887cbe97665d07f005de9fabb87"
+
+[[files]]
+file = "resources/resourcepacks/uniemoji/assets/emogg/emoji/unilock/winona.png"
+hash = "1fce2ae3f606a073f396659b57188a306f76cd9fc9ccb2e82dfc939498685339"
+
+[[files]]
+file = "resources/resourcepacks/uniemoji/assets/emogg/emoji/unilock/wuuh.png"
+hash = "6227d26100b2179bbc937894441c6ce5cb5e91b40a4681284dcc63996f41de99"
+
+[[files]]
+file = "resources/resourcepacks/uniemoji/assets/emogg/lang/en_us.json"
+hash = "d6e2925f5ceb8caf1b612450c2e905ad1f814a7254a3bb69b0852b95f58628c4"
+
+[[files]]
+file = "resources/resourcepacks/uniemoji/pack.mcmeta"
+hash = "1b9d32c438f5b26ac420f88d1970c3637a7902bb2a964af8a867c2a40993853b"
+
+[[files]]
+file = "resources/resourcepacks/uniemoji/pack.png"
+hash = "7d56096a9ebd68f81099a2f781eb45a59f00ea517da5b6851f154113c678625d"
 
 [[files]]
 file = "xaerominimap-common.txt"
