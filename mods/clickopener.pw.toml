@@ -1,13 +1,13 @@
 name = "Click Opener Mod"
-filename = "clickopener-4.0.0-alpha+1.20.1.jar"
+filename = "clickopener-4.0.1-alpha+1.20.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/sCRAcsAk/versions/55IignFp/clickopener-4.0.0-alpha%2B1.20.1.jar"
+url = "https://cdn.modrinth.com/data/sCRAcsAk/versions/tybPDfME/clickopener-4.0.1-alpha%2B1.20.1.jar"
 hash-format = "sha1"
-hash = "12cfdc477b019c8474e1be81764a8366df6cfbeb"
+hash = "490c0dd942316236c06f5e2747d46a5ab71316c8"
 
 [update]
 [update.modrinth]
 mod-id = "sCRAcsAk"
-version = "55IignFp"
+version = "tybPDfME"
