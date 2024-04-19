@@ -197,8 +197,8 @@ file = "config/held-item-info.json"
 hash = "c97217bd11e0ef03d9dca2669222b045d6320c780354caab51076c35451c8597"
 
 [[files]]
-file = "config/icarus.json"
-hash = "37c0e0f26ad0550f687cb168e0212a3359474ce3a75e48495dcaab73fda5598c"
+file = "config/icarus.jsonc"
+hash = "3f5be82e14bc3518e7aa186e489059e13f270db99aa93baa5469327ae5d52fea"
 
 [[files]]
 file = "config/idwtialsimmoedm.json"
@@ -1693,7 +1693,7 @@ metafile = true
 
 [[files]]
 file = "mods/botania.pw.toml"
-hash = "e26ad9ff0a6042ead49567baf7b9f952e67be926062362faf242bc13a45ffdfc"
+hash = "ed6d86c707af678aa8985e0641e1c6115a1fb1d4f8a9662c6a99aacf520806d0"
 metafile = true
 
 [[files]]
@@ -1778,7 +1778,7 @@ metafile = true
 
 [[files]]
 file = "mods/clickopener.pw.toml"
-hash = "bf86f09ab569aa717a2b3a88b3de21e2971402d4dfda5991d251b1d4d44f5b7a"
+hash = "43f4fe4e1d7d38f9cdf8fc730149c0a2f67cab66d8f524f593f458d8897cfdc5"
 metafile = true
 
 [[files]]
@@ -2022,6 +2022,11 @@ hash = "8f26fbccdded00d70478222b4a75c1e4e6834e718a857e90f555ee1561ba247d"
 metafile = true
 
 [[files]]
+file = "mods/electromechanics.pw.toml"
+hash = "ce1cfdfd794ce8052cfd8961136ade530a73d143f033ec96f4a5cda55d23078b"
+metafile = true
+
+[[files]]
 file = "mods/elytra-slot.pw.toml"
 hash = "70797ed409f7c0d3d7642b909c7e5859c0ebd382567aa2b096cef0c0a4a7f913"
 metafile = true
@@ -2093,7 +2098,7 @@ metafile = true
 
 [[files]]
 file = "mods/expanded-storage.pw.toml"
-hash = "8c7aaa1b5b4c7763e2102b8ac07ef91e69e1560d4c005adb07b648e189e747d4"
+hash = "5b87826ef0470f87c379adf990835963531ffef690f08db7a8ecedf4aa45f91d"
 metafile = true
 
 [[files]]
@@ -2816,8 +2821,12 @@ hash = "a70c806bb9940bbc664982b89b4562aceadfa654e293a9ba62b14d4e57b6385d"
 metafile = true
 
 [[files]]
-file = "mods/porting-lib.pw.toml"
-hash = "456113e674efcbccd9b3a46ac7dc1724da04c43643985ae379980a8f5aa5fc42"
+file = "mods/porting_lib-2.3.3+fix.jar"
+hash = "1c4c20d2a41a0d60a02dc970dea2bc74bb03c3a4c9ab4ccf1067da6372ad253f"
+
+[[files]]
+file = "mods/porting_lib.pw.toml"
+hash = "d0c32979073f5ae95c75e59db0627c58180156dfb8e2f59db166a88038cba979"
 metafile = true
 
 [[files]]
@@ -3082,7 +3091,7 @@ metafile = true
 
 [[files]]
 file = "mods/spectral-decorations.pw.toml"
-hash = "82c320513fe8b9fdb29bba1820aae93c93b6a6bb491b14cd7adc46f7fddc3f11"
+hash = "9c2703e455d3bed3d016869aaa893c230960ef8d434b2a355b931ef1b8ab1ae8"
 metafile = true
 
 [[files]]
@@ -3402,7 +3411,7 @@ metafile = true
 
 [[files]]
 file = "mods/yungs-better-dungeons-fabric.pw.toml"
-hash = "5563f135632355c7b180c1f93087f6789863e3d605ee3149ba9075fdc917f9bd"
+hash = "e20fd212ab36de5e8e10adc05087ccb28861d05afeab8f7ab5a22b4c1197ceea"
 metafile = true
 
 [[files]]
