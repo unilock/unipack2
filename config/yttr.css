@@ -39,7 +39,7 @@
 	 * Running Yttr under the OpenGL Core Profile is NOT SUPPORTED, and may lead to RENDER BUGS and
 	 * CRASHES.
 	 */
-	force-opengl-core: auto;
+	force-opengl-core: on;
 	
 	/*
 	 * The color of the ingame configuration menu.
