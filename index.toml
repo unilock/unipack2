@@ -1266,7 +1266,7 @@ hash = "702aa9ed417d546c560b51cdffdddf248f31a033e681ad370a57a3e5b9ec87a5"
 
 [[files]]
 file = "config/quilt-loader-overrides.json"
-hash = "d4c1f909c7be596c0174f54ac3aa88d42ee453dcc373148afb30d7b69d56d498"
+hash = "6a1c33c5576893acd96d578231aa23d58118c3f07471473a25a734b4d693ef37"
 
 [[files]]
 file = "config/railways-client.toml"
@@ -2182,11 +2182,6 @@ hash = "c8413d40d9e9d2897a45a19dca87c181a46c32a88b7dd5b05f898a0a92b15e36"
 metafile = true
 
 [[files]]
-file = "mods/extra-alchemy.pw.toml"
-hash = "037ac941deec03c013320f3b3120fa16bf9f7260d5d005be9a13f88e2bf6c605"
-metafile = true
-
-[[files]]
 file = "mods/extra-mod-integrations.pw.toml"
 hash = "77eadb71c472543786050ca4453d74c99baf06bab65c405e021dbaa6c8c4380e"
 metafile = true
@@ -2513,7 +2508,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "bea7422cbe82074a7e6306cdcd0ab8941cce0e86e439fcbffd3d9930de3e32a3"
+hash = "eb0d9a1475b609eb82f26d0440846d52034c1aef8fcc21ee1cc327dc52648f7d"
 metafile = true
 
 [[files]]
@@ -2579,11 +2574,6 @@ metafile = true
 [[files]]
 file = "mods/language-reload.pw.toml"
 hash = "16ece34cc7f72db9091923d6603ac40f4ba196d436f7fb743bd4c341d6064ede"
-metafile = true
-
-[[files]]
-file = "mods/led.pw.toml"
-hash = "7fdbdab1d4222498d38f77dab2a7f258d3b95a6a542cc17afe832d4f309b833f"
 metafile = true
 
 [[files]]
@@ -2777,11 +2767,6 @@ hash = "25636a36d1a2aa89d2a67dfb43a3f4715b8e872f16a41a38e130d3bb7df9dffe"
 metafile = true
 
 [[files]]
-file = "mods/nitor.pw.toml"
-hash = "405d0348d312bf564f0865c07c831b40df186eb2c23ffe96f2f18892261baf18"
-metafile = true
-
-[[files]]
 file = "mods/no-resource-pack-warnings.pw.toml"
 hash = "d14f1843e5d9fde0511bf7e37ee2166e2727bdb6a9b7a4e808a2d88a90397bd2"
 metafile = true
@@ -2854,11 +2839,6 @@ metafile = true
 [[files]]
 file = "mods/paginated-advancements.pw.toml"
 hash = "8b5f434d3ee8c659f5ae7ce3780a6ec5a3f33c478d2992d760c08f7c1983f57e"
-metafile = true
-
-[[files]]
-file = "mods/painters-blocks.pw.toml"
-hash = "c80764422af215e6aa34e8c25efea5cbeb632cbbd8f60ba491bf2430b081c964"
 metafile = true
 
 [[files]]
@@ -3069,11 +3049,6 @@ metafile = true
 [[files]]
 file = "mods/real-arrow-tip.pw.toml"
 hash = "4fb758f6162ee483f5c3a0733bc638378fc64dde1e36cbc3410a779e0ca833de"
-metafile = true
-
-[[files]]
-file = "mods/red-bits.pw.toml"
-hash = "ea0b297f3691d968b9873d78f26b956c28978605de52b30c15a753549d4150a9"
 metafile = true
 
 [[files]]
@@ -3317,11 +3292,6 @@ hash = "164bd9070d86ca231da118c32790f2144195a29a9ed1c556fcbf9714a1e633f7"
 metafile = true
 
 [[files]]
-file = "mods/tamago.pw.toml"
-hash = "f8ec19398bc0488912e80c7821b358a20b4148f9558f1b19f79561b7ad2b1504"
-metafile = true
-
-[[files]]
 file = "mods/tdhr.pw.toml"
 hash = "ea6d36c4ff0792ae4af9ebd7532b7e925c88fb2f9c3ddf788edcba184e8bf73f"
 metafile = true
@@ -3429,16 +3399,6 @@ metafile = true
 [[files]]
 file = "mods/twigs.pw.toml"
 hash = "7b9d811345bc97947c0eb2eaa90871c1d22c733779797aa582be0afe7377066a"
-metafile = true
-
-[[files]]
-file = "mods/unicopia-blockus-addon.pw.toml"
-hash = "75d3eb38266fb1f078c63644e020cfbd23586e9606fad5f155202b38c18c98a9"
-metafile = true
-
-[[files]]
-file = "mods/unicopia.pw.toml"
-hash = "1f0b3ef4c313ae7fd7eed9f52be9c373521b76911b8ee91c3a82fda915dcdbc1"
 metafile = true
 
 [[files]]
@@ -3643,6 +3603,10 @@ file = "resources/assets/spiceoffabric/lang/en_us.json"
 hash = "af973310a8f91854d1ac4c5990bf34557058967316e22df29804c5328e591bd1"
 
 [[files]]
+file = "resources/data/amethyst_imbuement/advancements/grant_book_on_first_join.json"
+hash = "ccd833c48f93133bad335cac00b5d9dac831743457a0bd3375e63cdd1a2bc35b"
+
+[[files]]
 file = "resources/data/arcanuscontinuum/advancements/grant_compendium_arcanus.json"
 hash = "ccd833c48f93133bad335cac00b5d9dac831743457a0bd3375e63cdd1a2bc35b"
 
@@ -3692,11 +3656,11 @@ hash = "f8df36b03b72cef51fc3ebb1557fb3c618c0d8dfa777af284383b3677f7a8971"
 
 [[files]]
 file = "resources/data/unipack/jsonpatch/removals.jsonpatch"
-hash = "dbfd8baeea7059b04d5d0504174bc91622c9d9976bb67d29d0d7a9d895f62699"
+hash = "1b23d8840f322378e4665799c9fe6af5e035991f96b2b953406e28acc827e934"
 
 [[files]]
 file = "resources/data/unipack/loot_tables/book.json"
-hash = "a609beb39cedad2b4cb8846a93168d3895237b08a0505113c17ea2e18b1dca7a"
+hash = "833161717a3abbe3b0cd07d4dee3d22a5a2ae0e90573e657ed3be214ba50338c"
 
 [[files]]
 file = "resources/data/unipack/recipes/glass_boots.json"

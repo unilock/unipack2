@@ -10,9 +10,7 @@ val removals = [
 	"fabrichammers:recipes/emerald_hammer.json",
 	"fabrichammers:recipes/emerald_hoe.json",
 	"fabrichammers:recipes/emerald_shovel.json",
-	"fabrichammers:recipes/emerald_sword.json",
-	"liquidburner:recipes/morkite_burning.json",
-	"liquidburner:recipes/starrite_burning.json"
+	"fabrichammers:recipes/emerald_sword.json"
 ];
 
 foreach (i in removals) {
