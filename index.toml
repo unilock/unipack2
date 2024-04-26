@@ -3636,15 +3636,15 @@ hash = "ccd833c48f93133bad335cac00b5d9dac831743457a0bd3375e63cdd1a2bc35b"
 
 [[files]]
 file = "resources/data/rightclickharvest/tags/items/high_tier_hoes.json"
-hash = "ac426cd1c66fd9b491ee4c157854bb66001181e005a1cffaf0d45f44b91bb08e"
+hash = "7fb3f340adc533344eba1dc336d3da9f1696d33a529f6d06fb31bb26038c15b0"
 
 [[files]]
 file = "resources/data/rightclickharvest/tags/items/low_tier_hoes.json"
-hash = "0923afd47d1dbd7a461812cd0e952b561c6b342651bae877c52270e7fa064e18"
+hash = "f8d379c63083414c360653233ed5e01e7cad2ee530ff861e3e6a16b69f5b58e5"
 
 [[files]]
 file = "resources/data/rightclickharvest/tags/items/mid_tier_hoes.json"
-hash = "d4d8c5d71e7504461018eef267a328c26f1cea97ec90a8d8c7bf53ad7932e532"
+hash = "7bb1958f5efccd6fc1d5fdd26ebb86adec889c1e1eb9583a9b80f556092c86a2"
 
 [[files]]
 file = "resources/data/staffofbuilding/recipes/netherite_builder_staff.json"
