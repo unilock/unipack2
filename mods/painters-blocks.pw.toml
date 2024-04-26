@@ -1,0 +1,13 @@
+name = "Painter's Blocks"
+filename = "PaintersBlocks-2.2.0+1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d82f1ed9e7604fdc910dd503beb190022712abd4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4595497
+project-id = 499776
