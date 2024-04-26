@@ -1,0 +1,13 @@
+name = "Meal API"
+filename = "mealapi-0.3.2+1.20.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c185377cc3301585a1b4e4a05854f65c792fab30"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4617137
+project-id = 404410
