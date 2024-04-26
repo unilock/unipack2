@@ -2082,6 +2082,11 @@ hash = "6e28aecc1374da8b38cef4b63578bb4d00c8a17c19948ced3e1284e60c221011"
 metafile = true
 
 [[files]]
+file = "mods/effected-wakes.pw.toml"
+hash = "3773a3f840d6fefb895e80adff6b57c1043cc3de759392769ac1e05ef8c96704"
+metafile = true
+
+[[files]]
 file = "mods/effective.pw.toml"
 hash = "c102c17148affae740d8152d7a9123b79a808a3f6eb5734791e22cde43cf19a4"
 metafile = true
@@ -2089,11 +2094,6 @@ metafile = true
 [[files]]
 file = "mods/effecttimerplus.pw.toml"
 hash = "8f26fbccdded00d70478222b4a75c1e4e6834e718a857e90f555ee1561ba247d"
-metafile = true
-
-[[files]]
-file = "mods/electromechanics.pw.toml"
-hash = "da98dfc9bc4d76fb208f3a92b68ba8ac0ed348828bc3f2037edd5854c6354d77"
 metafile = true
 
 [[files]]
@@ -2629,6 +2629,11 @@ metafile = true
 [[files]]
 file = "mods/maxhealthfixfixfix.pw.toml"
 hash = "9df6f240a18c4d7a3e7bc52348a1e04613c0ac19b5e29ef24138ddf59e222a3b"
+metafile = true
+
+[[files]]
+file = "mods/meal-api.pw.toml"
+hash = "dfb5f4a4c05b43d5a3f1527bd989b0ddab96c47ed464d664a4cb393c85df13e8"
 metafile = true
 
 [[files]]
@@ -3423,7 +3428,7 @@ metafile = true
 
 [[files]]
 file = "mods/wakes.pw.toml"
-hash = "f68c4be2f3a0a7b5051b7bb081bad526d3fb58f624680761dc20be6a077b65a7"
+hash = "fab6ac1665f022c0ca72c73ed0974049f5453b8f4f280092b4aa5ac773fed5c2"
 metafile = true
 
 [[files]]
