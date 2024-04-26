@@ -1712,6 +1712,11 @@ hash = "fd1cb2986a49e05f430f74c2a3d25184d54c6301e7f8ad13fe1edc9187d053eb"
 metafile = true
 
 [[files]]
+file = "mods/brewin-and-chewin-fabric.pw.toml"
+hash = "6162785cfa9e7f295bb1f9dd0d1fc94f85e1e06a90b205ee8a56fdb53f7c06a3"
+metafile = true
+
+[[files]]
 file = "mods/canary-safety.pw.toml"
 hash = "fe2380b7a797f6c7f5b9932d9648929f90bb69437ec3af8a8f9427ea5aaf9929"
 metafile = true
@@ -1899,6 +1904,16 @@ metafile = true
 [[files]]
 file = "mods/ctrl-q.pw.toml"
 hash = "7aab133819e17cc8a3823518c2ee673de88bb547e2a9771bc9fb3e76491e8cc0"
+metafile = true
+
+[[files]]
+file = "mods/cultural-creators-fabric-create-and-cultural.pw.toml"
+hash = "d9222864cb47d7aaba2f81de639c2304077e506671f6bd38f5ef499b1a1cd984"
+metafile = true
+
+[[files]]
+file = "mods/cultural-delights-fabric.pw.toml"
+hash = "acb2458f8eaba98425872db2b620f4c0ad7de7d591c0f354f0188a8e3989e93a"
 metafile = true
 
 [[files]]
@@ -2107,10 +2122,6 @@ hash = "f37fa0d524b176234a3f32fd2d4d448647356e8f4b3bdbca2c6927ff4a5f3721"
 metafile = true
 
 [[files]]
-file = "mods/extra-mod-integrations-0.4.99+1.20.1.local.jar"
-hash = "e1df42600702fc478b043183088cc982b75073c4f73783187ae7bd15a7db74e0"
-
-[[files]]
 file = "mods/extra-mod-integrations.pw.toml"
 hash = "77eadb71c472543786050ca4453d74c99baf06bab65c405e021dbaa6c8c4380e"
 metafile = true
@@ -2163,6 +2174,11 @@ metafile = true
 [[files]]
 file = "mods/farmers-knives.pw.toml"
 hash = "17c6927d306012053d7b519381ef6428b6da04f11d57e590f2eb3ed34a59dc4c"
+metafile = true
+
+[[files]]
+file = "mods/farmers-respite-fabric.pw.toml"
+hash = "9c227262ccd3fd4bbc6337fe29e5146ab14c76e6fc64d09454f836d34de9a53e"
 metafile = true
 
 [[files]]
@@ -2978,6 +2994,11 @@ metafile = true
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "b587bea8ab6df349f3a8035d1f5b8492819c2a72722e770468fc9b0ddfb9fdd3"
+metafile = true
+
+[[files]]
+file = "mods/respite-creators-fabric.pw.toml"
+hash = "3b965df2088aeee820b257b07107da73c1ab92a59b91667aed59ab5f542381e4"
 metafile = true
 
 [[files]]

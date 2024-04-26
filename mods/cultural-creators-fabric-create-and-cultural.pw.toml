@@ -1,0 +1,8 @@
+name = "Cultural Creators"
+filename = "cultural-creators-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://play.fennet.rentals/packwiz/unipack2/manual-jars/both/cultural-creators-1.0.0.jar"
+hash-format = "sha256"
+hash = "84f33197da05c2fe73bfefa5b03b5f31949f4c52984b35cbca846d5d1e7f8d5d"
