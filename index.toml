@@ -2111,6 +2111,11 @@ file = "mods/extra-mod-integrations-0.4.99+1.20.1.local.jar"
 hash = "e1df42600702fc478b043183088cc982b75073c4f73783187ae7bd15a7db74e0"
 
 [[files]]
+file = "mods/extra-mod-integrations.pw.toml"
+hash = "77eadb71c472543786050ca4453d74c99baf06bab65c405e021dbaa6c8c4380e"
+metafile = true
+
+[[files]]
 file = "mods/fabric-hammers.pw.toml"
 hash = "4541e9c11394a99bc2fddbf9fac5e2cec0fc1134a04b756a439f30220b63cd8b"
 metafile = true
