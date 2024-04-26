@@ -2166,6 +2166,11 @@ hash = "27058ff24b894fe8d1157017c13db4bb5f4953d9a89a76b7ba0ad9d1723f4d19"
 metafile = true
 
 [[files]]
+file = "mods/faster-random.pw.toml"
+hash = "20328324a1dc2e53e52594e22039e514af91db06205d41988eceea6a05a8012d"
+metafile = true
+
+[[files]]
 file = "mods/fdrfdcrf.pw.toml"
 hash = "aa138dc06124598475edfc23c6d179a3d02692abe834f99ecfe7077d41d9d936"
 metafile = true
@@ -2819,10 +2824,6 @@ metafile = true
 file = "mods/portable-crafting.pw.toml"
 hash = "a70c806bb9940bbc664982b89b4562aceadfa654e293a9ba62b14d4e57b6385d"
 metafile = true
-
-[[files]]
-file = "mods/porting_lib-2.3.3+fix.jar"
-hash = "1c4c20d2a41a0d60a02dc970dea2bc74bb03c3a4c9ab4ccf1067da6372ad253f"
 
 [[files]]
 file = "mods/porting_lib.pw.toml"
