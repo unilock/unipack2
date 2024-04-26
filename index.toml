@@ -1478,11 +1478,6 @@ hash = "dffe4bf8e0d917ff0d789405a6c130f3ebc0c0fde74f340f5cd6444c2a5b41ec"
 metafile = true
 
 [[files]]
-file = "mods/alloy-forgery.pw.toml"
-hash = "1bc328e5477ce87bb27110fd90258de8767f9ffef86434ae0c0c301292c29fb0"
-metafile = true
-
-[[files]]
 file = "mods/almost-unified.pw.toml"
 hash = "e9830c6939b96f7694dac6a707e145d395a796f1af851d70164e49e2f865e78e"
 metafile = true
@@ -1937,11 +1932,6 @@ hash = "252878ad67eb85e89d725478bd36a64ce6f84b247c3ac8a1851f3b4f553f11f4"
 metafile = true
 
 [[files]]
-file = "mods/create-metalwork-fabric.pw.toml"
-hash = "703df6714ae820f332b83d18954c1c309c4bfd0fbd8ab32e17f5d317fd9b23f3"
-metafile = true
-
-[[files]]
 file = "mods/crooked-crooks.pw.toml"
 hash = "8d175ee3ca4bbc042ebb29af34428528bed2dfe4a956dc181b3ff1a840d03658"
 metafile = true
@@ -2089,6 +2079,11 @@ metafile = true
 [[files]]
 file = "mods/ecologics.pw.toml"
 hash = "6e28aecc1374da8b38cef4b63578bb4d00c8a17c19948ced3e1284e60c221011"
+metafile = true
+
+[[files]]
+file = "mods/effective.pw.toml"
+hash = "c102c17148affae740d8152d7a9123b79a808a3f6eb5734791e22cde43cf19a4"
 metafile = true
 
 [[files]]
@@ -2737,16 +2732,6 @@ hash = "7ccd7e24f278303579a874288c0fa2385e4f2e2fa1b64a6afb25d4c8b25088c0"
 metafile = true
 
 [[files]]
-file = "mods/mythicmetals-decorations.pw.toml"
-hash = "9df72275a930a82990194fc63c9124d6cce9ae0d2188c55f7dfed4ac60f93f0b"
-metafile = true
-
-[[files]]
-file = "mods/mythicmetals.pw.toml"
-hash = "34c078731139f2a760681129ae33f32ea9733752e60c075d89ac6becd872196a"
-metafile = true
-
-[[files]]
 file = "mods/natures-compass.pw.toml"
 hash = "cb38b82b931ae3c33bf9c21ad0934fcebaebcfe065838ade56a0661e283ee7d6"
 metafile = true
@@ -2834,11 +2819,6 @@ metafile = true
 [[files]]
 file = "mods/on-soul-fire.pw.toml"
 hash = "654e006236c269a2a4c5ff859a530828dd26821fa1861d28d81e7a4965767d2e"
-metafile = true
-
-[[files]]
-file = "mods/on1chest.pw.toml"
-hash = "5f8c0327c696933c6770cb6ff1c21a7edb28bee2ba7692e3f2d28463dbe489ca"
 metafile = true
 
 [[files]]
@@ -3309,11 +3289,6 @@ metafile = true
 [[files]]
 file = "mods/structure-essentials-forge-fabric.pw.toml"
 hash = "b25dcfe10e77071dea13e6134feb21ae84711bc201fa64a11d467b97d57f0314"
-metafile = true
-
-[[files]]
-file = "mods/styled-chat.pw.toml"
-hash = "440d9eb8db00ed2daf35b8fecd1874c48c514bf85529852a4d2ef70f4ca1a952"
 metafile = true
 
 [[files]]
