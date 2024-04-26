@@ -1,13 +1,13 @@
 name = "Hoe Effective Cactus [PurpurPack]"
-filename = "purpurpacks-hoe-effective-cactus-1.3.jar"
+filename = "purpurpacks-hoe-effective-cactus-1.4.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/Xqq7IBeE/versions/E7r75rN0/purpurpacks-hoe-effective-cactus-1.3.jar"
+url = "https://cdn.modrinth.com/data/Xqq7IBeE/versions/FiIHlXHY/purpurpacks-hoe-effective-cactus-1.4.jar"
 hash-format = "sha1"
-hash = "39fc7cc329f2e72fe02ed479af4d4d7e7e9e193e"
+hash = "86389715cc49fb3a0cf5dd3d0ee04da8e60a9ab0"
 
 [update]
 [update.modrinth]
 mod-id = "Xqq7IBeE"
-version = "E7r75rN0"
+version = "FiIHlXHY"

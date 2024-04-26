@@ -1,13 +1,13 @@
 name = "LibreExpFix [Fabric/Forge] (Fixes \"0 Experience\" Bug)"
-filename = "libreexpfix-0.2.5+1.18b12-BETA-fabric.jar"
+filename = "libreexpfix-0.2.7+1.18b14-BETA-fabric.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "aa22f908c28f5dfbbd5111bd6534971b9059a707"
+hash = "cd701ad5cd93a1a7676b3e903d344f3c3988470a"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5193769
+file-id = 5286991
 project-id = 676174

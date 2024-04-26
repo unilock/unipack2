@@ -1,13 +1,13 @@
 name = "Electromechanics"
-filename = "electromechanics-1.0.2+1.20.jar"
+filename = "electromechanics-1.0.3+1.20.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "90da0421a0be3f690cd9b6a999ba414a21d9b609"
+hash = "267353b7b0ef72fcd89364c16597b7a80d513318"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5273438
+file-id = 5275312
 project-id = 983033
