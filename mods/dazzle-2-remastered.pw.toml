@@ -1,0 +1,13 @@
+name = "Dazzle 2 Remastered"
+filename = "dazzle-2-1.0.0-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b702fc535dedcbc69d7999844a95511169c8160c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4981618
+project-id = 953723

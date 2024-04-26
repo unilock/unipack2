@@ -1473,6 +1473,16 @@ hash = "8e902138183aa5ba1cb017ef70775fddf4086c4b97dc71bbb4a33aa16e485943"
 metafile = true
 
 [[files]]
+file = "mods/amethyst-core.pw.toml"
+hash = "1c9d4ee1dac5c2012982c8cc76326c075fd5116b29d4b00e678ec4a9e4a5d656"
+metafile = true
+
+[[files]]
+file = "mods/amethyst-imbuement.pw.toml"
+hash = "8d1e88c596e9b5fb074beefbaa470963a33152b2dead3560084575663687ed70"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "45d8570e9c13f5265d9d833ba2431e982ab9cf2760e86c6d5fd62dd3c092e18c"
 metafile = true
@@ -1927,6 +1937,11 @@ hash = "26ed54b44c97747cb28d2e96de8f68f04ccf09c518c5dababa73c0a4d7d36a5c"
 metafile = true
 
 [[files]]
+file = "mods/dazzle-2-remastered.pw.toml"
+hash = "fb870f2b6841fedb208e446093a6cf3050e5411f320a8e0e7fbf7ea9fbb3f4d1"
+metafile = true
+
+[[files]]
 file = "mods/deathlog.pw.toml"
 hash = "9f3daccd678da70ac2df008e41541a963d95617a2e37025db070fe722a6dd77c"
 metafile = true
@@ -2232,8 +2247,23 @@ hash = "81f3d06a8cc64e4f096653d07d0869704afd0245ecdfc386ac468ec133aa3b26"
 metafile = true
 
 [[files]]
+file = "mods/fzzy-config.pw.toml"
+hash = "82fdf2ffd2897ac4f16086a49a2aa60028214b06b35c14e74431f6403803ee20"
+metafile = true
+
+[[files]]
+file = "mods/fzzy-core.pw.toml"
+hash = "84f235547bd6ac862320f245aedc7ce14acd6f38d9100352cb2f15f476350039"
+metafile = true
+
+[[files]]
 file = "mods/gatekeep.pw.toml"
 hash = "2988b13cefe7889d4c65d958050d479f7414dcaeca570ba21ee6c7dd3f1162f2"
+metafile = true
+
+[[files]]
+file = "mods/gear-core.pw.toml"
+hash = "c9af3d647e2a203ea02dcdf8e0238715d2484aa2c3351b8fcb89ad67cdeeba53"
 metafile = true
 
 [[files]]
@@ -2364,6 +2394,16 @@ metafile = true
 [[files]]
 file = "mods/image2map.pw.toml"
 hash = "5ba86432dafed77442fbc2ea11db62a15b1919e47656fda26c393b4ee62f6eca"
+metafile = true
+
+[[files]]
+file = "mods/imbued-deco.pw.toml"
+hash = "1f1af36c6879b5ed56a515ac88954f942796b89c8dd78bb1a182e50fc813fae5"
+metafile = true
+
+[[files]]
+file = "mods/imbued-gear.pw.toml"
+hash = "c17a83a26f116e8e4889d025e370ca4e71ff791b55ce8fab88aba1757b9ddca3"
 metafile = true
 
 [[files]]
@@ -3304,6 +3344,16 @@ metafile = true
 [[files]]
 file = "mods/twigs.pw.toml"
 hash = "7b9d811345bc97947c0eb2eaa90871c1d22c733779797aa582be0afe7377066a"
+metafile = true
+
+[[files]]
+file = "mods/unicopia-blockus-addon.pw.toml"
+hash = "75d3eb38266fb1f078c63644e020cfbd23586e9606fad5f155202b38c18c98a9"
+metafile = true
+
+[[files]]
+file = "mods/unicopia.pw.toml"
+hash = "1f0b3ef4c313ae7fd7eed9f52be9c373521b76911b8ee91c3a82fda915dcdbc1"
 metafile = true
 
 [[files]]
