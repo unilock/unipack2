@@ -1809,7 +1809,7 @@ metafile = true
 
 [[files]]
 file = "mods/cc-tweaked.pw.toml"
-hash = "a397ed7c9e0250ed16f039b47171855f32007c9d3210e194b4dce2239ef5aff4"
+hash = "d0bb46ce327083131cae1f7803f4052e4121c9d5ab27bd73ed3b747733f8f97b"
 metafile = true
 
 [[files]]
@@ -1859,7 +1859,7 @@ metafile = true
 
 [[files]]
 file = "mods/clickable-advancements.pw.toml"
-hash = "24c51e5bca8286311dabfad52fa2bdb5267a1eba86f58c7ef82b43135e6e51ca"
+hash = "41ad480707906de6e55b183a2c3dfd11e2b6a499cf7fbe9c8d9868771462a72a"
 metafile = true
 
 [[files]]
@@ -2534,7 +2534,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "eb0d9a1475b609eb82f26d0440846d52034c1aef8fcc21ee1cc327dc52648f7d"
+hash = "9890ca38aa1fc088ff61a8bfe0f86e38f43f3bd8a44d6616331e70d8920b910a"
 metafile = true
 
 [[files]]
