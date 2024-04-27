@@ -2720,7 +2720,7 @@ hash = "1b23d8840f322378e4665799c9fe6af5e035991f96b2b953406e28acc827e934"
 
 [[files]]
 file = "resources/data/unipack/loot_tables/book.json"
-hash = "833161717a3abbe3b0cd07d4dee3d22a5a2ae0e90573e657ed3be214ba50338c"
+hash = "f689f40051bd4462b0605a286547d00b264a98a7eeb968d5b198702dc0dfb685"
 
 [[files]]
 file = "resources/data/unipack/recipes/glass_boots.json"
