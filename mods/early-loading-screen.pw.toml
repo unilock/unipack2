@@ -1,0 +1,13 @@
+name = "Early Loading Screen"
+filename = "earlyloadingscreen-mc1.20.1-0.1.5-all.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "009096322caf7474a68e8b60662cd5ae449b496c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4998392
+project-id = 880147

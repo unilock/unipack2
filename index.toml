@@ -1137,6 +1137,11 @@ hash = "ed066bfb990b28fd888f00c5fa64ac52e40d881fb994936c95769c3f0eb13aaf"
 metafile = true
 
 [[files]]
+file = "mods/early-loading-screen.pw.toml"
+hash = "4e03ff248e777467d645d9626ed76f98a115f85c768b2402605b2255fae8f40a"
+metafile = true
+
+[[files]]
 file = "mods/ears.pw.toml"
 hash = "fb93f37b9ceecd8f72c7830d63b328dab6490c4716ed9fc7608b82c492395c79"
 metafile = true
