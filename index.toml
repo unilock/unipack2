@@ -1298,7 +1298,7 @@ metafile = true
 
 [[files]]
 file = "mods/farmers-delight-refabricated.pw.toml"
-hash = "b76d4c3ab643a7073d0618ff1b74b6cb85ae4c56619c9de14e291879cee96a2e"
+hash = "cd986e98aac95acc197104599898c46a0d03972477a5f79a0b5575b7837342e1"
 metafile = true
 
 [[files]]
@@ -1498,7 +1498,7 @@ metafile = true
 
 [[files]]
 file = "mods/icarus.pw.toml"
-hash = "7dbee83deb899d9a25c60d24186f2053e6089d60836989ba24755bfab6456f6a"
+hash = "bb8f41a235bac9dd1faaf4c117cc1f13f1357397b6675ae61f6a259bdc3f6ab8"
 metafile = true
 
 [[files]]
@@ -1913,7 +1913,7 @@ metafile = true
 
 [[files]]
 file = "mods/particle-core.pw.toml"
-hash = "17ce7433f706ac4a6680619b193b47370c162eb9c2832f2e2554aaea714fd826"
+hash = "547e6bce531bb300387d2520db758e8d9bf3332e07971abd5c4f30624ea4b7bf"
 metafile = true
 
 [[files]]
