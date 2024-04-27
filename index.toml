@@ -33,12 +33,32 @@ file = "config/Spectrum.json5"
 hash = "b941362a9c3e88def6069743c9609ce86e628265bff1e6167832c21705ece63c"
 
 [[files]]
+file = "config/ad_astra_giselle_addon.ver2.jsonc"
+hash = "475f6104b58ab7541749cf9dc99e2648bbc2b4e0a1673e9b30fa54429e87d7b8"
+
+[[files]]
+file = "config/ae2/client.json"
+hash = "14b4a26e592d95613ceec6215bfeb8cc1b9f28c59decd84c79a1aea8c42c9c5b"
+
+[[files]]
+file = "config/ae2/common.json"
+hash = "8c6dc1f8da7b98d24b9bbeafc335682aade5247415ca6f700f33087e0940d621"
+
+[[files]]
 file = "config/afkdisplay.toml"
 hash = "8172e5fd74b6c135dcad74e3601c3d63854ff362973259fa5ed7ec0b0dc05814"
 
 [[files]]
 file = "config/almostunified/unify.json"
 hash = "818bd7df58963764bdcb55f8edfb01a299e993621afff5c5363d04ef90e0edb4"
+
+[[files]]
+file = "config/amethyst_imbuement/enchantments_config.toml"
+hash = "bda2d5f120efc3b7eb48402a7010fd20add16c450f079db3ed8ad3992cf34531"
+
+[[files]]
+file = "config/amethyst_imbuement/items_config.toml"
+hash = "b13d2cc80b17a1805e872511359f0cb58aeec721f6d7137ece6798ed6e81b861"
 
 [[files]]
 file = "config/arcadiandream.json5"
@@ -191,6 +211,10 @@ hash = "18e1359f5460b0a5b54ccb7522eace525faec8e0aab92492cc773699c8b2ebe2"
 [[files]]
 file = "config/gravity_api.json"
 hash = "55d8e603f8c04760e7b48d424bf5c2164e3a192fb448a5e415305eeb8d91ded7"
+
+[[files]]
+file = "config/gravity_changer.json"
+hash = "d4da09a605a87400d41e87fe2deae3a00294eadc3c8f5829d597cdd39b4d0a94"
 
 [[files]]
 file = "config/held-item-info.json"
@@ -1297,8 +1321,16 @@ file = "config/sdrp-common.json"
 hash = "735833c8cdfc4bc2666d07d3ffe309a8f64e996762a871030236a9be9a53a901"
 
 [[files]]
+file = "config/snowrealmagic-common.yaml"
+hash = "5e7b9b8acf7408567c91b093ab11b55c3efead3e40f3775aa32d48793b194d36"
+
+[[files]]
 file = "config/sodium-extra-options.json"
 hash = "487ce30c84eb8bb8dcb54cce83fe26cc2a11d7f9ec06e805a08d473d6d9b3838"
+
+[[files]]
+file = "config/spelunker.hjson"
+hash = "d1c9bd705b34898b46acc9ac3d4dcce5c1d9568940d15caddd666354f8cb20e0"
 
 [[files]]
 file = "config/spiceoffabric.hjson"
@@ -1331,6 +1363,10 @@ hash = "17d88f0f1fbb67f125015a0a8963dfb4870183ed321ffd0a878846063f452e7d"
 [[files]]
 file = "config/terrestria/client.json"
 hash = "51ad67b3d76388c73106cf59ffc2e612128ab36a641550f9d457a6e76728b056"
+
+[[files]]
+file = "config/the_corners.json"
+hash = "6712dc60ffe7e10d89c20e4048563f6e12917c5fd681afc98c35b35245cda611"
 
 [[files]]
 file = "config/tooltiptooltips/config.toml"
