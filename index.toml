@@ -1659,7 +1659,7 @@ metafile = true
 
 [[files]]
 file = "mods/beekeeping.pw.toml"
-hash = "ea76fc4be94f8d16fc3fafff61598d40ae2e4b98105aa1ea5927320fd4438c0a"
+hash = "86521b03679ad443a0919c385a234ac17a3eed421f143a77c41f79edb0ef0df5"
 metafile = true
 
 [[files]]
