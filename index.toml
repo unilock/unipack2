@@ -529,12 +529,12 @@ metafile = true
 
 [[files]]
 file = "mods/ae2-emi-crafting-integration.pw.toml"
-hash = "5ed5dc27fa616884f1a26e9aae94bd815f37d78d4f66af1c82ebb88b8f3a7d79"
+hash = "8722412e8afb4f91fef37e0cc3656225d25399904a4da5ed97438076eb313690"
 metafile = true
 
 [[files]]
 file = "mods/ae2-mousetweaks-fix.pw.toml"
-hash = "7420db3849ee5e71cfb6d8d458b830db67b57a0da1d7b1069379318a18cf6323"
+hash = "6848f82d337a189a8551b5e25b88dcfa7184383923f7b325e069ca25c53c6f0b"
 metafile = true
 
 [[files]]
@@ -1258,7 +1258,7 @@ metafile = true
 
 [[files]]
 file = "mods/extra-mod-integrations.pw.toml"
-hash = "77eadb71c472543786050ca4453d74c99baf06bab65c405e021dbaa6c8c4380e"
+hash = "69d96107a74d85434cb3a16c73c194c4446b1548092c59174bef7db5c0c9c886"
 metafile = true
 
 [[files]]
