@@ -637,7 +637,7 @@ metafile = true
 
 [[files]]
 file = "mods/artifacts.pw.toml"
-hash = "aeb665becb0a80ea6a7d31d008bce317e32b9e7acf27ce9c2f4c1731fa67ce00"
+hash = "881d893b6b2351d9b27fd24ae3cbd27628f427dfaab8e3649a2e6caf410267a8"
 metafile = true
 
 [[files]]
@@ -1296,7 +1296,7 @@ metafile = true
 
 [[files]]
 file = "mods/farmers-delight-refabricated.pw.toml"
-hash = "cd986e98aac95acc197104599898c46a0d03972477a5f79a0b5575b7837342e1"
+hash = "3b86de705a9329aac3d5e44b74cfbfc40667dfad73da42dabcea55391c33f7c2"
 metafile = true
 
 [[files]]
@@ -1366,7 +1366,7 @@ metafile = true
 
 [[files]]
 file = "mods/fzzy-core.pw.toml"
-hash = "84f235547bd6ac862320f245aedc7ce14acd6f38d9100352cb2f15f476350039"
+hash = "e57072e46573c946ddd4c7847abca44131dd1dd4f000e016de0d5b2dbf63a01e"
 metafile = true
 
 [[files]]
