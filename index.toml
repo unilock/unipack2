@@ -438,7 +438,7 @@ hash = "f0aeff237bad98f31782930597b4001b6e890b63d46160f8f6f9c6b59f950010"
 
 [[files]]
 file = "config/veinmining-server.toml"
-hash = "13ea42ffacf34645a1ec4fdc68752481bee18c1080c56e4c8adb34bff3f07830"
+hash = "90f7eb2d0931a709a7fe866e38c164ce78882551665d1fbb50395f1d6f25d5b1"
 
 [[files]]
 file = "config/waila/waila.json"
