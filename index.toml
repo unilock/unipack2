@@ -1498,7 +1498,7 @@ metafile = true
 
 [[files]]
 file = "mods/icarus.pw.toml"
-hash = "bb8f41a235bac9dd1faaf4c117cc1f13f1357397b6675ae61f6a259bdc3f6ab8"
+hash = "92ee3931700cbe4e3155dbc37a62c85d774201f40ff568e66209598268441ab1"
 metafile = true
 
 [[files]]
@@ -1798,7 +1798,7 @@ metafile = true
 
 [[files]]
 file = "mods/nbt-autocomplete.pw.toml"
-hash = "05c3ed1b073bc05df9a43a81a68a07627ac7eb4604301cf325d20791e3bfd9d4"
+hash = "895902fb8e41ae8c4c29b0de5b2657e853b94f867fd888cc3aafa10fb01b4c92"
 metafile = true
 
 [[files]]

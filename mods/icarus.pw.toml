@@ -1,13 +1,13 @@
 name = "Icarus"
-filename = "Icarus-Quilt-2.7.0.jar"
+filename = "Icarus-Quilt-2.7.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "65b15f66fe42b7321e09a5cec028ee29f0994dfa"
+hash = "fe8d91347ebc251ef064b2e9c500066c4373bd53"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5295309
+file-id = 5298513
 project-id = 428151
