@@ -624,7 +624,7 @@ metafile = true
 
 [[files]]
 file = "mods/artifacts.pw.toml"
-hash = "4f6ff35744b972978a0e35447752f17cd1d7c991418857aedbb34df42d7035eb"
+hash = "aeb665becb0a80ea6a7d31d008bce317e32b9e7acf27ce9c2f4c1731fa67ce00"
 metafile = true
 
 [[files]]
@@ -1813,7 +1813,7 @@ metafile = true
 
 [[files]]
 file = "mods/neepmeat.pw.toml"
-hash = "d8e14a99cd65483c3910afc85ed8429715da7c9195fef710d9fb0e0c079314cc"
+hash = "6925ed917b1db82758f1275e359e643a481ef7725144149ca42d52d38c8965ed"
 metafile = true
 
 [[files]]
