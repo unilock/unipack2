@@ -182,7 +182,7 @@ hash = "d4a0701ae24ce835cfafc8f7e564080bb29892e51eee6272d7d8268beed82216"
 
 [[files]]
 file = "config/fabrication/features.ini"
-hash = "7f346797b97ca5969c18e7414206351c606f49bcc1004e2ed1dde56ec013bce7"
+hash = "aad3e9da23755d1381d07c2e381153bd779d8cb5a9095744c4b6fa667236ba44"
 
 [[files]]
 file = "config/fabrichammers.json"
@@ -1137,11 +1137,6 @@ metafile = true
 [[files]]
 file = "mods/dynamic-trim.pw.toml"
 hash = "ed066bfb990b28fd888f00c5fa64ac52e40d881fb994936c95769c3f0eb13aaf"
-metafile = true
-
-[[files]]
-file = "mods/early-loading-screen.pw.toml"
-hash = "4e03ff248e777467d645d9626ed76f98a115f85c768b2402605b2255fae8f40a"
 metafile = true
 
 [[files]]
@@ -2102,6 +2097,11 @@ metafile = true
 [[files]]
 file = "mods/quickbench.pw.toml"
 hash = "abd497360809bbb5d0552f72fbff22c3d455931ea3f68b9fcf4f54c9a39c3c94"
+metafile = true
+
+[[files]]
+file = "mods/quilt-loading-screen.pw.toml"
+hash = "5479a7809140dc971cfcef9c5842a114aeb998eb6218964d29889d175fb434cf"
 metafile = true
 
 [[files]]
