@@ -61,6 +61,14 @@ file = "config/amethyst_imbuement/items_config.toml"
 hash = "b13d2cc80b17a1805e872511359f0cb58aeec721f6d7137ece6798ed6e81b861"
 
 [[files]]
+file = "config/apathy/boss.cfg"
+hash = "3b79ee23d3bcf3c1d9984cf8bff52167082dfda9efe53eba7fbefd315e3f13c0"
+
+[[files]]
+file = "config/apathy/mobs.cfg"
+hash = "823a0fbf36d802181a431f211452d0a4c69442e2b2a8eb99f535d1d500dbc816"
+
+[[files]]
 file = "config/arcadiandream.json5"
 hash = "abe3d5c1f10c0b02f1146f417040df88bf8ff7857f95815f42a44ed3131c95aa"
 
@@ -86,7 +94,7 @@ hash = "c6a85caaa8862b8f0d6c08f7f280a93f809006a9adeb0fbad146ea152ef60a14"
 
 [[files]]
 file = "config/boring_default_game_rules/config.json"
-hash = "4da5e569a17a0f1a41975fbed5fe8f1e490f568f24056da45ee70fcbf1c4104c"
+hash = "ead0843672f5abdfb2c28625e66b9747226fb2e97afe91bddc9ae9c018844ac6"
 
 [[files]]
 file = "config/bwncr.toml"
@@ -174,7 +182,7 @@ hash = "d4a0701ae24ce835cfafc8f7e564080bb29892e51eee6272d7d8268beed82216"
 
 [[files]]
 file = "config/fabrication/features.ini"
-hash = "77a1f0bf49553ce1c2d626750ac7fc0675b17897a6aa44acdfc6dcc23056b95c"
+hash = "7f346797b97ca5969c18e7414206351c606f49bcc1004e2ed1dde56ec013bce7"
 
 [[files]]
 file = "config/fabrichammers.json"
@@ -238,7 +246,7 @@ hash = "5ec559846c5aa30d45a80cc06240baac2156e3781f129aa1283d30465dbf37eb"
 
 [[files]]
 file = "config/inventory_tabs.toml"
-hash = "328b17b0e0f38a47dd447dc5f6faa3364e93a5a6b1950c8f94f942757eaab2cb"
+hash = "7e29da55588c807b7c8fd2a6e23695d1e38f094d4b05b12a17d69b0fcb52684a"
 
 [[files]]
 file = "config/inventoryprofilesnext/inventoryprofiles.json"
@@ -2359,6 +2367,11 @@ metafile = true
 [[files]]
 file = "mods/swingthrough.pw.toml"
 hash = "164bd9070d86ca231da118c32790f2144195a29a9ed1c556fcbf9714a1e633f7"
+metafile = true
+
+[[files]]
+file = "mods/tax-free-levels.pw.toml"
+hash = "8f19ad4452bea69c75c6008ff1b719bc9e792aa24b4dcd9120eac0eb3457c550"
 metafile = true
 
 [[files]]

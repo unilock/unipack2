@@ -11,6 +11,8 @@
 		"companion:petFriendlyFire": false,
 		"creeperExplosions": "DAMAGE_ONLY",
 		"disableElytraMovementCheck": true,
+		"doInsomnia": false,
+		"doWardenSpawning": false,
 		"farmlandTrampling": "OFF",
 		"ghastFireballExplosions": "DAMAGE_ONLY",
 		"maxEntityCramming": 64,
