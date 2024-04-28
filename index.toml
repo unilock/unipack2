@@ -142,7 +142,7 @@ hash = "e6588cb1e350fad93ceb56194b06f690dc6f52e405ddbe4cfb1a46b080681f2d"
 
 [[files]]
 file = "config/dsurround/dsurround.json"
-hash = "06e68f96ef11e081e0ab8ab4b1ad4f2088658931253e54f16bd34592ee60e3bc"
+hash = "0f525f981c118d4d959168720cbc1aecda6f23939ec3251780cecab1f6b8334d"
 
 [[files]]
 file = "config/eccentrictome-common.toml"
@@ -947,11 +947,6 @@ hash = "d9fb7585b69729746e282391499802e721e425a21a675fabd6f59c76ab6aae43"
 metafile = true
 
 [[files]]
-file = "mods/completeconfig.pw.toml"
-hash = "f639cf7e7dc85a5f3e1f2a35dffbbef188f2468cb4b39502a6a8c171ac238044"
-metafile = true
-
-[[files]]
 file = "mods/computer-cartographer.pw.toml"
 hash = "e567a249b43bf4a6fdc41409be12be3bd775161d561f1889a0bcc18afc829b31"
 metafile = true
@@ -1079,11 +1074,6 @@ metafile = true
 [[files]]
 file = "mods/digital-items-3.pw.toml"
 hash = "5bd7fc6ad8bc4b8b35e6e3875ab0dce29209a4b1315ac8477b2ab2b7ff1836c5"
-metafile = true
-
-[[files]]
-file = "mods/ding.pw.toml"
-hash = "7c5259e9ac7df8366d01465703abcfbb38b59ab68c885cba988f259bea36afb2"
 metafile = true
 
 [[files]]

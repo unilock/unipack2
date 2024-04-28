@@ -64,6 +64,6 @@
     "scale": 1.0
   },
   "otherOptions": {
-    "playRandomSoundOnStartup": false
+    "playRandomSoundOnStartup": true
   }
 }
