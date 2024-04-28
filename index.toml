@@ -2096,7 +2096,7 @@ metafile = true
 
 [[files]]
 file = "mods/quilt-loading-screen.pw.toml"
-hash = "5479a7809140dc971cfcef9c5842a114aeb998eb6218964d29889d175fb434cf"
+hash = "06390a4bda5fe0ae409908db708656979b5c5863639e058e119c9ee0dc8ab588"
 metafile = true
 
 [[files]]
