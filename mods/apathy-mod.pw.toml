@@ -1,0 +1,13 @@
+name = "Apathy Mod"
+filename = "apathy-fabric-1.20.1-2.7.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e83d0bb62d16d3a0c64a8eb3dbad469d47d80b85"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4611841
+project-id = 499846

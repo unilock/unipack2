@@ -583,6 +583,11 @@ hash = "8d1e88c596e9b5fb074beefbaa470963a33152b2dead3560084575663687ed70"
 metafile = true
 
 [[files]]
+file = "mods/apathy-mod.pw.toml"
+hash = "8eeac39b1b781dfd65dfee8f4e4648e62804fc4b4d7e7c231695457ef254ffa3"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "45d8570e9c13f5265d9d833ba2431e982ab9cf2760e86c6d5fd62dd3c092e18c"
 metafile = true
