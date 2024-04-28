@@ -1,8 +1,0 @@
-name = "Beekeeping"
-filename = "beekeeping-0.2.0+1.20.1+fabric.jar"
-side = "both"
-
-[download]
-url = "https://play.fennet.rentals/packwiz/unipack2/manual-jars/both/beekeeping-0.2.0+1.20.1+fabric.jar"
-hash-format = "sha256"
-hash = "457157683f6e3eb0a8ca18a58ace6e29b566028dabafe441f2234144124d180a"
