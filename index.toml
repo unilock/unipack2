@@ -637,7 +637,7 @@ metafile = true
 
 [[files]]
 file = "mods/artifacts.pw.toml"
-hash = "881d893b6b2351d9b27fd24ae3cbd27628f427dfaab8e3649a2e6caf410267a8"
+hash = "360a20b44cbbd19c125b76cb1e086bd4fb0ac4ece184ea13587cdb4bcb1ae07e"
 metafile = true
 
 [[files]]
@@ -1361,7 +1361,7 @@ metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "82fdf2ffd2897ac4f16086a49a2aa60028214b06b35c14e74431f6403803ee20"
+hash = "2287c4f593e779acd7351e8d55164bfbfa050117a1c71cb27f4ddfa4d7a9b673"
 metafile = true
 
 [[files]]
@@ -1846,7 +1846,7 @@ metafile = true
 
 [[files]]
 file = "mods/noisium.pw.toml"
-hash = "3fa216645abadceadc1e913a581dbfb5abb1cdc7f270bcd23f7141c43d9cb79c"
+hash = "b67abea74ec9d9135ee0864c53f81a1b74ab7c2e16288eb133297fac55a9a69b"
 metafile = true
 
 [[files]]
@@ -2261,7 +2261,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-shadowy-path-blocks.pw.toml"
-hash = "c2fb8a64bc4610b7d026dc4cce78ad2a2f7264e5be4755849187e3caed5cac55"
+hash = "71164245f9e06a916689d4683bd15dec40effbb1a748e353318c243bbee4924e"
 metafile = true
 
 [[files]]
@@ -2296,7 +2296,7 @@ metafile = true
 
 [[files]]
 file = "mods/spectrum.pw.toml"
-hash = "cffd31fb07701c5c014dda75ff67d34f1040f527b6a64e6b8f21c1b2cc57893e"
+hash = "02edcd73d160e97079a270efe8fec62a0efb25492c23d4a0851a03777da17caa"
 metafile = true
 
 [[files]]
@@ -2371,7 +2371,7 @@ metafile = true
 
 [[files]]
 file = "mods/tax-free-levels.pw.toml"
-hash = "8f19ad4452bea69c75c6008ff1b719bc9e792aa24b4dcd9120eac0eb3457c550"
+hash = "35073c4cdb12150f69292b7092918917b458f445e1605dabc8e3e379f439d965"
 metafile = true
 
 [[files]]
@@ -2491,7 +2491,7 @@ metafile = true
 
 [[files]]
 file = "mods/vein-mining.pw.toml"
-hash = "fd83a05bb617d732fe8e5f7a370823800c9999e198d25b33f05d2fe99d6ba8b2"
+hash = "f05808cb7ff36fe371835c3310c6f3912276b7999a63957b9462b6cfd94ab51c"
 metafile = true
 
 [[files]]
