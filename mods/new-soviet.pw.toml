@@ -1,0 +1,13 @@
+name = "New Soviet Era"
+filename = "new_soviet-0.4.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6ce50dface9339357ebd5d8d9a2f6d46fffa612e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5299607
+project-id = 922738
