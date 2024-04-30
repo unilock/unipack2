@@ -2400,11 +2400,6 @@ hash = "95219ebea8ba514c0ecad1857a77b5aa7c6641802457d7bfba2e200c1dbce847"
 metafile = true
 
 [[files]]
-file = "mods/the-corners.pw.toml"
-hash = "3d2b838c904b98c7a94224d0772bc949aab55b913ddc3e2169ffd8b8cc3dea06"
-metafile = true
-
-[[files]]
 file = "mods/thigh-highs-etc.pw.toml"
 hash = "11119a11b9bfbba1a04d7abe3b66d1f27ea7d352153fdf9926555631e8c23d76"
 metafile = true
