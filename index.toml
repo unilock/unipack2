@@ -2339,6 +2339,11 @@ hash = "164bd9070d86ca231da118c32790f2144195a29a9ed1c556fcbf9714a1e633f7"
 metafile = true
 
 [[files]]
+file = "mods/tamago.pw.toml"
+hash = "8c85745e01321c43f39de96338da1c9dc20843f7890ccb14d36f12236a33716d"
+metafile = true
+
+[[files]]
 file = "mods/tax-free-levels.pw.toml"
 hash = "35073c4cdb12150f69292b7092918917b458f445e1605dabc8e3e379f439d965"
 metafile = true
