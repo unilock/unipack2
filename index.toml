@@ -2450,16 +2450,6 @@ hash = "7b9d811345bc97947c0eb2eaa90871c1d22c733779797aa582be0afe7377066a"
 metafile = true
 
 [[files]]
-file = "mods/unicopia-blockus-addon.pw.toml"
-hash = "75d3eb38266fb1f078c63644e020cfbd23586e9606fad5f155202b38c18c98a9"
-metafile = true
-
-[[files]]
-file = "mods/unicopia.pw.toml"
-hash = "c3c52f13434f42370443a6a6d46ebf560c56444fde47190337941169820e4f3c"
-metafile = true
-
-[[files]]
 file = "mods/unlimitedperipheralworks.pw.toml"
 hash = "b61011a2bb1aecc3a7205841601d5762d2ab8bf088ffa1d0fa98729f8a4bb647"
 metafile = true
