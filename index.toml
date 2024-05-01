@@ -1085,21 +1085,6 @@ hash = "5bd7fc6ad8bc4b8b35e6e3875ab0dce29209a4b1315ac8477b2ab2b7ff1836c5"
 metafile = true
 
 [[files]]
-file = "mods/dnt-pillager-outpost-overhaul.pw.toml"
-hash = "2426bc9c8ad1dcda334479713ee07bc281559cba7322440394faadc403a79a0f"
-metafile = true
-
-[[files]]
-file = "mods/dnt-stronghold-overhaul.pw.toml"
-hash = "9240dfb2784ef5b62dfb9d37afe92f50b59d39a417b6e158fbd17f88114bbb7a"
-metafile = true
-
-[[files]]
-file = "mods/dnt-swamp-hut-overhaul.pw.toml"
-hash = "02b7c10aa459e6fdd8db97176bfd5df5203e267124d784e294c6a3573060fa23"
-metafile = true
-
-[[files]]
 file = "mods/do-not-tilt-the-camera-in-relation-to-damage-direction.pw.toml"
 hash = "2b615a0243e51b9513eddf244158d2b9bc96604860c3c708941da81fd6895adf"
 metafile = true
@@ -1117,11 +1102,6 @@ metafile = true
 [[files]]
 file = "mods/ducky-periphs.pw.toml"
 hash = "3dc065eeb299cc0e9641d049e4657dfa6a37077be7506e2efa36086cd32382c3"
-metafile = true
-
-[[files]]
-file = "mods/dungeon-and-taverns.pw.toml"
-hash = "43f477c4e79c55347f9cae8805fd8097b3c79afea83c47aa82b9059366f25b94"
 metafile = true
 
 [[files]]
@@ -1410,11 +1390,6 @@ hash = "264e085b17e6b29f95c4d3d19e0534808367c2f995fcbc9ca016b7be9e08a196"
 metafile = true
 
 [[files]]
-file = "mods/gravity-api-fork.pw.toml"
-hash = "ed4f9111816e20f749d06fe714ca5b0841fa0e884e1761a8df66ac20bd37b8ba"
-metafile = true
-
-[[files]]
 file = "mods/grid.pw.toml"
 hash = "bcdc031d251481dea185a5762abeb19f92171335732253abcd2f15a25d1556da"
 metafile = true
@@ -1522,16 +1497,6 @@ metafile = true
 [[files]]
 file = "mods/imbued-gear.pw.toml"
 hash = "c17a83a26f116e8e4889d025e370ca4e71ff791b55ce8fab88aba1757b9ddca3"
-metafile = true
-
-[[files]]
-file = "mods/immersive-structures-ii.pw.toml"
-hash = "2704e1663784137c7f0bf37b2a3cbe0f1fcf9af9b9137f65a0a8f6c6db8c9a9f"
-metafile = true
-
-[[files]]
-file = "mods/immersive-structures.pw.toml"
-hash = "87184da0fbda69dd2d209f9597beca5241893eb32e3e3d07356d1be3afa496b8"
 metafile = true
 
 [[files]]
@@ -1735,11 +1700,6 @@ hash = "f8c57b83b826e6447a6a97f88f0fab03bb76caebc8272b74f3b890c6b5821d5d"
 metafile = true
 
 [[files]]
-file = "mods/mns-moogs-nether-structures.pw.toml"
-hash = "54d88049a3c22080cf12e4e001bc3e07b34679a889850388931ba464a3097c2f"
-metafile = true
-
-[[files]]
 file = "mods/model-gap-fix.pw.toml"
 hash = "bf34fb2e0a79348b19f915c27d648e91dfea583171069b92a08424c6baa51cea"
 metafile = true
@@ -1772,6 +1732,11 @@ metafile = true
 [[files]]
 file = "mods/moogs-end-structures.pw.toml"
 hash = "cebbfab3ab0278d7fbcedcd0d5bb83405ad78a2e94c91b8f25df41aea7c0dbbf"
+metafile = true
+
+[[files]]
+file = "mods/moogs-nether-structures.pw.toml"
+hash = "54d88049a3c22080cf12e4e001bc3e07b34679a889850388931ba464a3097c2f"
 metafile = true
 
 [[files]]
@@ -1927,11 +1892,6 @@ metafile = true
 [[files]]
 file = "mods/patchouli-fabric.pw.toml"
 hash = "bb0398103eccb3b7bb136776e68e7eda242c25d4d9864d4551d18beca58bc913"
-metafile = true
-
-[[files]]
-file = "mods/patchouli.pw.toml"
-hash = "89e5cab6f92dbcfd6c2c058fc9381869fde193a431c284dbb828833e881cd344"
 metafile = true
 
 [[files]]
@@ -2360,11 +2320,6 @@ hash = "93cf1fc28d62de1afd142ab6b85359923a8c0d9c6b16ec4322308fa49e8ab153"
 metafile = true
 
 [[files]]
-file = "mods/subsurface.pw.toml"
-hash = "b5897d3a8d4f258a5989b135b16a136bf5945cb201e13b2b7ca84c4d27647b1f"
-metafile = true
-
-[[files]]
 file = "mods/suggestion-tweaker.pw.toml"
 hash = "291bd64f9c18ad292f8995660453352462a42d8338ebbc5239dd8af181a755d8"
 metafile = true
@@ -2640,28 +2595,8 @@ hash = "e20fd212ab36de5e8e10adc05087ccb28861d05afeab8f7ab5a22b4c1197ceea"
 metafile = true
 
 [[files]]
-file = "mods/yungs-better-jungle-temples-fabric.pw.toml"
-hash = "ef6c989521fc38807fcbf8bccc204c0f01f2f071387c2690bdce50e77ed370a3"
-metafile = true
-
-[[files]]
-file = "mods/yungs-better-nether-fortresses-fabric.pw.toml"
-hash = "c813b4aaebbdec8b97874334333fcb2fe606ad6473fe44f2cc48c6f74df12393"
-metafile = true
-
-[[files]]
-file = "mods/yungs-better-ocean-monuments-fabric.pw.toml"
-hash = "42b17d95baef2a67c36a91d3cbdef1a7a0858852792a8fd9b67b1c5ca6960658"
-metafile = true
-
-[[files]]
 file = "mods/yungs-better-witch-huts-fabric.pw.toml"
 hash = "48cd5e6fc8bc8951f0e33e21d49d4c59dcbae57134e6c7425371ae566aaf6de7"
-metafile = true
-
-[[files]]
-file = "mods/yungs-bridges-fabric.pw.toml"
-hash = "4147ca397d51f92d2aa93d07d4fc24bd09774724088072baf73f5f39aec074f1"
 metafile = true
 
 [[files]]
