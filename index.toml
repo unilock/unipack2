@@ -182,7 +182,7 @@ hash = "d4a0701ae24ce835cfafc8f7e564080bb29892e51eee6272d7d8268beed82216"
 
 [[files]]
 file = "config/fabrication/features.ini"
-hash = "355394d5ff594826c1f218e5d593c6f418614b355a1beea5e104158fe809fa27"
+hash = "aad3e9da23755d1381d07c2e381153bd779d8cb5a9095744c4b6fa667236ba44"
 
 [[files]]
 file = "config/fabrichammers.json"
