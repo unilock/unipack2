@@ -2195,6 +2195,11 @@ hash = "85ce2777b2c58c6a6ca1f090a8fe385bfa490578b78b671b52feac9c448928ad"
 metafile = true
 
 [[files]]
+file = "mods/scout.pw.toml"
+hash = "7dce9c1f8d25054c70cce6b859602a8b777421d031a86c6885a96304024588c1"
+metafile = true
+
+[[files]]
 file = "mods/seamless.pw.toml"
 hash = "b71dbeffb1ab80f098523c02a26b5fbdf9752e4eb4c7ca720e23c9120f3c4884"
 metafile = true
@@ -2400,6 +2405,11 @@ hash = "95219ebea8ba514c0ecad1857a77b5aa7c6641802457d7bfba2e200c1dbce847"
 metafile = true
 
 [[files]]
+file = "mods/the-corners.pw.toml"
+hash = "3d2b838c904b98c7a94224d0772bc949aab55b913ddc3e2169ffd8b8cc3dea06"
+metafile = true
+
+[[files]]
 file = "mods/thigh-highs-etc.pw.toml"
 hash = "11119a11b9bfbba1a04d7abe3b66d1f27ea7d352153fdf9926555631e8c23d76"
 metafile = true
@@ -2480,8 +2490,23 @@ hash = "7b9d811345bc97947c0eb2eaa90871c1d22c733779797aa582be0afe7377066a"
 metafile = true
 
 [[files]]
+file = "mods/unicopia-blockus-addon.pw.toml"
+hash = "75d3eb38266fb1f078c63644e020cfbd23586e9606fad5f155202b38c18c98a9"
+metafile = true
+
+[[files]]
+file = "mods/unicopia.pw.toml"
+hash = "c3c52f13434f42370443a6a6d46ebf560c56444fde47190337941169820e4f3c"
+metafile = true
+
+[[files]]
 file = "mods/unlimitedperipheralworks.pw.toml"
 hash = "b61011a2bb1aecc3a7205841601d5762d2ab8bf088ffa1d0fa98729f8a4bb647"
+metafile = true
+
+[[files]]
+file = "mods/vanillaparts.pw.toml"
+hash = "aed1ff0d9583d0d0d2424f9885f3823be1730f469ec5056d98a3f63e74cbe017"
 metafile = true
 
 [[files]]
