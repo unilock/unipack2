@@ -836,7 +836,7 @@ metafile = true
 
 [[files]]
 file = "mods/brainier-bees.pw.toml"
-hash = "a08b0e9c2340f4b5432f643331348ad8153d6bc4bf89d4e38732e9ae0a2fe94d"
+hash = "b7a995a27379433a0ae846dda2658afbbdf601c6d982a66008ee1946ee585477"
 metafile = true
 
 [[files]]
@@ -1106,7 +1106,7 @@ metafile = true
 
 [[files]]
 file = "mods/doors-closed.pw.toml"
-hash = "0474f5376819ca3bf720c064c614b479ce04702be024b7d773587b28a1b2addb"
+hash = "d6b9f49ed2f536495e2a1c8afa07c09d552742e641048d39a4582f86e1353fdb"
 metafile = true
 
 [[files]]
@@ -1531,7 +1531,7 @@ metafile = true
 
 [[files]]
 file = "mods/immersive-structures.pw.toml"
-hash = "f085fada4c6433c9d178de70d6ef47f721298cd66d4cd2fa112bec0232d1d906"
+hash = "87184da0fbda69dd2d209f9597beca5241893eb32e3e3d07356d1be3afa496b8"
 metafile = true
 
 [[files]]

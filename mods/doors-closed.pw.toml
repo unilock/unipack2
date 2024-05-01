@@ -1,6 +1,6 @@
 name = "Doors Closed"
 filename = "doors-closed-1.0.0+1.19.4.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/L49j7sQG/versions/fdAdmwpI/doors-closed-1.0.0%2B1.19.4.jar"
