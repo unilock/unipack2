@@ -1185,7 +1185,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "8865897b48fe88ed2770379d5c1effdd8fe1cc62d84304482df323fb55982570"
+hash = "9ef3306021058c7f20b557d4ec95181e1548b0f2a89ba47373a9d731477c0c41"
 metafile = true
 
 [[files]]
@@ -1645,7 +1645,7 @@ metafile = true
 
 [[files]]
 file = "mods/lootr-fabric.pw.toml"
-hash = "5cf9974d50bb1c3d0831a0d3166abf98917d582ce85549cfab9de098d2221a0b"
+hash = "20cc73b0a1ed8d73d89bdaa27086f8dfeea5432930e1e18014b154a79442f559"
 metafile = true
 
 [[files]]
