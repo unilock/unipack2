@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/BlossomMods/BlossomBack.json"
-hash = "bb6d36bd8f2971e18c635489ec9afe0c36dbac95eb8ca62fc1ae6ac00ec9857e"
+hash = "7d3dea380c505d99d6be60d820b64dd9bf578208e5c9e2863b03e06c86f22a27"
 
 [[files]]
 file = "config/BlossomMods/BlossomHomes.json"
-hash = "ab94042372ca998b8b8d1b5058406bb42a23c2f22331e6d3f76f7dc5eda7b3b1"
+hash = "1f5a30e4987c14858dfb4ea90c01d2ee63c9be3489fd1956cae47626b6dd2e5f"
 
 [[files]]
 file = "config/BlossomMods/BlossomLib.json"
@@ -18,7 +18,7 @@ hash = "a2cbbdf49474f429079ecf92622042e352fc4bdacbbad1599334da83ccd1e171"
 
 [[files]]
 file = "config/BlossomMods/BlossomTpa.json"
-hash = "dc4ded0aef138144557431d7c1ba9afe208415daf70a2ecee6b763871d2dc528"
+hash = "1fcb351365535b424696a5051c6b5d1135fc83a3623a88f5d17fdbded4c064a0"
 
 [[files]]
 file = "config/Revelationary.json"
