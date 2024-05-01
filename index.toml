@@ -66,7 +66,7 @@ hash = "3b79ee23d3bcf3c1d9984cf8bff52167082dfda9efe53eba7fbefd315e3f13c0"
 
 [[files]]
 file = "config/apathy/mobs.cfg"
-hash = "ff4a7e3ee1828671fe5bc2b2b115d42927a657f9f379275e092f949561e59a2c"
+hash = "e0251507ae7df0ea21ff4105769524cbbcb2a96e7d745042eb3aa8cd26c210cd"
 
 [[files]]
 file = "config/arcadiandream.json5"
