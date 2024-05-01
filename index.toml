@@ -1965,6 +1965,11 @@ hash = "a70c806bb9940bbc664982b89b4562aceadfa654e293a9ba62b14d4e57b6385d"
 metafile = true
 
 [[files]]
+file = "mods/portal-cubed.pw.toml"
+hash = "7e669c24997aea2e205fd4cd6149a087a21ba036f8279a8656537cd866130a57"
+metafile = true
+
+[[files]]
 file = "mods/porting-lib.pw.toml"
 hash = "4bdc52f01c4b791699db9dd88220671e4152cdb5fb2a39dcfff8a3c7272340ff"
 metafile = true
