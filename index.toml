@@ -531,7 +531,7 @@ metafile = true
 
 [[files]]
 file = "mods/ad-astra-giselle-addon.pw.toml"
-hash = "efb5805ab27604319b5e2c962e1dfe168c88fe40182a337ce30cb1971da95b21"
+hash = "162de7c9787f4fa902324d854cbd90a75790c79d68f056a41e0c0bcf9fd911c8"
 metafile = true
 
 [[files]]
@@ -551,7 +551,7 @@ metafile = true
 
 [[files]]
 file = "mods/ae2-qol-recipes.pw.toml"
-hash = "7ac4eadf38af24891fa28607e1a4dd865547977264286db37e9ccfd58d821375"
+hash = "951cf733abc505db7127a236e8af4d06114ff8107c7579446b6dc3c8ff86ddcb"
 metafile = true
 
 [[files]]
@@ -641,7 +641,7 @@ metafile = true
 
 [[files]]
 file = "mods/artifacts.pw.toml"
-hash = "360a20b44cbbd19c125b76cb1e086bd4fb0ac4ece184ea13587cdb4bcb1ae07e"
+hash = "05d9f9ba8baf8608c3c3b679e8b2c7e002016cb30ec4592a7e117ab7f1e59494"
 metafile = true
 
 [[files]]
@@ -1190,7 +1190,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "9ef3306021058c7f20b557d4ec95181e1548b0f2a89ba47373a9d731477c0c41"
+hash = "01075a17ec6a6d7b62dcc16ddededd161679b0ffebdae310401d4a579f1d75db"
 metafile = true
 
 [[files]]
@@ -1650,7 +1650,7 @@ metafile = true
 
 [[files]]
 file = "mods/lootr-fabric.pw.toml"
-hash = "20cc73b0a1ed8d73d89bdaa27086f8dfeea5432930e1e18014b154a79442f559"
+hash = "2beeb497828d72467d5d29dfc9567e06c63c6f1ddf54cb42b7d6a3babd603e0f"
 metafile = true
 
 [[files]]
@@ -1680,7 +1680,7 @@ metafile = true
 
 [[files]]
 file = "mods/mega-cells.pw.toml"
-hash = "aa7999977aeedddde4344ee98aa4c3e59c839c49187a09602c1a599d289d7439"
+hash = "47519a19ae0570aee39b98403cd2dea508d56e54649433d8498210f6d8df953f"
 metafile = true
 
 [[files]]
@@ -1780,7 +1780,7 @@ metafile = true
 
 [[files]]
 file = "mods/neepmeat.pw.toml"
-hash = "6925ed917b1db82758f1275e359e643a481ef7725144149ca42d52d38c8965ed"
+hash = "f31c091c7e98df08488e3cf298599bb4fbb094ce9c0fbe9a2128804a53239ae0"
 metafile = true
 
 [[files]]
@@ -1825,7 +1825,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "189e1e8dee2aaa0d41b839acd8fce432ae041fa38d3b98fba0aedeb238b094ed"
+hash = "c737bdfd6940736f88cd39065a0193ba70637a560fbce4389e59f67d72813209"
 metafile = true
 
 [[files]]
