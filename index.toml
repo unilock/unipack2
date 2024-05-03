@@ -246,7 +246,7 @@ hash = "5ec559846c5aa30d45a80cc06240baac2156e3781f129aa1283d30465dbf37eb"
 
 [[files]]
 file = "config/inventory_tabs.toml"
-hash = "fb0d971457fd0e418f0fa9b67ccd584ecfed0a761b7a2fe4325c59b82b172e8b"
+hash = "7e118e0233fff882209fd8a9fafd7b7d242a679fb9d7e2c339f649bfc76bf773"
 
 [[files]]
 file = "config/inventoryprofilesnext/inventoryprofiles.json"

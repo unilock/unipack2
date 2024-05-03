@@ -121,6 +121,15 @@ allowScreensByDefault = true
 	"botania:flower_bag" = "inventory_tabs:item_simple"
 	"fwaystones:abyss_watcher" = ""
 	"fwaystones:pocket_wormhole" = ""
+	"inmis:baby_backpack" = "inventory_tabs:item_simple"
+	"inmis:bejeweled_backpack" = "inventory_tabs:item_simple"
+	"inmis:blazing_backpack" = "inventory_tabs:item_simple"
+	"inmis:ender_pouch" = "inventory_tabs:item_simple"
+	"inmis:endless_backpack" = "inventory_tabs:item_simple"
+	"inmis:frayed_backpack" = "inventory_tabs:item_simple"
+	"inmis:gilded_backpack" = "inventory_tabs:item_simple"
+	"inmis:plated_backpack" = "inventory_tabs:item_simple"
+	"inmis:withered_backpack" = "inventory_tabs:item_simple"
 	"yttr:ammo_pack" = "inventory_tabs:item_sneak"
 # 
 # -------------------------------
