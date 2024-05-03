@@ -36,9 +36,26 @@ allowScreensByDefault = true
 # Manually set whether tabs should be shown on a given screen
 # 
 [screenOverrides]
+	"ad_astra:planets_menu" = false
+	"computercraft:pocket_computer" = false
+	"computercraft:pocket_computer_no_term" = false
+	"computercraft:printout" = false
+	"computercraft:view_computer" = false
+	"computercraft:computer" = false
+	"computercraft:turtle" = false
+	"ducky-periphs:keyboard_screen_handler" = false
 	"fwaystones:waystone" = false
 	"fwaystones:pocket_wormhole" = false
 	"fwaystones:abyss" = false
+	"modern_industrialization:fluid_pipe" = false
+	"modern_industrialization:item_pipe" = false
+	"piercingpaxels:paxel" = false
+	"portalcubed:velocity_helper" = false
+	"portalcubed:faith_plate_screen" = false
+	"spectrum:workstaff" = false
+	"spectrum:paintbrush" = false
+	"tconstruct:*" = false
+	"tricksy:*" = false
 	"yttr:rafting" = false
 	"yttr:magtank" = false
 	"yttr:dsu" = false
