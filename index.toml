@@ -641,7 +641,7 @@ metafile = true
 
 [[files]]
 file = "mods/artifacts.pw.toml"
-hash = "05d9f9ba8baf8608c3c3b679e8b2c7e002016cb30ec4592a7e117ab7f1e59494"
+hash = "6ae5216e16852998fd4b14875f6f70e65999fee171cf2c1d0f6168785e61fd30"
 metafile = true
 
 [[files]]
@@ -1350,7 +1350,7 @@ metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "2287c4f593e779acd7351e8d55164bfbfa050117a1c71cb27f4ddfa4d7a9b673"
+hash = "17459cfd8bc5d7c9997ac3d6f383d8588e3d47b9be42423eb6c341867a4d4cc7"
 metafile = true
 
 [[files]]
@@ -2510,7 +2510,7 @@ metafile = true
 
 [[files]]
 file = "mods/wired-redstone.pw.toml"
-hash = "73f81f6de594c8e1d9021a8fd60e0fb87a91723a3ee09049740b68c922c33931"
+hash = "6dd13e54fb6fbd88384489e33f846e68db793ed5603dfb9476ac78a4511db406"
 metafile = true
 
 [[files]]
