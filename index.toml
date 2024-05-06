@@ -1014,6 +1014,11 @@ hash = "252878ad67eb85e89d725478bd36a64ce6f84b247c3ac8a1851f3b4f553f11f4"
 metafile = true
 
 [[files]]
+file = "mods/critical-shears.pw.toml"
+hash = "2d66f5cb9e76986d7b4ce546bddeeb8abc5ccf678711d3f785defee282df438a"
+metafile = true
+
+[[files]]
 file = "mods/crooked-crooks.pw.toml"
 hash = "8d175ee3ca4bbc042ebb29af34428528bed2dfe4a956dc181b3ff1a840d03658"
 metafile = true
