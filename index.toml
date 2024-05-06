@@ -900,7 +900,7 @@ metafile = true
 
 [[files]]
 file = "mods/chunky-pregenerator.pw.toml"
-hash = "c9046358764d73949cc7f24ebd02741f996db89ce448c92f94bb3a2ae4f17e74"
+hash = "8f3e01ad47042d186087576cd17e91f78576295e7ca16fb885550910cb97caa4"
 metafile = true
 
 [[files]]
@@ -1250,7 +1250,7 @@ metafile = true
 
 [[files]]
 file = "mods/extra-mod-integrations.pw.toml"
-hash = "69d96107a74d85434cb3a16c73c194c4446b1548092c59174bef7db5c0c9c886"
+hash = "56ade2c0ce94b785fca1fb06993ad05479aaa269184897f368d973b2493b6c71"
 metafile = true
 
 [[files]]
