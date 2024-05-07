@@ -785,7 +785,7 @@ metafile = true
 
 [[files]]
 file = "mods/blockus.pw.toml"
-hash = "186c7bec273cf2a762cbeba8810551714da1453fd6a7040d0ca05da554b63991"
+hash = "de4b28f1c3c2e92f727db45b12dff484e34b4418b5357ee4fe66236559584daf"
 metafile = true
 
 [[files]]
@@ -1485,7 +1485,7 @@ metafile = true
 
 [[files]]
 file = "mods/icarus.pw.toml"
-hash = "92ee3931700cbe4e3155dbc37a62c85d774201f40ff568e66209598268441ab1"
+hash = "2d5486bfa332f7ac675e547c8589c183386c19aa22468641b0a5c64c4a786629"
 metafile = true
 
 [[files]]
