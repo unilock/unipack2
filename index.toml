@@ -581,7 +581,7 @@ metafile = true
 
 [[files]]
 file = "mods/alternate-current.pw.toml"
-hash = "8f6db29f14fdf067095082606646d320911603d2e94cdf8e3aefdc0c7ebb1c78"
+hash = "fbb7c2db20a38c0a5c451b2a7d31720f4e8d72daa7d0475292030546f2479199"
 metafile = true
 
 [[files]]
