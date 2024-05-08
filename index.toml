@@ -570,6 +570,11 @@ hash = "dffe4bf8e0d917ff0d789405a6c130f3ebc0c0fde74f340f5cd6444c2a5b41ec"
 metafile = true
 
 [[files]]
+file = "mods/alloy-forgery.pw.toml"
+hash = "1bc328e5477ce87bb27110fd90258de8767f9ffef86434ae0c0c301292c29fb0"
+metafile = true
+
+[[files]]
 file = "mods/almost-unified.pw.toml"
 hash = "e9830c6939b96f7694dac6a707e145d395a796f1af851d70164e49e2f865e78e"
 metafile = true
@@ -959,6 +964,11 @@ hash = "d9fb7585b69729746e282391499802e721e425a21a675fabd6f59c76ab6aae43"
 metafile = true
 
 [[files]]
+file = "mods/compressed-mod.pw.toml"
+hash = "dd7f29bd999b052f551b8e1cc56c26fd98914c417213195e0b0eefa24f7445c8"
+metafile = true
+
+[[files]]
 file = "mods/computer-cartographer.pw.toml"
 hash = "e567a249b43bf4a6fdc41409be12be3bd775161d561f1889a0bcc18afc829b31"
 metafile = true
@@ -1011,6 +1021,11 @@ metafile = true
 [[files]]
 file = "mods/create-fabric.pw.toml"
 hash = "252878ad67eb85e89d725478bd36a64ce6f84b247c3ac8a1851f3b4f553f11f4"
+metafile = true
+
+[[files]]
+file = "mods/create-metalwork-fabric.pw.toml"
+hash = "720492bbd4d8cac13a44b0e93c0b7cd0063be6608682a1e7fdfccec26d0adc91"
 metafile = true
 
 [[files]]
@@ -1769,6 +1784,16 @@ hash = "7ccd7e24f278303579a874288c0fa2385e4f2e2fa1b64a6afb25d4c8b25088c0"
 metafile = true
 
 [[files]]
+file = "mods/mythicmetals-decorations.pw.toml"
+hash = "9df72275a930a82990194fc63c9124d6cce9ae0d2188c55f7dfed4ac60f93f0b"
+metafile = true
+
+[[files]]
+file = "mods/mythicmetals.pw.toml"
+hash = "7e9ee16e09e8dc94190e5fd0dfbf93eea8d8df0520c5950dcb9bc97e683a6ea6"
+metafile = true
+
+[[files]]
 file = "mods/natures-compass.pw.toml"
 hash = "cb38b82b931ae3c33bf9c21ad0934fcebaebcfe065838ade56a0661e283ee7d6"
 metafile = true
@@ -2434,6 +2459,11 @@ hash = "0495aa1f8601004dc6d2f3993306bdd8f88580c6f36d6d400a618aa7fe4060e8"
 metafile = true
 
 [[files]]
+file = "mods/tridents-n-stuff.pw.toml"
+hash = "af28be1a250b5f698626e66eff05683dc13d6b35f84c03bf710d205ebd18a61a"
+metafile = true
+
+[[files]]
 file = "mods/trigger-happy.pw.toml"
 hash = "5037ed6313797eaa9d515170a5a1c0b4c3c3dd4dcdbdba635bbbabf99b319fb1"
 metafile = true
@@ -2672,15 +2702,15 @@ hash = "ccd833c48f93133bad335cac00b5d9dac831743457a0bd3375e63cdd1a2bc35b"
 
 [[files]]
 file = "resources/data/rightclickharvest/tags/items/high_tier_hoes.json"
-hash = "7fb3f340adc533344eba1dc336d3da9f1696d33a529f6d06fb31bb26038c15b0"
+hash = "ac426cd1c66fd9b491ee4c157854bb66001181e005a1cffaf0d45f44b91bb08e"
 
 [[files]]
 file = "resources/data/rightclickharvest/tags/items/low_tier_hoes.json"
-hash = "f8d379c63083414c360653233ed5e01e7cad2ee530ff861e3e6a16b69f5b58e5"
+hash = "0923afd47d1dbd7a461812cd0e952b561c6b342651bae877c52270e7fa064e18"
 
 [[files]]
 file = "resources/data/rightclickharvest/tags/items/mid_tier_hoes.json"
-hash = "7bb1958f5efccd6fc1d5fdd26ebb86adec889c1e1eb9583a9b80f556092c86a2"
+hash = "d4d8c5d71e7504461018eef267a328c26f1cea97ec90a8d8c7bf53ad7932e532"
 
 [[files]]
 file = "resources/data/staffofbuilding/recipes/netherite_builder_staff.json"
