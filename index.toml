@@ -660,6 +660,11 @@ hash = "2ea3d87ffc2806e4bcb6ee9f5a35bdb4588b29030aba235dc7616d1833349d5b"
 metafile = true
 
 [[files]]
+file = "mods/audaki-cart-engine.pw.toml"
+hash = "2df503469b2389647db0e1652d3ccadf6a0c90027dcefbe0b94b457ec0bf421d"
+metafile = true
+
+[[files]]
 file = "mods/aurorasdecorations.pw.toml"
 hash = "22d30476c94849203eb3c5f42212b0bf6c3ebb106be4d0a68790135302710366"
 metafile = true
