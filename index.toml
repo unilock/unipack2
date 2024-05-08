@@ -1694,6 +1694,11 @@ hash = "9df6f240a18c4d7a3e7bc52348a1e04613c0ac19b5e29ef24138ddf59e222a3b"
 metafile = true
 
 [[files]]
+file = "mods/mazeworld.pw.toml"
+hash = "3942e1b37ee1fcb0392235d5863bf1cc26634910b6e6e1d2930f83b17ef15e72"
+metafile = true
+
+[[files]]
 file = "mods/meal-api.pw.toml"
 hash = "dfb5f4a4c05b43d5a3f1527bd989b0ddab96c47ed464d664a4cb393c85df13e8"
 metafile = true
