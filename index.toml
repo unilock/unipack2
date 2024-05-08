@@ -2867,11 +2867,3 @@ hash = "1b9d32c438f5b26ac420f88d1970c3637a7902bb2a964af8a867c2a40993853b"
 [[files]]
 file = "resources/resourcepacks/uniemoji/pack.png"
 hash = "7d56096a9ebd68f81099a2f781eb45a59f00ea517da5b6851f154113c678625d"
-
-[[files]]
-file = "xaerominimap-common.txt"
-hash = "3207f2641a911313fd2c4104c1a4f82e8153385a4d33ada56bde5bf08ca4f427"
-
-[[files]]
-file = "xaeroworldmap-common.txt"
-hash = "10ba22dca29b33ace769afd33c752cf1e8217d9e112b4a6ced7fef2c93e46632"
