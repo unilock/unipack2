@@ -1279,11 +1279,6 @@ hash = "e2af8517252c666e1b4203cdcf6a493a157cf1985e1c776b6a9a72ca68f36d9e"
 metafile = true
 
 [[files]]
-file = "mods/fabric-waystones.pw.toml"
-hash = "5a2f2a09a70bd194f1da118ec9bf15ba143f3a4da309fe1865a90ce0a56d20e1"
-metafile = true
-
-[[files]]
 file = "mods/fabrication.pw.toml"
 hash = "04d9bc64955fd94886a898881db68a2018551090725a01b2706c0df282e24e7a"
 metafile = true
