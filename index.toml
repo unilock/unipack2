@@ -581,7 +581,7 @@ metafile = true
 
 [[files]]
 file = "mods/alternate-current.pw.toml"
-hash = "d4022e0035cdd3ee0cbc4b8e9bddf7b3d9b90525635c1ad74db6238513027744"
+hash = "8f6db29f14fdf067095082606646d320911603d2e94cdf8e3aefdc0c7ebb1c78"
 metafile = true
 
 [[files]]
@@ -2300,7 +2300,7 @@ metafile = true
 
 [[files]]
 file = "mods/spectrum.pw.toml"
-hash = "02edcd73d160e97079a270efe8fec62a0efb25492c23d4a0851a03777da17caa"
+hash = "b837182a34e7c377b25a5c9e174371ffe823c1d9d520eb52d7b63bc0486041db"
 metafile = true
 
 [[files]]
@@ -2480,7 +2480,7 @@ metafile = true
 
 [[files]]
 file = "mods/turtlematic.pw.toml"
-hash = "0a63a831cec0f3434ea6cbf3dd72247ae229c17e8d015fa8f781837a6cfd5f19"
+hash = "c0f0fcbfcd73cf2d7c3e9ea6dc3f69b9c5e068e48f64e1edf9a4bfdf669969c2"
 metafile = true
 
 [[files]]
