@@ -117,6 +117,10 @@ file = "config/chunky/config.json"
 hash = "6c103db0800e63ba88c2296e42fb8f5e631f70ea17b8c5d77bef0166d0662d96"
 
 [[files]]
+file = "config/cinderscapes.json"
+hash = "ce191e1704db0a75993861f19b8f0567386e9477025ee9c98bee3f7d84a56be0"
+
+[[files]]
 file = "config/clickopener.json"
 hash = "3c3f11a2e250df4e3fab146261023971d99dbea7e5de8d336c47aa2ba457970d"
 
