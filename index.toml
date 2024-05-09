@@ -157,6 +157,10 @@ file = "config/dsurround/dsurround.json"
 hash = "0f525f981c118d4d959168720cbc1aecda6f23939ec3251780cecab1f6b8334d"
 
 [[files]]
+file = "config/early-loading-screen.properties"
+hash = "f6bb15aab22c16a3277a4fb9e62d9ef7e8572bc9e48195a060b8e81a6ababe2d"
+
+[[files]]
 file = "config/eccentrictome-common.toml"
 hash = "fdc1809377bd35e8babc1c625f513d0a3fe38f5a675ca0b18ce96d835e1ce2f2"
 
@@ -1139,7 +1143,7 @@ metafile = true
 
 [[files]]
 file = "mods/early-loading-screen.pw.toml"
-hash = "7db5d51984d6096126b2dc3901fd7ba5f9c13eb5b748fe763d32e7f4705d9b5f"
+hash = "b508901ff52ff3e7a4b9babbd8950fec90b814a03ceb6c01193ca09d9f40eaad"
 metafile = true
 
 [[files]]
