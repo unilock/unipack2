@@ -1238,6 +1238,11 @@ hash = "63e1916f7e0447dee1e84963ae9c847a4eb183fe338b07d836644da2e3b853b1"
 metafile = true
 
 [[files]]
+file = "mods/enhanced-workbenches.pw.toml"
+hash = "c1f57836f1c94d314f51d5717ef5518b4c4f2c07845ba821bcd6ebe03ef55ab1"
+metafile = true
+
+[[files]]
 file = "mods/etcetera.pw.toml"
 hash = "55a4537d46958dadd9cfb7999fcc076cdaf600f1aa8f283b7c4550307ff488b6"
 metafile = true
