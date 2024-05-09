@@ -73,6 +73,10 @@ file = "config/arcadiandream.json5"
 hash = "abe3d5c1f10c0b02f1146f417040df88bf8ff7857f95815f42a44ed3131c95aa"
 
 [[files]]
+file = "config/arcpocalypse.json"
+hash = "90834945951d980644cb37adf4458d78d64273f50bb04b4a5e9d234abf0a1221"
+
+[[files]]
 file = "config/bclib/client.json"
 hash = "f5b21bbf4a4bb66d6e9e7d4744236f10bd9b764d3c06c75e3bdaf970250719e9"
 
