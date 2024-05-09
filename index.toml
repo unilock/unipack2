@@ -2657,6 +2657,10 @@ file = "resources/assets/emi/index/stacks/removals.json"
 hash = "9a3850f332412deef38ff6d72a3d0725304cd01cd1de7924efb287a11794aec6"
 
 [[files]]
+file = "resources/assets/hybrid_beta/lang/en_us.json"
+hash = "d032f96c5b3862ff25eea6f0ce6add09708c4418cb3719720636e18fb0141840"
+
+[[files]]
 file = "resources/assets/on1chest/lang/en_us.json"
 hash = "7153128c5eb68bc139efa3abc51595a1eb0dee3241fe4cdbc9b38f3472e43848"
 
