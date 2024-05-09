@@ -1683,6 +1683,11 @@ hash = "c239c951796882b9c93e649a0dba4f2d95804441faaed707b686381b7a5c67da"
 metafile = true
 
 [[files]]
+file = "mods/loot-integrations.pw.toml"
+hash = "40750b804e1286b1df11b44835a9888c795f54f0a43ee3eac1a74e739301dae3"
+metafile = true
+
+[[files]]
 file = "mods/lootr-fabric.pw.toml"
 hash = "2beeb497828d72467d5d29dfc9567e06c63c6f1ddf54cb42b7d6a3babd603e0f"
 metafile = true
@@ -2615,6 +2620,11 @@ metafile = true
 [[files]]
 file = "mods/yttr.pw.toml"
 hash = "1548ee56b6c9a8f819f27730de5c01da66ac0412415962ae47e5932534bc382d"
+metafile = true
+
+[[files]]
+file = "mods/yung-structures-addon-for-loot-integrations.pw.toml"
+hash = "cf85738fc12a017bbac7ba33f54364984aa302c895a6bfd536fb8f236d2b6c0b"
 metafile = true
 
 [[files]]
