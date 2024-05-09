@@ -2746,6 +2746,138 @@ file = "resources/data/zenith/enchanting_stats/natura_pylon.json"
 hash = "2b50493592442c973f5c39273a62d674e1eadaf86f8f38960f778f7f5be8c1ee"
 
 [[files]]
+file = "resources/datapacks/separatedleaves/data/aurorasdeco/separated_leaves/jacaranda.json"
+hash = "b604540f12d72cc7d5f9c078d3085423dbb818d55267a9c8541f7703f0b95666"
+
+[[files]]
+file = "resources/datapacks/separatedleaves/data/bewitchment/separated_leaves/cypress.json"
+hash = "3c9f1e739d9be94f720dbedae13743244974ab73ea2b2df6c2d08f82a0892aa2"
+
+[[files]]
+file = "resources/datapacks/separatedleaves/data/bewitchment/separated_leaves/dragons_blood.json"
+hash = "f258fa9b92b7ef5e1b1bcaa8088a7b8c4eecb942b9e8240eaa1fe0808bc3520c"
+
+[[files]]
+file = "resources/datapacks/separatedleaves/data/bewitchment/separated_leaves/elder.json"
+hash = "e0fb77a082cfefdf70df2f29e6a970944859c014332d2c58936fa53f108f6fcb"
+
+[[files]]
+file = "resources/datapacks/separatedleaves/data/bewitchment/separated_leaves/juniper.json"
+hash = "59d643b146896e98a7655d5695451fa22aff116162a8e542cda0bc4e7935aed4"
+
+[[files]]
+file = "resources/datapacks/separatedleaves/data/blockus/separated_leaves/legacy.json"
+hash = "e515622e1d640390a567d22b5b31ce273a1be5d6117a5a31f80cf9002d297f24"
+
+[[files]]
+file = "resources/datapacks/separatedleaves/data/blockus/separated_leaves/white_oak.json"
+hash = "3ed3afd650fba6b4137975a194973b5c7944e18fc301126ca037cae95130f20b"
+
+[[files]]
+file = "resources/datapacks/separatedleaves/data/culturaldelights/separated_leaves/avocado.json"
+hash = "9e8c61eae40044c35d3d6341a0896276efc1f3035e4595cfe81a44a9dae7b964"
+
+[[files]]
+file = "resources/datapacks/separatedleaves/data/hibernalherbs/separated_leaves/myqueste.json"
+hash = "bc7a70126ac9d5ca228f02972ef65394925b61bd1cfb63df33bd2e167ab4c9cc"
+
+[[files]]
+file = "resources/datapacks/separatedleaves/data/neepmeat/separated_leaves/blood_bubble.json"
+hash = "6594f36238cc41d041f6f67d1df64552eca5f7cc23a3d3b706de9786d1e9a5c3"
+
+[[files]]
+file = "resources/datapacks/separatedleaves/data/sc-goodies/separated_leaves/blue.json"
+hash = "c0cb98d066da4772d2c19e403e33c4a3ff4335d5da01eb3cd4b360d4a23dbb70"
+
+[[files]]
+file = "resources/datapacks/separatedleaves/data/sc-goodies/separated_leaves/maple.json"
+hash = "1b5c138a5f25cb99bd28f221f666ed0aff0738c13fe2e58fffcc33098d8306df"
+
+[[files]]
+file = "resources/datapacks/separatedleaves/data/sc-goodies/separated_leaves/sakura.json"
+hash = "dc8de75f7de95b119ab7559af4d45a6c003251cb5b895e96d6f31b0a789560a1"
+
+[[files]]
+file = "resources/datapacks/separatedleaves/data/terrestria/separated_leaves/bryce.json"
+hash = "c3d25281986e9eab0a16b948ec494e60fa0eb3a9e0d2908f4f2e84ed76c78701"
+
+[[files]]
+file = "resources/datapacks/separatedleaves/data/terrestria/separated_leaves/cypress.json"
+hash = "953e0e56bd460bdfc4ec632c09ccf25e86b2da4f9a078f4e1dd780b89e3b8b31"
+
+[[files]]
+file = "resources/datapacks/separatedleaves/data/terrestria/separated_leaves/dark_japanese_maple.json"
+hash = "0cfeba9d4ede2fd6e5a151454456421642aecee79a197830d23931ae5f2efe0e"
+
+[[files]]
+file = "resources/datapacks/separatedleaves/data/terrestria/separated_leaves/hemlock.json"
+hash = "8ab3f9672188d0b049d27d93128e8777828332e2a5fc6a426f5b185720ba5da2"
+
+[[files]]
+file = "resources/datapacks/separatedleaves/data/terrestria/separated_leaves/japanese_maple.json"
+hash = "9d7f2762d0989031054abc2787cf5b767260b2815d52144f098b4d1b16006239"
+
+[[files]]
+file = "resources/datapacks/separatedleaves/data/terrestria/separated_leaves/japanese_maple_shrub.json"
+hash = "4c3cfc95707d12bebe981ff99d06c16f3789f338cc246660b0cc38586f54366d"
+
+[[files]]
+file = "resources/datapacks/separatedleaves/data/terrestria/separated_leaves/jungle_palm.json"
+hash = "66e21c7ac76200ec75c0c4b8147c70f38d0ec483d09a0ca500cc9c0a1a6bbe99"
+
+[[files]]
+file = "resources/datapacks/separatedleaves/data/terrestria/separated_leaves/rainbow_eucalyptus.json"
+hash = "708777c2cccbed534d3dfa225ca443fa34279dbf8d036fcda6f3f10a844efb1d"
+
+[[files]]
+file = "resources/datapacks/separatedleaves/data/terrestria/separated_leaves/redwood.json"
+hash = "6cb231f4ec4105a9bf95cc4b4e38fbacce626db23ea8577ec292cb7a73b44f7f"
+
+[[files]]
+file = "resources/datapacks/separatedleaves/data/terrestria/separated_leaves/rubber.json"
+hash = "5a70ce6623c4b5b2cef14c463ee89ca1a556135f6d096452665074714fd7542b"
+
+[[files]]
+file = "resources/datapacks/separatedleaves/data/terrestria/separated_leaves/sakura.json"
+hash = "9ad954b3e85c5fb3967f8ef61f702dd2aff5d9ebf5fb178f0331c1ec3afdd775"
+
+[[files]]
+file = "resources/datapacks/separatedleaves/data/terrestria/separated_leaves/willow.json"
+hash = "4eb39a6cd7277a76dd57936091c9336073a0fb1862b2ea3fb78803e8a56d996c"
+
+[[files]]
+file = "resources/datapacks/separatedleaves/data/terrestria/separated_leaves/yucca_palm.json"
+hash = "ebfc65ccc1689dd492bdedac8dd5c2de2ce714c577d26c0e8127330ab2bd4ef0"
+
+[[files]]
+file = "resources/datapacks/separatedleaves/data/traverse/separated_leaves/brown_autumnal.json"
+hash = "40b90b6b030bc69e837ccf3cc1a34e44f13d13ad9b091fd1f81fe6523ad2ef5a"
+
+[[files]]
+file = "resources/datapacks/separatedleaves/data/traverse/separated_leaves/fir.json"
+hash = "c69c5a0f8d18fd272ffb9a4d28c42b80124ca40ba92adb0d45cf4f65e177bd66"
+
+[[files]]
+file = "resources/datapacks/separatedleaves/data/traverse/separated_leaves/orange_autumnal.json"
+hash = "5017bd8171496b28498abce96815eeac8cb836918441b474015ddbf76508df78"
+
+[[files]]
+file = "resources/datapacks/separatedleaves/data/traverse/separated_leaves/red_autumnal.json"
+hash = "9eda92f27ed0fb711d6d88b655782b86bb27d3b3b4ecb073a8263c28d47e5b68"
+
+[[files]]
+file = "resources/datapacks/separatedleaves/data/traverse/separated_leaves/yellow_autumnal.json"
+hash = "29a34da697b985869f53de6933d9542dbc5b8595580ce457c0ea877b0a4d4322"
+
+[[files]]
+file = "resources/datapacks/separatedleaves/data/yttr/separated_leaves/squeeze.json"
+hash = "92a8f6834c210e64cadb1cb572748ffea22c87782c48e3672958c71cd8120cc4"
+
+[[files]]
+file = "resources/datapacks/separatedleaves/pack.mcmeta"
+hash = "11e6adba848d7c273604876b37c72ce42163a9989d7f0c60e017ff4574fa6260"
+
+[[files]]
 file = "resources/resourcepacks/Chaotix Apotheotic Tweaks v1.0.zip"
 hash = "1311d44a39903f7fb951fbb9e2561ab5f4e527843c59481ad386159a58c84ddd"
 
