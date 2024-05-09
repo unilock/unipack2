@@ -714,11 +714,6 @@ file = "mods/bankstorage-1.0.2.jar"
 hash = "a26a5b030b32545942b27215ab8b118da2135920bbf45c6a5d112b776289e0b2"
 
 [[files]]
-file = "mods/bclib.pw.toml"
-hash = "0c6982d793283b27ef35fdc3b57b7b9554fbc162c03ac7431ebbee9b1d5b241c"
-metafile = true
-
-[[files]]
 file = "mods/bedrodium.pw.toml"
 hash = "3d85fff4286a77e96c83752664ae74fc2fd39b4e8c11402993968662fe0d3e8b"
 metafile = true
@@ -766,11 +761,6 @@ metafile = true
 [[files]]
 file = "mods/better-trim-tooltips.pw.toml"
 hash = "9fa9b9659167f61c6a77504bd9546faf17ea3e5ba53c9f5b372a94d1f8bd2070"
-metafile = true
-
-[[files]]
-file = "mods/betterend.pw.toml"
-hash = "4b8ffbe47270effb2da83ff2fba6e5dea0158a515033b61a484a21aae6146a76"
 metafile = true
 
 [[files]]
@@ -971,6 +961,11 @@ metafile = true
 [[files]]
 file = "mods/computer-cartographer.pw.toml"
 hash = "e567a249b43bf4a6fdc41409be12be3bd775161d561f1889a0bcc18afc829b31"
+metafile = true
+
+[[files]]
+file = "mods/configurable-nether-portals.pw.toml"
+hash = "aa46bd56863f4d9434eb6d51a40a4588ae76292b99d39d747ba4657eba03ecfd"
 metafile = true
 
 [[files]]
@@ -1631,6 +1626,11 @@ metafile = true
 [[files]]
 file = "mods/language-reload.pw.toml"
 hash = "16ece34cc7f72db9091923d6603ac40f4ba196d436f7fb743bd4c341d6064ede"
+metafile = true
+
+[[files]]
+file = "mods/lava-java.pw.toml"
+hash = "bf6cd41390734b8017b8f240d8c5a57823d59991c0ae5f821bacb96e644aa684"
 metafile = true
 
 [[files]]

@@ -1,0 +1,13 @@
+name = "Lava Java"
+filename = "lava-java-0.4.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "fccf738e941e4ee739aa0a257f42e18d53080714"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4860721
+project-id = 554844

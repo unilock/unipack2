@@ -1,0 +1,13 @@
+name = "Configurable Nether Portals"
+filename = "confnportal-1.1.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/hRGvqYr5/versions/suM8NuDw/confnportal-1.1.0.jar"
+hash-format = "sha1"
+hash = "f3314594e24e0873582890c0d847a78cbc20b623"
+
+[update]
+[update.modrinth]
+mod-id = "hRGvqYr5"
+version = "suM8NuDw"
