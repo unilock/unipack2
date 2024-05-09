@@ -14,7 +14,7 @@
 		"lowViolence": false
 	},
 	"houraiElixirOptions": {
-		"canDrink": false,
+		"canDrink": true,
 		"nerfElixir": true,
 		"allowDying": false,
 		"elixirFatigueThreshold": 1
