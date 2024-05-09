@@ -1388,6 +1388,11 @@ hash = "c9af3d647e2a203ea02dcdf8e0238715d2484aa2c3351b8fcb89ad67cdeeba53"
 metafile = true
 
 [[files]]
+file = "mods/gearifiers.pw.toml"
+hash = "a981cceb35cc574f397264be37f6e1a40f5de2f4005e7aeb87daf6378e57c6fd"
+metafile = true
+
+[[files]]
 file = "mods/geckolib.pw.toml"
 hash = "51eb0cb2f5a43f46f894b29b698ab64626b46e5b156a063d7a047cd7905b89ac"
 metafile = true
