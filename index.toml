@@ -3015,3 +3015,7 @@ hash = "1b9d32c438f5b26ac420f88d1970c3637a7902bb2a964af8a867c2a40993853b"
 [[files]]
 file = "resources/resourcepacks/uniemoji/pack.png"
 hash = "7d56096a9ebd68f81099a2f781eb45a59f00ea517da5b6851f154113c678625d"
+
+[[files]]
+file = "unsup.toml"
+hash = "799ed0fa4330ac5bd24552da33e52eab94a6526f9987df36dbddf05d54cae59e"

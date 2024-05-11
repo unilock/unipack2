@@ -1,0 +1,19 @@
+[flavor_groups.iris]
+name = "Iris"
+description = "Whether or not to install Iris, a mod allowing the use of shaders that may have an impact on performance and stability."
+side = "client"
+[[flavor_groups.iris.choices]]
+id = "no_iris"
+name = "No Iris"
+description = "Do not install Iris. Choose this if you don't expect to be using shaders."
+[[flavor_groups.iris.choices]]
+id = "yes_iris"
+name = "Yes Iris"
+description = "Install Iris. Choose this if you absolutely must use shaders.\nNote that Iris has certain performance impacts and may lead to issues, even when not actively using shaders!"
+
+
+
+[metafile.iris]
+flavors = ["yes_iris"]
+[metafile.iris-flywheel-compat]
+flavors = ["yes_iris"]
