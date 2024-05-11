@@ -742,7 +742,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-frost-walker.pw.toml"
-hash = "129b566ae019fd05318ceac93173231cdb168440b4572873651fef39c22a3020"
+hash = "4a12d3af6d1ab022bdf5d0e94cc672933d208d413d4b0ee6178031b24df8a28a"
 metafile = true
 
 [[files]]
@@ -1257,7 +1257,7 @@ metafile = true
 
 [[files]]
 file = "mods/ex-pattern-provider.pw.toml"
-hash = "4947c43b0a8546dfb6ac428b68375367cc9ba7f3c738d47bb1668110635cf39e"
+hash = "dc598f2ff35179c37f2465d67187d32526dec31e3812aa0373a7ec84f6d712ed"
 metafile = true
 
 [[files]]
@@ -1997,7 +1997,7 @@ metafile = true
 
 [[files]]
 file = "mods/polymer.pw.toml"
-hash = "37c362b45dc684725d14d17929782cebc405fd81b1d866c444c4943a162f4884"
+hash = "0b7a130300ef73821896af2daa9eb5766d87a5e80d782a403438d5f70cb2cb8d"
 metafile = true
 
 [[files]]
@@ -2637,7 +2637,7 @@ metafile = true
 
 [[files]]
 file = "mods/yungs-api-fabric.pw.toml"
-hash = "39a31a5c6bbb5fb31d4ee996b5540b5c4e4ffef7ffd87df76ff036a1263b2046"
+hash = "69ffae60381e09911815fb8f46af8300ddf3a06c00a312acd5b2494b47376274"
 metafile = true
 
 [[files]]
