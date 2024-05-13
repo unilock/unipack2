@@ -1,0 +1,8 @@
+name = "Hephaestus Leveling"
+filename = "hephaestusleveling-0.4.0+1.20.1+fabric.jar"
+side = "both"
+
+[download]
+url = "https://play.fennet.rentals/packwiz/unipack2/manual-jars/both/hephaestusleveling-0.4.0+1.20.1+fabric.jar"
+hash-format = "sha256"
+hash = "984689a605a6146bdfc11ec805b9254382ecffcf0f5e73f92a3b3a68f34c725d"
