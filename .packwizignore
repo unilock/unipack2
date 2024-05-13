@@ -1,5 +1,6 @@
 /*.txt
 /manual-jars
+/unsup.toml
 
 !/options.amecsapi.txt
 
