@@ -1292,7 +1292,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabrication.pw.toml"
-hash = "04d9bc64955fd94886a898881db68a2018551090725a01b2706c0df282e24e7a"
+hash = "c4d412b67ffcd4d83b2a809df1dfadd49df1e852fa6d4707be61c387e3ff26bc"
 metafile = true
 
 [[files]]
@@ -1582,7 +1582,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris-flywheel-compat.pw.toml"
-hash = "7bd67429011cf3593464a6e3768558941a827c8cd46050a71a8c2716f3781b26"
+hash = "5835e1e0d647b6411018ae4d76bbd0cdeb7ce5ea15786c9f917fc884f8406893"
 metafile = true
 
 [[files]]
@@ -1652,7 +1652,7 @@ metafile = true
 
 [[files]]
 file = "mods/language-reload.pw.toml"
-hash = "16ece34cc7f72db9091923d6603ac40f4ba196d436f7fb743bd4c341d6064ede"
+hash = "1d38f56182b5f80fceec47eb4e8c7007003d4b5b158b08e27728ae7bae92fee1"
 metafile = true
 
 [[files]]
@@ -1842,7 +1842,7 @@ metafile = true
 
 [[files]]
 file = "mods/nethers-delight-refabricated.pw.toml"
-hash = "67ee6860f0fae2ae95a4412f9e64aa0eae75e725acec888a33383ab7b9b9cb28"
+hash = "43c7de5a26ce576577c1684a6b36416a8896a5c96a593149acbc33c61cb38176"
 metafile = true
 
 [[files]]
