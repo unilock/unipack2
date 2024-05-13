@@ -742,7 +742,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-frost-walker.pw.toml"
-hash = "4a12d3af6d1ab022bdf5d0e94cc672933d208d413d4b0ee6178031b24df8a28a"
+hash = "15e35f4e7572738fb6db70884399fc450a533bb3187016a81b6c507215d76d29"
 metafile = true
 
 [[files]]
