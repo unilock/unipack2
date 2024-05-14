@@ -2690,10 +2690,6 @@ file = "options.amecsapi.txt"
 hash = "8ea10c6673b5e29473fbd477ec02671ee3b62450725e42c9845e0e4fce458739"
 
 [[files]]
-file = "resources/assets/emi/index/stacks/removals.json"
-hash = "9a3850f332412deef38ff6d72a3d0725304cd01cd1de7924efb287a11794aec6"
-
-[[files]]
 file = "resources/assets/hybrid_beta/lang/en_us.json"
 hash = "d032f96c5b3862ff25eea6f0ce6add09708c4418cb3719720636e18fb0141840"
 
@@ -2716,6 +2712,10 @@ hash = "22923efccc0bf7f9165992b397b0c05b73b22a79660e5ff2587178811f9d9e1c"
 [[files]]
 file = "resources/data/arcanuscontinuum/advancements/grant_compendium_arcanus.json"
 hash = "ccd833c48f93133bad335cac00b5d9dac831743457a0bd3375e63cdd1a2bc35b"
+
+[[files]]
+file = "resources/data/c/tags/items/hidden_from_recipe_viewers.json"
+hash = "4523e350f5e31a328244693066de14d868ab2b933c600d1660cbb1f98ea04f8c"
 
 [[files]]
 file = "resources/data/culturaldelights/loot_tables/blocks/avocado_leaves.json"
