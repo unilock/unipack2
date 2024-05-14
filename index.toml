@@ -1036,11 +1036,6 @@ hash = "252878ad67eb85e89d725478bd36a64ce6f84b247c3ac8a1851f3b4f553f11f4"
 metafile = true
 
 [[files]]
-file = "mods/create-metalwork-fabric.pw.toml"
-hash = "720492bbd4d8cac13a44b0e93c0b7cd0063be6608682a1e7fdfccec26d0adc91"
-metafile = true
-
-[[files]]
 file = "mods/critical-shears.pw.toml"
 hash = "2d66f5cb9e76986d7b4ce546bddeeb8abc5ccf678711d3f785defee282df438a"
 metafile = true
