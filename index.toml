@@ -1532,7 +1532,7 @@ metafile = true
 
 [[files]]
 file = "mods/icarus.pw.toml"
-hash = "6dd1254ec25349b215cdb4a26bdd3014c044014e0f52c84054b598c02edbe974"
+hash = "2d5486bfa332f7ac675e547c8589c183386c19aa22468641b0a5c64c4a786629"
 metafile = true
 
 [[files]]
