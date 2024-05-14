@@ -146,7 +146,7 @@ hash = "3078da59a2bc322a409362f286ae57ade6d1ef0822bcd706f5b4419e95ffecf7"
 
 [[files]]
 file = "config/defaultoptions/keybindings.txt"
-hash = "6f23859697a4a3d12b2104e39c12cd083dff6f29c6f31bf44aff64b9c7960ca9"
+hash = "89b5e1b4b8a02ace7698e03adb417bfa1ca72acf3697525424a81ec13408789a"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
@@ -2686,7 +2686,7 @@ metafile = true
 
 [[files]]
 file = "options.amecsapi.txt"
-hash = "8ea10c6673b5e29473fbd477ec02671ee3b62450725e42c9845e0e4fce458739"
+hash = "836a3bf01fe9c90e44b947a6a1f02ff049ff8ae13d14dfcc641a585fefcd2177"
 
 [[files]]
 file = "resources/assets/hybrid_beta/lang/en_us.json"
