@@ -1592,12 +1592,12 @@ metafile = true
 
 [[files]]
 file = "mods/iris-flywheel-compat.pw.toml"
-hash = "5835e1e0d647b6411018ae4d76bbd0cdeb7ce5ea15786c9f917fc884f8406893"
+hash = "fe9a01e0088039ac5546ce50584d228371750ac20442a70f81409fe88bb7b08a"
 metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "9890ca38aa1fc088ff61a8bfe0f86e38f43f3bd8a44d6616331e70d8920b910a"
+hash = "bea7422cbe82074a7e6306cdcd0ab8941cce0e86e439fcbffd3d9930de3e32a3"
 metafile = true
 
 [[files]]
