@@ -241,6 +241,10 @@ file = "config/held-item-info.json"
 hash = "c97217bd11e0ef03d9dca2669222b045d6320c780354caab51076c35451c8597"
 
 [[files]]
+file = "config/ibeeditor-common.json"
+hash = "4a93b74532744256461f19755df9b1ca427bc83a811f788b16efae0c66a5ba07"
+
+[[files]]
 file = "config/icarus.jsonc"
 hash = "3f5be82e14bc3518e7aa186e489059e13f270db99aa93baa5469327ae5d52fea"
 
