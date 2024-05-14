@@ -218,7 +218,9 @@
   "itemTagInheritance": {},
   "blockTagInheritanceMode": "ALLOW",
   "blockTagInheritance": {},
-  "ignoredTags": [],
+  "ignoredTags": [
+    "c:copper_blocks"
+  ],
   "ignoredItems": [
     "betterend:thallasium_ingot",
     "betternether:cincinnasite_ingot"
