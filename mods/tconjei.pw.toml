@@ -1,8 +1,15 @@
 name = "TConJEI"
-filename = "tconjei-1.1.0+1.0.1+1.20.1+fabric.jar"
+filename = "tconjei-1.1.0+1.20.1+fabric.jar"
 side = "client"
 
 [download]
-url = "https://play.fennet.rentals/packwiz/unipack2/manual-jars/client/tconjei-1.1.0+1.0.1+1.20.1+fabric.jar"
+url = "https://github.com/unilock/TConJEI/releases/download/1.1.0%2B1.20.1%2Bfabric/tconjei-1.1.0%2B1.20.1%2Bfabric.jar"
 hash-format = "sha256"
-hash = "ae59688eb26a2fcd7304bdead39f7343d55031775a33712baadec3b0acd655ea"
+hash = "8d07d82e56c7ef6d6409f7eb58555f6f980ec34716d78b755b305ea538c86d2a"
+
+[update]
+[update.github]
+branch = "master"
+regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
+slug = "unilock/TConJEI"
+tag = "1.1.0+1.20.1+fabric"
