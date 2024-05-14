@@ -219,7 +219,8 @@
   "blockTagInheritanceMode": "ALLOW",
   "blockTagInheritance": {},
   "ignoredTags": [
-    "c:copper_blocks"
+    "c:copper_blocks",
+    "c:obsidian"
   ],
   "ignoredItems": [
     "betterend:thallasium_ingot",
