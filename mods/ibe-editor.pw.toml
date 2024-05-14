@@ -1,0 +1,13 @@
+name = "IBE Editor"
+filename = "IBEEditor-1.20-2.2.8-fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "19e9483bc594ea50a90abaaaef666d742eb1185c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4994071
+project-id = 256822

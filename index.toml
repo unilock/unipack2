@@ -1526,6 +1526,11 @@ hash = "953380b86d184c2392c5ea1b8c3d7dbf272596fc672f552bd8dc6a3bdcf27451"
 metafile = true
 
 [[files]]
+file = "mods/ibe-editor.pw.toml"
+hash = "2c8a9918afa9232b1f5cb719dbf0494a81214f7b073d37e19422549c247cab81"
+metafile = true
+
+[[files]]
 file = "mods/icarus.pw.toml"
 hash = "6dd1254ec25349b215cdb4a26bdd3014c044014e0f52c84054b598c02edbe974"
 metafile = true
