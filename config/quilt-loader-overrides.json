@@ -13,16 +13,6 @@
 						"id": "fabric-language-kotlin",
 						"versions": ">=1.10.10+kotlin.1.9.10"
 					}
-				},
-				{
-					"replace": {
-						"id": "fabricloader",
-						"versions": ">=0.15.10"
-					},
-					"with": {
-						"id": "fabricloader",
-						"versions": ">=0.15.7"
-					}
 				}
 			]
 		},
@@ -37,16 +27,6 @@
 					"with": {
 						"id": "fabric-language-kotlin",
 						"versions": ">=1.10.10+kotlin.1.9.10"
-					}
-				},
-				{
-					"replace": {
-						"id": "fabricloader",
-						"versions": ">=0.15.10"
-					},
-					"with": {
-						"id": "fabricloader",
-						"versions": ">=0.15.7"
 					}
 				}
 			]
@@ -107,6 +87,21 @@
 					"with": {
 						"id": "fabric-language-kotlin",
 						"versions": ">=1.10.10+kotlin.1.9.10"
+					}
+				}
+			]
+		},
+		{
+			"id": "languagereload",
+			"depends": [
+				{
+					"replace": {
+						"id": "fabricloader",
+						"versions": ">=0.15.11"
+					},
+					"with": {
+						"id": "fabricloader",
+						"versions": ">=0.15.10"
 					}
 				}
 			]
@@ -212,21 +207,6 @@
 					"with": {
 						"id": "fabric-language-kotlin",
 						"versions": ">=1.10.10+kotlin.1.9.10"
-					}
-				}
-			]
-		},
-		{
-			"id": "taxfreelevels",
-			"depends": [
-				{
-					"replace": {
-						"id": "fabricloader",
-						"versions": ">=0.15.10"
-					},
-					"with": {
-						"id": "fabricloader",
-						"versions": ">=0.15.7"
 					}
 				}
 			]
