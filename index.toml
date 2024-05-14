@@ -1471,11 +1471,6 @@ hash = "a916473217ef902e17ec70cc1dcaecbea064242e4e9db1b024e6a6460d3b676b"
 metafile = true
 
 [[files]]
-file = "mods/hephaestus-leveling.pw.toml"
-hash = "c58298cec076dfd3b9a264a01232daa0f3ac3b18b0d636f71485028fce688369"
-metafile = true
-
-[[files]]
 file = "mods/hephaestus.pw.toml"
 hash = "62eeeb1733f37ec138fc076c20d39a12c3d5020b4b67147a523d2fad118da9ff"
 metafile = true
