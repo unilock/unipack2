@@ -1,13 +1,13 @@
 name = "Ok Zoomer"
-filename = "OkZoomer-Quilt-5.1.0+1.20.1.jar"
+filename = "OkZoomer-Quilt-5.2.0-beta.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "df0e77de73abf2dd83f7d2173c0388bab7f9dbcb"
+hash = "c7784a7de711c8b55b91ae0c289a2d180b928542"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5231040
+file-id = 5342149
 project-id = 354047

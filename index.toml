@@ -593,7 +593,7 @@ metafile = true
 
 [[files]]
 file = "mods/alternate-current.pw.toml"
-hash = "fbb7c2db20a38c0a5c451b2a7d31720f4e8d72daa7d0475292030546f2479199"
+hash = "2272b622a4131fcf6857d6e0025edc2eb31d1933c9184c77cbdc687d00356484"
 metafile = true
 
 [[files]]
@@ -1522,7 +1522,7 @@ metafile = true
 
 [[files]]
 file = "mods/icarus.pw.toml"
-hash = "2d5486bfa332f7ac675e547c8589c183386c19aa22468641b0a5c64c4a786629"
+hash = "6dd1254ec25349b215cdb4a26bdd3014c044014e0f52c84054b598c02edbe974"
 metafile = true
 
 [[files]]
@@ -1892,7 +1892,7 @@ metafile = true
 
 [[files]]
 file = "mods/ok-zoomer.pw.toml"
-hash = "f51d3b512213bcbae1da9d04159bff662adfbc04ad113d07a9c8eeff79587ab3"
+hash = "69088ed8a0511e3e202162c0e4de86c3abcd282c40665a6ec65caa6bc3f13024"
 metafile = true
 
 [[files]]
@@ -2377,7 +2377,7 @@ metafile = true
 
 [[files]]
 file = "mods/suggestion-tweaker.pw.toml"
-hash = "291bd64f9c18ad292f8995660453352462a42d8338ebbc5239dd8af181a755d8"
+hash = "e86f91de17de6f9770edbe2e175567de56dad6ec66b021d2d180a515e9e1e66e"
 metafile = true
 
 [[files]]
