@@ -2406,7 +2406,7 @@ metafile = true
 
 [[files]]
 file = "mods/tconjei.pw.toml"
-hash = "73d345635e363605722c1897f9e561e83458ecc9b18a999a178f8eea8ff2fe90"
+hash = "bc32e85c977e93a65efccd3ae20caa46f896a25e17e67bc79c716ece0026aa99"
 metafile = true
 
 [[files]]

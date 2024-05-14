@@ -1,8 +1,8 @@
 name = "TConJEI"
-filename = "tconjei-1.1.0+1.20.1+fabric.jar"
+filename = "tconjei-1.1.0+1.0.1+1.20.1+fabric.jar"
 side = "client"
 
 [download]
-url = "https://play.fennet.rentals/packwiz/unipack2/manual-jars/client/tconjei-1.1.0+1.20.1+fabric.jar"
+url = "https://play.fennet.rentals/packwiz/unipack2/manual-jars/client/tconjei-1.1.0+1.0.1+1.20.1+fabric.jar"
 hash-format = "sha256"
-hash = "9305da6de2b22006dda595a3b3980f713c3f73d65333091fb4e3b12c2002360b"
+hash = "ae59688eb26a2fcd7304bdead39f7343d55031775a33712baadec3b0acd655ea"
