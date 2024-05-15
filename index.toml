@@ -105,6 +105,10 @@ file = "config/bwncr.toml"
 hash = "719ac523430d387933b2d284d2b9148ffea47d9826c23a97f7505ea02a006158"
 
 [[files]]
+file = "config/caramel.mica.properties"
+hash = "8d16928d57fabb8ffe73568a27c8293df39c7f5cd04c9f24cd9a4f9c8aade864"
+
+[[files]]
 file = "config/cardinal-components-api.properties"
 hash = "27f9628d41f987a7d7c7063ed98cca6e2c9cb5c0ca2e87ffc8830db1b92acc3c"
 
@@ -382,7 +386,7 @@ hash = "f5a3e757ca74a0ee07e5e63052b31f68105c0538f9e64ef6e705934632b3c4e9"
 
 [[files]]
 file = "config/resourcepackoverrides.json"
-hash = "efb2823035fa53a283f3295ef63089cc2aba70a5be80f4e1896e055a18b8d27c"
+hash = "25ca2b2ec7481a2b51413ba4286c8a0dbcf95ac0ed4b4444b4727e8ad590d7d1"
 
 [[files]]
 file = "config/rightclickharvest.json"
@@ -917,11 +921,6 @@ metafile = true
 [[files]]
 file = "mods/cinderscapes.pw.toml"
 hash = "29e76e233eb1851f53a82772e1f424a5e0f1e6c41ff64b013c8a517c55ebefe8"
-metafile = true
-
-[[files]]
-file = "mods/cit-resewn.pw.toml"
-hash = "66d05a663646e41a3062f298b12e501e1000f77d8d5201f594dd1ea364ed8c27"
 metafile = true
 
 [[files]]
@@ -1757,6 +1756,11 @@ metafile = true
 [[files]]
 file = "mods/merequester.pw.toml"
 hash = "3cf72c20e1c1a4246aba8a59e6a45e71eefff52e6c5c986fb8dc85f93fc38067"
+metafile = true
+
+[[files]]
+file = "mods/mica.pw.toml"
+hash = "3710f2eb2a4c0077e4ce57afd8675f846655809f3eafe4fd0caaa91dc5d3548c"
 metafile = true
 
 [[files]]
@@ -2701,6 +2705,10 @@ file = "resources/assets/spiceoffabric/lang/en_us.json"
 hash = "af973310a8f91854d1ac4c5990bf34557058967316e22df29804c5328e591bd1"
 
 [[files]]
+file = "resources/data/abridged/loot_tables/chests/badlands_mining.json"
+hash = "a6e884375230ab73d69501102c7011ce7122e89b70b1bb63bd93ff0657c29820"
+
+[[files]]
 file = "resources/data/amethyst_imbuement/advancements/grant_book_on_first_join.json"
 hash = "ccd833c48f93133bad335cac00b5d9dac831743457a0bd3375e63cdd1a2bc35b"
 
@@ -2935,11 +2943,6 @@ hash = "1311d44a39903f7fb951fbb9e2561ab5f4e527843c59481ad386159a58c84ddd"
 [[files]]
 file = "resources/resourcepacks/emi-create-cobble-gen-compat.pw.toml"
 hash = "fd37b834317eabc107cd68ca83518e9f35d1563b13eb09c6d4102c3fda584d27"
-metafile = true
-
-[[files]]
-file = "resources/resourcepacks/even-better-enchants.pw.toml"
-hash = "369852a15ba98f38e88e116d61be97323eeed834a5b06bc6ab36b30a2fde2d76"
 metafile = true
 
 [[files]]
