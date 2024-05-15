@@ -462,7 +462,7 @@ hash = "f0aeff237bad98f31782930597b4001b6e890b63d46160f8f6f9c6b59f950010"
 
 [[files]]
 file = "config/veinmining-server.toml"
-hash = "90f7eb2d0931a709a7fe866e38c164ce78882551665d1fbb50395f1d6f25d5b1"
+hash = "1a5156ee7f90d63b8748401b3cb27b4afebbf31bedcf5be6340e53b52f581f27"
 
 [[files]]
 file = "config/waila/waila.json"
@@ -2719,6 +2719,14 @@ hash = "22923efccc0bf7f9165992b397b0c05b73b22a79660e5ff2587178811f9d9e1c"
 [[files]]
 file = "resources/data/arcanuscontinuum/advancements/grant_compendium_arcanus.json"
 hash = "ccd833c48f93133bad335cac00b5d9dac831743457a0bd3375e63cdd1a2bc35b"
+
+[[files]]
+file = "resources/data/c/tags/blocks/brookite_ores.json"
+hash = "527dd84650ee5ea413367d183668b5ea5ebb2d336866bd0b6f2ee5899dabdbad"
+
+[[files]]
+file = "resources/data/c/tags/blocks/gadolinite_ores.json"
+hash = "e4cb29ff538fa2f7325c665abe543996188124d0b71a0168db46bbbebf60357f"
 
 [[files]]
 file = "resources/data/c/tags/items/hidden_from_recipe_viewers.json"
