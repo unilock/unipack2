@@ -774,11 +774,6 @@ hash = "94b3367391063c77435e87fbf38cf934e35992fd36123a7bc65ce329234ae27a"
 metafile = true
 
 [[files]]
-file = "mods/better-stats.pw.toml"
-hash = "c938d7304e448940072bc922cf6616dc6386289d1421e563dfd2a4ce5f5afa17"
-metafile = true
-
-[[files]]
 file = "mods/better-trim-tooltips.pw.toml"
 hash = "9fa9b9659167f61c6a77504bd9546faf17ea3e5ba53c9f5b372a94d1f8bd2070"
 metafile = true
