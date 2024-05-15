@@ -12,7 +12,6 @@
     "linkedstorage/enderstorage",
     "hibernalherbs/modernized",
     "ECCGC.zip",
-    "EBE_1.20.x_v1.1.zip",
     "Chaotix Apotheotic Tweaks v1.0.zip",
     "botaniacombat/botaniacombatlang",
 	"uniemoji",
@@ -24,7 +23,6 @@
   "pack_overrides": {
     "optionals": [
       "Midnighttiggers-FCT-Default_1.20.1_V1.zip",
-      "EBE_1.20.x_v1.1.zip",
       "Chaotix Apotheotic Tweaks v1.0.zip"
     ],
     "defaults": [
