@@ -1530,7 +1530,7 @@ metafile = true
 
 [[files]]
 file = "mods/icarus.pw.toml"
-hash = "2d5486bfa332f7ac675e547c8589c183386c19aa22468641b0a5c64c4a786629"
+hash = "6892f56e28d94040685b4001d7822c895aca83b3d27fee8677091839e4f7a58b"
 metafile = true
 
 [[files]]
@@ -1660,7 +1660,7 @@ metafile = true
 
 [[files]]
 file = "mods/language-reload.pw.toml"
-hash = "1d38f56182b5f80fceec47eb4e8c7007003d4b5b158b08e27728ae7bae92fee1"
+hash = "2097ff4c966e014b75e54665b0554f70c55ea68539f46f6ec38f2dbb0482ea0e"
 metafile = true
 
 [[files]]
