@@ -1,13 +1,13 @@
 name = "BlossomBack"
-filename = "blossom-back-2.1.0+1.20.jar"
+filename = "blossom-back-2.1.1+1.20.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/tHwJbPJm/versions/hsgsAqBN/blossom-back-2.1.0%2B1.20.jar"
+url = "https://cdn.modrinth.com/data/tHwJbPJm/versions/WfXwQ35C/blossom-back-2.1.1%2B1.20.jar"
 hash-format = "sha1"
-hash = "a8fecba9260a0c39358f36beb18fc725b57f9732"
+hash = "3a018847ed59845bedecb4543f72071d6e40700f"
 
 [update]
 [update.modrinth]
 mod-id = "tHwJbPJm"
-version = "hsgsAqBN"
+version = "WfXwQ35C"
