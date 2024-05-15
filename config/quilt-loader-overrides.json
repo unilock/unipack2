@@ -32,6 +32,21 @@
 			]
 		},
 		{
+			"id": "botania",
+			"depends": [
+				{
+					"replace": {
+						"id": "fabric-api",
+						"versions": ">=0.92"
+					},
+					"with": {
+						"id": "fabric-api",
+						"versions": ">=0.91.0"
+					}
+				}
+			]
+		},
+		{
 			"id": "fakerlib",
 			"depends": [
 				{
