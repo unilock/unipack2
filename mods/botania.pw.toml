@@ -1,8 +1,0 @@
-name = "Botania"
-filename = "Botania-1.20.1-444-FABRIC-SNAPSHOT.jar"
-side = "both"
-
-[download]
-url = "https://play.fennet.rentals/packwiz/unipack2/manual-jars/both/Botania-1.20.1-444-FABRIC-SNAPSHOT.jar"
-hash-format = "sha256"
-hash = "0d88e6045fb0cf28090fcad0e7af2cf9f32c1c71757ad95a329bb3f5abb9e17a"

@@ -834,8 +834,8 @@ hash = "e210475d56c39e68f8247619a8e22d18129bc257329b90d74fdfdeb878e6cd68"
 metafile = true
 
 [[files]]
-file = "mods/botania.pw.toml"
-hash = "ed6d86c707af678aa8985e0641e1c6115a1fb1d4f8a9662c6a99aacf520806d0"
+file = "mods/botania-fabric.pw.toml"
+hash = "6f1083a48507407ba20565aca39df2862510ea1eb4db2b667b9cd1ec74ca40bc"
 metafile = true
 
 [[files]]
