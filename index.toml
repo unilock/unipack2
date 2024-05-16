@@ -277,10 +277,6 @@ file = "config/iris.properties"
 hash = "bebc8fb916718b04d4ddf2e8d7a5010147933c988d556efee1c3f9a1795e65a6"
 
 [[files]]
-file = "config/item_obliterator.json5"
-hash = "a13487c7809617a24e0d869f2624632e71680c9ca5dac963d783a437c1fef4d4"
-
-[[files]]
 file = "config/itemflexer.mcfg"
 hash = "99989fa2ad0da68ed12f77795c0994a3862a8b33ff473f1c06d1b9b0848a74cc"
 
@@ -1594,11 +1590,6 @@ hash = "bea7422cbe82074a7e6306cdcd0ab8941cce0e86e439fcbffd3d9930de3e32a3"
 metafile = true
 
 [[files]]
-file = "mods/item-obliterator.pw.toml"
-hash = "9785c074b8ffaeb91fb0120b3b56fa8ba96ce5547205af2695e11f0bcc21faf7"
-metafile = true
-
-[[files]]
 file = "mods/itemflexer.pw.toml"
 hash = "c010bbe9c9943ec0ca2599a2294bf3baa6eec47dfec01d497a4f4bcc78e12941"
 metafile = true
@@ -2725,7 +2716,7 @@ hash = "e4cb29ff538fa2f7325c665abe543996188124d0b71a0168db46bbbebf60357f"
 
 [[files]]
 file = "resources/data/c/tags/items/hidden_from_recipe_viewers.json"
-hash = "4523e350f5e31a328244693066de14d868ab2b933c600d1660cbb1f98ea04f8c"
+hash = "aaf333b6b638ea43b388d0c9fbc8601de1e1736de5f5de957e6c2e46e64a279f"
 
 [[files]]
 file = "resources/data/c/tags/items/raw_cobalt_ores.json"
@@ -2777,7 +2768,7 @@ hash = "f8df36b03b72cef51fc3ebb1557fb3c618c0d8dfa777af284383b3677f7a8971"
 
 [[files]]
 file = "resources/data/unipack/jsonpatch/removals.jsonpatch"
-hash = "1b23d8840f322378e4665799c9fe6af5e035991f96b2b953406e28acc827e934"
+hash = "fcf7af74a623d605e2d6c1bc1f50eee41d35a1fec29ba9548db3de3c828635a1"
 
 [[files]]
 file = "resources/data/unipack/loot_tables/book.json"

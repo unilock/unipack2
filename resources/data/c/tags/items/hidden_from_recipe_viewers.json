@@ -1,6 +1,24 @@
 {
-    "replace": false,
-    "values": [
-        "ae2:facade"
-    ]
+	"replace": false,
+	"values": [
+		"ae2:facade",
+		"coxinhautilities:cardboard_box",
+		"kibe:chunk_loader",
+		"kibe:entangled_bag",
+		"kibe:entangled_chest",
+		"kibe:slime_boots",
+		"kibe:slime_sling",
+		"sc-goodies:iron_chest",
+		"sc-goodies:iron_barrel",
+		"sc-goodies:gold_chest",
+		"sc-goodies:gold_barrel",
+		"sc-goodies:diamond_chest",
+		"sc-goodies:diamond_barrel",
+		"sc-goodies:barrel_hammer",
+		"sc-goodies:ender_storage",
+		"sc-goodies:vanilla_iron_chest_upgrade",
+		"sc-goodies:iron_gold_chest_upgrade",
+		"sc-goodies:iron_diamond_chest_upgrade",
+		"sc-goodies:gold_diamond_chest_upgrade"
+	]
 }

@@ -10,7 +10,30 @@ val removals = [
 	"fabrichammers:recipes/emerald_hammer.json",
 	"fabrichammers:recipes/emerald_hoe.json",
 	"fabrichammers:recipes/emerald_shovel.json",
-	"fabrichammers:recipes/emerald_sword.json"
+	"fabrichammers:recipes/emerald_sword.json",
+
+	"coxinhautilities:recipes/cardboard_box/cardboard_box.json",
+	"coxinhautilities:recipes/cardboard_box/cardboard_box_saw_dust.json",
+	"kibe:recipes/chunk_loader.json",
+	"kibe:recipes/entangled_bag.json",
+	"kibe:recipes/entangled_chest.json",
+	"kibe:recipes/slime_boots.json",
+	"kibe:recipes/slime_sling.json",
+	"sc-goodies:recipes/barrel_hammer.json",
+	"sc-goodies:recipes/diamond_barrel_with_gold_barrel.json",
+	"sc-goodies:recipes/diamond_barrel_with_iron_barrel.json",
+	"sc-goodies:recipes/diamond_chest_with_gold_chest.json",
+	"sc-goodies:recipes/diamond_chest_with_iron_chest.json",
+	"sc-goodies:recipes/ender_storage.json",
+	"sc-goodies:recipes/gold_barrel.json",
+	"sc-goodies:recipes/gold_chest.json",
+	"sc-goodies:recipes/gold_diamond_chest_upgrade.json",
+	"sc-goodies:recipes/iron_barrel.json",
+	"sc-goodies:recipes/iron_chest.json",
+	"sc-goodies:recipes/iron_diamond_chest_upgrade.json",
+	"sc-goodies:recipes/iron_gold_chest_upgrade.json",
+	"sc-goodies:recipes/modify_ender_storage.json",
+	"sc-goodies:recipes/vanilla_iron_chest_upgrade.json"
 ];
 
 foreach (i in removals) {
