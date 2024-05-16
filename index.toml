@@ -744,6 +744,11 @@ hash = "2e835de52707ca820100e9732c4be90f01e8b09dfc2b3fc3033184283fcf87ab"
 metafile = true
 
 [[files]]
+file = "mods/beetlebox.pw.toml"
+hash = "fd82714b0a7b5cd0094b6f0db5a5afe235daa373c8979da4d29aa97c7d381647"
+metafile = true
+
+[[files]]
 file = "mods/better-climbing.pw.toml"
 hash = "2f0c572f52bd5508491258b40a1d18e3b5c93dfba89848d09ca68d43e0d3a8ee"
 metafile = true
