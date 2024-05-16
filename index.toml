@@ -2728,6 +2728,10 @@ file = "resources/data/c/tags/items/hidden_from_recipe_viewers.json"
 hash = "4523e350f5e31a328244693066de14d868ab2b933c600d1660cbb1f98ea04f8c"
 
 [[files]]
+file = "resources/data/c/tags/items/raw_cobalt_ores.json"
+hash = "e403033a89e67c627748efdd2d81467289e9fbd57ed0e0f500fd6a9294205786"
+
+[[files]]
 file = "resources/data/culturaldelights/loot_tables/blocks/avocado_leaves.json"
 hash = "ee6d4d14a7b6b601a85d26cd479565379417ae184972a7549e7257f7bf6df46b"
 
