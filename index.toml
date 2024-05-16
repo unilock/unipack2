@@ -1865,7 +1865,7 @@ metafile = true
 
 [[files]]
 file = "mods/nilcord.pw.toml"
-hash = "25636a36d1a2aa89d2a67dfb43a3f4715b8e872f16a41a38e130d3bb7df9dffe"
+hash = "58ea893b0060ce3cc53def6c4c5746f385cb9232547002138bd245e19818a52a"
 metafile = true
 
 [[files]]
