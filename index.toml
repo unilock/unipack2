@@ -2240,6 +2240,11 @@ hash = "db5a1c7f46a9e397a88fb49ed9856ead85dc22b40611b614b71d1fe15e09c770"
 metafile = true
 
 [[files]]
+file = "mods/shutup.pw.toml"
+hash = "0f5e39817278291e9c217ca5250441afd58cdf9ad0d96785cef90a403d37797e"
+metafile = true
+
+[[files]]
 file = "mods/signedvelocity.pw.toml"
 hash = "c1dffc6902312c269d86786eb7bbe78fc33179bc66dd03e575d88e520faf0127"
 metafile = true
