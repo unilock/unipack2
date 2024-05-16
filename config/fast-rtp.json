@@ -1,0 +1,34 @@
+{
+  "requirePermission": false,
+  "useCurrentWorld": true,
+  "useStrictTeleportCheck": false,
+  "defaultDimension": "minecraft:overworld",
+  "radius": 2500,
+  "minRadius": 500,
+  "safetyCheckRadius": 2,
+  "cooldown": 0,
+  "blackListedBiomes": [
+    "minecraft:small_end_islands",
+    "minecraft:the_void",
+    "minecraft:the_end"
+  ],
+  "blackListedBiomeTags": [
+    "minecraft:is_beach",
+    "minecraft:is_ocean",
+    "minecraft:is_deep_ocean",
+    "minecraft:is_river"
+  ],
+  "messages": {
+    "rtpStartSearch": "<yellow>Searching for a safe location...</yellow>",
+    "rtpLocFound": "<yellow>Found a safe location in ${seconds} seconds</yellow>",
+    "rtpTeleportPlayer": "<dark_aqua>Teleported to</dark_aqua> <green>${x} ${y} ${z}</green> <dark_aqua>in</dark_aqua> <green>${world}</green>",
+    "rtpLocNotFound": "<red>[✖]</red> <gold>Could not find a safe RTP location!</gold>",
+    "rtpOnCooldown": "<red>[✖]</red> <gold>Please wait</gold> <yellow>${seconds}</yellow> <gold>seconds before using RTP again!</gold>",
+    "preventedRtp": "<red>[✖]</red> <gold>Could not start RTP.\nReason: ${reason}</gold>",
+    "rtpBackSuccess": "<dark_aqua>Teleported back to your last RTP!</dark_aqua>",
+    "rtpBackLocNotFound": "<red>[✖]</red> <gold>You don't have any recent RTPs.</gold>",
+    "preventedRtpBack": "<red>[✖]</red> <gold>Unable to teleport back to your last RTP location.\nReason: ${reason}</gold>",
+    "tpSecondsLeft": "<yellow>Teleporting in ${seconds} seconds...</yellow>",
+    "tpCancelled": "<red>[✖]</red> <gold>Teleportation was cancelled.</gold>"
+  }
+}
