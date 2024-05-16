@@ -219,12 +219,13 @@
   "blockTagInheritanceMode": "ALLOW",
   "blockTagInheritance": {},
   "ignoredTags": [
-    "c:copper_blocks",
-    "c:obsidian"
+    "c:copper_blocks"
   ],
   "ignoredItems": [
     "betterend:thallasium_ingot",
-    "betternether:cincinnasite_ingot"
+    "betternether:cincinnasite_ingot",
+    "minecraft:crying_obsidian",
+    "minecraft:obsidian"
   ],
   "ignoredRecipeTypes": [
     "cucumber:shaped_tag"
