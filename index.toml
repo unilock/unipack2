@@ -2325,7 +2325,7 @@ metafile = true
 
 [[files]]
 file = "mods/spectral-decorations.pw.toml"
-hash = "74e49ea8770b4e19efc88549306874a207833b8b8adcbc798085c51911f46cfe"
+hash = "9c2703e455d3bed3d016869aaa893c230960ef8d434b2a355b931ef1b8ab1ae8"
 metafile = true
 
 [[files]]
@@ -2565,7 +2565,7 @@ metafile = true
 
 [[files]]
 file = "mods/watering-cans.pw.toml"
-hash = "40bf9e03c3ea503a0a3e23a15d3d6e673abae57099c41d612b8e587b3d74c39a"
+hash = "b2e947c6dc5b126a06172c496919f90e65b11510c72c122cb261abf6a4609bfa"
 metafile = true
 
 [[files]]
