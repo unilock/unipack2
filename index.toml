@@ -2564,6 +2564,11 @@ hash = "fab6ac1665f022c0ca72c73ed0974049f5453b8f4f280092b4aa5ac773fed5c2"
 metafile = true
 
 [[files]]
+file = "mods/watering-cans.pw.toml"
+hash = "40bf9e03c3ea503a0a3e23a15d3d6e673abae57099c41d612b8e587b3d74c39a"
+metafile = true
+
+[[files]]
 file = "mods/wdmnf.pw.toml"
 hash = "c898a5c177c0ac70cf70a1c1421c6598518aeaf951eb7e29a225993d5726747e"
 metafile = true
