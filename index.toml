@@ -2731,6 +2731,94 @@ file = "resources/data/arcanuscontinuum/advancements/grant_compendium_arcanus.js
 hash = "ccd833c48f93133bad335cac00b5d9dac831743457a0bd3375e63cdd1a2bc35b"
 
 [[files]]
+file = "resources/data/botania/recipes/orechid/antimony_ore.json"
+hash = "365e95f5c6e993c8b4001a7a2216c0a5106208b523cd10a1d2be647a3f544313"
+
+[[files]]
+file = "resources/data/botania/recipes/orechid/bauxite_ore.json"
+hash = "2ac65ebc9b1dbe2a9b5f55276128890f11bfbe61c6bcdcdb0b22504e0ddce655"
+
+[[files]]
+file = "resources/data/botania/recipes/orechid/deepslate_antimony_ore.json"
+hash = "b6a4fd94d8319dee35500bb018a9cc53f942f89da83c9ff199d7ecf53fda27c0"
+
+[[files]]
+file = "resources/data/botania/recipes/orechid/deepslate_bauxite_ore.json"
+hash = "dba3bacbf50f4df6ec96c62e776409544e7d12a9dc05c297c9be8bc761295ee9"
+
+[[files]]
+file = "resources/data/botania/recipes/orechid/deepslate_lead_ore.json"
+hash = "2e857d7b5fbd537ba31fbf4203e7f8f0256c86d83fed91c324b1f7395fe7569a"
+
+[[files]]
+file = "resources/data/botania/recipes/orechid/deepslate_lignite_ore.json"
+hash = "4423ba6901999442f357e91b0e01df4d1c20848fe82c2639bbe4a845281c5aaf"
+
+[[files]]
+file = "resources/data/botania/recipes/orechid/deepslate_monazite_ore.json"
+hash = "3a57aecae1fe674f4fa95b81295376d781fbbb42cce04c2a003304b23057d4d6"
+
+[[files]]
+file = "resources/data/botania/recipes/orechid/deepslate_nickel_ore.json"
+hash = "165c0537b4d54edbcb8732d50091198202a3f9579e5c7794269375ee47e2290f"
+
+[[files]]
+file = "resources/data/botania/recipes/orechid/deepslate_salt_ore.json"
+hash = "63079ca49fdd15f132f613d7caa0c5558d48ecea790cb24ab67dae8088937865"
+
+[[files]]
+file = "resources/data/botania/recipes/orechid/deepslate_tin_ore.json"
+hash = "245c723012fb6b40deb811f193198e2a7937feec8a3de9eec8ea1624ff3543cb"
+
+[[files]]
+file = "resources/data/botania/recipes/orechid/deepslate_tungsten_ore.json"
+hash = "fd1966b4b1d5837b7cf011357a24fd5504b09d92b8a9494d4833a7b4f7812bed"
+
+[[files]]
+file = "resources/data/botania/recipes/orechid/deepslate_uranium_ore.json"
+hash = "ab5c05620727ff00a2a909fce30c60251926c1cd9bd915a428bd5fd56193f1a8"
+
+[[files]]
+file = "resources/data/botania/recipes/orechid/deepslate_zinc_ore.json"
+hash = "fc58a9a1d5ab2f3fc5618ce81be10d5a3386166c825f0a2a7ecd2c44f32eb5bb"
+
+[[files]]
+file = "resources/data/botania/recipes/orechid/lead_ore.json"
+hash = "fec92cde179bbdef9ea19f8c2d7cddc35f35c9757cc6a3b2abaf5672d3e5dfe3"
+
+[[files]]
+file = "resources/data/botania/recipes/orechid/lignite_ore.json"
+hash = "6780e6460e988f8e2aef13d52a5df634b7d50ce4125ce1c80bd218fc7b14733d"
+
+[[files]]
+file = "resources/data/botania/recipes/orechid/monazite_ore.json"
+hash = "48745a00bfc02daec44b6e08f814742373fd36a29bb78c0b73e8c6019b4908c6"
+
+[[files]]
+file = "resources/data/botania/recipes/orechid/nickel_ore.json"
+hash = "e1d0d7541427804097022bd4184eca203df85989067ea1c672c0de7af4f712c3"
+
+[[files]]
+file = "resources/data/botania/recipes/orechid/salt_ore.json"
+hash = "49b9eaa217816174992ee14e41f526e9c5e2f249cd063f8615214eb9ed268919"
+
+[[files]]
+file = "resources/data/botania/recipes/orechid/tin_ore.json"
+hash = "ae41fe91ce5165376138010f7c27af08ca679b1ee2fb68ba0905ccd8bf33e21a"
+
+[[files]]
+file = "resources/data/botania/recipes/orechid/tungsten_ore.json"
+hash = "602d9a4073c766adcb13deb49ab507b011793d3cec5333b1ae74617aa0d34c6d"
+
+[[files]]
+file = "resources/data/botania/recipes/orechid/uranium_ore.json"
+hash = "0dfc6e3b9e281ecdf1b5f630aec9b4e686f85f7b2d568243b53facf7bb9d7854"
+
+[[files]]
+file = "resources/data/botania/recipes/orechid/zinc_ore.json"
+hash = "34b5879a41569d7e65322db7dfe3ed6c7cdc74106e528616dc98d72fdf29459a"
+
+[[files]]
 file = "resources/data/c/tags/blocks/brookite_ores.json"
 hash = "527dd84650ee5ea413367d183668b5ea5ebb2d336866bd0b6f2ee5899dabdbad"
 
