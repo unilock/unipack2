@@ -1705,7 +1705,7 @@ metafile = true
 
 [[files]]
 file = "mods/loot-integrations.pw.toml"
-hash = "40750b804e1286b1df11b44835a9888c795f54f0a43ee3eac1a74e739301dae3"
+hash = "af39aa7bda9244f22f8e841a9071d78934574807768e8068102a32055bca1858"
 metafile = true
 
 [[files]]
@@ -2325,7 +2325,7 @@ metafile = true
 
 [[files]]
 file = "mods/spectral-decorations.pw.toml"
-hash = "9c2703e455d3bed3d016869aaa893c230960ef8d434b2a355b931ef1b8ab1ae8"
+hash = "74e49ea8770b4e19efc88549306874a207833b8b8adcbc798085c51911f46cfe"
 metafile = true
 
 [[files]]
@@ -2335,7 +2335,7 @@ metafile = true
 
 [[files]]
 file = "mods/spectrum.pw.toml"
-hash = "b837182a34e7c377b25a5c9e174371ffe823c1d9d520eb52d7b63bc0486041db"
+hash = "e6fa12bdf86928ff693fcdb2b8bda982cba646b11d5f6c7e106f0368817df55d"
 metafile = true
 
 [[files]]

@@ -1,13 +1,13 @@
 name = "Spectrum"
-filename = "spectrum-deeper-down-1.7.10.jar"
+filename = "1.7.11-1.20.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "a5f7be1224ccfd72cbe7c989a0f1abfdac6a954b"
+hash = "4c3aa817642b185903b4148cf1eb3b844a353471"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5326506
+file-id = 5351056
 project-id = 556967
