@@ -895,7 +895,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "b6bc92bcfc7b6242d0f25a1ad030214aa6746dcba0fb49bb1a48dc8d97943006"
+hash = "134d9d349a5b29447f183d93499b5acd02426ac4c0c7307ffe313d3816aa23bc"
 metafile = true
 
 [[files]]
@@ -1235,7 +1235,7 @@ metafile = true
 
 [[files]]
 file = "mods/enchancement.pw.toml"
-hash = "6faeb661c60d91da000cd50405d4c558832c87bba6816af589f2b7b29e675352"
+hash = "4091cbd06fc8806b90a28a1e841b7d43620bcbc47395383d78dd0ac37fa8f175"
 metafile = true
 
 [[files]]
@@ -1385,7 +1385,7 @@ metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "17459cfd8bc5d7c9997ac3d6f383d8588e3d47b9be42423eb6c341867a4d4cc7"
+hash = "e55d272bdb99897524506f6ad10820fb76a8475cf1e318243817fe3bce15954d"
 metafile = true
 
 [[files]]
@@ -2325,7 +2325,7 @@ metafile = true
 
 [[files]]
 file = "mods/spectral-decorations.pw.toml"
-hash = "9c2703e455d3bed3d016869aaa893c230960ef8d434b2a355b931ef1b8ab1ae8"
+hash = "00ea18ca43ce7393992a6a9550a6117faa56da660aa0c59fcac07d0eb039c858"
 metafile = true
 
 [[files]]
