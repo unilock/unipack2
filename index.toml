@@ -895,7 +895,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "134d9d349a5b29447f183d93499b5acd02426ac4c0c7307ffe313d3816aa23bc"
+hash = "d0377a83505fac0b4fcdbfdb2b3263b9c09ca30d714175adae3dbaa3f48ca4da"
 metafile = true
 
 [[files]]
@@ -1590,7 +1590,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-tabs.pw.toml"
-hash = "888c65b3df100f58d5b13426abedcc49e1a66438e73df2704fdc6a03e1127048"
+hash = "a59823cb4698d6b0b1c288459c7d007c480cc02ab0689caa3ed10e6f77006ab3"
 metafile = true
 
 [[files]]
