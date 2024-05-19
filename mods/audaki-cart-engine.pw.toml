@@ -1,13 +1,15 @@
-name = "Audaki Cart Engine: Faster Minecarts / Balanced for Survival / Vanilla Carts Improved"
-filename = "ACE-2.0.6.jar"
+name = "Audaki Cart Engine"
+filename = "ACE-3.0.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "ece8c55ac3f229c2ef41a9fe6ad76be19ae3823b"
-mode = "metadata:curseforge"
+url = "https://github.com/unilock/minecraft-cart-engine/releases/download/v3.0.0%2B1.20/ACE-3.0.0.jar"
+hash-format = "sha256"
+hash = "291454991799ec11f6fe7d3be1b1b8e9bfe229fbb80794b5035f118825de9b7f"
 
 [update]
-[update.curseforge]
-file-id = 4761947
-project-id = 520576
+[update.github]
+branch = "fabric-mc1.20"
+regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
+slug = "unilock/minecraft-cart-engine"
+tag = "v3.0.0+1.20"
