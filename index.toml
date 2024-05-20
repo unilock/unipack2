@@ -601,7 +601,7 @@ metafile = true
 
 [[files]]
 file = "mods/alternate-current.pw.toml"
-hash = "2272b622a4131fcf6857d6e0025edc2eb31d1933c9184c77cbdc687d00356484"
+hash = "c91188fce95259071890dfbffe0165e22122fe6b89e2dc72c7e702a53c0c8285"
 metafile = true
 
 [[files]]
@@ -1295,7 +1295,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabrication.pw.toml"
-hash = "c4d412b67ffcd4d83b2a809df1dfadd49df1e852fa6d4707be61c387e3ff26bc"
+hash = "6c99bd6ea6ffe452b6f78e25590fca86d0e582be2032feca3f608cf375359ce1"
 metafile = true
 
 [[files]]
@@ -1905,7 +1905,7 @@ metafile = true
 
 [[files]]
 file = "mods/ok-zoomer.pw.toml"
-hash = "69088ed8a0511e3e202162c0e4de86c3abcd282c40665a6ec65caa6bc3f13024"
+hash = "75323c8a18cd4cc45e4b07bc2794810832d18b7147c70ab9116b347a98810c3b"
 metafile = true
 
 [[files]]
