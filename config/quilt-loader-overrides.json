@@ -107,21 +107,6 @@
 			]
 		},
 		{
-			"id": "languagereload",
-			"depends": [
-				{
-					"replace": {
-						"id": "fabricloader",
-						"versions": ">=0.15.11"
-					},
-					"with": {
-						"id": "fabricloader",
-						"versions": ">=0.15.10"
-					}
-				}
-			]
-		},
-		{
 			"id": "particle_core",
 			"depends": [
 				{
