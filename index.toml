@@ -646,7 +646,7 @@ metafile = true
 
 [[files]]
 file = "mods/arcanus-continuum.pw.toml"
-hash = "484dfcb54d6678b2046644167e4676d5e152b6622b2c8bc7278414001abe39ba"
+hash = "b7f7aca818079a5d1b81ce3b17bcb0b4521ecea9d5c3079495ccd6022e9a0b83"
 metafile = true
 
 [[files]]
@@ -1300,7 +1300,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabrication.pw.toml"
-hash = "6c99bd6ea6ffe452b6f78e25590fca86d0e582be2032feca3f608cf375359ce1"
+hash = "69d96aa69fcc2d097577ba15c47ec551bdadcc890f6cdb0643c11d7f8889acca"
 metafile = true
 
 [[files]]
@@ -1390,7 +1390,7 @@ metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "e55d272bdb99897524506f6ad10820fb76a8475cf1e318243817fe3bce15954d"
+hash = "0cc8b23ff897c146c7a66baafd92a3fb498d622a7fd6611bd9d33ef0f0c42adb"
 metafile = true
 
 [[files]]
@@ -2195,7 +2195,7 @@ metafile = true
 
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
-hash = "b587bea8ab6df349f3a8035d1f5b8492819c2a72722e770468fc9b0ddfb9fdd3"
+hash = "302adba0f8f48209a745dc8775f04057f428cd73a2b305d9af9fdab66abf8be4"
 metafile = true
 
 [[files]]
