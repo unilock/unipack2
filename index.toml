@@ -2570,7 +2570,7 @@ metafile = true
 
 [[files]]
 file = "mods/watering-cans.pw.toml"
-hash = "12943cfae63bec640df99dd629bb0408c3bb59ad8e3c3174a21132ae2ab27eed"
+hash = "aa0d8392fa887a46a4122dd48b2a5e04dae9ab7fea0d61cd168292307f53a6e0"
 metafile = true
 
 [[files]]
