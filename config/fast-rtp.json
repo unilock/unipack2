@@ -3,8 +3,8 @@
   "useCurrentWorld": true,
   "useStrictTeleportCheck": false,
   "defaultDimension": "minecraft:overworld",
-  "radius": 2500,
-  "minRadius": 500,
+  "radius": 10000,
+  "minRadius": 1000,
   "safetyCheckRadius": 2,
   "cooldown": 0,
   "blackListedBiomes": [
