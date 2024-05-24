@@ -150,7 +150,7 @@ hash = "3078da59a2bc322a409362f286ae57ade6d1ef0822bcd706f5b4419e95ffecf7"
 
 [[files]]
 file = "config/defaultoptions/keybindings.txt"
-hash = "89b5e1b4b8a02ace7698e03adb417bfa1ca72acf3697525424a81ec13408789a"
+hash = "9b37e01ce068b16fdae48abe383467a81ba0b310eec123c3dd57e5c978e9c006"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
@@ -2201,6 +2201,11 @@ metafile = true
 [[files]]
 file = "mods/respite-creators-fabric.pw.toml"
 hash = "3b965df2088aeee820b257b07107da73c1ab92a59b91667aed59ab5f542381e4"
+metafile = true
+
+[[files]]
+file = "mods/resquake.pw.toml"
+hash = "fdf8f6389ab825ce2e1027d4de7197312faf5e67ab4041f4e8d60e15ca9e0798"
 metafile = true
 
 [[files]]

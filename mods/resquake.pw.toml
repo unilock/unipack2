@@ -1,0 +1,13 @@
+name = "re:squake"
+filename = "resquake-1.1.2+1.20.4.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/a9PBgIsO/versions/UxrOWdKb/resquake-1.1.2%2B1.20.4.jar"
+hash-format = "sha1"
+hash = "a295a76954417bf96f18dacd44be34bebda87301"
+
+[update]
+[update.modrinth]
+mod-id = "a9PBgIsO"
+version = "UxrOWdKb"
