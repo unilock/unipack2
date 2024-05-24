@@ -148,8 +148,6 @@ key_key.portalcubed.grab:key.keyboard.g:NONE
 key_key.portalcubed.remove_portals:key.keyboard.r:NONE
 key_key.portalcubed.toggle_hidden_blocks:key.keyboard.unknown:NONE
 key_key.pressalttomeow.meow:key.keyboard.left.alt:NONE
-key_key.resquake.config:key.keyboard.unknown:NONE
-key_key.resquake.toggle:key.keyboard.unknown:NONE
 key_key.right:key.keyboard.d:NONE
 key_key.rightthrow.desc:key.keyboard.unknown:NONE
 key_key.rocket.desc:key.mouse.left:NONE
