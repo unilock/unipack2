@@ -1,13 +1,13 @@
 name = "Effected Wakes"
-filename = "EffectedWakes-0.1.2.jar"
+filename = "EffectedWakes-0.2.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/A6fPIajO/versions/qPcsLGX8/EffectedWakes-0.1.2.jar"
+url = "https://cdn.modrinth.com/data/A6fPIajO/versions/WvWv97SE/EffectedWakes-0.2.1.jar"
 hash-format = "sha1"
-hash = "dd3e900216fb17be41761b83e3ecf2875de69fbb"
+hash = "b30e5611672b93ebd998e802e4f08ca5c42ab475"
 
 [update]
 [update.modrinth]
 mod-id = "A6fPIajO"
-version = "qPcsLGX8"
+version = "WvWv97SE"
