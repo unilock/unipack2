@@ -666,7 +666,7 @@ metafile = true
 
 [[files]]
 file = "mods/armaments.pw.toml"
-hash = "9f866d389e49862c504f749fbf6fd560b1b27f423eed109bf91ccb98a00df135"
+hash = "9caeca52a009789d262f8778996c155fc59b339b922df55a7843cc8a6e67e0af"
 metafile = true
 
 [[files]]
@@ -1285,7 +1285,7 @@ metafile = true
 
 [[files]]
 file = "mods/extra-mod-integrations.pw.toml"
-hash = "56ade2c0ce94b785fca1fb06993ad05479aaa269184897f368d973b2493b6c71"
+hash = "fce2be0de327cbcd6d1589aa18a538ce377ba9e3ed7826d8a3adcdacaf9fb178"
 metafile = true
 
 [[files]]
@@ -1300,7 +1300,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabrication.pw.toml"
-hash = "69d96aa69fcc2d097577ba15c47ec551bdadcc890f6cdb0643c11d7f8889acca"
+hash = "934201fdb3163539be2bca6b6e79f5f4009bc8919f787e217362b325740dd0f1"
 metafile = true
 
 [[files]]
@@ -1505,7 +1505,7 @@ metafile = true
 
 [[files]]
 file = "mods/hibernal-herbs.pw.toml"
-hash = "4102aac69c109b00200432a08aa86e65ad29d7e0fc7ff0550ff3051c7781405d"
+hash = "e585eb88a1ca2e2a21a5007efb603552a3e9ebffeaf3b591948e2e6c9c883f45"
 metafile = true
 
 [[files]]
@@ -1795,7 +1795,7 @@ metafile = true
 
 [[files]]
 file = "mods/modern-industrialization.pw.toml"
-hash = "1856a146310aa6b32b669197980a3af464f614e9bcba42025d1a64653435edc3"
+hash = "212f9397692e057f2819ae2a1193a0e8b90901abd7c6302a681bc5d5b29f6860"
 metafile = true
 
 [[files]]
@@ -1945,7 +1945,7 @@ metafile = true
 
 [[files]]
 file = "mods/packet-fixer.pw.toml"
-hash = "d4d388f59090614ace6edb787f7495328a3fd1d80f229f9ed8891f88befd0ef5"
+hash = "4309ea8345464a9bf101163d67186ee61c732dc36d2ee74fa99f7a4e9e8a7ae8"
 metafile = true
 
 [[files]]
@@ -1985,7 +1985,7 @@ metafile = true
 
 [[files]]
 file = "mods/pehkui.pw.toml"
-hash = "d6ba97570ac7eb8bc4fcf20b176583c5e4181b388da4f3fe11440828808df96a"
+hash = "55fc08465e842d049d632c9ff13f538d08ca873990ef72e6a30704b92236bb1c"
 metafile = true
 
 [[files]]
@@ -2025,7 +2025,7 @@ metafile = true
 
 [[files]]
 file = "mods/polymorph.pw.toml"
-hash = "81ec97001d5d12612c5481cd75f03de4bff51a0fa80458cde6f90d0c2a579a6a"
+hash = "7bc4ca797e563b4bbfadfd13550e54d1610d82a155ce4edf35648f9e1daa083b"
 metafile = true
 
 [[files]]
@@ -2615,7 +2615,7 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
-hash = "f1797fe561ba104ef3440057f8ecc4cc486a831e75f7fee16bf323c7a9c20b54"
+hash = "b4dc695d252577c2191a02acdb82c34199c8631674de90a7937b95e147ce3453"
 metafile = true
 
 [[files]]
@@ -2660,7 +2660,7 @@ metafile = true
 
 [[files]]
 file = "mods/youre-in-grave-danger.pw.toml"
-hash = "7d53055529c102dd1b2ae478c149456f723d9fad14e584394149f04c12d828f1"
+hash = "3ccc0fb33e4eade9e2e30ce8c055c53c9cbd836b0ad342f8dfc3324d195144bf"
 metafile = true
 
 [[files]]

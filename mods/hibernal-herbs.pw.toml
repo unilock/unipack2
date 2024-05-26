@@ -1,13 +1,13 @@
 name = "Hibernal Herbs [Fabric/Forge]"
-filename = "HibernalHerbs-fabric-1.20.1-1.1-hotfix-4.jar"
+filename = "HibernalHerbs-fabric-1.20.1-1.2-hotfix-1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "dff4721f26172b7ecde153b3142b02205a9c7e2d"
+hash = "2c09e3f5dc3e075f2a75ecaeaf0b1ee3943d9437"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4993503
+file-id = 5374511
 project-id = 701458
