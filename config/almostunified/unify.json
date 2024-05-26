@@ -173,39 +173,6 @@
     "c:tin_nuggets": [
       "mythicmetals:tin_nugget"
     ],
-    "c:aluminum_rods": [
-      "modern_industrialization:aluminum_rod"
-    ],
-    "c:bronze_rods": [
-      "modern_industrialization:bronze_rod"
-    ],
-    "c:copper_rods": [
-      "modern_industrialization:copper_rod"
-    ],
-    "c:gold_rods": [
-      "modern_industrialization:gold_rod"
-    ],
-    "c:invar_rods": [
-      "modern_industrialization:invar_rod"
-    ],
-    "c:iron_rods": [
-      "modern_industrialization:iron_rod"
-    ],
-    "c:stainless_steel_rods": [
-      "modern_industrialization:stainless_steel_rod"
-    ],
-    "c:steel_rods": [
-      "modern_industrialization:steel_rod"
-    ],
-    "c:tin_rods": [
-      "modern_industrialization:tin_rod"
-    ],
-    "c:titanium_rods": [
-      "modern_industrialization:titanium_rod"
-    ],
-    "c:tungsten_rods": [
-      "modern_industrialization:tungsten_rod"
-    ],
     "c:dragonstone_storage_blocks": [
       "botania:dragonstone_block"
     ],

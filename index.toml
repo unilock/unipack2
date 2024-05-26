@@ -50,7 +50,7 @@ hash = "8172e5fd74b6c135dcad74e3601c3d63854ff362973259fa5ed7ec0b0dc05814"
 
 [[files]]
 file = "config/almostunified/unify.json"
-hash = "9432e4fece114bd00e27e6fde62208b1b93eb7638023612c8cf297475e0eaedc"
+hash = "9c08a4a9bfb044e842a693be9829d1f4a39072b2c0cfeb2509e1c7ba77e1a0e7"
 
 [[files]]
 file = "config/amethyst_imbuement/enchantments_config.toml"
