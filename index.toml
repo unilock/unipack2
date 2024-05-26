@@ -2384,6 +2384,11 @@ hash = "36b28bb6cc09a13632ee75283071f4fbda59ee56815099f313fc9d81d6fe5d02"
 metafile = true
 
 [[files]]
+file = "mods/straw-dummy.pw.toml"
+hash = "c4d2d7e70e294b1eab7fc821f39b1e4b7466f1dd15d15533b89c8fa34e3f35e4"
+metafile = true
+
+[[files]]
 file = "mods/structure-essentials-forge-fabric.pw.toml"
 hash = "b25dcfe10e77071dea13e6134feb21ae84711bc201fa64a11d467b97d57f0314"
 metafile = true

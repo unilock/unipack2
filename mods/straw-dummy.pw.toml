@@ -1,0 +1,8 @@
+name = "Straw Dummy"
+filename = "strawdummy-1.9.0.jar"
+side = "both"
+
+[download]
+url = "https://play.fennet.rentals/packwiz/unipack2/manual-jars/both/strawdummy-1.9.0.jar"
+hash-format = "sha256"
+hash = "7c86a127f0d86822d83dc73fe89e47c30d295adb76dcd74a2256049a85dfda34"
