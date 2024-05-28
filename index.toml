@@ -1734,8 +1734,8 @@ hash = "987221d24a474be5d2fed8f739a856a99072f6323c40d1f417d8ad445f23a35b"
 metafile = true
 
 [[files]]
-file = "mods/maxhealthfixfixfix.pw.toml"
-hash = "9df6f240a18c4d7a3e7bc52348a1e04613c0ac19b5e29ef24138ddf59e222a3b"
+file = "mods/max-health-fix.pw.toml"
+hash = "12f5c792c87699be602c679ff3cfe81eaea183dd66a07f995c9a7cb4fa5100d3"
 metafile = true
 
 [[files]]
