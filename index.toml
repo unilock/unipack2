@@ -2743,8 +2743,12 @@ file = "resources/data/abridged/loot_tables/chests/badlands_mining.json"
 hash = "a6e884375230ab73d69501102c7011ce7122e89b70b1bb63bd93ff0657c29820"
 
 [[files]]
+file = "resources/data/affinity/advancements/root.json"
+hash = "9ff4e92362d79f0757108696b573c8aa3a13710d5c7096da1fe3046ba3942f99"
+
+[[files]]
 file = "resources/data/amethyst_imbuement/advancements/grant_book_on_first_join.json"
-hash = "ccd833c48f93133bad335cac00b5d9dac831743457a0bd3375e63cdd1a2bc35b"
+hash = "3afcb3f566bdd59595ceb07205a6b2cc3e6a41319bca28f9d0cff83c622a82b5"
 
 [[files]]
 file = "resources/data/apathy/tags/entity_types/bosses.json"
@@ -2752,7 +2756,7 @@ hash = "22923efccc0bf7f9165992b397b0c05b73b22a79660e5ff2587178811f9d9e1c"
 
 [[files]]
 file = "resources/data/arcanuscontinuum/advancements/grant_compendium_arcanus.json"
-hash = "ccd833c48f93133bad335cac00b5d9dac831743457a0bd3375e63cdd1a2bc35b"
+hash = "7798882c6e0c6d49df9e35e5e23e757bde316148371ba9abaecbb958b57b1cd4"
 
 [[files]]
 file = "resources/data/botania/recipes/orechid/antimony_ore.json"
@@ -2864,7 +2868,7 @@ hash = "ee6d4d14a7b6b601a85d26cd479565379417ae184972a7549e7257f7bf6df46b"
 
 [[files]]
 file = "resources/data/hexcasting/advancements/grant_patchi_book.json"
-hash = "ccd833c48f93133bad335cac00b5d9dac831743457a0bd3375e63cdd1a2bc35b"
+hash = "7798882c6e0c6d49df9e35e5e23e757bde316148371ba9abaecbb958b57b1cd4"
 
 [[files]]
 file = "resources/data/minecraft/tags/items/hoes.json"
@@ -2880,7 +2884,7 @@ hash = "19eb251a6ac0d3d57827b314d4c00117cd3787f843ab909cc0e9d5d7f9130cad"
 
 [[files]]
 file = "resources/data/peculiarpieces/advancements/patchouli_book.json"
-hash = "ccd833c48f93133bad335cac00b5d9dac831743457a0bd3375e63cdd1a2bc35b"
+hash = "7798882c6e0c6d49df9e35e5e23e757bde316148371ba9abaecbb958b57b1cd4"
 
 [[files]]
 file = "resources/data/rightclickharvest/tags/items/high_tier_hoes.json"

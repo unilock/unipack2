@@ -1,7 +1,12 @@
 {
 	"criteria": {
-		"impossible": {
-			"trigger": "minecraft:impossible"
+		"amethyst_imbuement:give_if_config": {
+			"trigger": "amethyst_imbuement:give_if_config"
 		}
+	},
+	"rewards": {
+		"loot": [
+			"amethyst_imbuement:grant_book_on_first_join"
+		]
 	}
 }
