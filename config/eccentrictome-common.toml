@@ -5,11 +5,11 @@
 	#Disable overlay previewing tome conversion
 	disable_overlay = false
 	#Mod aliases
-	aliases = ["deepresonance=rftoolsbase", "integratedcrafting=integrateddynamics", "integratedterminals=integrateddynamics", "integratedtunnels=integrateddynamics", "mysticalaggraditions=mysticalagriculture", "mythicbotany=botania", "rftoolsbuilder=rftoolsbase", "rftoolscontrol=rftoolsbase", "rftoolsdim=rftoolsbase", "rftoolspower=rftoolsbase", "rftoolspower=rftoolsbase", "rftoolsstorage=rftoolsbase", "rftoolsutility=rftoolsbase", "xnet=rftoolsbase"]
+	aliases = []
 	#Whitelisted names
-	names = ["almanac", "book", "chronicle", "codex", "compendium", "enchiridion", "grimoire", "guide", "journal", "knowledge", "lexicon", "manual", "nomicon", "pedia", "tome"]
+	names = ["almanac", "book", "chronicle", "codex", "compendium", "enchiridion", "grimoire", "guide", "journal", "knowledge", "lexicon", "manual", "nomicon", "pedia", "testament", "tome"]
 	#Whitelisted items
-	items = ["ad_astra:astrodux", "alexsmobs:animal_dictionary", "compactmachines:personal_shrinking_device", "cookingforblockheads:no_filter_edition", "draconicevolution:info_tablet", "enigmaticlegacy:the_acknowledgment", "evilcraft:origins_of_darkness", "iceandfire:bestiary", "integrateddynamics:on_the_dynamics_of_integration", "neepmeat:projector", "occultism:dictionary_of_spirits", "rootsclassic:runic_tablet", "tconstruct:fantastic_foundry", "tconstruct:materials_and_you", "tconstruct:mighty_smelting", "tconstruct:puny_smelting", "tconstruct:tinkers_gadgetry", "theoneprobe:probenote"]
+	items = ["ad_astra:astrodux", "neepmeat:projector", "rootsclassic:runic_tablet", "tconstruct:fantastic_foundry", "tconstruct:materials_and_you", "tconstruct:mighty_smelting", "tconstruct:puny_smelting", "tconstruct:tinkers_gadgetry"]
 	#Whitelisted item tags
 	include_item_tags = []
 	#Blacklisted mods

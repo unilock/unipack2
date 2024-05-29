@@ -170,7 +170,7 @@ hash = "f6bb15aab22c16a3277a4fb9e62d9ef7e8572bc9e48195a060b8e81a6ababe2d"
 
 [[files]]
 file = "config/eccentrictome-common.toml"
-hash = "fdc1809377bd35e8babc1c625f513d0a3fe38f5a675ca0b18ce96d835e1ce2f2"
+hash = "79bd5b9877a3145c1ad46082654cff199035477530b099d29599f9a83bc3b3e2"
 
 [[files]]
 file = "config/ecologics.json"
@@ -1240,11 +1240,6 @@ metafile = true
 [[files]]
 file = "mods/emiffect-status-effects-emi-plugin.pw.toml"
 hash = "1cafd31169228e1888380d040b806baf1bb1e0b973d46c7b22b1b1e78db57e41"
-metafile = true
-
-[[files]]
-file = "mods/emogg.pw.toml"
-hash = "17245535751a9ed088fddef08e270a95ea24edb42928af9c342becb134efbfbd"
 metafile = true
 
 [[files]]
