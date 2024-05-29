@@ -1,8 +1,0 @@
-name = "emogg"
-filename = "emogg-2.0.0+1.20.1.jar"
-side = "client"
-
-[download]
-url = "https://play.fennet.rentals/packwiz/unipack2/manual-jars/client/emogg-2.0.0+1.20.1.jar"
-hash-format = "sha256"
-hash = "47071ef60beee144e5457f76f2c70792c7621627740b4d7804bdc0dcbe19abd1"
