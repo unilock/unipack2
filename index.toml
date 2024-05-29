@@ -580,6 +580,11 @@ hash = "3d5e29b2ecbc3ebe4ed4e9b5c1d731e760556bab29a293be8972ef134d3a3b72"
 metafile = true
 
 [[files]]
+file = "mods/affinity.pw.toml"
+hash = "fa8460c3265d5ae742add1b45ab7ea262e05c11fca97822b75117ba76e6eac42"
+metafile = true
+
+[[files]]
 file = "mods/afkdisplay.pw.toml"
 hash = "90c6d24c94a2aec0637bb5803dfba5124f6df3bb89a5ad073f3d527c6163b44c"
 metafile = true
@@ -1674,6 +1679,11 @@ hash = "bf6cd41390734b8017b8f240d8c5a57823d59991c0ae5f821bacb96e644aa684"
 metafile = true
 
 [[files]]
+file = "mods/lavender-api.pw.toml"
+hash = "505b2a92d050a7debdf7d72938d673fb8ab4c3ebfdb1714573a03ae02b5a0897"
+metafile = true
+
+[[files]]
 file = "mods/lib39.pw.toml"
 hash = "a23f160f54ed73993d26f990b4f98827b7587883409f458bfca437688aed5daf"
 metafile = true
@@ -2441,6 +2451,11 @@ metafile = true
 [[files]]
 file = "mods/terra-armory.pw.toml"
 hash = "1593659ee905769b061040f578f27c201b60255b2edddcbc856734bf0ea0532f"
+metafile = true
+
+[[files]]
+file = "mods/terrablender-fabric.pw.toml"
+hash = "4c3e112fd51bd798d94aee2d0b2b760273bea50480ba0f607f0277e3a7da068f"
 metafile = true
 
 [[files]]
