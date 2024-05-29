@@ -173,6 +173,10 @@ file = "config/eccentrictome-common.toml"
 hash = "fdc1809377bd35e8babc1c625f513d0a3fe38f5a675ca0b18ce96d835e1ce2f2"
 
 [[files]]
+file = "config/ecologics.json"
+hash = "70a090e3c400cde5820ba134ea5a950ba4d9bcdc0aa7ea22cd8affe3fb691a08"
+
+[[files]]
 file = "config/effective.json"
 hash = "9645a35b5717edef7e81313f48dde19e9fb99116e62068b94724e336467c1a76"
 
@@ -691,7 +695,7 @@ metafile = true
 
 [[files]]
 file = "mods/audaki-cart-engine.pw.toml"
-hash = "15aa1d875e8140f308a63113c18afcae0293caf30aa887a4ac3a73d6fc4a9e44"
+hash = "8b07789513bc51a5405bcd56e703e2e0b091d1a8d0a1b07640dce8570fe60572"
 metafile = true
 
 [[files]]
@@ -1885,7 +1889,7 @@ metafile = true
 
 [[files]]
 file = "mods/nilcord.pw.toml"
-hash = "58ea893b0060ce3cc53def6c4c5746f385cb9232547002138bd245e19818a52a"
+hash = "f5ca3f1cb123de8a1d34a0d8ff1ba16411af2a2ea7e4269d84c14563c99d614e"
 metafile = true
 
 [[files]]
