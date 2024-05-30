@@ -2228,6 +2228,11 @@ hash = "45a0be935bcca91138996460610bd84312729d6ae00648fbb7ea332bd23bb437"
 metafile = true
 
 [[files]]
+file = "mods/roguelikedungeons.pw.toml"
+hash = "84608c92b12b1d48d5b740c35b201e4ad5e629fe173bea40fcd153f79aae213d"
+metafile = true
+
+[[files]]
 file = "mods/roots-classic.pw.toml"
 hash = "71d55ec45f16806bbde04f5d7b9242dea6a3256dd4e9429b122a052db54f5e74"
 metafile = true
