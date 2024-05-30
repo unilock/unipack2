@@ -370,7 +370,7 @@ hash = "b4e9c80637ce089f1fc68cf7189e5467439032df93cf00586ab8f23b66bdf362"
 
 [[files]]
 file = "config/quilt-loader-overrides.json"
-hash = "456b11cc446214a941681bd7b73ac90d74bd1bcf04cea2d684b6c60ac55bcd18"
+hash = "cc70a6082dc68179615e263d4047e9ac3e596e92dfc9810a79dd387bfb1e54b3"
 
 [[files]]
 file = "config/railways-client.toml"
@@ -805,6 +805,11 @@ metafile = true
 [[files]]
 file = "mods/bewitchment.pw.toml"
 hash = "daf8030dfb7a2c8c335982310e387a4a6825b26b340bbabc904a3895a9eea77a"
+metafile = true
+
+[[files]]
+file = "mods/bhc-fabric.pw.toml"
+hash = "3b6c955e04a622e06b44500f6e6e6959a6905bc29096fa9f262b4a5bc2d9bb1a"
 metafile = true
 
 [[files]]
@@ -2560,6 +2565,11 @@ metafile = true
 [[files]]
 file = "mods/vanillaparts.pw.toml"
 hash = "aed1ff0d9583d0d0d2424f9885f3823be1730f469ec5056d98a3f63e74cbe017"
+metafile = true
+
+[[files]]
+file = "mods/variant-furnaces.pw.toml"
+hash = "90852635b552fe580e0ff7498c89891dee88ac3f8d4ff5575aad591bcc3b502b"
 metafile = true
 
 [[files]]
