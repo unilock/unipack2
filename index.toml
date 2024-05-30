@@ -585,7 +585,7 @@ metafile = true
 
 [[files]]
 file = "mods/affinity.pw.toml"
-hash = "fa8460c3265d5ae742add1b45ab7ea262e05c11fca97822b75117ba76e6eac42"
+hash = "cb10d360225470e3462123faae0b02391592772f5cf9b9242665e216967c17f5"
 metafile = true
 
 [[files]]
@@ -680,7 +680,7 @@ metafile = true
 
 [[files]]
 file = "mods/artifacts.pw.toml"
-hash = "6ae5216e16852998fd4b14875f6f70e65999fee171cf2c1d0f6168785e61fd30"
+hash = "4da3ccb8d601d7bad73b3efb13bae4ae23fef501a55d92bd8611cdf55ee3af3d"
 metafile = true
 
 [[files]]
@@ -1859,7 +1859,7 @@ metafile = true
 
 [[files]]
 file = "mods/neepmeat.pw.toml"
-hash = "f31c091c7e98df08488e3cf298599bb4fbb094ce9c0fbe9a2128804a53239ae0"
+hash = "d6b44564455430dd6885c5c2819a94916e0147ef6e245ec37b929ac2161c2ddc"
 metafile = true
 
 [[files]]
