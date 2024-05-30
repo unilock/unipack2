@@ -2953,6 +2953,14 @@ file = "resources/data/zenith/enchanting_stats/natura_pylon.json"
 hash = "2b50493592442c973f5c39273a62d674e1eadaf86f8f38960f778f7f5be8c1ee"
 
 [[files]]
+file = "resources/datapacks/separatedleaves/data/affinity/separated_leaves/azalea.json"
+hash = "fa7fd5002cdec435a8a97b2c652d35a8d93cc1d1129597ad1fb3f9e190f2c47b"
+
+[[files]]
+file = "resources/datapacks/separatedleaves/data/aurorasdeco/separated_leaves/azalea.json"
+hash = "f6004e346e93c5c2a6be7cb724a91b5602f6a66b3ba42a2ef0cbb23da0015c37"
+
+[[files]]
 file = "resources/datapacks/separatedleaves/data/aurorasdeco/separated_leaves/jacaranda.json"
 hash = "b604540f12d72cc7d5f9c078d3085423dbb818d55267a9c8541f7703f0b95666"
 
