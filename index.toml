@@ -973,6 +973,11 @@ hash = "1c620e13c112ec855b9858fe74ed7b29d56d876c029631f9a3df89512cdc8f92"
 metafile = true
 
 [[files]]
+file = "mods/collars.pw.toml"
+hash = "a90d76f1fe18884e0ab52ff35423aa11b111f48077fa371d823140febcd7add3"
+metafile = true
+
+[[files]]
 file = "mods/colorbricks.pw.toml"
 hash = "d958f9ede4abb3b9f90ac4e7e2fd738a665d4cc0b64c491b0d723a46bebd1176"
 metafile = true
