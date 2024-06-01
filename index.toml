@@ -1509,7 +1509,7 @@ metafile = true
 
 [[files]]
 file = "mods/hex-casting.pw.toml"
-hash = "c714525321f472e49010689462797d5170a8b7da72d9415192bcdccd176406f2"
+hash = "c5752d550637eaa106f74cff78dcf6818c668d8ffade4c0a52a59a9f3476280c"
 metafile = true
 
 [[files]]
@@ -1844,7 +1844,7 @@ metafile = true
 
 [[files]]
 file = "mods/mythicmetals.pw.toml"
-hash = "7e9ee16e09e8dc94190e5fd0dfbf93eea8d8df0520c5950dcb9bc97e683a6ea6"
+hash = "8009da8e21f7bb1ad7a4b6fbe58fb932948bdaa161d49db9fe2b665c2079901e"
 metafile = true
 
 [[files]]
@@ -2164,7 +2164,7 @@ metafile = true
 
 [[files]]
 file = "mods/radiant-gear.pw.toml"
-hash = "ad7b853cd3fc45d942c264439be89f23dea3ae8d9635351e6a0702950ae13273"
+hash = "8cb12d1ee78f7d76756a2a364bd46de754127d9aa9732536e21327ae10a62e33"
 metafile = true
 
 [[files]]
