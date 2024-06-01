@@ -62,6 +62,21 @@
 			]
 		},
 		{
+			"id": "collars",
+			"depends": [
+				{
+					"replace": {
+						"id": "fabricloader",
+						"versions": ">=0.15.11"
+					},
+					"with": {
+						"id": "fabricloader",
+						"versions": ">=0.15.10"
+					}
+				}
+			]
+		},
+		{
 			"id": "fakerlib",
 			"depends": [
 				{
