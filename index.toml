@@ -555,7 +555,7 @@ metafile = true
 
 [[files]]
 file = "mods/ad-astra-giselle-addon.pw.toml"
-hash = "162de7c9787f4fa902324d854cbd90a75790c79d68f056a41e0c0bcf9fd911c8"
+hash = "f5c6bc188acdbb3ded43c2b9a12e7813e44b4a4ed3d824b95b6dfe75a1b2e80c"
 metafile = true
 
 [[files]]
@@ -680,7 +680,7 @@ metafile = true
 
 [[files]]
 file = "mods/artifacts.pw.toml"
-hash = "4da3ccb8d601d7bad73b3efb13bae4ae23fef501a55d92bd8611cdf55ee3af3d"
+hash = "f8b4e43d454d3c73d198ad5763f6c08e96a34375b1f86b5da4a391e995734d7e"
 metafile = true
 
 [[files]]
@@ -740,7 +740,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm-fabric.pw.toml"
-hash = "e7c9c18b4b212edffbf509337363a7f7010fd90631d01fc9e306a76919c60938"
+hash = "0579c449170e273cb37344878a0992d90f8feaa938fcb47cded6b2c79badd505"
 metafile = true
 
 [[files]]
@@ -809,7 +809,7 @@ metafile = true
 
 [[files]]
 file = "mods/bhc-fabric.pw.toml"
-hash = "3b6c955e04a622e06b44500f6e6e6959a6905bc29096fa9f262b4a5bc2d9bb1a"
+hash = "03cca98d5239bd42c7fe11523d334cc5de7a876f3db6b2d83c729fa7b977d37b"
 metafile = true
 
 [[files]]
@@ -1049,7 +1049,7 @@ metafile = true
 
 [[files]]
 file = "mods/crafting-tweaks-fabric.pw.toml"
-hash = "7b9101173a8f9bf084bf81bf6ee735b937ff52f31442f7516743930d7ae6c0f0"
+hash = "eccac09c133cbf940f23e72ba143f379bd5b65c0fab06c6881e9a0df69e4abdd"
 metafile = true
 
 [[files]]
@@ -1849,7 +1849,7 @@ metafile = true
 
 [[files]]
 file = "mods/mythicmetals.pw.toml"
-hash = "8009da8e21f7bb1ad7a4b6fbe58fb932948bdaa161d49db9fe2b665c2079901e"
+hash = "4167888f26091c8fd25d6549917bef3561a117065cf9e8a59e8246c86ff441b5"
 metafile = true
 
 [[files]]
@@ -1869,7 +1869,7 @@ metafile = true
 
 [[files]]
 file = "mods/neepmeat.pw.toml"
-hash = "d6b44564455430dd6885c5c2819a94916e0147ef6e245ec37b929ac2161c2ddc"
+hash = "7a8bf7185830161b8564e934a92e1eefc460cea1ba813d3c83e5b488cd73f8c3"
 metafile = true
 
 [[files]]
@@ -2009,7 +2009,7 @@ metafile = true
 
 [[files]]
 file = "mods/pehkui.pw.toml"
-hash = "55fc08465e842d049d632c9ff13f538d08ca873990ef72e6a30704b92236bb1c"
+hash = "754c36a6c9647ce84d7581fe3fc2476435008dd180e2850c209d7f67f7722988"
 metafile = true
 
 [[files]]
@@ -2419,7 +2419,7 @@ metafile = true
 
 [[files]]
 file = "mods/structure-essentials-forge-fabric.pw.toml"
-hash = "b25dcfe10e77071dea13e6134feb21ae84711bc201fa64a11d467b97d57f0314"
+hash = "389018cbf6ef50e2b68f52253ed6167e9516ee218827bab87d197fec816f4ec5"
 metafile = true
 
 [[files]]
@@ -2679,12 +2679,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "9ad6017237b0d2631f00cb1f141d319cac8f09172616b202611be88f209c237e"
+hash = "2a08a399b364bc64bc2abb848cce938c1b87d0534a17fcb8a87ba80dbec7304d"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "ed9096a53c26f025b497e7e7e788fe824eb15aa8b43b089d21dcab6eba77a0b7"
+hash = "16499c922a2bf62ecbc740979edb0040f3f2ecab032d005270aabea1a386d321"
 metafile = true
 
 [[files]]
