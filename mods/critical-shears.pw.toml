@@ -1,6 +1,6 @@
 name = "Critical Shears"
 filename = "critical-shears-1.0.4.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/gBQkNKbO/versions/2N6YLXpP/critical-shears-1.0.4.jar"

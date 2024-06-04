@@ -1009,7 +1009,7 @@ metafile = true
 
 [[files]]
 file = "mods/configurable-nether-portals.pw.toml"
-hash = "aa46bd56863f4d9434eb6d51a40a4588ae76292b99d39d747ba4657eba03ecfd"
+hash = "d24163cb2afa65a8ddecf9053c8bca99a2c88ca0f3c7fd372e533de7cf727e6a"
 metafile = true
 
 [[files]]
@@ -1064,7 +1064,7 @@ metafile = true
 
 [[files]]
 file = "mods/critical-shears.pw.toml"
-hash = "2d66f5cb9e76986d7b4ce546bddeeb8abc5ccf678711d3f785defee282df438a"
+hash = "f9a10c6bf51d8e416d288e0c7db8f100ba63e339d1e62b22b511679d4585ccfd"
 metafile = true
 
 [[files]]

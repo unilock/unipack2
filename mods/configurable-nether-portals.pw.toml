@@ -1,6 +1,6 @@
 name = "Configurable Nether Portals"
 filename = "confnportal-1.1.0.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/hRGvqYr5/versions/suM8NuDw/confnportal-1.1.0.jar"
