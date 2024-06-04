@@ -1658,6 +1658,11 @@ hash = "b2d00600301825117055e105f201eebad2c58463d2731d1c065b33970f43ae4b"
 metafile = true
 
 [[files]]
+file = "mods/kawaii-dishes.pw.toml"
+hash = "ecd19dce0765e852375ed77bec37dc9c1fe39aad75390237c3161cdb7b870cd2"
+metafile = true
+
+[[files]]
 file = "mods/kibe.pw.toml"
 hash = "89e997ac208afad939b9d43b8b4e785dd6e6e405fc4a785d311a0af42821a656"
 metafile = true
