@@ -92,6 +92,21 @@
 			]
 		},
 		{
+			"id": "geckolib",
+			"depends": [
+				{
+					"replace": {
+						"id": "fabric-api",
+						"versions": ">=0.92.2"
+					},
+					"with": {
+						"id": "fabric-api",
+						"versions": ">=0.91.0"
+					}
+				}
+			]
+		},
+		{
 			"id": "fzzy_config",
 			"depends": [
 				{
