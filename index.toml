@@ -1458,7 +1458,7 @@ metafile = true
 
 [[files]]
 file = "mods/golemancy.pw.toml"
-hash = "116f5c0fe5776bf1608b142665e2c9fee00394ac6c16cb7629921667c6ae0ee7"
+hash = "0bb99a0bb3f133ef9596e964069744c50950a65277441e3b3b801cb173ed8258"
 metafile = true
 
 [[files]]
