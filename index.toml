@@ -1457,6 +1457,11 @@ hash = "77229ce1ca92a04d17494ca9b9bfa2c9aab25b1ec270ca55f77c8adac583c9a9"
 metafile = true
 
 [[files]]
+file = "mods/golemancy.pw.toml"
+hash = "116f5c0fe5776bf1608b142665e2c9fee00394ac6c16cb7629921667c6ae0ee7"
+metafile = true
+
+[[files]]
 file = "mods/grappling-hook-restitched.pw.toml"
 hash = "264e085b17e6b29f95c4d3d19e0534808367c2f995fcbc9ca016b7be9e08a196"
 metafile = true
