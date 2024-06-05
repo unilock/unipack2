@@ -1,0 +1,10 @@
+#Define the range multiplier for the Cat's Aura Enchantment
+#Range: 1.0 ~ 4.0
+cats_aura_range_amplifier = 2.0
+#Define the rate of dressed mobs that can spawn
+#Range: 0.0 ~ 1.0
+dressed_mobs_spawn_rate = 0.0
+#Drop rate for dressed mobs
+#Range: 0.0 ~ 1.0
+drop_rate_dressed_mobs = 0.0
+

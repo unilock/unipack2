@@ -293,6 +293,10 @@ file = "config/jline4mcdsrv.toml"
 hash = "5bb9f430b8c060d3fa6ba95134456f815e14e3753e9cca56579312bb25571d0d"
 
 [[files]]
+file = "config/kawaiidishes-server.toml"
+hash = "9d16922ca5f6f4fc360d7aec86931d6546db068100234e15aefa39d9ab4f4cf1"
+
+[[files]]
 file = "config/kiwi-client.yaml"
 hash = "d341410037970de3771f55a69df8ea4f12b9b527d51183551192de4d3a0ff16d"
 
