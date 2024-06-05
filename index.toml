@@ -1833,7 +1833,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "3c1e3ba6e9e921ce577d241794a2c5207944b6ec60bd50350856837ac2a4da2e"
+hash = "6c280e68ef025b2615a20546a3e69c4e87ba039c1d2677f96f8aba31fffb2a7f"
 metafile = true
 
 [[files]]
@@ -2668,7 +2668,7 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
-hash = "b4dc695d252577c2191a02acdb82c34199c8631674de90a7937b95e147ce3453"
+hash = "b211af0448434d8c694abf338d7c6baa3dc1825b59cee2c55c39cb294042412d"
 metafile = true
 
 [[files]]
