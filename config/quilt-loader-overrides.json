@@ -97,7 +97,7 @@
 				{
 					"replace": {
 						"id": "fabric-api",
-						"versions": ">=0.92.2"
+						"versions": ">=0.92.2+1.20.1"
 					},
 					"with": {
 						"id": "fabric-api",
