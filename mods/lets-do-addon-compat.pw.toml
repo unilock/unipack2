@@ -1,0 +1,13 @@
+name = "[Let's Do Addon] Compat"
+filename = "lets-do-addon-dehydrationcompat-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5e2cd9b13f050b7f46c3431e0de9b2645a296260"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5209942
+project-id = 992333
