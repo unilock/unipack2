@@ -1,0 +1,13 @@
+name = "Arachne"
+filename = "arachne-0.0.2.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/y6VZckSn/versions/38bWfYC2/arachne-0.0.2.4.jar"
+hash-format = "sha1"
+hash = "bd59584e891c70b9dfe8504b79b26d4dbb60c30b"
+
+[update]
+[update.modrinth]
+mod-id = "y6VZckSn"
+version = "38bWfYC2"

@@ -1,0 +1,13 @@
+name = "DecoMod"
+filename = "DecoMod-fabric-1.20.1-1.0.2+blanketcon.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/7wa9983j/versions/SB9IZq56/DecoMod-fabric-1.20.1-1.0.2%2Bblanketcon.jar"
+hash-format = "sha1"
+hash = "b5a95139c507b3af65c0d641c09da785d9c96d6b"
+
+[update]
+[update.modrinth]
+mod-id = "7wa9983j"
+version = "SB9IZq56"

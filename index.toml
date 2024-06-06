@@ -618,6 +618,11 @@ hash = "c91188fce95259071890dfbffe0165e22122fe6b89e2dc72c7e702a53c0c8285"
 metafile = true
 
 [[files]]
+file = "mods/amarite.pw.toml"
+hash = "b7e10696cbd12ed68a16238fd72d8af097db667ad0cf978a75509baeebb90ab1"
+metafile = true
+
+[[files]]
 file = "mods/amecs.pw.toml"
 hash = "8e902138183aa5ba1cb017ef70775fddf4086c4b97dc71bbb4a33aa16e485943"
 metafile = true
@@ -650,6 +655,11 @@ metafile = true
 [[files]]
 file = "mods/applied-energistics-2.pw.toml"
 hash = "fca19850754fee8232175c994a7d08fac2247f599c1efd84dabd1e09e80d5ac0"
+metafile = true
+
+[[files]]
+file = "mods/arachne.pw.toml"
+hash = "cc0eec54c01b211b44056085294a618421048a26d1a2304b30d498888a7e6f43"
 metafile = true
 
 [[files]]
@@ -1122,6 +1132,11 @@ hash = "9f3daccd678da70ac2df008e41541a963d95617a2e37025db070fe722a6dd77c"
 metafile = true
 
 [[files]]
+file = "mods/decomod.pw.toml"
+hash = "00a694eb801c00e8aad4d36175dce023287c9e4ea20f936522cc707b05186468"
+metafile = true
+
+[[files]]
 file = "mods/decorative-blocks.pw.toml"
 hash = "f1bb43aacae26dc2caf321eaa82856c33da65b3c2d1121ac831ebdbba9ffcc27"
 metafile = true
@@ -1497,6 +1512,11 @@ hash = "45d58d152f9799deb5c5b02052899de27ec0e4cbe85e23d1d63af5178dd2b50e"
 metafile = true
 
 [[files]]
+file = "mods/heart-of-the-machine.pw.toml"
+hash = "b3e699bb090d61602562c2baee984cecf5ae57a015f812722b27f765c6103524"
+metafile = true
+
+[[files]]
 file = "mods/held-item-info.pw.toml"
 hash = "c634e78573e2e9f84aabe4fa2bedc2844c1245f08bfa15e9db770df165a1f2bf"
 metafile = true
@@ -1574,6 +1594,11 @@ metafile = true
 [[files]]
 file = "mods/icterine.pw.toml"
 hash = "e77ab130c3e53c198655d342ab403804d6d08cd722aebd2d58aaff259ae70a2d"
+metafile = true
+
+[[files]]
+file = "mods/icyincitement.pw.toml"
+hash = "205f6414a4d0f0857a23b3f2e08f949ede837ca53199911f3fae43972484e3ff"
 metafile = true
 
 [[files]]
@@ -1872,6 +1897,11 @@ hash = "53350f5a3d10fa6eb193faa468844eef8e8fa55c2744d1e82834c506cde26b6b"
 metafile = true
 
 [[files]]
+file = "mods/milk-plus.pw.toml"
+hash = "a8ba959ab74fa91ac78ffa0cee60bd2995e9ddbc45117935a15552baad787d49"
+metafile = true
+
+[[files]]
 file = "mods/mixintrace.pw.toml"
 hash = "f8c57b83b826e6447a6a97f88f0fab03bb76caebc8272b74f3b890c6b5821d5d"
 metafile = true
@@ -2114,6 +2144,11 @@ metafile = true
 [[files]]
 file = "mods/plethora-peripherals.pw.toml"
 hash = "712943d94a6733d694ca8231f2ed6b368e07c9c8ca248e1d22ea0cc630644f94"
+metafile = true
+
+[[files]]
+file = "mods/pollinators-paradise.pw.toml"
+hash = "4bc7ec0c3972ca066d40c38f6d14a6660065812f6cc9915bbfc08ee5692e746e"
 metafile = true
 
 [[files]]
