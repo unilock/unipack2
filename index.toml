@@ -1676,6 +1676,11 @@ hash = "c5b4553ad9250281b03636917cd21c26a0e58aa49d88712dac5750cacdf9cb66"
 metafile = true
 
 [[files]]
+file = "mods/jei.pw.toml"
+hash = "92dcfb598285922727b8a446cd9fb6154686412746eb6c1479052a0e93a9275e"
+metafile = true
+
+[[files]]
 file = "mods/jline4mcdsrv.pw.toml"
 hash = "df1f66f500c693e7c17eb46c282abaad211401dae80c2a8e881ec6d2a328f12d"
 metafile = true
