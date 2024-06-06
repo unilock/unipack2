@@ -1,13 +1,13 @@
 name = "[Let's Do] Meadow"
-filename = "letsdo-meadow-fabric-1.3.15.jar"
+filename = "letsdo-meadow-fabric-1.3.16.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "885615d344ab84f39751f08f1d05f8b014442ea1"
+hash = "88341dd024e8d659e1343ce64cf8e831f75b99be"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5375465
+file-id = 5402877
 project-id = 821483

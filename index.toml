@@ -1163,7 +1163,7 @@ metafile = true
 
 [[files]]
 file = "mods/do-api.pw.toml"
-hash = "2215a1c2b0ac55cb1d780938f441b819cd2ea32cfb841427f45897bb61586a32"
+hash = "552a21fb80f09281a7825c4e8c19b594b41fbf3da7b1d56d4a660e47092d4609"
 metafile = true
 
 [[files]]
@@ -1783,7 +1783,7 @@ metafile = true
 
 [[files]]
 file = "mods/lets-do-meadow.pw.toml"
-hash = "1fc26b1f580f98e14b650ee702eab7f7832da4394e7573935c8931f19f062e14"
+hash = "f951b2442498c83180bee7cd89903300dad20c5f6a330205f5994b3d81a70087"
 metafile = true
 
 [[files]]
