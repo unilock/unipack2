@@ -1132,11 +1132,6 @@ hash = "9f3daccd678da70ac2df008e41541a963d95617a2e37025db070fe722a6dd77c"
 metafile = true
 
 [[files]]
-file = "mods/decomod.pw.toml"
-hash = "00a694eb801c00e8aad4d36175dce023287c9e4ea20f936522cc707b05186468"
-metafile = true
-
-[[files]]
 file = "mods/decorative-blocks.pw.toml"
 hash = "f1bb43aacae26dc2caf321eaa82856c33da65b3c2d1121ac831ebdbba9ffcc27"
 metafile = true
