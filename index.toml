@@ -309,6 +309,10 @@ file = "config/logprot.json"
 hash = "de00982091ecb1bdc7e43572d1c6b04d56d69310e93507ca76f22a7314aa30f4"
 
 [[files]]
+file = "config/lootr.json"
+hash = "db140e54acd3b625ffea9307ff1e969fd5884f7d586c43a1ebeb32b9fa0a8413"
+
+[[files]]
 file = "config/magna.json"
 hash = "e65299c1a432f2aae4374bdb01e71d06a6e3fb7350e905e5ba93217fa7178911"
 
