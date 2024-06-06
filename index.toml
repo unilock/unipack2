@@ -1897,8 +1897,8 @@ hash = "53350f5a3d10fa6eb193faa468844eef8e8fa55c2744d1e82834c506cde26b6b"
 metafile = true
 
 [[files]]
-file = "mods/milk-plus.pw.toml"
-hash = "a8ba959ab74fa91ac78ffa0cee60bd2995e9ddbc45117935a15552baad787d49"
+file = "mods/milk_plus.pw.toml"
+hash = "6e4ba32c6ea4a4aa6a73282030a27c773faf7bb3b3fd970ed98534392310d2a5"
 metafile = true
 
 [[files]]
