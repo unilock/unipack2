@@ -1,5 +1,4 @@
 {
-    "can_loop_de_loop": true,
     "armor_slows": false,
     "can_slow_fall": false,
     // Type: Float
@@ -11,8 +10,15 @@
     // Type: Float
     "exhaustion_amount": 0.0,
     // Type: Float
+    "required_food_amount": 0.0,
+    // Type: Float
     "roll_amount": 1.0,
     "max_height_enabled": false,
     // Type: Integer
-    "max_height_above_world": 64
+    "max_height_above_world": 64,
+    // Type: Float
+    "flying_target_radius": 0.25,
+    "client": {
+        "can_loop_de_loop": true
+    }
 }

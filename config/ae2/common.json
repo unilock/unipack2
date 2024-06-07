@@ -64,7 +64,7 @@
     "wirelessBoosterRangeMultiplier": 1.0,
     "wirelessBoosterExp": 1.5,
     "wirelessHighWirelessCount": 64.0,
-    "wirelessTerminalDrainMultiplier": 0.000000001
+    "wirelessTerminalDrainMultiplier": 1.0E-9
   },
   "PortableCells": {
     "allowDisassembly_comment": "Allow disassembly of portable cells into the recipe ingredients using shift+right-click",

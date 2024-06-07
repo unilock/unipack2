@@ -140,7 +140,8 @@
     "enableTrinketsCompat": true,
     "defaultTrinketsDropRule": "PUT_IN_GRAVE",
     "enableBeansBackpacksCompat": true,
-    "defaultBeansBackpacksDropRule": "PUT_IN_GRAVE"
+    "defaultBeansBackpacksDropRule": "PUT_IN_GRAVE",
+    "enableRespawnObelisksCompat": true
   },
   "commandConfig": {
     "mainCommand": "yigd",
@@ -190,7 +191,8 @@
       "enabled": false,
       "rebindable": false,
       "receiveOnRespawn": false,
-      "clickFunction": "VIEW_CONTENTS"
+      "clickFunction": "VIEW_CONTENTS",
+      "consumeOnUse": false
     },
     "graveCompass": {
       "receiveOnRespawn": false,

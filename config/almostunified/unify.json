@@ -152,27 +152,6 @@
   ],
   "priorityOverrides": {},
   "customTags": {
-    "c:bronze_nuggets": [
-      "mythicmetals:bronze_nugget"
-    ],
-    "c:copper_nuggets": [
-      "mythicmetals:copper_nugget"
-    ],
-    "c:osmium_nuggets": [
-      "mythicmetals:osmium_nugget"
-    ],
-    "c:platinum_nuggets": [
-      "mythicmetals:platinum_nugget"
-    ],
-    "c:silver_nuggets": [
-      "mythicmetals:silver_nugget"
-    ],
-    "c:steel_nuggets": [
-      "mythicmetals:steel_nugget"
-    ],
-    "c:tin_nuggets": [
-      "mythicmetals:tin_nugget"
-    ],
     "c:dragonstone_storage_blocks": [
       "botania:dragonstone_block"
     ],

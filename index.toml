@@ -30,7 +30,7 @@ hash = "322a338e6bf4856f839e51891413087cbb0af904ae3ecdd52ef561d0c1063f04"
 
 [[files]]
 file = "config/Spectrum.json5"
-hash = "b941362a9c3e88def6069743c9609ce86e628265bff1e6167832c21705ece63c"
+hash = "fbf1dcc4817a10855783f3244a82a5b1f317af5321401223763da516c59c1c9a"
 
 [[files]]
 file = "config/ad_astra_giselle_addon.ver2.jsonc"
@@ -42,7 +42,7 @@ hash = "14b4a26e592d95613ceec6215bfeb8cc1b9f28c59decd84c79a1aea8c42c9c5b"
 
 [[files]]
 file = "config/ae2/common.json"
-hash = "8c6dc1f8da7b98d24b9bbeafc335682aade5247415ca6f700f33087e0940d621"
+hash = "41788f1cbc5ae2c41a4f85eefe023c85cc5b7c5bc3f22e9d969e170c6b49764f"
 
 [[files]]
 file = "config/afkdisplay.toml"
@@ -50,7 +50,7 @@ hash = "8172e5fd74b6c135dcad74e3601c3d63854ff362973259fa5ed7ec0b0dc05814"
 
 [[files]]
 file = "config/almostunified/unify.json"
-hash = "9c08a4a9bfb044e842a693be9829d1f4a39072b2c0cfeb2509e1c7ba77e1a0e7"
+hash = "462fa029f8dd260545bf4c13a9dfc2edcbe0287c61fae3ad9fc4b1329c6803ce"
 
 [[files]]
 file = "config/amethyst_imbuement/enchantments_config.toml"
@@ -66,7 +66,7 @@ hash = "3b79ee23d3bcf3c1d9984cf8bff52167082dfda9efe53eba7fbefd315e3f13c0"
 
 [[files]]
 file = "config/apathy/mobs.cfg"
-hash = "e0251507ae7df0ea21ff4105769524cbbcb2a96e7d745042eb3aa8cd26c210cd"
+hash = "77bdf93b009ce8aaaea250a9a4fa04c0026bedd6676dd8a1e794163f14da7c06"
 
 [[files]]
 file = "config/arcadiandream.json5"
@@ -142,7 +142,7 @@ hash = "5e52fee3b3f86eb220851bf32290c2557c8610fe6439cd8ae58f83d9cd088cef"
 
 [[files]]
 file = "config/create-client.toml"
-hash = "c1781f643c9f3593039b79642669fbb4f882884ba99cea4fa2f58f4a684e3b10"
+hash = "95626a1d25cf13edaf69c86640b1665a24373fac94dcef16dc23b498fc7e6296"
 
 [[files]]
 file = "config/crops-love-rain.toml"
@@ -166,11 +166,11 @@ hash = "0f525f981c118d4d959168720cbc1aecda6f23939ec3251780cecab1f6b8334d"
 
 [[files]]
 file = "config/early-loading-screen.properties"
-hash = "f6bb15aab22c16a3277a4fb9e62d9ef7e8572bc9e48195a060b8e81a6ababe2d"
+hash = "ce770a848b7afb4e01ab20e1dd22538b85504ca011448aee39bbe5d0c931b755"
 
 [[files]]
 file = "config/eccentrictome-common.toml"
-hash = "79bd5b9877a3145c1ad46082654cff199035477530b099d29599f9a83bc3b3e2"
+hash = "83e523050560bd75b8e7ff26d4536ad74c662288013c119367a6c3d4e74e0a24"
 
 [[files]]
 file = "config/ecologics.json"
@@ -202,7 +202,7 @@ hash = "d4a0701ae24ce835cfafc8f7e564080bb29892e51eee6272d7d8268beed82216"
 
 [[files]]
 file = "config/fabrication/features.ini"
-hash = "aad3e9da23755d1381d07c2e381153bd779d8cb5a9095744c4b6fa667236ba44"
+hash = "0210beb7469ed8095ee04be7bc432c8fcccc72f4e5df88956a3bdd3ed6fabf92"
 
 [[files]]
 file = "config/fabrichammers.json"
@@ -217,12 +217,12 @@ file = "config/fallingtree.json"
 hash = "319356693437cc9ac6a253f0a033ef916dc3923db2c1f6ff5645b4f1ac036dcf"
 
 [[files]]
-file = "config/farmersdelight.json"
-hash = "673fecba7b8d578e84f720e204d7d6648cde315639c6fc5d98a6c4ce1909aadb"
+file = "config/farmersdelight-client.toml"
+hash = "f8abfda5b6bad3daeb79d2628103722b701b2d9eb6f82d74dfe11094ffcef50a"
 
 [[files]]
 file = "config/fast-rtp.json"
-hash = "aac8d7dd81a0612006ef32d2bcf5e96b8e4f0838ba94bbcbd2bd2291b7f170df"
+hash = "63764551f450a823e21c749cc74e5434c9358d86dbd560db2be2e69529387d3a"
 
 [[files]]
 file = "config/flywheel.json"
@@ -230,11 +230,15 @@ hash = "085e0ea22bd592a73d7e400b3fed9dd3eb838f0d9ed3a85ecd106cfd5b60513c"
 
 [[files]]
 file = "config/forgeconfigapiport.toml"
-hash = "da82326e21db344255a22d1dd09b104a039719c94ab3a9e64e1c71ca378ea7a1"
+hash = "ebeeb3ad6a574d20f2fabaffd46b0cd8cebcfa5cdd63efd3c8faeb26162b6388"
 
 [[files]]
 file = "config/fwaystones/config.json5"
 hash = "14ef301a525006a33ab0d4742540763a77044182bc3733934032e4483717d42c"
+
+[[files]]
+file = "config/gearifiers/config.toml"
+hash = "31fa7cca5485d67a7d7c026e28ce8979d1c02d06efd0ea00401989b627379dcb"
 
 [[files]]
 file = "config/geologicexpansion.json"
@@ -258,7 +262,7 @@ hash = "4a93b74532744256461f19755df9b1ca427bc83a811f788b16efae0c66a5ba07"
 
 [[files]]
 file = "config/icarus.jsonc"
-hash = "3f5be82e14bc3518e7aa186e489059e13f270db99aa93baa5469327ae5d52fea"
+hash = "25e12f0820e6e3a409e9183db1354bb1b4d061851971ed2784a38774b058be75"
 
 [[files]]
 file = "config/idwtialsimmoedm.json"
@@ -274,7 +278,7 @@ hash = "5ec559846c5aa30d45a80cc06240baac2156e3781f129aa1283d30465dbf37eb"
 
 [[files]]
 file = "config/inventory_tabs.toml"
-hash = "82b36cbc53ac871d27504aaf3e5efee32a0cefdb3ea7e1017df1be0b7b209447"
+hash = "aa3a9a4e067f4495e36447b05149ad7654076ea8e6f4a973b12317f2ed51026c"
 
 [[files]]
 file = "config/inventoryprofilesnext/inventoryprofiles.json"
@@ -282,7 +286,7 @@ hash = "a52b6dec8ae9c30eeb078a0364f9abe80bfb26a9294a3c00d5fb010c7b2dc1ab"
 
 [[files]]
 file = "config/iris.properties"
-hash = "bebc8fb916718b04d4ddf2e8d7a5010147933c988d556efee1c3f9a1795e65a6"
+hash = "743a207067ea907f5a80b87a992f0d709b64ec3ab75f71edd40c1d7a7c5ac781"
 
 [[files]]
 file = "config/itemflexer.mcfg"
@@ -294,7 +298,7 @@ hash = "5bb9f430b8c060d3fa6ba95134456f815e14e3753e9cca56579312bb25571d0d"
 
 [[files]]
 file = "config/kawaiidishes-server.toml"
-hash = "9d16922ca5f6f4fc360d7aec86931d6546db068100234e15aefa39d9ab4f4cf1"
+hash = "e1706f32baec39a3b1455adaec917c169499da02f258a59cb1721444fcf6c15d"
 
 [[files]]
 file = "config/kiwi-client.yaml"
@@ -318,11 +322,11 @@ hash = "e65299c1a432f2aae4374bdb01e71d06a6e3fb7350e905e5ba93217fa7178911"
 
 [[files]]
 file = "config/mantle-client.toml"
-hash = "662dd86da164be0b8b715fcbe16597d660c298b6ac3455c11515e654606dabbe"
+hash = "8167e5525801979375c1a9fa4e849dd7af40c4dfb56ea83013444326ce70aa99"
 
 [[files]]
 file = "config/modern_industrialization.toml"
-hash = "e9787b0b4b089916f890ec692dcd4c6e4f5970520f65039c548e589218dc37f8"
+hash = "43e37565d748744ec45140a588fc09e5211b08a52f79c3a7452668adb9ed3284"
 
 [[files]]
 file = "config/modernfix-mixins.properties"
@@ -350,11 +354,11 @@ hash = "1fe9c8370e7d57e1283193791f8f8f28e67a3ce7b4fab4acc9e52c227c028ebd"
 
 [[files]]
 file = "config/ok_zoomer/config.toml"
-hash = "f2f2847c6cf4792db6979a9fdc555b6c93da9d63510cc3ab3726a4d993219451"
+hash = "2855b32e7918b6df8f108e9ce759e935c40a147ebbb3a6beb0c2d68bf4bfb06d"
 
 [[files]]
 file = "config/openpartiesandclaims-server.toml"
-hash = "6209325a299536a56d78adbe5007d7a712f2c8266aff5e959bcd4b5744020872"
+hash = "14ed83a7f982c46e9f7565b68ca6d5b0ee37df7fd4f2cf5109ec33e934a5a95a"
 
 [[files]]
 file = "config/passablefoliage-common.yaml"
@@ -458,7 +462,7 @@ hash = "6712dc60ffe7e10d89c20e4048563f6e12917c5fd681afc98c35b35245cda611"
 
 [[files]]
 file = "config/tooltiptooltips/config.toml"
-hash = "7df0bcc62f3a848c990e312101bb59386ab465e00f4e7d51873b22323ced5a40"
+hash = "1d526ad2721df152b9a7affad416dfea0b05bde7e09b6af2fa1698bf3f072690"
 
 [[files]]
 file = "config/trashslot-common.toml"
@@ -466,15 +470,15 @@ hash = "50a194f405c15d3c7ce119255cdb0e706f783c780477c1ecef478d10f45fa306"
 
 [[files]]
 file = "config/veinmining-client.toml"
-hash = "df249fe006dfa4a415b8279fe89c62a4f9a1caeb4cfd0b795e351c742e2973d6"
+hash = "cb5896fdfa2895d2724fb78e249ec8a3f94ad5f0b460c138446739595da19edc"
 
 [[files]]
 file = "config/veinmining-common.toml"
-hash = "f0aeff237bad98f31782930597b4001b6e890b63d46160f8f6f9c6b59f950010"
+hash = "ada4edf722cd5fd01814f4da5bbc1b88430530b2c00bf7f8e1a224f7a4ba1b24"
 
 [[files]]
 file = "config/veinmining-server.toml"
-hash = "1a5156ee7f90d63b8748401b3cb27b4afebbf31bedcf5be6340e53b52f581f27"
+hash = "410580dcccd52a05bb65fe654b4ae653c9261f9b8ac803df744582d37f050d09"
 
 [[files]]
 file = "config/waila/waila.json"
@@ -494,11 +498,11 @@ hash = "3207f2641a911313fd2c4104c1a4f82e8153385a4d33ada56bde5bf08ca4f427"
 
 [[files]]
 file = "config/xaerominimap.txt"
-hash = "9072cec37f3da8a954a365846bf081ccd537e1fe0a4f33c0c3c7d12c56d3a2c3"
+hash = "57a0d16be5acbb50670f52a9988bad658557419d4871028b60e538ed877d95ba"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
-hash = "e576d3506e1b96183013349d5a820528a063deff994e8e99712a4c99487dc9ad"
+hash = "dda8b35503dea0c7134f05c9098bbc3479f148cf1b95a339646abf0015757fc0"
 
 [[files]]
 file = "config/xaeroworldmap-common.txt"
@@ -510,7 +514,7 @@ hash = "12e3d740cd237368a7663322ed89e501cd6149128b558dfe11ab8a0bfa7e3f3a"
 
 [[files]]
 file = "config/yigd.json"
-hash = "a5df3263b62ba6ea5f2f06edd3dc0cee81fc885d87cfef3f90096b850b9309c3"
+hash = "ec9a9fb9ff6d8a40493038787f227a6abed61d971bc9cc7a4419a6f9d8977f50"
 
 [[files]]
 file = "config/yttr.css"

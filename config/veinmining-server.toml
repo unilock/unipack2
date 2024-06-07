@@ -27,7 +27,7 @@ addExhaustion = false
 #The multiplier to player exhaustion from blocks that are vein mined.
 #Range: 0.0 ~ 1000.0
 exhaustionMultiplier = 1.0
-#The blocks or block tags for vein mining.
+#The blocks or block tags for vein mining if blocks is set to "CONFIG_LIST".
 blocksList = []
 #Determines if blocksList contains allowed blocks or denied blocks.
 #Allowed Values: ALLOW, DENY
