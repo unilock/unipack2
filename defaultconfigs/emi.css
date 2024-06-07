@@ -246,7 +246,7 @@
 	/**
 	 * Which theme to use for the top sidebar
 	 */
-	top-sidebar-theme: transparent;
+	top-sidebar-theme: modern;
 
 	/**
 	 * The pages in the bottom sidebar
@@ -282,7 +282,7 @@
 	/**
 	 * Which theme to use for the bottom sidebar
 	 */
-	bottom-sidebar-theme: transparent;
+	bottom-sidebar-theme: modern;
 
 	/** unparsed */
 	move-effects: true;

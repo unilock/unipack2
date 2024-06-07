@@ -554,7 +554,7 @@ hash = "60e3e6147976e5eae5d73a81a5afd64dc330f6003d8e3b6fcd9a9af2aa65f0bf"
 
 [[files]]
 file = "defaultconfigs/emi.css"
-hash = "c3fe066e947ea3babe2be331cb079a160977ccd1cefa9f8bf3ec67c735cad437"
+hash = "f87fa13adbf2879af181eebc77f650e3bee87db508a156357a0188f73a3f8c87"
 
 [[files]]
 file = "defaultconfigs/openpartiesandclaims-default-player-config.toml"
