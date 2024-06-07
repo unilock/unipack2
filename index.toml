@@ -334,7 +334,7 @@ hash = "2bc099c1dbfdf43d412d7954cb73406d9996beca064e5d30cd0ccb05eee45da1"
 
 [[files]]
 file = "config/mythicmetals-config.json5"
-hash = "64e70bfa05d1d0fa7d0be13407dd2621fdf74b37b7067a965ed8f179871f185f"
+hash = "5124f052a0e5ba539aa43ae78c3fd6ac30fbc099f92b726ddaeed8608c7dbf02"
 
 [[files]]
 file = "config/mythicmetalsdecorations.json5"

@@ -27,11 +27,12 @@
 	"enableDusts": true,
 	"enableNuggets": true,
 	"enableAnvils": true,
-	"configVersion": 11,
+	"configVersion": 12,
 	"unobtainiumTemplateChance": 0.25,
 	"mythrilDrillTemplateChance": 0.65,
 	"carmotStaffTemplateChance": 1.0,
 	"disableFunny": true,
+	"disableCommandBlockInStaff": true,
 	"banglumNukeCoreRadius": 32,
 	"shieldPosition": "TOP_LEFT"
 }
