@@ -766,8 +766,9 @@ hash = "0579c449170e273cb37344878a0992d90f8feaa938fcb47cded6b2c79badd505"
 metafile = true
 
 [[files]]
-file = "mods/bankstorage-1.0.2.jar"
-hash = "a26a5b030b32545942b27215ab8b118da2135920bbf45c6a5d112b776289e0b2"
+file = "mods/bank-storage.pw.toml"
+hash = "0796c4a4c654ed73f0be7c23e7d5e33a1c0536ffc410b822a2f18273f69f9388"
+metafile = true
 
 [[files]]
 file = "mods/bedrodium.pw.toml"
@@ -2572,6 +2573,11 @@ metafile = true
 [[files]]
 file = "mods/tamago.pw.toml"
 hash = "8c85745e01321c43f39de96338da1c9dc20843f7890ccb14d36f12236a33716d"
+metafile = true
+
+[[files]]
+file = "mods/tank-storage.pw.toml"
+hash = "50d3cc5b7035bc5ae02e45152ec0a1d99c734dd1ddb777fbbfb79b214969df3f"
 metafile = true
 
 [[files]]
