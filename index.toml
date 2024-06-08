@@ -1586,11 +1586,6 @@ hash = "6207921b00735d50cdbb052fd40b007f9e93d3b8fa0d8807719dd11f8af58c11"
 metafile = true
 
 [[files]]
-file = "mods/hybrid-beta.pw.toml"
-hash = "4ae86070bf9df734dda059e31c65a8d00c52c0d8a1d5ad016d96d0b61fd52251"
-metafile = true
-
-[[files]]
 file = "mods/i-know-what-im-doing.pw.toml"
 hash = "953380b86d184c2392c5ea1b8c3d7dbf272596fc672f552bd8dc6a3bdcf27451"
 metafile = true
