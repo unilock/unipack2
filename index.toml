@@ -1556,6 +1556,11 @@ hash = "5fbecf591673e6f1364e3b4bd18d66772b6f700efde41df925f805467ca22fc6"
 metafile = true
 
 [[files]]
+file = "mods/hexdim.pw.toml"
+hash = "7d3c88f55376d8a96c13e21008ca4ba77ee1e289040953172269d2c4212a4337"
+metafile = true
+
+[[files]]
 file = "mods/hibernal-herbs.pw.toml"
 hash = "e585eb88a1ca2e2a21a5007efb603552a3e9ebffeaf3b591948e2e6c9c883f45"
 metafile = true
@@ -2905,7 +2910,7 @@ hash = "9ff4e92362d79f0757108696b573c8aa3a13710d5c7096da1fe3046ba3942f99"
 
 [[files]]
 file = "resources/data/amethyst_imbuement/advancements/grant_book_on_first_join.json"
-hash = "3afcb3f566bdd59595ceb07205a6b2cc3e6a41319bca28f9d0cff83c622a82b5"
+hash = "71047c74cf7ceb1c1aa683a569df99fe20b70d6cb918ac2f29227757f1e8ccd6"
 
 [[files]]
 file = "resources/data/apathy/tags/entity_types/bosses.json"
