@@ -1970,6 +1970,16 @@ hash = "cb38b82b931ae3c33bf9c21ad0934fcebaebcfe065838ade56a0661e283ee7d6"
 metafile = true
 
 [[files]]
+file = "mods/natures-delight.pw.toml"
+hash = "40eb211ffa613b30ca8e840c148f76d2e0e693c26bad716f13e6cd783830ad12"
+metafile = true
+
+[[files]]
+file = "mods/natures-spirit.pw.toml"
+hash = "4017a2cb3805bc152c576fb2f851a4a086f3081682102025508b45b40636ecf2"
+metafile = true
+
+[[files]]
 file = "mods/nbt-autocomplete.pw.toml"
 hash = "895902fb8e41ae8c4c29b0de5b2657e853b94f867fd888cc3aafa10fb01b4c92"
 metafile = true
@@ -2406,7 +2416,7 @@ metafile = true
 
 [[files]]
 file = "mods/shutup.pw.toml"
-hash = "f2c7ba78d25db1aef0cbfdb28df85c4905c5aa7027a51390e3222ec3e1c2570c"
+hash = "880dc8d0fbff537938f53deaf94616ac8e72ff3a2e11ec959cab898fd8003079"
 metafile = true
 
 [[files]]
@@ -2862,6 +2872,10 @@ metafile = true
 [[files]]
 file = "options.amecsapi.txt"
 hash = "836a3bf01fe9c90e44b947a6a1f02ff049ff8ae13d14dfcc641a585fefcd2177"
+
+[[files]]
+file = "resources/assets/hotm/lang/en_us.json"
+hash = "e6d39933d8dd6d69f579bf79558540aaf69cb7ee6255a1ec16a9913d82a00e8c"
 
 [[files]]
 file = "resources/assets/hybrid_beta/lang/en_us.json"
