@@ -1,0 +1,13 @@
+name = "bodacious berries"
+filename = "bodacious_berries-2.1.1+mc1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "802229a9a88bdc7dbfa37380a2a3c4a0738d81d9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4596040
+project-id = 576755

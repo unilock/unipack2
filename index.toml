@@ -876,6 +876,11 @@ hash = "a798e31968b354c955751f1686e79e53802eb11b1b6b78408705062461d05cc1"
 metafile = true
 
 [[files]]
+file = "mods/bodacious-berries.pw.toml"
+hash = "a2e69ad4dd10b69217219ac8ea6d9a317cb5bd948aa7fc47dcfb9695f1fcf33c"
+metafile = true
+
+[[files]]
 file = "mods/boring-default-game-rules.pw.toml"
 hash = "e210475d56c39e68f8247619a8e22d18129bc257329b90d74fdfdeb878e6cd68"
 metafile = true
@@ -2371,6 +2376,11 @@ hash = "45a0be935bcca91138996460610bd84312729d6ae00648fbb7ea332bd23bb437"
 metafile = true
 
 [[files]]
+file = "mods/river-redux.pw.toml"
+hash = "9eff1fffd433dc7b0279f41eb2636bc4bc7c35b42088374922a9d04327acf34e"
+metafile = true
+
+[[files]]
 file = "mods/roguelikedungeons.pw.toml"
 hash = "84608c92b12b1d48d5b740c35b201e4ad5e629fe173bea40fcd153f79aae213d"
 metafile = true
@@ -2488,6 +2498,11 @@ metafile = true
 [[files]]
 file = "mods/sparkweave.pw.toml"
 hash = "7f79b5b72fbb01e97b6a2eb8e3371234988f491a3ca2cb9210a455b3e7dbf185"
+metafile = true
+
+[[files]]
+file = "mods/species.pw.toml"
+hash = "bdc90caf9268e7c25158717d954c62168640571005687c9f022930d0c31e0d93"
 metafile = true
 
 [[files]]
@@ -2895,6 +2910,10 @@ hash = "d032f96c5b3862ff25eea6f0ce6add09708c4418cb3719720636e18fb0141840"
 [[files]]
 file = "resources/assets/on1chest/lang/en_us.json"
 hash = "7153128c5eb68bc139efa3abc51595a1eb0dee3241fe4cdbc9b38f3472e43848"
+
+[[files]]
+file = "resources/assets/riverredux/lang/en_us.json"
+hash = "716d058f0d86aee120e8f3a876538e902e749b4de0b946eae3172b4fb52ee2b7"
 
 [[files]]
 file = "resources/assets/spiceoffabric/lang/en_us.json"
