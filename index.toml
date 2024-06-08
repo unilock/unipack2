@@ -518,7 +518,7 @@ hash = "ec9a9fb9ff6d8a40493038787f227a6abed61d971bc9cc7a4419a6f9d8977f50"
 
 [[files]]
 file = "config/yttr.css"
-hash = "cf8ed4b1229dd6ab1d8bf7dbd085e60a6d82444dcc408a4c0555ccb2a9a3c5df"
+hash = "d5ba8746555443f583b21a7e1be507481d9713d24f4d4b1e5c8e8bbc46ed04ec"
 
 [[files]]
 file = "config/yungsmenutweaks-fabric-1_20_1.toml"
@@ -771,6 +771,11 @@ hash = "0796c4a4c654ed73f0be7c23e7d5e33a1c0536ffc410b822a2f18273f69f9388"
 metafile = true
 
 [[files]]
+file = "mods/bclib.pw.toml"
+hash = "0c6982d793283b27ef35fdc3b57b7b9554fbc162c03ac7431ebbee9b1d5b241c"
+metafile = true
+
+[[files]]
 file = "mods/bedrodium.pw.toml"
 hash = "3d85fff4286a77e96c83752664ae74fc2fd39b4e8c11402993968662fe0d3e8b"
 metafile = true
@@ -818,6 +823,16 @@ metafile = true
 [[files]]
 file = "mods/better-trim-tooltips.pw.toml"
 hash = "9fa9b9659167f61c6a77504bd9546faf17ea3e5ba53c9f5b372a94d1f8bd2070"
+metafile = true
+
+[[files]]
+file = "mods/betterend.pw.toml"
+hash = "4b8ffbe47270effb2da83ff2fba6e5dea0158a515033b61a484a21aae6146a76"
+metafile = true
+
+[[files]]
+file = "mods/betternether.pw.toml"
+hash = "f04f6619202e8b2b22e33c4ce152f879633577d82ada897327603c050da601df"
 metafile = true
 
 [[files]]
