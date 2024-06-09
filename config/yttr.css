@@ -154,7 +154,7 @@
 	 * 
 	 * The Wasteland is not required for Yttr progression.
 	 */
-	wasteland: off;
+	wasteland: on;
 	
 	/*
 	 * Replace the Nether's bottom bedrock with unremovable "Core Lava" and barriers. This exists
