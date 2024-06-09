@@ -1,13 +1,13 @@
 name = "Enhanced Workbenches"
-filename = "EnhancedWorkbenches-1.1.1+1.20.1.jar"
+filename = "EnhancedWorkbenches-1.1.2+1.20.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "0e18de421d9f8213c6fea21a562f2dc8403d99ca"
+hash = "cb37272b136ea8c2639b903ce8c798e986a843fd"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5218747
+file-id = 5409706
 project-id = 857513

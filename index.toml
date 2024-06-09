@@ -702,7 +702,7 @@ metafile = true
 
 [[files]]
 file = "mods/artifacts.pw.toml"
-hash = "f8b4e43d454d3c73d198ad5763f6c08e96a34375b1f86b5da4a391e995734d7e"
+hash = "a6436b0bc117c16442e71ebb4155a72e11088aa3d30ec1e76573aff41030d69d"
 metafile = true
 
 [[files]]
@@ -1247,7 +1247,7 @@ metafile = true
 
 [[files]]
 file = "mods/effected-wakes.pw.toml"
-hash = "26a1ed979fd1ac24d2e319b5695782f4275a1449f6d9c4c77ff72126aebdfe9c"
+hash = "da2847279f63f2cace1f07784464288738e3f0167efbbad12d5a06484b41ed10"
 metafile = true
 
 [[files]]
@@ -1317,7 +1317,7 @@ metafile = true
 
 [[files]]
 file = "mods/enhanced-workbenches.pw.toml"
-hash = "c1f57836f1c94d314f51d5717ef5518b4c4f2c07845ba821bcd6ebe03ef55ab1"
+hash = "78242dfebb07f9a188aa0a6787c7a6cdfcb7f06f88ac749c2cfe846fbf2e10d3"
 metafile = true
 
 [[files]]
@@ -1637,7 +1637,7 @@ metafile = true
 
 [[files]]
 file = "mods/imbued-deco.pw.toml"
-hash = "1f1af36c6879b5ed56a515ac88954f942796b89c8dd78bb1a182e50fc813fae5"
+hash = "2d3590a2b8e69093b0b3c47eea4d61e8f9995c293b580475ae1142873ef326df"
 metafile = true
 
 [[files]]
@@ -1812,7 +1812,7 @@ metafile = true
 
 [[files]]
 file = "mods/lets-do-meadow.pw.toml"
-hash = "f951b2442498c83180bee7cd89903300dad20c5f6a330205f5994b3d81a70087"
+hash = "c9a9ec6e6ad821cc37a84148443196f93ff5834ca29a203917b12167e87a8345"
 metafile = true
 
 [[files]]
@@ -1822,7 +1822,7 @@ metafile = true
 
 [[files]]
 file = "mods/lets-do-vinery.pw.toml"
-hash = "ee07fbd2802f376cb9718eb13588b693397a0070e485407e635646dcf8b5222a"
+hash = "46c057347d2412d7cb6622bcf49b3bc1eccf77b0c8b52cd12fc0182328fedb39"
 metafile = true
 
 [[files]]
@@ -2117,7 +2117,7 @@ metafile = true
 
 [[files]]
 file = "mods/packet-fixer.pw.toml"
-hash = "4309ea8345464a9bf101163d67186ee61c732dc36d2ee74fa99f7a4e9e8a7ae8"
+hash = "a10ff2492177be8298db952a6c0c4ae93fbe7f517ab6b72ec93178d946e1650b"
 metafile = true
 
 [[files]]
