@@ -1966,6 +1966,11 @@ hash = "4cd171d3f5f3e1d2948cb1b0062e742a5e85110c9e9a668f9aed5b0cebcb9c97"
 metafile = true
 
 [[files]]
+file = "mods/more-crustacean.pw.toml"
+hash = "e14374d95f05a1aa723d0f2af6f65defd506142f9b6c74b80f4eab0cf2b2d708"
+metafile = true
+
+[[files]]
 file = "mods/moreiotas.pw.toml"
 hash = "fa7bd77deec787331e36a5de5fd027b32430d812e8edbb4181b792e0dc92e0c9"
 metafile = true
