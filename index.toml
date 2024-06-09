@@ -591,11 +591,6 @@ hash = "951cf733abc505db7127a236e8af4d06114ff8107c7579446b6dc3c8ff86ddcb"
 metafile = true
 
 [[files]]
-file = "mods/affectionate.pw.toml"
-hash = "3d5e29b2ecbc3ebe4ed4e9b5c1d731e760556bab29a293be8972ef134d3a3b72"
-metafile = true
-
-[[files]]
 file = "mods/affinity.pw.toml"
 hash = "cb10d360225470e3462123faae0b02391592772f5cf9b9242665e216967c17f5"
 metafile = true
