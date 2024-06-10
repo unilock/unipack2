@@ -1576,11 +1576,6 @@ hash = "5fbecf591673e6f1364e3b4bd18d66772b6f700efde41df925f805467ca22fc6"
 metafile = true
 
 [[files]]
-file = "mods/hexdim.pw.toml"
-hash = "7d3c88f55376d8a96c13e21008ca4ba77ee1e289040953172269d2c4212a4337"
-metafile = true
-
-[[files]]
 file = "mods/hibernal-herbs.pw.toml"
 hash = "e585eb88a1ca2e2a21a5007efb603552a3e9ebffeaf3b591948e2e6c9c883f45"
 metafile = true
