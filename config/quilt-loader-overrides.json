@@ -47,21 +47,6 @@
 			]
 		},
 		{
-			"id": "botania",
-			"depends": [
-				{
-					"replace": {
-						"id": "fabric-api",
-						"versions": ">=0.92"
-					},
-					"with": {
-						"id": "fabric-api",
-						"versions": ">=0.91.0"
-					}
-				}
-			]
-		},
-		{
 			"id": "collars",
 			"depends": [
 				{
@@ -72,36 +57,6 @@
 					"with": {
 						"id": "fabricloader",
 						"versions": ">=0.15.10"
-					}
-				}
-			]
-		},
-		{
-			"id": "fakerlib",
-			"depends": [
-				{
-					"replace": {
-						"id": "fabric-api",
-						"versions": ">=0.92.0"
-					},
-					"with": {
-						"id": "fabric-api",
-						"versions": ">=0.91.0"
-					}
-				}
-			]
-		},
-		{
-			"id": "geckolib",
-			"depends": [
-				{
-					"replace": {
-						"id": "fabric-api",
-						"versions": ">=0.92.2+1.20.1"
-					},
-					"with": {
-						"id": "fabric-api",
-						"versions": ">=0.91.0"
 					}
 				}
 			]
@@ -252,21 +207,6 @@
 					"with": {
 						"id": "fabric-language-kotlin",
 						"versions": ">=1.10.10+kotlin.1.9.10"
-					}
-				}
-			]
-		},
-		{
-			"id": "zenith",
-			"depends": [
-				{
-					"replace": {
-						"id": "fabric",
-						"versions": "=0.92.0+1.20.1"
-					},
-					"with": {
-						"id": "fabric-api",
-						"versions": ">=0.91.0"
 					}
 				}
 			]
