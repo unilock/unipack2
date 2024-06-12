@@ -1,0 +1,13 @@
+name = "Multiline Mastery"
+filename = "multilinemastery-0.1.0+1.20.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3429aea68d46e4e427fa57999a5235ec1ba7c039"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5387948
+project-id = 1027692

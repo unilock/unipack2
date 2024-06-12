@@ -1,0 +1,13 @@
+name = "Lost Relics"
+filename = "lostrelics-1.20-1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "88ad0bdf9986767dfe832d74dfa9fb21d2b6dbb5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4980676
+project-id = 953036

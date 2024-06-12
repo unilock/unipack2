@@ -1861,6 +1861,11 @@ hash = "2beeb497828d72467d5d29dfc9567e06c63c6f1ddf54cb42b7d6a3babd603e0f"
 metafile = true
 
 [[files]]
+file = "mods/lost-relics.pw.toml"
+hash = "6c361fb87b8578809f9df4c219515835d328594e57532c5b02128deaafc228f8"
+metafile = true
+
+[[files]]
 file = "mods/lovely-snails.pw.toml"
 hash = "b91dbfcb842d642390f47deadd6e6862c9be4ea0551fb4f10d0d7807d9e95c75"
 metafile = true
@@ -1968,6 +1973,11 @@ metafile = true
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "7ccd7e24f278303579a874288c0fa2385e4f2e2fa1b64a6afb25d4c8b25088c0"
+metafile = true
+
+[[files]]
+file = "mods/multiline-mastery.pw.toml"
+hash = "f07572689c9171b5ac9926bf6cd4022b9ff24d02dba2afeca07a5ca622fa7d80"
 metafile = true
 
 [[files]]
