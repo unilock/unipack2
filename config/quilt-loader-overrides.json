@@ -32,6 +32,21 @@
 			]
 		},
 		{
+			"id": "bhc",
+			"depends": [
+				{
+					"replace": {
+						"id": "fabric-api",
+						"versions": "=0.92.1"
+					},
+					"with": {
+						"id": "fabric-api",
+						"versions": ">=0.92.1"
+					}
+				}
+			]
+		},
+		{
 			"id": "collars",
 			"depends": [
 				{
