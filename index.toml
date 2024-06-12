@@ -1496,6 +1496,11 @@ hash = "77229ce1ca92a04d17494ca9b9bfa2c9aab25b1ec270ca55f77c8adac583c9a9"
 metafile = true
 
 [[files]]
+file = "mods/go-fish.pw.toml"
+hash = "26a2f28784c2421567b4c5569e55c6ee506de454808ebd0e83fe074eed5e1817"
+metafile = true
+
+[[files]]
 file = "mods/golemancy.pw.toml"
 hash = "0bb99a0bb3f133ef9596e964069744c50950a65277441e3b3b801cb173ed8258"
 metafile = true
