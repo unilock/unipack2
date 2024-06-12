@@ -1,13 +1,13 @@
 name = "Baubley Heart Canisters (Fabric)"
-filename = "bhc-fabric-prerelease-1.0.2+1.20.1.jar"
+filename = "bhc-1.0.3+1.20.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/tc7pAAJD/versions/hIPWDFbh/bhc-fabric-prerelease-1.0.2%2B1.20.1.jar"
+url = "https://cdn.modrinth.com/data/tc7pAAJD/versions/QPlSJPxL/bhc-1.0.3%2B1.20.1.jar"
 hash-format = "sha1"
-hash = "a4489a70c135f689a448d11f7cca26a9b2957683"
+hash = "158d4b15c5e61f182304084562f21ea82d755884"
 
 [update]
 [update.modrinth]
 mod-id = "tc7pAAJD"
-version = "hIPWDFbh"
+version = "QPlSJPxL"

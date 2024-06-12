@@ -382,7 +382,7 @@ hash = "b4e9c80637ce089f1fc68cf7189e5467439032df93cf00586ab8f23b66bdf362"
 
 [[files]]
 file = "config/quilt-loader-overrides.json"
-hash = "07e12c5c113a7914a64876a23ac9948375b0ac5d3c17e8f1bd33aed9a8f4a47e"
+hash = "e8a4b83cde479b7fedd53538e2aad75bed5640ac2ee4a39b36727237b50ec3fd"
 
 [[files]]
 file = "config/railways-client.toml"
@@ -842,7 +842,7 @@ metafile = true
 
 [[files]]
 file = "mods/bhc-fabric.pw.toml"
-hash = "03cca98d5239bd42c7fe11523d334cc5de7a876f3db6b2d83c729fa7b977d37b"
+hash = "e8fdd62a2fe5f74856cabeba59fce78c72a1d7d9b239e932d16f6757139c2d42"
 metafile = true
 
 [[files]]
@@ -1957,7 +1957,7 @@ metafile = true
 
 [[files]]
 file = "mods/more-crustacean.pw.toml"
-hash = "b6b9262ea4a58cd2fde7c892ddc2f1bd89228aa9ab216f39da91f4f51f7c5486"
+hash = "3a20f7068af4dc4917fca71adffdee8dbe4a0840dbe007106c8ece8aef1d3ea3"
 metafile = true
 
 [[files]]
