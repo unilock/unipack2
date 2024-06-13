@@ -1981,8 +1981,9 @@ hash = "f07572689c9171b5ac9926bf6cd4022b9ff24d02dba2afeca07a5ca622fa7d80"
 metafile = true
 
 [[files]]
-file = "mods/mythicmetals-decorations-0.6.1+1.20.1.jar"
-hash = "e736dedf051c1e86efb14560c2cf37f92d7e351049cde4c71ff831fb276853d5"
+file = "mods/mythicmetals-decorations.pw.toml"
+hash = "0ef70d3f2ba3f21a7149e8958720225ef09b2f381f5b4d353e0779e4a39a3a2a"
+metafile = true
 
 [[files]]
 file = "mods/mythicmetals.pw.toml"
