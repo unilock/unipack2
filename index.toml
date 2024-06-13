@@ -1101,6 +1101,11 @@ hash = "252878ad67eb85e89d725478bd36a64ce6f84b247c3ac8a1851f3b4f553f11f4"
 metafile = true
 
 [[files]]
+file = "mods/create-metalwork.pw.toml"
+hash = "a9a22245a9ad85c3c8e5ebb7d3f69c84452ab98b20889224b1265d9d29343cef"
+metafile = true
+
+[[files]]
 file = "mods/critical-shears.pw.toml"
 hash = "f9a10c6bf51d8e416d288e0c7db8f100ba63e339d1e62b22b511679d4585ccfd"
 metafile = true
@@ -1523,6 +1528,11 @@ metafile = true
 [[files]]
 file = "mods/handcrafted.pw.toml"
 hash = "4d126f78c43ca759abfae9b23bfa1cc24a05aaea89923007ad7382f128417b57"
+metafile = true
+
+[[files]]
+file = "mods/harvest-scythes.pw.toml"
+hash = "626d8b187bc0d10a1d8734c70be40da2c1c7c6a4c3544db18066377ff3225ff3"
 metafile = true
 
 [[files]]
