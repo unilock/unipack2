@@ -402,7 +402,7 @@ hash = "f5a3e757ca74a0ee07e5e63052b31f68105c0538f9e64ef6e705934632b3c4e9"
 
 [[files]]
 file = "config/resourcepackoverrides.json"
-hash = "25ca2b2ec7481a2b51413ba4286c8a0dbcf95ac0ed4b4444b4727e8ad590d7d1"
+hash = "81720cdcce1941fd5f3dcba321e24961b6221c1da2a859987e83ccc5a9c50fba"
 
 [[files]]
 file = "config/rightclickharvest.json"
@@ -3498,6 +3498,10 @@ hash = "1311d44a39903f7fb951fbb9e2561ab5f4e527843c59481ad386159a58c84ddd"
 file = "resources/resourcepacks/emi-create-cobble-gen-compat.pw.toml"
 hash = "fd37b834317eabc107cd68ca83518e9f35d1563b13eb09c6d4102c3fda584d27"
 metafile = true
+
+[[files]]
+file = "resources/resourcepacks/glassential-ctm-athena.zip"
+hash = "9f127d8c6baff96605d164083b5146746c3e65bf8c24d71bc836ef439ceb0de1"
 
 [[files]]
 file = "resources/resourcepacks/mt-ct-d.pw.toml"
