@@ -1817,7 +1817,7 @@ metafile = true
 
 [[files]]
 file = "mods/lets-do-nethervinery.pw.toml"
-hash = "f94079b169e7e0a2ad007664687522458952ccb57d9d5ae50038e99b9777131c"
+hash = "2257ecc1cc246aa57ed0d54ae0eb1bea432c64d7d1e2facaac88bf54050c6d16"
 metafile = true
 
 [[files]]
@@ -2102,7 +2102,7 @@ metafile = true
 
 [[files]]
 file = "mods/on1chest.pw.toml"
-hash = "5baef59d3793dda007d0cf781e794d3f15e7fdc47ab3558633d8571369d2dbb2"
+hash = "12d335db38ed5547a5eb2a09f3a0a71a6fc4aa7191f597b078a6052c834c7a3d"
 metafile = true
 
 [[files]]
@@ -2512,7 +2512,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "cd49906a91e2ff1c11acba79192d609c232f2f73d82cc6a646e7338c8e76aa8a"
+hash = "e4d6d1549d675adc3a549284aa237f5bbc8f19361605343f2a3778be9f79209b"
 metafile = true
 
 [[files]]
@@ -2936,10 +2936,6 @@ hash = "e6d39933d8dd6d69f579bf79558540aaf69cb7ee6255a1ec16a9913d82a00e8c"
 [[files]]
 file = "resources/assets/hybrid_beta/lang/en_us.json"
 hash = "d032f96c5b3862ff25eea6f0ce6add09708c4418cb3719720636e18fb0141840"
-
-[[files]]
-file = "resources/assets/on1chest/lang/en_us.json"
-hash = "529ad90b35d9fbfbf32114098ee12e1d6add55e64546f0afcc088927b72b82eb"
 
 [[files]]
 file = "resources/assets/riverredux/lang/en_us.json"
