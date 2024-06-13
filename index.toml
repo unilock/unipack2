@@ -991,6 +991,11 @@ hash = "29e76e233eb1851f53a82772e1f424a5e0f1e6c41ff64b013c8a517c55ebefe8"
 metafile = true
 
 [[files]]
+file = "mods/clay-soldiers-reborn.pw.toml"
+hash = "5bde4a4df9a0e88a50bfe600debeb7e1cc61b00b19236e566954b1ebe84baba4"
+metafile = true
+
+[[files]]
 file = "mods/clickable-advancements.pw.toml"
 hash = "41ad480707906de6e55b183a2c3dfd11e2b6a499cf7fbe9c8d9868771462a72a"
 metafile = true
