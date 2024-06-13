@@ -1,14 +1,14 @@
 name = "Midnighttigger's Default Connected Textures"
-filename = "Midnighttiggers-FCT-Default_1.20.1_V1.zip"
+filename = "Midnighttiggers-ACT-Default_1.20.1_V2.zip"
 side = "client"
 pin = true
 
 [download]
-url = "https://cdn.modrinth.com/data/TjOXlt9Y/versions/tfKvt8nl/Midnighttiggers-FCT-Default_1.20.1_V1.zip"
+url = "https://cdn.modrinth.com/data/TjOXlt9Y/versions/LGrBLgMp/Midnighttiggers-ACT-Default_1.20.1_V2.zip"
 hash-format = "sha1"
-hash = "629561f471171df10aeb0de586691be8bfa541cd"
+hash = "7e5ae3206f362d71a3236351cac3d7b0b8a1f2db"
 
 [update]
 [update.modrinth]
 mod-id = "TjOXlt9Y"
-version = "tfKvt8nl"
+version = "LGrBLgMp"

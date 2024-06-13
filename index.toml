@@ -706,6 +706,11 @@ hash = "b0b72c2a6b6c969315878bf7a813fea74491653282f0fa50c87f64742547647a"
 metafile = true
 
 [[files]]
+file = "mods/athena.pw.toml"
+hash = "0010a7d77197b9013617872691ee7f359b66a10496c2bc0d8ed4aa059db02dc2"
+metafile = true
+
+[[files]]
 file = "mods/attributefix.pw.toml"
 hash = "2ea3d87ffc2806e4bcb6ee9f5a35bdb4588b29030aba235dc7616d1833349d5b"
 metafile = true
@@ -1443,11 +1448,6 @@ metafile = true
 [[files]]
 file = "mods/fullstack-watchdog.pw.toml"
 hash = "f4ce79d79d2a5bc0c7a979341494365743adceecab63424803e4154537446e46"
-metafile = true
-
-[[files]]
-file = "mods/fusion-connected-textures.pw.toml"
-hash = "81f3d06a8cc64e4f096653d07d0869704afd0245ecdfc386ac468ec133aa3b26"
 metafile = true
 
 [[files]]
@@ -3501,7 +3501,7 @@ metafile = true
 
 [[files]]
 file = "resources/resourcepacks/mt-ct-d.pw.toml"
-hash = "15f270ef34f21e33da2f6b787a8cadfda0dfe4ef8eab03036c09a9695bfa88cf"
+hash = "2effdf59f733b88693a94adf73ef8fc0bebdee1e803cc4aecf320958c2f80277"
 metafile = true
 
 [[files]]
