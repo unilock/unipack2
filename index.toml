@@ -977,7 +977,7 @@ metafile = true
 
 [[files]]
 file = "mods/chisel-reborn.pw.toml"
-hash = "3ab1805797f45b7945b590fb69deb384c19767d814f07902e82b968fc964788f"
+hash = "3c7c67992a65d2339254e418d158721b90a5393bc7c988bb0f8217c522e6d126"
 metafile = true
 
 [[files]]
@@ -1387,7 +1387,7 @@ metafile = true
 
 [[files]]
 file = "mods/factory-blocks.pw.toml"
-hash = "f29d63d18a953cc9a4ba82c0c575f5a61351124b664b0179464cee7fbbb95480"
+hash = "ae4349f968d63ceb2735e0f7f7bf647a1433820b5f28b59cb3a8186210ce2d36"
 metafile = true
 
 [[files]]
