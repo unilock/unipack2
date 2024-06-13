@@ -382,7 +382,7 @@ hash = "b4e9c80637ce089f1fc68cf7189e5467439032df93cf00586ab8f23b66bdf362"
 
 [[files]]
 file = "config/quilt-loader-overrides.json"
-hash = "ab139390eb16642d6071552174cede0f118d759af189ec2ce70f15ed8d88bc45"
+hash = "5d29cf02e1e52de23c870610a9b6b9f0e2c5210c7f79932ebffb46dc9f5e3966"
 
 [[files]]
 file = "config/railways-client.toml"
