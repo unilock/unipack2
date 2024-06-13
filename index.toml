@@ -2101,6 +2101,11 @@ hash = "654e006236c269a2a4c5ff859a530828dd26821fa1861d28d81e7a4965767d2e"
 metafile = true
 
 [[files]]
+file = "mods/on1chest.pw.toml"
+hash = "5baef59d3793dda007d0cf781e794d3f15e7fdc47ab3558633d8571369d2dbb2"
+metafile = true
+
+[[files]]
 file = "mods/opac-fabric-create-support.pw.toml"
 hash = "695b9f5005afd8b091a887ae44a63b1626cf5a223031682dfe69eac21fec71f9"
 metafile = true
@@ -2934,7 +2939,7 @@ hash = "d032f96c5b3862ff25eea6f0ce6add09708c4418cb3719720636e18fb0141840"
 
 [[files]]
 file = "resources/assets/on1chest/lang/en_us.json"
-hash = "7153128c5eb68bc139efa3abc51595a1eb0dee3241fe4cdbc9b38f3472e43848"
+hash = "529ad90b35d9fbfbf32114098ee12e1d6add55e64546f0afcc088927b72b82eb"
 
 [[files]]
 file = "resources/assets/riverredux/lang/en_us.json"
