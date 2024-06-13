@@ -1,0 +1,13 @@
+name = "Factory Blocks"
+filename = "factory_blocks+fabric-1.3.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "421dd1ce4d4ca75599ed81be8017f37b0cf9b14b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5331136
+project-id = 640001

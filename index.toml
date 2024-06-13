@@ -976,6 +976,11 @@ hash = "9079215420621e17cc9a19fb14a925c5bf35aad4f9e5213d25f6f0cfec750b1e"
 metafile = true
 
 [[files]]
+file = "mods/chisel-reborn.pw.toml"
+hash = "3ab1805797f45b7945b590fb69deb384c19767d814f07902e82b968fc964788f"
+metafile = true
+
+[[files]]
 file = "mods/chunky-pregenerator.pw.toml"
 hash = "8f3e01ad47042d186087576cd17e91f78576295e7ca16fb885550910cb97caa4"
 metafile = true
@@ -1373,6 +1378,11 @@ metafile = true
 [[files]]
 file = "mods/fabricproxy-legacy.pw.toml"
 hash = "8e6de714243f958f53c0c89a5e32630568ff66e29ad69b748d1b8942f9031847"
+metafile = true
+
+[[files]]
+file = "mods/factory-blocks.pw.toml"
+hash = "f29d63d18a953cc9a4ba82c0c575f5a61351124b664b0179464cee7fbbb95480"
 metafile = true
 
 [[files]]
