@@ -382,7 +382,7 @@ hash = "b4e9c80637ce089f1fc68cf7189e5467439032df93cf00586ab8f23b66bdf362"
 
 [[files]]
 file = "config/quilt-loader-overrides.json"
-hash = "5d29cf02e1e52de23c870610a9b6b9f0e2c5210c7f79932ebffb46dc9f5e3966"
+hash = "ab139390eb16642d6071552174cede0f118d759af189ec2ce70f15ed8d88bc45"
 
 [[files]]
 file = "config/railways-client.toml"
@@ -2512,7 +2512,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "e4d6d1549d675adc3a549284aa237f5bbc8f19361605343f2a3778be9f79209b"
+hash = "cd49906a91e2ff1c11acba79192d609c232f2f73d82cc6a646e7338c8e76aa8a"
 metafile = true
 
 [[files]]
