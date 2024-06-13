@@ -1,13 +1,13 @@
 name = "Planetarium"
-filename = "planetarium-1.2.0.jar"
+filename = "planetarium-1.2.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/dBOB3VZD/versions/UYZYylbq/planetarium-1.2.0.jar"
+url = "https://cdn.modrinth.com/data/dBOB3VZD/versions/zMDjsGOv/planetarium-1.2.1.jar"
 hash-format = "sha1"
-hash = "9e21aa09986a65f9be2677e2d8818443ed459816"
+hash = "29b4bd37730130e500b2401cef5a270f814f8863"
 
 [update]
 [update.modrinth]
 mod-id = "dBOB3VZD"
-version = "UYZYylbq"
+version = "zMDjsGOv"

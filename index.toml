@@ -742,7 +742,7 @@ metafile = true
 
 [[files]]
 file = "mods/badoptimizations.pw.toml"
-hash = "655593774fc1cf3fdcf6a38ce9fd0d883444a1bb5f78e2dd964a62b98c818abb"
+hash = "9109f8db9f13c696a60b0e8e251d0612153149e0893d0c057fa7fe4b3bf24da6"
 metafile = true
 
 [[files]]
@@ -952,7 +952,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "d0377a83505fac0b4fcdbfdb2b3263b9c09ca30d714175adae3dbaa3f48ca4da"
+hash = "71c482e39fc984195a045bf124b23ed65e4701a1d775af64d4b6f764dfa79879"
 metafile = true
 
 [[files]]
@@ -2187,7 +2187,7 @@ metafile = true
 
 [[files]]
 file = "mods/planetarium.pw.toml"
-hash = "9f672e5511d96ef885c9ba2ab026bdb806b96e020c39f8468a30400a22ba7722"
+hash = "280bec9bfc65961fe2e714c2dc9f020b15ab94e0ffb9a9d875469b322949dbc7"
 metafile = true
 
 [[files]]
@@ -2407,7 +2407,7 @@ metafile = true
 
 [[files]]
 file = "mods/roguelikedungeons.pw.toml"
-hash = "84608c92b12b1d48d5b740c35b201e4ad5e629fe173bea40fcd153f79aae213d"
+hash = "34c9fd7d10a0138896f078dea8a45f5e5e2b6b05acd6b0a14df5c7cd39379923"
 metafile = true
 
 [[files]]
