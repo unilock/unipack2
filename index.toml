@@ -1330,6 +1330,11 @@ hash = "4091cbd06fc8806b90a28a1e841b7d43620bcbc47395383d78dd0ac37fa8f175"
 metafile = true
 
 [[files]]
+file = "mods/enchanting-max-level.pw.toml"
+hash = "e412d14cabdc5d9b5e46767228ed2e73d22c2d1a232bd38225cebd875de0ba1e"
+metafile = true
+
+[[files]]
 file = "mods/ends-delight.pw.toml"
 hash = "eaf1ccd2f10b95d58026be6dd07ce11224758a6d1916478be7b85547a4aba598"
 metafile = true
