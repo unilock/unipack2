@@ -518,7 +518,7 @@ hash = "ec9a9fb9ff6d8a40493038787f227a6abed61d971bc9cc7a4419a6f9d8977f50"
 
 [[files]]
 file = "config/yttr.css"
-hash = "3cd398f2fa46fbc08fcc2a943c455c4f55c0b1bc554c4c3d9ad0676d37979229"
+hash = "7269763bbf702d87294199bf62f5d63e71898e024c64ab0a05ce01749e8d056c"
 
 [[files]]
 file = "config/yungsmenutweaks-fabric-1_20_1.toml"
@@ -592,6 +592,11 @@ metafile = true
 [[files]]
 file = "mods/ae2-qol-recipes.pw.toml"
 hash = "951cf733abc505db7127a236e8af4d06114ff8107c7579446b6dc3c8ff86ddcb"
+metafile = true
+
+[[files]]
+file = "mods/affectionate.pw.toml"
+hash = "3d5e29b2ecbc3ebe4ed4e9b5c1d731e760556bab29a293be8972ef134d3a3b72"
 metafile = true
 
 [[files]]
@@ -785,11 +790,6 @@ hash = "0796c4a4c654ed73f0be7c23e7d5e33a1c0536ffc410b822a2f18273f69f9388"
 metafile = true
 
 [[files]]
-file = "mods/bclib.pw.toml"
-hash = "0c6982d793283b27ef35fdc3b57b7b9554fbc162c03ac7431ebbee9b1d5b241c"
-metafile = true
-
-[[files]]
 file = "mods/bedrodium.pw.toml"
 hash = "3d85fff4286a77e96c83752664ae74fc2fd39b4e8c11402993968662fe0d3e8b"
 metafile = true
@@ -837,16 +837,6 @@ metafile = true
 [[files]]
 file = "mods/better-trim-tooltips.pw.toml"
 hash = "9fa9b9659167f61c6a77504bd9546faf17ea3e5ba53c9f5b372a94d1f8bd2070"
-metafile = true
-
-[[files]]
-file = "mods/betterend.pw.toml"
-hash = "4b8ffbe47270effb2da83ff2fba6e5dea0158a515033b61a484a21aae6146a76"
-metafile = true
-
-[[files]]
-file = "mods/betternether.pw.toml"
-hash = "f04f6619202e8b2b22e33c4ce152f879633577d82ada897327603c050da601df"
 metafile = true
 
 [[files]]

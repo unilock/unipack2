@@ -172,13 +172,13 @@
 	 * without any mods. Just removing the bedrock and providing this much more interesting
 	 * replacement makes more sense than you think.
 	 */
-	scorched: off;
+	scorched: on;
 	/*
 	 * Perform Scorched retrogeneration in Nether chunks that still have bedrock.
 	 *
 	 * Won't destroy existing structures.
 	 */
-	scorched-retrogen: off;
+	scorched-retrogen: on;
 	
 	/*
 	 * Generate "Roots of Continuity" on the underside of small End islands.
