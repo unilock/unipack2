@@ -1,0 +1,8 @@
+name = "Fluid Sieve: Rewoven"
+filename = "fluid_sieve-1.0.0+1.20.1+fabric.jar"
+side = "both"
+
+[download]
+url = "https://play.fennet.rentals/packwiz/unipack2/manual-jars/both/fluid_sieve-1.0.0+1.20.1+fabric.jar"
+hash-format = "sha256"
+hash = "ef2aac54c29fbd25e4684c2fdda03198525b66b933b25f648d0203433bb64b82"
