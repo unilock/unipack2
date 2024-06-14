@@ -3199,6 +3199,10 @@ file = "resources/datapacks/separatedleaves/data/affinity/separated_leaves/azale
 hash = "fa7fd5002cdec435a8a97b2c652d35a8d93cc1d1129597ad1fb3f9e190f2c47b"
 
 [[files]]
+file = "resources/datapacks/separatedleaves/data/arts_and_crafts/separated_leaves/cork.json"
+hash = "51eebc01518aa1721cb219615f7a01dccbd2e24ec5740123cdb05e14052eb8aa"
+
+[[files]]
 file = "resources/datapacks/separatedleaves/data/aurorasdeco/separated_leaves/azalea.json"
 hash = "f6004e346e93c5c2a6be7cb724a91b5602f6a66b3ba42a2ef0cbb23da0015c37"
 
