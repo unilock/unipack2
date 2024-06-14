@@ -790,6 +790,11 @@ hash = "0796c4a4c654ed73f0be7c23e7d5e33a1c0536ffc410b822a2f18273f69f9388"
 metafile = true
 
 [[files]]
+file = "mods/baubley-heart-canisters-fabric.pw.toml"
+hash = "e1997c1442741e9960088e40cf204318eaf755e07bac0108cc7e1030c46a068f"
+metafile = true
+
+[[files]]
 file = "mods/bedrodium.pw.toml"
 hash = "3d85fff4286a77e96c83752664ae74fc2fd39b4e8c11402993968662fe0d3e8b"
 metafile = true
@@ -847,11 +852,6 @@ metafile = true
 [[files]]
 file = "mods/bewitchment.pw.toml"
 hash = "daf8030dfb7a2c8c335982310e387a4a6825b26b340bbabc904a3895a9eea77a"
-metafile = true
-
-[[files]]
-file = "mods/bhc-fabric.pw.toml"
-hash = "e8fdd62a2fe5f74856cabeba59fce78c72a1d7d9b239e932d16f6757139c2d42"
 metafile = true
 
 [[files]]
