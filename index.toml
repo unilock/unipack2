@@ -561,6 +561,10 @@ file = "defaultconfigs/openpartiesandclaims-default-player-config.toml"
 hash = "0d63220256950def521688da5035b9f5ee05a98eeb7fa8afb58f712353e5f63f"
 
 [[files]]
+file = "lambdamap/config.toml"
+hash = "c45d20f13e5f76cf4fdb8f54ddd27020cf6328c92b0eadf600b7c2869aff3de9"
+
+[[files]]
 file = "mods/abridged.pw.toml"
 hash = "76948a54243717b06b4e0afdc4c1f2f6c536c407d5de9d4ac7256843fb77044c"
 metafile = true
@@ -1786,6 +1790,11 @@ hash = "ef5b1cad2960cf1711194d1ff50b9da616ae3b157c081e8b56af0c8b17e9946b"
 metafile = true
 
 [[files]]
+file = "mods/lambdamap.pw.toml"
+hash = "3895169a80fe0550600d5baf86f3dd8ddedb6a98a9c0c166f10b6d5904b514ce"
+metafile = true
+
+[[files]]
 file = "mods/lambdynamiclights.pw.toml"
 hash = "987cb94ae9c60a811784617fad5eb48b574691d8eba12eb79a1ca3640e5892f4"
 metafile = true
@@ -2888,26 +2897,6 @@ metafile = true
 [[files]]
 file = "mods/wyd.pw.toml"
 hash = "73a8bd0d5aebfc2a7884833806b1f2814c7e53fbe87aea03a658a8022dd6b6ef"
-metafile = true
-
-[[files]]
-file = "mods/xaero-arrow-fix.pw.toml"
-hash = "4d42dd746e021c7c8261378f1633e94294c7b74503104c4c4151203514a71754"
-metafile = true
-
-[[files]]
-file = "mods/xaeros-map-chest-tracker-integration.pw.toml"
-hash = "cd60fa35266cc7d38e4842ce0090f8f4aff59eac5ea3e3afd868c97b7045784e"
-metafile = true
-
-[[files]]
-file = "mods/xaeros-minimap.pw.toml"
-hash = "2a08a399b364bc64bc2abb848cce938c1b87d0534a17fcb8a87ba80dbec7304d"
-metafile = true
-
-[[files]]
-file = "mods/xaeros-world-map.pw.toml"
-hash = "16499c922a2bf62ecbc740979edb0040f3f2ecab032d005270aabea1a386d321"
 metafile = true
 
 [[files]]
