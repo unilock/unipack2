@@ -701,6 +701,16 @@ hash = "a6436b0bc117c16442e71ebb4155a72e11088aa3d30ec1e76573aff41030d69d"
 metafile = true
 
 [[files]]
+file = "mods/artsandcrafts-compatibility.pw.toml"
+hash = "a646987012e3ac9d24d3e58f1633dcdf3bfdc312684349a1eaf6f21ddafa1412"
+metafile = true
+
+[[files]]
+file = "mods/artsandcrafts.pw.toml"
+hash = "0fc2b0e19289298cc5717da652c2c6fd58a713865e5d8d3999fdff2abdbab4d7"
+metafile = true
+
+[[files]]
 file = "mods/async-locator.pw.toml"
 hash = "b0b72c2a6b6c969315878bf7a813fea74491653282f0fa50c87f64742547647a"
 metafile = true
@@ -851,6 +861,11 @@ hash = "e8fdd62a2fe5f74856cabeba59fce78c72a1d7d9b239e932d16f6757139c2d42"
 metafile = true
 
 [[files]]
+file = "mods/bitter-brews.pw.toml"
+hash = "cff1f927ad4227bdf652629951b123d63e9df66271359a5695009b0d75f581c9"
+metafile = true
+
+[[files]]
 file = "mods/blahaj-fabric.pw.toml"
 hash = "3be4d8184379525c27fee02066e56149bc701189a4b8b4c5ec5deff189f1422d"
 metafile = true
@@ -928,6 +943,11 @@ metafile = true
 [[files]]
 file = "mods/brewin-and-chewin-fabric.pw.toml"
 hash = "6162785cfa9e7f295bb1f9dd0d1fc94f85e1e06a90b205ee8a56fdb53f7c06a3"
+metafile = true
+
+[[files]]
+file = "mods/caffeinated.pw.toml"
+hash = "f897e24727f68b1b00d2606b6fcc1e5fe134d62cc47e4ef874494aa465ea7f5a"
 metafile = true
 
 [[files]]
@@ -2698,6 +2718,11 @@ metafile = true
 [[files]]
 file = "mods/tidal-towns.pw.toml"
 hash = "b47c07f5182af99016791a7008a241cd19442cb9e993cd56f5f90961a5f1375f"
+metafile = true
+
+[[files]]
+file = "mods/tipsylib.pw.toml"
+hash = "dd89baebaef9780803645cc783909eac045b895e601c774b968998e4a9ce9579"
 metafile = true
 
 [[files]]
