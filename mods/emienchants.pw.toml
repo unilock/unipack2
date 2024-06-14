@@ -1,0 +1,13 @@
+name = "EMI Enchants"
+filename = "EMIEnchants-fabric-1.19.3-1.20.4-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e4aa88c68e3fb8a02903109a1065cc733d5211cb"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5425204
+project-id = 1036393
