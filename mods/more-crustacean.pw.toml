@@ -1,13 +1,13 @@
 name = "More Crustacean"
-filename = "More_Crustacean-1.2.1-fixed-2.jar"
+filename = "More_Crustacean-1.2.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/H6wY3SJ7/versions/NOvobHNL/More_Crustacean-1.2.1-fixed-2.jar"
+url = "https://cdn.modrinth.com/data/H6wY3SJ7/versions/WYblA6u8/More_Crustacean-1.2.2.jar"
 hash-format = "sha1"
-hash = "57e6a9d70dda3d05bc85010c8356720590a36fdc"
+hash = "d2786ff68dd49526e54ff1759bdd52cb72a4f617"
 
 [update]
 [update.modrinth]
 mod-id = "H6wY3SJ7"
-version = "NOvobHNL"
+version = "WYblA6u8"

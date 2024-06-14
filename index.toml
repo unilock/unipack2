@@ -697,7 +697,7 @@ metafile = true
 
 [[files]]
 file = "mods/artifacts.pw.toml"
-hash = "a6436b0bc117c16442e71ebb4155a72e11088aa3d30ec1e76573aff41030d69d"
+hash = "82cda9da7129ebbf2f3dcdcd31e2d1a74e3bd4541750bb48078585d67382bd0b"
 metafile = true
 
 [[files]]
@@ -757,7 +757,7 @@ metafile = true
 
 [[files]]
 file = "mods/badoptimizations.pw.toml"
-hash = "9109f8db9f13c696a60b0e8e251d0612153149e0893d0c057fa7fe4b3bf24da6"
+hash = "8de7d8c650f70ef9e90eaa216a5200e6d65f0c2b3e0140f4b3b1976f41592109"
 metafile = true
 
 [[files]]
@@ -1487,7 +1487,7 @@ metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "0cc8b23ff897c146c7a66baafd92a3fb498d622a7fd6611bd9d33ef0f0c42adb"
+hash = "fdd10ba558f8f3dd518f6be006786f88a0c3f8fb7673ad57c953eef6b9743c4e"
 metafile = true
 
 [[files]]
@@ -2002,7 +2002,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "6c280e68ef025b2615a20546a3e69c4e87ba039c1d2677f96f8aba31fffb2a7f"
+hash = "efaee3263d2816be123c3fa0c9f5962555be09e8a3d628d5eb4862d3cc7cac53"
 metafile = true
 
 [[files]]
@@ -2012,7 +2012,7 @@ metafile = true
 
 [[files]]
 file = "mods/more-crustacean.pw.toml"
-hash = "3a20f7068af4dc4917fca71adffdee8dbe4a0840dbe007106c8ece8aef1d3ea3"
+hash = "4a3b571f0a24d45cbf4bebe409bd3b5b03bb949330a09bf078120acc37037d96"
 metafile = true
 
 [[files]]
@@ -2392,7 +2392,7 @@ metafile = true
 
 [[files]]
 file = "mods/reacharound.pw.toml"
-hash = "1f4d136e88766204bd3a9b3c7b3f243ee4642b6c4c2b8b0099b2cff2fbe74625"
+hash = "a92caaa0a2de8d699a3036ec563c09ce3db537751364e4736a89ecdbdb030516"
 metafile = true
 
 [[files]]

@@ -1,13 +1,13 @@
 name = "Reacharound"
-filename = "reacharound+1.20-1.1.2.jar"
+filename = "reacharound+1.20-1.2.0.jar"
 side = "client"
 
 [download]
 hash-format = "sha1"
-hash = "31406fd3d8d2eb0424c3c84fa0cec186445e6438"
+hash = "e5f8197bb9d73511043785d15bc725e6c816903f"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4572073
+file-id = 5425835
 project-id = 648781
