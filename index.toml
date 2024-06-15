@@ -150,7 +150,7 @@ hash = "3078da59a2bc322a409362f286ae57ade6d1ef0822bcd706f5b4419e95ffecf7"
 
 [[files]]
 file = "config/defaultoptions/keybindings.txt"
-hash = "e5bff6594aeaf09cd76a770cd1dd6daec34f5bed5198619e914bb861d5c5e533"
+hash = "f37cbc98855e52dbf6eb51fb35d5007239387ecbb40c8b6f17b3d1c76b803d4e"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
@@ -972,6 +972,11 @@ hash = "f897e24727f68b1b00d2606b6fcc1e5fe134d62cc47e4ef874494aa465ea7f5a"
 metafile = true
 
 [[files]]
+file = "mods/calibrated.pw.toml"
+hash = "d4b95a7c533292451f3c8e415dea3a9157d0a94f59d61b56136f7e14e823bc61"
+metafile = true
+
+[[files]]
 file = "mods/canary-safety.pw.toml"
 hash = "fe2380b7a797f6c7f5b9932d9648929f90bb69437ec3af8a8f9427ea5aaf9929"
 metafile = true
@@ -1402,6 +1407,11 @@ hash = "b3aa3212c74a98698f6c9543d37740328f4dd9a93dbb9169cb1a54adae3adec7"
 metafile = true
 
 [[files]]
+file = "mods/excorrelation.pw.toml"
+hash = "adc7967b2d00884cf50c63721845c581551f9720452cb335a6581ce9e5325417"
+metafile = true
+
+[[files]]
 file = "mods/expanded-delight.pw.toml"
 hash = "cfef11033a71fbb40b10686e24bf3d5d0792ed94ef0244f5cd868915181104e8"
 metafile = true
@@ -1632,6 +1642,11 @@ hash = "5a6292e4f23910e287dca95e650625bc23e496a7aea0f55b7571012e431e84ae"
 metafile = true
 
 [[files]]
+file = "mods/hazard-diamond.pw.toml"
+hash = "5e0dca2e1a5e56e1957c383dd187ba8fd0e49d615f3e0fa626fcb9b43af99a42"
+metafile = true
+
+[[files]]
 file = "mods/headpets.pw.toml"
 hash = "45d58d152f9799deb5c5b02052899de27ec0e4cbe85e23d1d63af5178dd2b50e"
 metafile = true
@@ -1684,6 +1699,11 @@ metafile = true
 [[files]]
 file = "mods/hexal.pw.toml"
 hash = "5fbecf591673e6f1364e3b4bd18d66772b6f700efde41df925f805467ca22fc6"
+metafile = true
+
+[[files]]
+file = "mods/hexbound.pw.toml"
+hash = "2aa57a0fa68ce2088cb5febe53e4897e364cb0e908ded74fd78ff5125a56a507"
 metafile = true
 
 [[files]]
@@ -1839,6 +1859,11 @@ metafile = true
 [[files]]
 file = "mods/kawaii-dishes.pw.toml"
 hash = "ecd19dce0765e852375ed77bec37dc9c1fe39aad75390237c3161cdb7b870cd2"
+metafile = true
+
+[[files]]
+file = "mods/kettle.pw.toml"
+hash = "7a1445c5c68cfa7f87b2426fa6adbbdcac17d1ecf077ab952ba36b612e9f318e"
 metafile = true
 
 [[files]]
@@ -2992,6 +3017,11 @@ hash = "dbafccd29495ea54027c8820fb40484cf8326f7c3603213481d957df6dab6091"
 metafile = true
 
 [[files]]
+file = "mods/worldinajar.pw.toml"
+hash = "184f2f7b4c93cfd077cf2a7473e0844d058f4f09bbefe098602cb4d854e3b9f4"
+metafile = true
+
+[[files]]
 file = "mods/wthit.pw.toml"
 hash = "b211af0448434d8c694abf338d7c6baa3dc1825b59cee2c55c39cb294042412d"
 metafile = true
@@ -3063,7 +3093,7 @@ metafile = true
 
 [[files]]
 file = "options.amecsapi.txt"
-hash = "5198980e15ad9a0a45282f7ea79c3f639e222a0f1e8c237c720f4d0c7d6f04d8"
+hash = "368a8829ae78d2aecdbfad6187f377af512508ccbbc0a81da84d93691e248053"
 
 [[files]]
 file = "resources/assets/hotm/lang/en_us.json"

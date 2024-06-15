@@ -1,0 +1,13 @@
+name = "World In a Jar"
+filename = "worldinajar-0.3.0+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/uvdL3H4g/versions/We73Lulj/worldinajar-0.3.0%2B1.20.1.jar"
+hash-format = "sha1"
+hash = "cf092d308baaeddf6f04544b67e5fe05d0d492e2"
+
+[update]
+[update.modrinth]
+mod-id = "uvdL3H4g"
+version = "We73Lulj"

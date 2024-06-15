@@ -1,0 +1,13 @@
+name = "Hazard Diamond"
+filename = "hdiamond-2.1.0+1.20.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "641c561775691aa0cdb4d383a76762b9b2e9b8ee"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4671752
+project-id = 860468
