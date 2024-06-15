@@ -161,6 +161,10 @@ file = "config/defaultoptions/servers.dat"
 hash = "e6588cb1e350fad93ceb56194b06f690dc6f52e405ddbe4cfb1a46b080681f2d"
 
 [[files]]
+file = "config/dimdoors-config.json5"
+hash = "325c78c8f2e4847db045c3f304280ada5509866bd9d50c498dd0a39a6461b81f"
+
+[[files]]
 file = "config/dsurround/dsurround.json"
 hash = "0f525f981c118d4d959168720cbc1aecda6f23939ec3251780cecab1f6b8334d"
 
@@ -231,6 +235,10 @@ hash = "085e0ea22bd592a73d7e400b3fed9dd3eb838f0d9ed3a85ecd106cfd5b60513c"
 [[files]]
 file = "config/forgeconfigapiport.toml"
 hash = "ebeeb3ad6a574d20f2fabaffd46b0cd8cebcfa5cdd63efd3c8faeb26162b6388"
+
+[[files]]
+file = "config/fsit.yml"
+hash = "bab58954d1d2e4c3de83973729e79c60b7aff51986f4c213a02b22291e2ee9ff"
 
 [[files]]
 file = "config/fwaystones/config.json5"
@@ -353,6 +361,10 @@ file = "config/noindium.json"
 hash = "1fe9c8370e7d57e1283193791f8f8f28e67a3ce7b4fab4acc9e52c227c028ebd"
 
 [[files]]
+file = "config/nox.json"
+hash = "e4f7c338e171c2cbadc1d8e8da258492381b333f6b040d5f47be55e3b81d0356"
+
+[[files]]
 file = "config/ok_zoomer/config.toml"
 hash = "2855b32e7918b6df8f108e9ce759e935c40a147ebbb3a6beb0c2d68bf4bfb06d"
 
@@ -382,7 +394,7 @@ hash = "b4e9c80637ce089f1fc68cf7189e5467439032df93cf00586ab8f23b66bdf362"
 
 [[files]]
 file = "config/quilt-loader-overrides.json"
-hash = "ab139390eb16642d6071552174cede0f118d759af189ec2ce70f15ed8d88bc45"
+hash = "594abec86b3f4aed1891a4f37cfafc95573f07c1fcc7e3c0de6eaf5958ce3161"
 
 [[files]]
 file = "config/railways-client.toml"
@@ -845,6 +857,16 @@ hash = "9fa9b9659167f61c6a77504bd9546faf17ea3e5ba53c9f5b372a94d1f8bd2070"
 metafile = true
 
 [[files]]
+file = "mods/bettercookedaxolotls.pw.toml"
+hash = "f50460bc7e31c4adff4d9aa7e12dece3b97ed65dc35371d60c780d755c3e2a1d"
+metafile = true
+
+[[files]]
+file = "mods/betterendsky.pw.toml"
+hash = "cfaed7d126f269e6ab6f688bd6c528f70d148929c3c88fca6491612e261728b0"
+metafile = true
+
+[[files]]
 file = "mods/bettersmithingtable.pw.toml"
 hash = "e1b62b10003ddbd2781ff64deef081bef40a258df25c5e37df1ba98c270fb843"
 metafile = true
@@ -922,6 +944,11 @@ metafile = true
 [[files]]
 file = "mods/botarium.pw.toml"
 hash = "938dedd6b8da990018f2e4df0bee0c63c676eaef9673d6390e2def255a04bd48"
+metafile = true
+
+[[files]]
+file = "mods/bountiful-fares.pw.toml"
+hash = "ff0fa73b84a9ec3ecbe1ebe3e9f654a4aa2aecd6726390ee614c1e45ccb546d9"
 metafile = true
 
 [[files]]
@@ -1055,6 +1082,11 @@ hash = "71b7a0aa374d74b8f5a2dd40fdc1abcb48c1a9700b1f6a36a6b6b3ade7a4b4d7"
 metafile = true
 
 [[files]]
+file = "mods/common-bridge.pw.toml"
+hash = "e277c4736fe6449d34394d65a2acd293bfd58d12f676ce88b707c6d3d64dbfcf"
+metafile = true
+
+[[files]]
 file = "mods/common-network.pw.toml"
 hash = "e5f09459600432653fb8de3bc823b84432400b8159bbe993e19c93a127de40fc"
 metafile = true
@@ -1092,6 +1124,11 @@ metafile = true
 [[files]]
 file = "mods/connectivity.pw.toml"
 hash = "fcf0eba22e87809cb09862669571f0b120348a1ea83c0f72c316fa41634231f2"
+metafile = true
+
+[[files]]
+file = "mods/construction-wand-fabric.pw.toml"
+hash = "b6fee21da432c0dc53c76cb2b11402e17e415b8ee91b18a082f19a139937e016"
 metafile = true
 
 [[files]]
@@ -1207,6 +1244,11 @@ metafile = true
 [[files]]
 file = "mods/digital-items-3.pw.toml"
 hash = "5bd7fc6ad8bc4b8b35e6e3875ab0dce29209a4b1315ac8477b2ab2b7ff1836c5"
+metafile = true
+
+[[files]]
+file = "mods/dimensionaldoors.pw.toml"
+hash = "9a550f7a6e5ad884b4ddd6d5abd912ee5ae5da688aac19041f99de43a6ce2b57"
 metafile = true
 
 [[files]]
@@ -1375,6 +1417,16 @@ hash = "c8413d40d9e9d2897a45a19dca87c181a46c32a88b7dd5b05f898a0a92b15e36"
 metafile = true
 
 [[files]]
+file = "mods/exposure-catalog.pw.toml"
+hash = "480f2f55a0b13f618b855b520cf4a3240f2bc4be5a27995bfa9badcff33dbbf4"
+metafile = true
+
+[[files]]
+file = "mods/exposure.pw.toml"
+hash = "0e1bcec4edde700e8c4bf9b5db47b379262dd27102faa932041c7d4b45790a73"
+metafile = true
+
+[[files]]
 file = "mods/extra-mod-integrations.pw.toml"
 hash = "fce2be0de327cbcd6d1589aa18a538ce377ba9e3ed7826d8a3adcdacaf9fb178"
 metafile = true
@@ -1472,6 +1524,11 @@ metafile = true
 [[files]]
 file = "mods/forge-config-api-port-fabric.pw.toml"
 hash = "5641148e6922cc3e6768726ff5db1d23088fb3969951a67e201ed3cc8183c700"
+metafile = true
+
+[[files]]
+file = "mods/fsit.pw.toml"
+hash = "a4cf445a4893c21fdcf2e5ab6c124f37a28184ef13e9e140e8434be0c64bb806"
 metafile = true
 
 [[files]]
@@ -1645,6 +1702,11 @@ hash = "c163df2a24d23f278ee8591b83bcca71215c3597495b058c75084f5e5d2ca535"
 metafile = true
 
 [[files]]
+file = "mods/horseshoes.pw.toml"
+hash = "e7822cdabc94ab8e1f9d1273fc188ae3bb0a7abdb2ba1b5ecf474167769af850"
+metafile = true
+
+[[files]]
 file = "mods/hotshot.pw.toml"
 hash = "6207921b00735d50cdbb052fd40b007f9e93d3b8fa0d8807719dd11f8af58c11"
 metafile = true
@@ -1692,6 +1754,11 @@ metafile = true
 [[files]]
 file = "mods/imbued-gear.pw.toml"
 hash = "c17a83a26f116e8e4889d025e370ca4e71ff791b55ce8fab88aba1757b9ddca3"
+metafile = true
+
+[[files]]
+file = "mods/immersive-aircraft.pw.toml"
+hash = "cdc030a4636da8d8bd188de562c09cd10c7d33ebdde720ec276f5f66018ecaec"
 metafile = true
 
 [[files]]
@@ -1752,6 +1819,11 @@ metafile = true
 [[files]]
 file = "mods/jsonpatcher.pw.toml"
 hash = "4a5c89b56505989909130495229682b4b11e03cde3f00d3394935dcfc526ae05"
+metafile = true
+
+[[files]]
+file = "mods/jukeboxfix.pw.toml"
+hash = "1d009a41e3ddf2cc5b6af4f4083ef07bb8805377d4f65fec6e11e59e93e8372d"
 metafile = true
 
 [[files]]
@@ -1927,6 +1999,21 @@ metafile = true
 [[files]]
 file = "mods/macos-input-fixes.pw.toml"
 hash = "6f608fc4e861f6156368b2a3b706645755030bf6a04dc1f59166c8b22cba872c"
+metafile = true
+
+[[files]]
+file = "mods/man-of-many-planes.pw.toml"
+hash = "7bcfeb7d267b366b6bcf263313ec9bf1ec187f153f0852929eb08816f86174b3"
+metafile = true
+
+[[files]]
+file = "mods/marigold-rings.pw.toml"
+hash = "a11ecd8a377154da4f081a69d323f21f7fbdf22636a0c17a7fad503816b552d1"
+metafile = true
+
+[[files]]
+file = "mods/marigolds.pw.toml"
+hash = "24aaa8dbc1cbea9c34abcd623f844bfe022aec71971c9ccff81c322757d2e1b1"
 metafile = true
 
 [[files]]
@@ -2120,6 +2207,11 @@ hash = "c737bdfd6940736f88cd39065a0193ba70637a560fbce4389e59f67d72813209"
 metafile = true
 
 [[files]]
+file = "mods/nox-renoxed.pw.toml"
+hash = "01033e2ae5ee6337551b496b79f5d6fa1186a465f7fb5fdd5eaf4d297561a40b"
+metafile = true
+
+[[files]]
 file = "mods/obfuscated-accessibility.pw.toml"
 hash = "3fe176748a9ddcc91c3fa179e3dcca174015e00db2dcba3a38d737c7eb833509"
 metafile = true
@@ -2297,6 +2389,16 @@ metafile = true
 [[files]]
 file = "mods/pride-furnaces.pw.toml"
 hash = "19ccf5c4fd3d3baeb426be8f4827ac2192fa9b1807538e73fec78feaa9517333"
+metafile = true
+
+[[files]]
+file = "mods/prideful-animals.pw.toml"
+hash = "6b8c50e0fd9e94f0cd6154f281299f095a30b7d6b9011141bdac27248dfb65ec"
+metafile = true
+
+[[files]]
+file = "mods/projectiles.pw.toml"
+hash = "7f2d738ecf2c90e289b5f28ec8f5c13697fd82daac7b664fae4328f039f2c144"
 metafile = true
 
 [[files]]
@@ -2480,6 +2582,11 @@ hash = "85ce2777b2c58c6a6ca1f090a8fe385bfa490578b78b671b52feac9c448928ad"
 metafile = true
 
 [[files]]
+file = "mods/scholar.pw.toml"
+hash = "687e228160d55719a63fd2815e660505df859d97d84ed97bd835015cb2d3f174"
+metafile = true
+
+[[files]]
 file = "mods/seamless.pw.toml"
 hash = "b71dbeffb1ab80f098523c02a26b5fbdf9752e4eb4c7ca720e23c9120f3c4884"
 metafile = true
@@ -2615,11 +2722,6 @@ hash = "f873a549b596170178920aefb8bda3956f3014700af54b36f32a34f373309a57"
 metafile = true
 
 [[files]]
-file = "mods/staff-of-building.pw.toml"
-hash = "6090690dd09d31f814e38cbeb7e34bc37073242edcf0e6f802f3dc94168b3d8a"
-metafile = true
-
-[[files]]
 file = "mods/stairdoors-extended.pw.toml"
 hash = "00cc61bf4e627b548f057658dcc0c9da43a02ee43c4ce7d3ba32134bc732f450"
 metafile = true
@@ -2657,6 +2759,11 @@ metafile = true
 [[files]]
 file = "mods/suggestion-tweaker.pw.toml"
 hash = "e86f91de17de6f9770edbe2e175567de56dad6ec66b021d2d180a515e9e1e66e"
+metafile = true
+
+[[files]]
+file = "mods/superb-steeds.pw.toml"
+hash = "1a8631c458bae95073653ed03fc97683c912b0c19ea2e424e7b1ae2b6821ab63"
 metafile = true
 
 [[files]]
@@ -3133,10 +3240,6 @@ hash = "0923afd47d1dbd7a461812cd0e952b561c6b342651bae877c52270e7fa064e18"
 [[files]]
 file = "resources/data/rightclickharvest/tags/items/mid_tier_hoes.json"
 hash = "d4d8c5d71e7504461018eef267a328c26f1cea97ec90a8d8c7bf53ad7932e532"
-
-[[files]]
-file = "resources/data/staffofbuilding/recipes/netherite_builder_staff.json"
-hash = "75cf283a48d0ac2d7b8716a5ab48b52bbdda0c8ae6a38ac8482f5a4cef435aa3"
 
 [[files]]
 file = "resources/data/unipack/advancements/book.json"

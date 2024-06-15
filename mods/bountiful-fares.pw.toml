@@ -1,0 +1,13 @@
+name = "Bountiful Fares"
+filename = "bountifulfares-1.2.0-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5a04f56619b399814386418cb31046292dc81108"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5388080
+project-id = 972289

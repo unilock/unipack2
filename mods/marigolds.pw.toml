@@ -1,0 +1,13 @@
+name = "Marigold Flower!"
+filename = "marigolds-1.0.5-1.20.1-fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4d9a3fd035729b3799d50a5f2687519a4270e27a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5253000
+project-id = 855153

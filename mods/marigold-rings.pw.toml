@@ -1,0 +1,13 @@
+name = "Marigold Rings"
+filename = "marigoldrings-1.0.0-1.20.1 (1).jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/7ziO0AUU/versions/zVkB3MhR/marigoldrings-1.0.0-1.20.1%20%281%29.jar"
+hash-format = "sha1"
+hash = "9dc14151d65142b580bb283438c4c05c6a1367e2"
+
+[update]
+[update.modrinth]
+mod-id = "7ziO0AUU"
+version = "zVkB3MhR"

@@ -1,0 +1,13 @@
+name = "Common Bridge"
+filename = "common-bridge-0.2.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "827ca8b3dd4fc8830e5446ae25b0424375ce04e3"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4987880
+project-id = 948816

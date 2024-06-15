@@ -1,0 +1,13 @@
+name = "Projectiles"
+filename = "Projectiles-1.0.0-1.20.1-Quilt.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0726505032856d59390a4a5c00e9be20ed7541d2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5148302
+project-id = 917416

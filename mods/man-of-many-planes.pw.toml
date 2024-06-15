@@ -1,0 +1,13 @@
+name = "Man of Many Planes"
+filename = "man_of_many_planes-0.1.0+1.20.1-fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "fe50de3abadee15e36bf9a879b9f1683a320ff04"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5339126
+project-id = 984493

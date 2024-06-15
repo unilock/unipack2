@@ -1,0 +1,13 @@
+name = "Prideful Animals"
+filename = "PridefulAnimals (1.20.x-fabric)-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a7b76675180494e6d1dd766358c54d341473e3be"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5100777
+project-id = 973648
