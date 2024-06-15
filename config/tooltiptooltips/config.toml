@@ -7,7 +7,7 @@ always_show = false
 [armor_tools]
 	# Whether to show the item's (current/max) durability
 	# default: true
-	durability = true
+	durability = false
 	# Whether to show the item's enchantability
 	# default: true
 	enchantability = true

@@ -69,6 +69,10 @@ file = "config/apathy/mobs.cfg"
 hash = "77bdf93b009ce8aaaea250a9a4fa04c0026bedd6676dd8a1e794163f14da7c06"
 
 [[files]]
+file = "config/appleskin.json5"
+hash = "be15541e82dac1abef9651a133dcce2a5efb31913d05d1bb0a5e58fbd1001691"
+
+[[files]]
 file = "config/arcadiandream.json5"
 hash = "9846d3646660feaa86aed239e4336307f3fcd4d6ea3d23768e39ddc6278637cf"
 
@@ -474,7 +478,7 @@ hash = "6712dc60ffe7e10d89c20e4048563f6e12917c5fd681afc98c35b35245cda611"
 
 [[files]]
 file = "config/tooltiptooltips/config.toml"
-hash = "1d526ad2721df152b9a7affad416dfea0b05bde7e09b6af2fa1698bf3f072690"
+hash = "41aefc0fad861b97299e1a164a8b792f8744cf02205e1ba38814e5c5431c4879"
 
 [[files]]
 file = "config/trashslot-common.toml"
@@ -679,6 +683,11 @@ metafile = true
 [[files]]
 file = "mods/applied-energistics-2.pw.toml"
 hash = "fca19850754fee8232175c994a7d08fac2247f599c1efd84dabd1e09e80d5ac0"
+metafile = true
+
+[[files]]
+file = "mods/aquamirae.pw.toml"
+hash = "ea42747450c6c385925895e98de7c1347c6e24b034bbaee198d5dfda4bb8eb1d"
 metafile = true
 
 [[files]]
@@ -2242,6 +2251,11 @@ hash = "3fe176748a9ddcc91c3fa179e3dcca174015e00db2dcba3a38d737c7eb833509"
 metafile = true
 
 [[files]]
+file = "mods/obscure-api.pw.toml"
+hash = "5b96aa24048b1cea2e05b91954a25579f41c83c7008afd5c48426b579664288a"
+metafile = true
+
+[[files]]
 file = "mods/oceans-delight.pw.toml"
 hash = "32e2d40c761d984e1832e63d53661bc7dde0feb305f033fd906a7f32dfcc9e53"
 metafile = true
@@ -2638,7 +2652,7 @@ metafile = true
 
 [[files]]
 file = "mods/shutup.pw.toml"
-hash = "dfbb97f525a6b47dffcaeb7a41883a6c4ec18b8bb14a3fdc74ae90dc7cced806"
+hash = "2b3a83fe145a6b749c18ee0bfd495d6818f87b9c087b839289bdb82bf2486a78"
 metafile = true
 
 [[files]]
