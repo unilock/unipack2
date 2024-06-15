@@ -49,6 +49,10 @@ file = "config/afkdisplay.toml"
 hash = "8172e5fd74b6c135dcad74e3601c3d63854ff362973259fa5ed7ec0b0dc05814"
 
 [[files]]
+file = "config/agricraft.jsonc"
+hash = "51f980c0fd616d8d2ad8461d6473680fa1ac7e120bb50a4cc987e9a89e5a6141"
+
+[[files]]
 file = "config/almostunified/unify.json"
 hash = "462fa029f8dd260545bf4c13a9dfc2edcbe0287c61fae3ad9fc4b1329c6803ce"
 
@@ -628,6 +632,11 @@ metafile = true
 [[files]]
 file = "mods/ages.pw.toml"
 hash = "dffe4bf8e0d917ff0d789405a6c130f3ebc0c0fde74f340f5cd6444c2a5b41ec"
+metafile = true
+
+[[files]]
+file = "mods/agricraft.pw.toml"
+hash = "6a499c1f7b6c9d48fe7daa84e20994409acc3220380523e930b4b219126b86a2"
 metafile = true
 
 [[files]]

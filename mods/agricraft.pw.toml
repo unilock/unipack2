@@ -1,0 +1,8 @@
+name = "AgriCraft"
+filename = "AgriCraft-fabric-1.20.1-4.0.0-beta.jar"
+side = "both"
+
+[download]
+url = "https://play.fennet.rentals/packwiz/unipack2/manual-jars/both/AgriCraft-fabric-1.20.1-4.0.0-beta.jar"
+hash-format = "sha256"
+hash = "12ededdcb02dd91ec0ce85bc54575edac281c80134400eeb17fc8f8918d065f1"
