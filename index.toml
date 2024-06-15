@@ -2736,6 +2736,11 @@ hash = "ed5b4a5bd389bf1603772f74d04a154aedc53384fa890b0cd68c37bfd122ed0a"
 metafile = true
 
 [[files]]
+file = "mods/spectre.pw.toml"
+hash = "95d1feeb7450abcc18b6929a5032b60919e298ef96979a044a911a8e8afd93d0"
+metafile = true
+
+[[files]]
 file = "mods/spectrum.pw.toml"
 hash = "e6fa12bdf86928ff693fcdb2b8bda982cba646b11d5f6c7e106f0368817df55d"
 metafile = true

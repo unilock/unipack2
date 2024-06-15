@@ -1,0 +1,13 @@
+name = "Spectre"
+filename = "spectre-1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/KiRlULA1/versions/zump3S8O/spectre-1.1.jar"
+hash-format = "sha1"
+hash = "45b8c439a23f38fd4704cb3ed3b4e29751d843c8"
+
+[update]
+[update.modrinth]
+mod-id = "KiRlULA1"
+version = "zump3S8O"
