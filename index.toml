@@ -1540,11 +1540,6 @@ hash = "86598ff89ae6a3d09de284c8c147967666b607050cfb0631ed7e26b67f2b80d9"
 metafile = true
 
 [[files]]
-file = "mods/fluid-sieve-rewoven.pw.toml"
-hash = "a0d8a4caf8afa9d04b7d4e0f4dabd5b3957dea20b92b03f3bb948b5f40a79cb1"
-metafile = true
-
-[[files]]
 file = "mods/food-effect-tooltips.pw.toml"
 hash = "2a6f107021b30b28f0bd79e3cdcfea74ad6cfe178463a4c514be9f1452815d47"
 metafile = true
