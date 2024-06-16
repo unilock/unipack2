@@ -50,7 +50,7 @@ hash = "8172e5fd74b6c135dcad74e3601c3d63854ff362973259fa5ed7ec0b0dc05814"
 
 [[files]]
 file = "config/agricraft.jsonc"
-hash = "51f980c0fd616d8d2ad8461d6473680fa1ac7e120bb50a4cc987e9a89e5a6141"
+hash = "f56c756a363687175b92871ae9cf2b5da333e8f5c629ff05aea9d2c1bf9a6847"
 
 [[files]]
 file = "config/almostunified/unify.json"
@@ -636,7 +636,7 @@ metafile = true
 
 [[files]]
 file = "mods/agricraft.pw.toml"
-hash = "5c7d959d4ca865fb82745191db2c70f5d6e1857a5f3ca0ad708ee42cf649fdc8"
+hash = "39d8ed8f699bcb0b411aa7d90a939153fbfdde2b7efd0c7794fb0ae690e3578d"
 metafile = true
 
 [[files]]
@@ -1917,6 +1917,11 @@ metafile = true
 [[files]]
 file = "mods/lavender-api.pw.toml"
 hash = "505b2a92d050a7debdf7d72938d673fb8ab4c3ebfdb1714573a03ae02b5a0897"
+metafile = true
+
+[[files]]
+file = "mods/lets-do-addon-apple-wood.pw.toml"
+hash = "65d534d7decc4d145dbe7f0018eef28a51bce1ba3058faec1c2f606410c03698"
 metafile = true
 
 [[files]]

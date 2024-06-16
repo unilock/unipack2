@@ -1,0 +1,13 @@
+name = "[Let's Do Addon] Apple Wood"
+filename = "letsdo-addon-applewood-fabric-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "edbb1b1080c4e93a45642bab8f4999613e49d26b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5429007
+project-id = 1037047

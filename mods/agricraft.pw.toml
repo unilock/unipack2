@@ -3,11 +3,6 @@ filename = "AgriCraft-fabric-1.20.1-4.0.1-beta.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "1dc560b18edb5efadc659eddf885d26bad560eb2"
-mode = "metadata:curseforge"
-
-[update]
-[update.curseforge]
-file-id = 5434285
-project-id = 225635
+url = "https://play.fennet.rentals/packwiz/unipack2/manual-jars/both/AgriCraft-fabric-1.20.1-4.0.1-beta.jar"
+hash-format = "sha256"
+hash = "13c8e7b189af49cc38aad61b7db4efcb560a79357577a402483583981cc8469f"

@@ -76,7 +76,7 @@
          * Minimum allowed value of the Strength stat (setting min and max equal will freeze the stat to that value in crop breeding)
          * Range: 1 - 10
          */
-        "strength_min": 1,
+        "strength_min": 5,
         /*
          * Maximum allowed value of the Strength stat (setting min and max equal will freeze the stat to that value in crop breeding)
          * Range: 1 - 10
