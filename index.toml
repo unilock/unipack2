@@ -2605,6 +2605,11 @@ hash = "51f99f67cd59817dcee434483c7e53f57c48edfbc44d2e250f2d5cf393c5d1e6"
 metafile = true
 
 [[files]]
+file = "mods/ribbits.pw.toml"
+hash = "bcb0292c0d9aba87dd610c14f5d20e79492b8a1f14310beae1466309a924f531"
+metafile = true
+
+[[files]]
 file = "mods/rightclickharvest.pw.toml"
 hash = "45a0be935bcca91138996460610bd84312729d6ae00648fbb7ea332bd23bb437"
 metafile = true
@@ -3324,11 +3329,11 @@ hash = "fcf7af74a623d605e2d6c1bc1f50eee41d35a1fec29ba9548db3de3c828635a1"
 
 [[files]]
 file = "resources/data/unipack/loot_tables/book.json"
-hash = "91a3d5e2d84da4f3a48d3343f81fb612937c4865a1353631b53c1eb5642d7c4f"
+hash = "3f07bb3c9cf8e403fcf5525552088f5449bfabbc9c51ddee6f5c29d21cca76ce"
 
 [[files]]
 file = "resources/data/unipack/recipes/book.json"
-hash = "b136be2e37140dce4a3faece1faceeaf5f1cf8689f640360568a550d9a335f49"
+hash = "687bb1085310125779b95c8640acf69c8fb4de99dfcdfea5d1967a6c5f048f01"
 
 [[files]]
 file = "resources/data/unipack/recipes/glass_boots.json"
