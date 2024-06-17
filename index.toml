@@ -3470,8 +3470,48 @@ file = "resources/datapacks/separatedleaves/data/bloomingnature/separated_leaves
 hash = "6ca5d336c99f57e09e0c80b0d7482200685b2e77f00f5c0d8accb5d18379e486"
 
 [[files]]
+file = "resources/datapacks/separatedleaves/data/bountifulfares/separated_leaves/apple.json"
+hash = "320c965ce76b7543b7aaf83330afe5ed93ceb9452edfbe1dc38b78c5dc01e9f1"
+
+[[files]]
+file = "resources/datapacks/separatedleaves/data/bountifulfares/separated_leaves/hoary.json"
+hash = "fa452a4cc0a92356e36c44503732e77f109169d13915b02958ffa485343f46e3"
+
+[[files]]
+file = "resources/datapacks/separatedleaves/data/bountifulfares/separated_leaves/lemon.json"
+hash = "27482a84405c19c2cfd1e9085210e71a7742268186420494556ffa2f805c7543"
+
+[[files]]
+file = "resources/datapacks/separatedleaves/data/bountifulfares/separated_leaves/orange.json"
+hash = "141ead51c6e68b338d14c36fd1af8869c4861aa62a4bb2475faa5a9c5f20302c"
+
+[[files]]
+file = "resources/datapacks/separatedleaves/data/bountifulfares/separated_leaves/plum.json"
+hash = "dc5aed9acf67b9b6577406f9d374f86554084d15a15229a20c82c9d17c3fe620"
+
+[[files]]
+file = "resources/datapacks/separatedleaves/data/bountifulfares/separated_leaves/walnut.json"
+hash = "e313085853dd238df2201d3d77ccc35de696b5294103deb7a79fd6fb55b65a79"
+
+[[files]]
 file = "resources/datapacks/separatedleaves/data/culturaldelights/separated_leaves/avocado.json"
 hash = "9e8c61eae40044c35d3d6341a0896276efc1f3035e4595cfe81a44a9dae7b964"
+
+[[files]]
+file = "resources/datapacks/separatedleaves/data/dimdoors/separated_leaves/driftwood.json"
+hash = "1840c5c8617764a595907bd009874f8d219b658317ae2c2056d9ccb2b0428c3a"
+
+[[files]]
+file = "resources/datapacks/separatedleaves/data/enchanted/separated_leaves/alder.json"
+hash = "12bb87cdcd615abb4e2fc163adccf5cc9780b9503203d19cfc35718709cc778c"
+
+[[files]]
+file = "resources/datapacks/separatedleaves/data/enchanted/separated_leaves/hawthorn.json"
+hash = "387bff1e9aeea51ff119d9b91e168c4cfba3a4b3b4a49b8bdcefae43fb596f5d"
+
+[[files]]
+file = "resources/datapacks/separatedleaves/data/enchanted/separated_leaves/rowan.json"
+hash = "f5170a49062b2dd39006d75305a4a0096738e4d3e49709d591b0d7695804c797"
 
 [[files]]
 file = "resources/datapacks/separatedleaves/data/hibernalherbs/separated_leaves/myqueste.json"
