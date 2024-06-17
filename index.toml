@@ -2665,6 +2665,11 @@ hash = "db5a1c7f46a9e397a88fb49ed9856ead85dc22b40611b614b71d1fe15e09c770"
 metafile = true
 
 [[files]]
+file = "mods/shut-up-gl-error.pw.toml"
+hash = "8bf9e72fd7dd5ab2574f0a0405cec8de648facc6d763080cc2d5a0faf95d39bc"
+metafile = true
+
+[[files]]
 file = "mods/shutup.pw.toml"
 hash = "2b3a83fe145a6b749c18ee0bfd495d6818f87b9c087b839289bdb82bf2486a78"
 metafile = true
