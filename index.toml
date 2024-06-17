@@ -1101,7 +1101,7 @@ metafile = true
 
 [[files]]
 file = "mods/colorful-hearts.pw.toml"
-hash = "bf2926e1c91ed3d2d6c6f6f9bd27bca9ec86ebf8ef31bf021abed910820f4524"
+hash = "a477457679eb177ae99444a2b52a4934949f605dfe797beb322053d50626a6d8"
 metafile = true
 
 [[files]]
@@ -2291,7 +2291,7 @@ metafile = true
 
 [[files]]
 file = "mods/on1chest.pw.toml"
-hash = "37b778e6246002bdc249c373234d2d100912f74088366aeafd4b7d3408915141"
+hash = "62b4c2fbc76b23a2aec071729f0d8a48761bf8c03c8857f177dc4dbdd51b45cb"
 metafile = true
 
 [[files]]
@@ -3061,7 +3061,7 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
-hash = "6e867a07700dddd9157172fad171fead950ca55b452bafba5f1042d3d3cad017"
+hash = "79375f9532d94145f5b4d1d31c785b348da6acfa495c0cd7d43e2cf58e9b49a6"
 metafile = true
 
 [[files]]
