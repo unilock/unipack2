@@ -1395,6 +1395,11 @@ hash = "4091cbd06fc8806b90a28a1e841b7d43620bcbc47395383d78dd0ac37fa8f175"
 metafile = true
 
 [[files]]
+file = "mods/enchanted-witchcraft.pw.toml"
+hash = "6dd8106a3a5238a51458d41d7ac5de5ba8a554bf4351285d7e828f4bf3e18821"
+metafile = true
+
+[[files]]
 file = "mods/enchanting-max-level.pw.toml"
 hash = "e412d14cabdc5d9b5e46767228ed2e73d22c2d1a232bd38225cebd875de0ba1e"
 metafile = true
@@ -2691,7 +2696,7 @@ metafile = true
 
 [[files]]
 file = "mods/smartbrainlib.pw.toml"
-hash = "7df71f36fb27ff132cc76b611ccc02106380472e1cecccaa9383385971d0cc4b"
+hash = "825261ff462fa259147ff0bea3368cc5d6351aa7cff944112e15a55f6181a572"
 metafile = true
 
 [[files]]
@@ -2782,6 +2787,11 @@ metafile = true
 [[files]]
 file = "mods/statement.pw.toml"
 hash = "12c4fe626574a1f306ae6c3c992de6d18016a73784ab447d41a5ccab317298c4"
+metafile = true
+
+[[files]]
+file = "mods/stateobserver.pw.toml"
+hash = "b14aabf0cff217042c45c308e1876dc9fb98216a8d19f45dcbf1aeb842f7b2c3"
 metafile = true
 
 [[files]]
