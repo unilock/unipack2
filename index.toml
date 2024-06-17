@@ -2515,6 +2515,11 @@ hash = "f7cebb9f191593ed8d3aee3a1bd3ea8c400625702aea0fd5d6ffb9db0105b926"
 metafile = true
 
 [[files]]
+file = "mods/qdron.pw.toml"
+hash = "7abc577be11451868175cd57e51cb970826dfff04fa75b275194aceb865aa40f"
+metafile = true
+
+[[files]]
 file = "mods/qkl.pw.toml"
 hash = "cff92e04c076facad8c6580e20289cc93bb1ecf025cd4da3500ee89ebfb85ff0"
 metafile = true
@@ -2665,13 +2670,8 @@ hash = "db5a1c7f46a9e397a88fb49ed9856ead85dc22b40611b614b71d1fe15e09c770"
 metafile = true
 
 [[files]]
-file = "mods/shut-up-gl-error.pw.toml"
-hash = "8bf9e72fd7dd5ab2574f0a0405cec8de648facc6d763080cc2d5a0faf95d39bc"
-metafile = true
-
-[[files]]
 file = "mods/shutup.pw.toml"
-hash = "2b3a83fe145a6b749c18ee0bfd495d6818f87b9c087b839289bdb82bf2486a78"
+hash = "ce76eba726c03479fa0b38ff795bcc6d487f8f8511b0472d5367351378f92c4d"
 metafile = true
 
 [[files]]
@@ -3324,7 +3324,11 @@ hash = "fcf7af74a623d605e2d6c1bc1f50eee41d35a1fec29ba9548db3de3c828635a1"
 
 [[files]]
 file = "resources/data/unipack/loot_tables/book.json"
-hash = "448677d63a440485811f64558bcf3db666b0847cc4a8fd3bbbfaf68b9abc7cf3"
+hash = "91a3d5e2d84da4f3a48d3343f81fb612937c4865a1353631b53c1eb5642d7c4f"
+
+[[files]]
+file = "resources/data/unipack/recipes/book.json"
+hash = "b136be2e37140dce4a3faece1faceeaf5f1cf8689f640360568a550d9a335f49"
 
 [[files]]
 file = "resources/data/unipack/recipes/glass_boots.json"

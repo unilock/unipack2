@@ -1,0 +1,13 @@
+name = "QDRON"
+filename = "qdron-1.0.0+1.19.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d6b3543c6b7e50ed48fde8eb360e330d04f38047"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4141442
+project-id = 724159
