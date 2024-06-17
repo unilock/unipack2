@@ -3,11 +3,11 @@ filename = "More_Crustacean-1.2.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/H6wY3SJ7/versions/WYblA6u8/More_Crustacean-1.2.2.jar"
+url = "https://cdn.modrinth.com/data/H6wY3SJ7/versions/VGw7vcx4/More_Crustacean-1.2.2.jar"
 hash-format = "sha1"
-hash = "d2786ff68dd49526e54ff1759bdd52cb72a4f617"
+hash = "62f0186db4af6e1259749ef1e681fcd864dc2f6f"
 
 [update]
 [update.modrinth]
 mod-id = "H6wY3SJ7"
-version = "WYblA6u8"
+version = "VGw7vcx4"

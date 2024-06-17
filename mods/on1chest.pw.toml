@@ -1,13 +1,13 @@
 name = "Only Need One Chest"
-filename = "On1Chest-Fabric-0.5+1.20.1.jar"
+filename = "On1Chest-Fabric-0.6+1.20.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/xznuFU4o/versions/i0S3A1eJ/On1Chest-Fabric-0.5%2B1.20.1.jar"
+url = "https://cdn.modrinth.com/data/xznuFU4o/versions/Qr5fi125/On1Chest-Fabric-0.6%2B1.20.1.jar"
 hash-format = "sha1"
-hash = "8583e345291ae8c9b41a075b19df41b522e4f0f6"
+hash = "4f19563dcea1729035784711c3bf4e86af3910d3"
 
 [update]
 [update.modrinth]
 mod-id = "xznuFU4o"
-version = "i0S3A1eJ"
+version = "Qr5fi125"

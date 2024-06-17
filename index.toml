@@ -796,7 +796,7 @@ metafile = true
 
 [[files]]
 file = "mods/badoptimizations.pw.toml"
-hash = "8de7d8c650f70ef9e90eaa216a5200e6d65f0c2b3e0140f4b3b1976f41592109"
+hash = "f6da82f771d83d63282ad87dbf4c22f4aa75b5982adf015d3290701bb56d6414"
 metafile = true
 
 [[files]]
@@ -906,7 +906,7 @@ metafile = true
 
 [[files]]
 file = "mods/blockus.pw.toml"
-hash = "745eec9ef199df301e5310a7452b1ceeed23241db3d443cbbabda98684ea15b7"
+hash = "00579dde1a43f35c46895a021e6e26cb2a05150a4fc554b94e03ed1b160b6fdd"
 metafile = true
 
 [[files]]
@@ -1101,7 +1101,7 @@ metafile = true
 
 [[files]]
 file = "mods/colorful-hearts.pw.toml"
-hash = "71b7a0aa374d74b8f5a2dd40fdc1abcb48c1a9700b1f6a36a6b6b3ade7a4b4d7"
+hash = "bf2926e1c91ed3d2d6c6f6f9bd27bca9ec86ebf8ef31bf021abed910820f4524"
 metafile = true
 
 [[files]]
@@ -1376,7 +1376,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "01075a17ec6a6d7b62dcc16ddededd161679b0ffebdae310401d4a579f1d75db"
+hash = "85ee86682accb6188cfb7807bd5cde6d2b8cce1761fd28aec8658d1d9df2e37e"
 metafile = true
 
 [[files]]
@@ -1961,12 +1961,12 @@ metafile = true
 
 [[files]]
 file = "mods/lets-do-brewery.pw.toml"
-hash = "164e3d4045f9e5cfe12c770941f87eecba4bd6182d006ec171346b2eba27edb0"
+hash = "d60ef5a75c1b734bd5580d53ca8d7631602b4da38911660dd0defa893cf2886e"
 metafile = true
 
 [[files]]
 file = "mods/lets-do-candlelight.pw.toml"
-hash = "51f5a68804cd6825b7a7d62d9a6ca0e8de49f84c75be3b93cf174e3ecea8e0f8"
+hash = "a8aaf4ad332d42ea99bb4f9c6e03ae5d1c1fe84a6dcaa97f366e0fd09f1de24b"
 metafile = true
 
 [[files]]
@@ -1986,7 +1986,7 @@ metafile = true
 
 [[files]]
 file = "mods/lets-do-vinery.pw.toml"
-hash = "46c057347d2412d7cb6622bcf49b3bc1eccf77b0c8b52cd12fc0182328fedb39"
+hash = "ec37b597bc696f90215bb03a1887df24c879e384e58249396a1e11851799c859"
 metafile = true
 
 [[files]]
@@ -2046,7 +2046,7 @@ metafile = true
 
 [[files]]
 file = "mods/macos-input-fixes.pw.toml"
-hash = "6f608fc4e861f6156368b2a3b706645755030bf6a04dc1f59166c8b22cba872c"
+hash = "f14660be4c4cbc78a43756aafe528e956851119fcc5023139e82c18f8c520082"
 metafile = true
 
 [[files]]
@@ -2151,7 +2151,7 @@ metafile = true
 
 [[files]]
 file = "mods/more-crustacean.pw.toml"
-hash = "4a3b571f0a24d45cbf4bebe409bd3b5b03bb949330a09bf078120acc37037d96"
+hash = "fce9c6c51447d852becf0ba00250ec5af14426b4f5a0cf536a6c24446774324b"
 metafile = true
 
 [[files]]
@@ -2206,7 +2206,7 @@ metafile = true
 
 [[files]]
 file = "mods/neepmeat.pw.toml"
-hash = "879ace06759a275527cebb0b228367743bfd01aeac8dbc188a84ef439edfebda"
+hash = "d375c2d5cf214bbd027a3972970065b73f5740ce62560add24d05629705809d0"
 metafile = true
 
 [[files]]
@@ -2251,7 +2251,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "c737bdfd6940736f88cd39065a0193ba70637a560fbce4389e59f67d72813209"
+hash = "dfcf0446ce11ef9691761c4a696b7ca8763854d977c5074a56fa266d92aebd86"
 metafile = true
 
 [[files]]
@@ -2291,7 +2291,7 @@ metafile = true
 
 [[files]]
 file = "mods/on1chest.pw.toml"
-hash = "12d335db38ed5547a5eb2a09f3a0a71a6fc4aa7191f597b078a6052c834c7a3d"
+hash = "37b778e6246002bdc249c373234d2d100912f74088366aeafd4b7d3408915141"
 metafile = true
 
 [[files]]
@@ -2741,7 +2741,7 @@ metafile = true
 
 [[files]]
 file = "mods/spectral-decorations.pw.toml"
-hash = "00ea18ca43ce7393992a6a9550a6117faa56da660aa0c59fcac07d0eb039c858"
+hash = "3d00b0d20139ec07494a41de5a45ea65804f9a502380e744625137522c54bc31"
 metafile = true
 
 [[files]]
@@ -2756,7 +2756,7 @@ metafile = true
 
 [[files]]
 file = "mods/spectrum.pw.toml"
-hash = "e6fa12bdf86928ff693fcdb2b8bda982cba646b11d5f6c7e106f0368817df55d"
+hash = "cc8d898588a5b1270ec3196a4b2955f42dc0af975d5e73e116c1ad1ac72772b4"
 metafile = true
 
 [[files]]
@@ -3061,7 +3061,7 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
-hash = "b211af0448434d8c694abf338d7c6baa3dc1825b59cee2c55c39cb294042412d"
+hash = "6e867a07700dddd9157172fad171fead950ca55b452bafba5f1042d3d3cad017"
 metafile = true
 
 [[files]]
