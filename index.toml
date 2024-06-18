@@ -402,7 +402,7 @@ hash = "b4e9c80637ce089f1fc68cf7189e5467439032df93cf00586ab8f23b66bdf362"
 
 [[files]]
 file = "config/quilt-loader-overrides.json"
-hash = "594abec86b3f4aed1891a4f37cfafc95573f07c1fcc7e3c0de6eaf5958ce3161"
+hash = "ab139390eb16642d6071552174cede0f118d759af189ec2ce70f15ed8d88bc45"
 
 [[files]]
 file = "config/railways-client.toml"
@@ -745,7 +745,7 @@ metafile = true
 
 [[files]]
 file = "mods/artsandcrafts-compatibility.pw.toml"
-hash = "a646987012e3ac9d24d3e58f1633dcdf3bfdc312684349a1eaf6f21ddafa1412"
+hash = "6c02a007248ffe73828a55f2cbea1b710d69e1f7106797f006800d34e8b220fc"
 metafile = true
 
 [[files]]
@@ -1155,7 +1155,7 @@ metafile = true
 
 [[files]]
 file = "mods/construction-wand-fabric.pw.toml"
-hash = "b6fee21da432c0dc53c76cb2b11402e17e415b8ee91b18a082f19a139937e016"
+hash = "e51dec3ffd367d5b5df79de8a915454c9fcc88db52d16507efe3e663c4b032c4"
 metafile = true
 
 [[files]]
@@ -1850,7 +1850,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "1c9a3c4c92f1b3b63b82d4bc187474e313b64edfa5346b7792e77dc02d4c9a69"
+hash = "bc884d7d3038a7630fd884811c416d754f9e191075df216fb4972e736c475f3f"
 metafile = true
 
 [[files]]
@@ -2295,7 +2295,7 @@ metafile = true
 
 [[files]]
 file = "mods/on1chest.pw.toml"
-hash = "62b4c2fbc76b23a2aec071729f0d8a48761bf8c03c8857f177dc4dbdd51b45cb"
+hash = "86354c695d5bf6658b5439aa7eec553829d156d08288f07bdf0f52d225fb2c0a"
 metafile = true
 
 [[files]]
