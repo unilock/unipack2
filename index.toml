@@ -158,7 +158,7 @@ hash = "3078da59a2bc322a409362f286ae57ade6d1ef0822bcd706f5b4419e95ffecf7"
 
 [[files]]
 file = "config/defaultoptions/keybindings.txt"
-hash = "f37cbc98855e52dbf6eb51fb35d5007239387ecbb40c8b6f17b3d1c76b803d4e"
+hash = "deb6b9669fdabcba81344891eef9188047736d9f29bad7ab04f32ead8f0ba5dd"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
@@ -387,6 +387,10 @@ hash = "2855b32e7918b6df8f108e9ce759e935c40a147ebbb3a6beb0c2d68bf4bfb06d"
 [[files]]
 file = "config/openpartiesandclaims-server.toml"
 hash = "14ed83a7f982c46e9f7565b68ca6d5b0ee37df7fd4f2cf5109ec33e934a5a95a"
+
+[[files]]
+file = "config/options.amecsapi.txt"
+hash = "e3368a22f4c0dca28698920894a0f1acce76b5553fe87478220ae85573fadee2"
 
 [[files]]
 file = "config/particular.json5"
