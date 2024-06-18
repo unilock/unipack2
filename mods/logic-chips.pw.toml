@@ -1,0 +1,13 @@
+name = "Logic Chips"
+filename = "logicchips-1.20.1-2.1.0-fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f37887d45f8fec158fb8eddef6fd0148c543bf9d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5309366
+project-id = 682497

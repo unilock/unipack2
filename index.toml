@@ -2005,6 +2005,11 @@ hash = "173ddcb1cd49cabab2533352e054f7956d8b54b730a8a9b6d280544f0ec1c21f"
 metafile = true
 
 [[files]]
+file = "mods/logic-chips.pw.toml"
+hash = "48ba9679f4a934de3d8a3523150d64f9bcd029625c48b9656ec9655483ad2c5b"
+metafile = true
+
+[[files]]
 file = "mods/loot-integrations.pw.toml"
 hash = "af39aa7bda9244f22f8e841a9071d78934574807768e8068102a32055bca1858"
 metafile = true
