@@ -3339,11 +3339,11 @@ hash = "fcf7af74a623d605e2d6c1bc1f50eee41d35a1fec29ba9548db3de3c828635a1"
 
 [[files]]
 file = "resources/data/unipack/loot_tables/book.json"
-hash = "3f07bb3c9cf8e403fcf5525552088f5449bfabbc9c51ddee6f5c29d21cca76ce"
+hash = "6b97ae78f075015975695febf6917696bfb912cf4a18c833ea9542928ac502a7"
 
 [[files]]
 file = "resources/data/unipack/recipes/book.json"
-hash = "3599a33e6b6cfceeaccd718656ac7df7884ef5b1da7dd93b67bb0b2f24640dce"
+hash = "774ad4787b015056e2fe36481d96b63a03516616878b34520f8b27d245069ce4"
 
 [[files]]
 file = "resources/data/unipack/recipes/glass_boots.json"

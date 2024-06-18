@@ -55,12 +55,6 @@
             "Count": 1
           }
         },
-        "things": {
-          "0": {
-            "id": "things:things_almanac",
-            "Count": 1
-          }
-        },
         "arcanuscontinuum": {
           "0": {
             "id": "patchouli:guide_book",
@@ -70,9 +64,21 @@
             }
           }
         },
+        "things": {
+          "0": {
+            "id": "things:things_almanac",
+            "Count": 1
+          }
+        },
         "spectrum": {
           "0": {
             "id": "spectrum:guidebook",
+            "Count": 1
+          }
+        },
+        "malum": {
+          "0": {
+            "id": "malum:encyclopedia_arcana",
             "Count": 1
           }
         },
