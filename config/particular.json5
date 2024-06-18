@@ -1,0 +1,54 @@
+{
+	"waterSplash": true,
+	"cascades": true,
+	"waterfallSpray": true,
+	"fireflies": true,
+	"fallingLeaves": false,
+	"caveDust": true,
+	"chestBubbles": true,
+	"soulSandBubbles": true,
+	"barrelBubbles": true,
+	"poppingBubbles": true,
+	"rainRipples": true,
+	"waterDripRipples": true,
+	"cakeEatingParticles": true,
+	"emissiveLavaDrips": true,
+	"fireflySettings": {
+		"startTime": 12000,
+		"endTime": 23000,
+		"minTemp": 0.5,
+		"maxTemp": 1.0,
+		"canSpawnInRain": false,
+		"dailyRandom": [
+			0.0,
+			0.0,
+			0.0,
+			0.33,
+			0.66,
+			1.0
+		],
+		"grass": 0.167,
+		"tallGrass": 0.083,
+		"flowers": 1.0,
+		"tallFlowers": 0.5
+	},
+	"fallingLeavesSettings": {
+		"spawnChance": 60,
+		"spawnRipples": true,
+		"layFlatOnGround": true,
+		"layFlatRightAngles": false
+	},
+	"caveDustSettings": {
+		"spawnChance": 700,
+		"baseMaxAge": 200,
+		"color": "#FF808080",
+		"fadeDuration": 20,
+		"maxAcceleration": 0.03,
+		"accelChangeChance": 180,
+		"excludeBiomes": [
+			"minecraft:lush_caves",
+			"minecraft:dripstone_caves",
+			"minecraft:deep_dark"
+		]
+	}
+}
