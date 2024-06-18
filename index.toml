@@ -425,6 +425,10 @@ file = "config/resourcepackoverrides.json"
 hash = "81720cdcce1941fd5f3dcba321e24961b6221c1da2a859987e83ccc5a9c50fba"
 
 [[files]]
+file = "config/ribbits-fabric-1_20_1.toml"
+hash = "2a30077e18b38d0903c6834ff916163a02da49002b7867baaa78818945e610b3"
+
+[[files]]
 file = "config/rightclickharvest.json"
 hash = "2845060c46714e296df74a8211f0a58ca57b4d5bbbceb338360704ee04131672"
 
