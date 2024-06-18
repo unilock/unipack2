@@ -969,11 +969,6 @@ hash = "938dedd6b8da990018f2e4df0bee0c63c676eaef9673d6390e2def255a04bd48"
 metafile = true
 
 [[files]]
-file = "mods/bountiful-fares.pw.toml"
-hash = "ff0fa73b84a9ec3ecbe1ebe3e9f654a4aa2aecd6726390ee614c1e45ccb546d9"
-metafile = true
-
-[[files]]
 file = "mods/brainier-bees.pw.toml"
 hash = "b7a995a27379433a0ae846dda2658afbbdf601c6d982a66008ee1946ee585477"
 metafile = true
@@ -3485,30 +3480,6 @@ hash = "441daf2b75fcc2591bb881e842e9b0ebf3c2c83e6fed6b3d7c67d30006c550e0"
 [[files]]
 file = "resources/datapacks/separatedleaves/data/bloomingnature/separated_leaves/swamp_oak.json"
 hash = "6ca5d336c99f57e09e0c80b0d7482200685b2e77f00f5c0d8accb5d18379e486"
-
-[[files]]
-file = "resources/datapacks/separatedleaves/data/bountifulfares/separated_leaves/apple.json"
-hash = "320c965ce76b7543b7aaf83330afe5ed93ceb9452edfbe1dc38b78c5dc01e9f1"
-
-[[files]]
-file = "resources/datapacks/separatedleaves/data/bountifulfares/separated_leaves/hoary.json"
-hash = "fa452a4cc0a92356e36c44503732e77f109169d13915b02958ffa485343f46e3"
-
-[[files]]
-file = "resources/datapacks/separatedleaves/data/bountifulfares/separated_leaves/lemon.json"
-hash = "27482a84405c19c2cfd1e9085210e71a7742268186420494556ffa2f805c7543"
-
-[[files]]
-file = "resources/datapacks/separatedleaves/data/bountifulfares/separated_leaves/orange.json"
-hash = "141ead51c6e68b338d14c36fd1af8869c4861aa62a4bb2475faa5a9c5f20302c"
-
-[[files]]
-file = "resources/datapacks/separatedleaves/data/bountifulfares/separated_leaves/plum.json"
-hash = "dc5aed9acf67b9b6577406f9d374f86554084d15a15229a20c82c9d17c3fe620"
-
-[[files]]
-file = "resources/datapacks/separatedleaves/data/bountifulfares/separated_leaves/walnut.json"
-hash = "e313085853dd238df2201d3d77ccc35de696b5294103deb7a79fd6fb55b65a79"
 
 [[files]]
 file = "resources/datapacks/separatedleaves/data/culturaldelights/separated_leaves/avocado.json"
