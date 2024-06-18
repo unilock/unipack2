@@ -3506,6 +3506,22 @@ file = "resources/datapacks/separatedleaves/data/hotm/separated_leaves/solar_arr
 hash = "2dbf71d722461061d28896ab971950581d8795300c379447d719a88fdf42d0f4"
 
 [[files]]
+file = "resources/datapacks/separatedleaves/data/malum/separated_leaves/azure_runewood.json"
+hash = "0ebc76faeec5d85cde8c864c9736c7b1afc587735ae0ded2b233b03e24e74d8f"
+
+[[files]]
+file = "resources/datapacks/separatedleaves/data/malum/separated_leaves/biomes.json"
+hash = "419b00029fe63e18d17a6539758f433aa2cadf375c4e33be11c202ea904cda25"
+
+[[files]]
+file = "resources/datapacks/separatedleaves/data/malum/separated_leaves/runewood.json"
+hash = "78df54bc442fb48280fa130338f0e6d85c99c647029210325f306f318aea3225"
+
+[[files]]
+file = "resources/datapacks/separatedleaves/data/malum/separated_leaves/soulwood.json"
+hash = "879096b27b13aa3ee8d76da0ecb43a7f3ff54ef7a05551678ab27efcaee04051"
+
+[[files]]
 file = "resources/datapacks/separatedleaves/data/meadow/separated_leaves/pine.json"
 hash = "b0a2456c0aae4cd7aac2c8f4ed4b98555a74add8bcc28b8bb69017c325059e4a"
 
