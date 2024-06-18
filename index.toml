@@ -1334,16 +1334,6 @@ hash = "6e28aecc1374da8b38cef4b63578bb4d00c8a17c19948ced3e1284e60c221011"
 metafile = true
 
 [[files]]
-file = "mods/effected-wakes.pw.toml"
-hash = "da2847279f63f2cace1f07784464288738e3f0167efbbad12d5a06484b41ed10"
-metafile = true
-
-[[files]]
-file = "mods/effective.pw.toml"
-hash = "c102c17148affae740d8152d7a9123b79a808a3f6eb5734791e22cde43cf19a4"
-metafile = true
-
-[[files]]
 file = "mods/effecttimerplus.pw.toml"
 hash = "8f26fbccdded00d70478222b4a75c1e4e6834e718a857e90f555ee1561ba247d"
 metafile = true
@@ -2024,6 +2014,11 @@ hash = "c239c951796882b9c93e649a0dba4f2d95804441faaed707b686381b7a5c67da"
 metafile = true
 
 [[files]]
+file = "mods/lodestone.pw.toml"
+hash = "173ddcb1cd49cabab2533352e054f7956d8b54b730a8a9b6d280544f0ec1c21f"
+metafile = true
+
+[[files]]
 file = "mods/loot-integrations.pw.toml"
 hash = "af39aa7bda9244f22f8e841a9071d78934574807768e8068102a32055bca1858"
 metafile = true
@@ -2046,6 +2041,11 @@ metafile = true
 [[files]]
 file = "mods/macos-input-fixes.pw.toml"
 hash = "f14660be4c4cbc78a43756aafe528e956851119fcc5023139e82c18f8c520082"
+metafile = true
+
+[[files]]
+file = "mods/malum.pw.toml"
+hash = "a4b06cd18a57cbad2f2be39129aae23bd3abfe9657a051dfb199d5f62ab34121"
 metafile = true
 
 [[files]]
