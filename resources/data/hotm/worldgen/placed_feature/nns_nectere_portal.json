@@ -1,0 +1,16 @@
+{
+	"feature": "hotm:nns_nectere_portal",
+	"placement": [
+		{
+			"type": "minecraft:count",
+			"count": 1
+		},
+		{
+			"type": "minecraft:rarity_filter",
+			"chance": 200
+		},
+		{
+			"type": "minecraft:in_square"
+		}
+	]
+}
