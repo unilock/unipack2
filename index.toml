@@ -1869,11 +1869,6 @@ hash = "ef5b1cad2960cf1711194d1ff50b9da616ae3b157c081e8b56af0c8b17e9946b"
 metafile = true
 
 [[files]]
-file = "mods/lambdamap.pw.toml"
-hash = "3895169a80fe0550600d5baf86f3dd8ddedb6a98a9c0c166f10b6d5904b514ce"
-metafile = true
-
-[[files]]
 file = "mods/lambdynamiclights.pw.toml"
 hash = "987cb94ae9c60a811784617fad5eb48b574691d8eba12eb79a1ca3640e5892f4"
 metafile = true
@@ -2306,6 +2301,11 @@ metafile = true
 [[files]]
 file = "mods/particle-core.pw.toml"
 hash = "547e6bce531bb300387d2520db758e8d9bf3332e07971abd5c4f30624ea4b7bf"
+metafile = true
+
+[[files]]
+file = "mods/particular.pw.toml"
+hash = "e868456c1197e71712b605a6a9920f422005d8ddf6c6e4ad0d88f6524f82c748"
 metafile = true
 
 [[files]]
@@ -2804,6 +2804,11 @@ hash = "1a8631c458bae95073653ed03fc97683c912b0c19ea2e424e7b1ae2b6821ab63"
 metafile = true
 
 [[files]]
+file = "mods/sushi-bar.pw.toml"
+hash = "b5a88924ff4388710d2049c661b608d979819d0edace830b3b27c61023155847"
+metafile = true
+
+[[files]]
 file = "mods/swingthrough.pw.toml"
 hash = "164bd9070d86ca231da118c32790f2144195a29a9ed1c556fcbf9714a1e633f7"
 metafile = true
@@ -3036,6 +3041,16 @@ metafile = true
 [[files]]
 file = "mods/wyd.pw.toml"
 hash = "73a8bd0d5aebfc2a7884833806b1f2814c7e53fbe87aea03a658a8022dd6b6ef"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "2a08a399b364bc64bc2abb848cce938c1b87d0534a17fcb8a87ba80dbec7304d"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "16499c922a2bf62ecbc740979edb0040f3f2ecab032d005270aabea1a386d321"
 metafile = true
 
 [[files]]
