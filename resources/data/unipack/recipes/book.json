@@ -7,7 +7,7 @@
   ],
   "result": {
     "item": "eccentrictome:tome",
-    "data": {
+    "nbt": {
       "eccentrictome:version": 1,
       "eccentrictome:mods": {
         "botania": {

@@ -2515,11 +2515,6 @@ hash = "f7cebb9f191593ed8d3aee3a1bd3ea8c400625702aea0fd5d6ffb9db0105b926"
 metafile = true
 
 [[files]]
-file = "mods/qdron.pw.toml"
-hash = "7abc577be11451868175cd57e51cb970826dfff04fa75b275194aceb865aa40f"
-metafile = true
-
-[[files]]
 file = "mods/qkl.pw.toml"
 hash = "cff92e04c076facad8c6580e20289cc93bb1ecf025cd4da3500ee89ebfb85ff0"
 metafile = true
@@ -3333,7 +3328,7 @@ hash = "3f07bb3c9cf8e403fcf5525552088f5449bfabbc9c51ddee6f5c29d21cca76ce"
 
 [[files]]
 file = "resources/data/unipack/recipes/book.json"
-hash = "687bb1085310125779b95c8640acf69c8fb4de99dfcdfea5d1967a6c5f048f01"
+hash = "3599a33e6b6cfceeaccd718656ac7df7884ef5b1da7dd93b67bb0b2f24640dce"
 
 [[files]]
 file = "resources/data/unipack/recipes/glass_boots.json"
