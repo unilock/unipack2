@@ -3287,7 +3287,7 @@ hash = "7798882c6e0c6d49df9e35e5e23e757bde316148371ba9abaecbb958b57b1cd4"
 
 [[files]]
 file = "resources/data/hotm/worldgen/placed_feature/nns_nectere_portal.json"
-hash = "81354d19a8e13e718c22b21d4ae5cdbb7f93e7bc262e0893468d4683316b0a48"
+hash = "792655af226d8541fc88794c97202162ae0810b214918680c61197c677363b49"
 
 [[files]]
 file = "resources/data/minecraft/tags/items/hoes.json"
