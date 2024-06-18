@@ -704,11 +704,6 @@ hash = "ea42747450c6c385925895e98de7c1347c6e24b034bbaee198d5dfda4bb8eb1d"
 metafile = true
 
 [[files]]
-file = "mods/arachne.pw.toml"
-hash = "cc0eec54c01b211b44056085294a618421048a26d1a2304b30d498888a7e6f43"
-metafile = true
-
-[[files]]
 file = "mods/arcadian-dream.pw.toml"
 hash = "08938b8f86d384471fde1833e9d173ff3d1c51c7fa56d3a1e4f9fae01d7281e9"
 metafile = true
@@ -1081,11 +1076,6 @@ metafile = true
 [[files]]
 file = "mods/clumps.pw.toml"
 hash = "e00fc109714e08b5ec2f5d74574eab80c9df8090d33e0d2fdeeeeb93df0c09b1"
-metafile = true
-
-[[files]]
-file = "mods/cobbled-paths.pw.toml"
-hash = "1c620e13c112ec855b9858fe74ed7b29d56d876c029631f9a3df89512cdc8f92"
 metafile = true
 
 [[files]]
@@ -1629,11 +1619,6 @@ hash = "bcdc031d251481dea185a5762abeb19f92171335732253abcd2f15a25d1556da"
 metafile = true
 
 [[files]]
-file = "mods/groovyduvet.pw.toml"
-hash = "1e1fc1f85b97d5ab5f64861252adc9fc3f1bd88b1512825826f6f661f4b674c6"
-metafile = true
-
-[[files]]
 file = "mods/handcrafted.pw.toml"
 hash = "4d126f78c43ca759abfae9b23bfa1cc24a05aaea89923007ad7382f128417b57"
 metafile = true
@@ -1646,11 +1631,6 @@ metafile = true
 [[files]]
 file = "mods/hat-list.pw.toml"
 hash = "5a6292e4f23910e287dca95e650625bc23e496a7aea0f55b7571012e431e84ae"
-metafile = true
-
-[[files]]
-file = "mods/hazard-diamond.pw.toml"
-hash = "5e0dca2e1a5e56e1957c383dd187ba8fd0e49d615f3e0fa626fcb9b43af99a42"
 metafile = true
 
 [[files]]
@@ -1901,11 +1881,6 @@ metafile = true
 [[files]]
 file = "mods/language-reload.pw.toml"
 hash = "2097ff4c966e014b75e54665b0554f70c55ea68539f46f6ec38f2dbb0482ea0e"
-metafile = true
-
-[[files]]
-file = "mods/lava-java.pw.toml"
-hash = "bf6cd41390734b8017b8f240d8c5a57823d59991c0ae5f821bacb96e644aa684"
 metafile = true
 
 [[files]]
@@ -2709,11 +2684,6 @@ hash = "1574e5c3b0a69fdd0da15f1bef65e51a6c4fb68e0af94d73d707641a274eac51"
 metafile = true
 
 [[files]]
-file = "mods/sockies.pw.toml"
-hash = "d7176940b691f4f3959179cdb4e627ee24ea5359d9b242a7e8113cc326cf48dc"
-metafile = true
-
-[[files]]
 file = "mods/sodium-shadowy-path-blocks.pw.toml"
 hash = "71164245f9e06a916689d4683bd15dec40effbb1a748e353318c243bbee4924e"
 metafile = true
@@ -3056,11 +3026,6 @@ metafile = true
 [[files]]
 file = "mods/wood-you-dye-companion.pw.toml"
 hash = "dbafccd29495ea54027c8820fb40484cf8326f7c3603213481d957df6dab6091"
-metafile = true
-
-[[files]]
-file = "mods/worldinajar.pw.toml"
-hash = "184f2f7b4c93cfd077cf2a7473e0844d058f4f09bbefe098602cb4d854e3b9f4"
 metafile = true
 
 [[files]]
