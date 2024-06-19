@@ -1909,11 +1909,6 @@ hash = "65d534d7decc4d145dbe7f0018eef28a51bce1ba3058faec1c2f606410c03698"
 metafile = true
 
 [[files]]
-file = "mods/lets-do-addon-compat.pw.toml"
-hash = "a608be55a1e1873460298ead5bae3e7919500d44e9cb0ef586d7ceebd6e7b048"
-metafile = true
-
-[[files]]
 file = "mods/lets-do-addon-fluids.pw.toml"
 hash = "58a97f15605078b0ac22ae6443580fb3dc35713759ff85781ce8e4ebfae2f9b5"
 metafile = true
