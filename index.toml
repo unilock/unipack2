@@ -645,7 +645,7 @@ metafile = true
 
 [[files]]
 file = "mods/affinity.pw.toml"
-hash = "cb10d360225470e3462123faae0b02391592772f5cf9b9242665e216967c17f5"
+hash = "a58f5d5e99356815e53f097cec834b77332cb80eab5b0d00a4e513c038e3079d"
 metafile = true
 
 [[files]]
@@ -1790,7 +1790,7 @@ metafile = true
 
 [[files]]
 file = "mods/indium.pw.toml"
-hash = "2bb16ae6ed9d7b554d3b73267e42bba536a93fc98a28a9682b957514de2b5b6a"
+hash = "523659698dcfb97f79c9971a9c3ce41ba5e654d55b0464d73da01a63cd9a1824"
 metafile = true
 
 [[files]]
@@ -2720,7 +2720,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "1550c7a6c6d708d274d805734ff48ead42f4f602a27483e34b5ead2d126151ee"
+hash = "c3774af2e5f18da0c4cb00f95421a08bf9f0dda90a4169ce87b021d2f8d0dbce"
 metafile = true
 
 [[files]]

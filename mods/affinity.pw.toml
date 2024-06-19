@@ -3,11 +3,6 @@ filename = "affinity-0.1-alpha.14+1.20.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/Y8TA5POy/versions/DaGAC9SS/affinity-0.1-alpha.14%2B1.20.jar"
-hash-format = "sha1"
-hash = "8cb00678b45c387cac0e1be331b3d2d83d1e39a5"
-
-[update]
-[update.modrinth]
-mod-id = "Y8TA5POy"
-version = "DaGAC9SS"
+url = "https://play.fennet.rentals/packwiz/unipack2/manual-jars/both/affinity-0.1-alpha.14+1.20.jar"
+hash-format = "sha256"
+hash = "85f8aaf7d5a835b3e2ff94e8920ed9c23371518137b438f141837c81e85f80e3"
