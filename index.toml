@@ -157,6 +157,10 @@ file = "config/crops-love-rain.toml"
 hash = "3078da59a2bc322a409362f286ae57ade6d1ef0822bcd706f5b4419e95ffecf7"
 
 [[files]]
+file = "config/crossstitch.toml"
+hash = "43045171386212d5a139e6e530ba1cfe210ed3f5b9fefc6575d2443083b0ee08"
+
+[[files]]
 file = "config/defaultoptions/keybindings.txt"
 hash = "deb6b9669fdabcba81344891eef9188047736d9f29bad7ab04f32ead8f0ba5dd"
 
@@ -1206,7 +1210,7 @@ metafile = true
 
 [[files]]
 file = "mods/crossstitch.pw.toml"
-hash = "84956de9e6cd073e44a2e954954d69046f59609da89ab09cf1df0b240f2e87fb"
+hash = "f3129b7e98e3c01560cd891d915a4af7effb8acbebc6c3c9fb9855593f853d49"
 metafile = true
 
 [[files]]
