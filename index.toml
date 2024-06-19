@@ -2001,7 +2001,7 @@ metafile = true
 
 [[files]]
 file = "mods/lodestone.pw.toml"
-hash = "173ddcb1cd49cabab2533352e054f7956d8b54b730a8a9b6d280544f0ec1c21f"
+hash = "98b62eb363e94568544936a7e90acd2adbcea8f9f1ec937cc578a04075d727c4"
 metafile = true
 
 [[files]]
@@ -2036,7 +2036,7 @@ metafile = true
 
 [[files]]
 file = "mods/malum.pw.toml"
-hash = "a4b06cd18a57cbad2f2be39129aae23bd3abfe9657a051dfb199d5f62ab34121"
+hash = "d73526ad719b0ee38e92b71977aade2016ad80a75298daf495bf871182eb6299"
 metafile = true
 
 [[files]]
