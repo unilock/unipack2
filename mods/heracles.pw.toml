@@ -3,11 +3,11 @@ filename = "Heracles-fabric-1.20.1-1.1.13.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/lo90fZoB/versions/Iw91uuFK/Heracles-fabric-1.20.1-1.1.13.jar"
 hash-format = "sha1"
 hash = "9a9213acbbe2d10ed12087978653253f0a4754c6"
+mode = "metadata:curseforge"
 
 [update]
-[update.modrinth]
-mod-id = "lo90fZoB"
-version = "Iw91uuFK"
+[update.curseforge]
+file-id = 5406937
+project-id = 845831

@@ -3,11 +3,11 @@ filename = "crooked_crooks-3.2.0+1.20.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/DG76dVRB/versions/y5D0Ve8V/crooked_crooks-3.2.0%2B1.20.1.jar"
 hash-format = "sha1"
 hash = "9b8516d5a0add1ce179f954ac03c1745fc7153e2"
+mode = "metadata:curseforge"
 
 [update]
-[update.modrinth]
-mod-id = "DG76dVRB"
-version = "y5D0Ve8V"
+[update.curseforge]
+file-id = 4981299
+project-id = 393714

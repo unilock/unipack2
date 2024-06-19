@@ -3,11 +3,11 @@ filename = "Jukeboxfix-1.0.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/NdHEeC5q/versions/nHCTcGW1/Jukeboxfix-1.0.0.jar"
 hash-format = "sha1"
 hash = "a6ab1754cf215748af49ae5118657414c4ece02a"
+mode = "metadata:curseforge"
 
 [update]
-[update.modrinth]
-mod-id = "NdHEeC5q"
-version = "nHCTcGW1"
+[update.curseforge]
+file-id = 5061039
+project-id = 967091

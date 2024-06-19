@@ -3,11 +3,11 @@ filename = "breakfree-1.2.0.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/Xlr5lMDF/versions/n2FrxATJ/breakfree-1.2.0.jar"
 hash-format = "sha1"
 hash = "1fafa493e91cc7d006f2e6c71049edcf5adb058c"
+mode = "metadata:curseforge"
 
 [update]
-[update.modrinth]
-mod-id = "Xlr5lMDF"
-version = "n2FrxATJ"
+[update.curseforge]
+file-id = 4735676
+project-id = 909702

@@ -3,11 +3,11 @@ filename = "FastRTP-1.4-1.20.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/YWmj2r1d/versions/ETKhHHpg/FastRTP-1.4-1.20.1.jar"
 hash-format = "sha1"
 hash = "a757b507d1fbfae7920cebab91ea41666975c812"
+mode = "metadata:curseforge"
 
 [update]
-[update.modrinth]
-mod-id = "YWmj2r1d"
-version = "ETKhHHpg"
+[update.curseforge]
+file-id = 5168992
+project-id = 890961

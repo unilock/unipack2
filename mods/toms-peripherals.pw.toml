@@ -3,11 +3,11 @@ filename = "toms_peripherals_fabric-1.20.1-1.2.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/ljgxd2P8/versions/u6KuGGXl/toms_peripherals_fabric-1.20.1-1.2.1.jar"
 hash-format = "sha1"
 hash = "a02a5317ef8ef15724fce7a2025bc9f8adb7cd4d"
+mode = "metadata:curseforge"
 
 [update]
-[update.modrinth]
-mod-id = "ljgxd2P8"
-version = "u6KuGGXl"
+[update.curseforge]
+file-id = 5265067
+project-id = 931210

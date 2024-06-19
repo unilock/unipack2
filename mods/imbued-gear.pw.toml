@@ -3,11 +3,11 @@ filename = "imbued_gear-0.4.0+1.20.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/UfJHrpa9/versions/mE83C4co/imbued_gear-0.4.0%2B1.20.1.jar"
 hash-format = "sha1"
 hash = "7d9be02f96116c62062974e84344bd7adad2fd87"
+mode = "metadata:curseforge"
 
 [update]
-[update.modrinth]
-mod-id = "UfJHrpa9"
-version = "mE83C4co"
+[update.curseforge]
+file-id = 5288917
+project-id = 905218

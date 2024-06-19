@@ -3,11 +3,11 @@ filename = "stairdoors-1.0.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/Me6i1c0i/versions/7YJVwp1i/stairdoors-1.0.0.jar"
 hash-format = "sha1"
 hash = "7430b9cab0638e5c567c05f341647370703733c0"
+mode = "metadata:curseforge"
 
 [update]
-[update.modrinth]
-mod-id = "Me6i1c0i"
-version = "7YJVwp1i"
+[update.curseforge]
+file-id = 4728880
+project-id = 908119

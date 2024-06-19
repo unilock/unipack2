@@ -3,11 +3,11 @@ filename = "shards.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/TWPLl9TB/versions/VuaMDEA2/shards.jar"
 hash-format = "sha1"
 hash = "f291ed5f428ecb0955731b9ee5342796ee4657a2"
+mode = "metadata:curseforge"
 
 [update]
-[update.modrinth]
-mod-id = "TWPLl9TB"
-version = "VuaMDEA2"
+[update.curseforge]
+file-id = 4612953
+project-id = 615230

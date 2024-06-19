@@ -1,0 +1,13 @@
+name = "TIS-3D"
+filename = "tis3d-MC1.20.1-fabric-1.7.7+354a583.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e2548c0891a9cef3a92ca6cc5c4deba1d748522c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5266276
+project-id = 238603

@@ -3,11 +3,11 @@ filename = "alloy-forgery-2.1.2+1.20.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/jhl28YkY/versions/j3GoCoCc/alloy-forgery-2.1.2%2B1.20.jar"
 hash-format = "sha1"
 hash = "2a5b1cdd7dacaba4012c0a3d116d726302f62dca"
+mode = "metadata:curseforge"
 
 [update]
-[update.modrinth]
-mod-id = "jhl28YkY"
-version = "j3GoCoCc"
+[update.curseforge]
+file-id = 4944647
+project-id = 438718

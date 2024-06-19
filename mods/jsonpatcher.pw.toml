@@ -3,11 +3,11 @@ filename = "JsonPatcher-1.0.0-beta.4+mc.1.20.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/qlXnlZLG/versions/U1Q4YW9z/JsonPatcher-1.0.0-beta.4%2Bmc.1.20.1.jar"
 hash-format = "sha1"
 hash = "6bd54f9f20a6b091908b4f9bf60bd734dee69b65"
+mode = "metadata:curseforge"
 
 [update]
-[update.modrinth]
-mod-id = "qlXnlZLG"
-version = "U1Q4YW9z"
+[update.curseforge]
+file-id = 5080147
+project-id = 936929

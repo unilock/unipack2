@@ -3,11 +3,11 @@ filename = "BetterPingDisplay-Fabric-1.20.1-1.1.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/MS1ZMyR7/versions/FbxcDBxy/BetterPingDisplay-Fabric-1.20.1-1.1.1.jar"
 hash-format = "sha1"
 hash = "c9c7a272b371dc3362cb40bfb4550f7d4be59002"
+mode = "metadata:curseforge"
 
 [update]
-[update.modrinth]
-mod-id = "MS1ZMyR7"
-version = "FbxcDBxy"
+[update.curseforge]
+file-id = 4592448
+project-id = 406343

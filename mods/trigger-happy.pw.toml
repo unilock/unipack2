@@ -1,13 +1,13 @@
-name = "Trigger-Happy"
+name = "Trigger-Happy (Fabric)"
 filename = "TriggerHappy-v1.0.4-1.20.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/XKZVYHER/versions/4W0etJbO/TriggerHappy-v1.0.4-1.20.1.jar"
 hash-format = "sha1"
 hash = "c039c1177f615e21448dcee73aecfc9aa57ed5ae"
+mode = "metadata:curseforge"
 
 [update]
-[update.modrinth]
-mod-id = "XKZVYHER"
-version = "4W0etJbO"
+[update.curseforge]
+file-id = 4996074
+project-id = 891784

@@ -3,11 +3,11 @@ filename = "letsdo-bloomingnature-fabric-1.0.7.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/4Vno77MY/versions/pG5pCyUD/letsdo-bloomingnature-fabric-1.0.7.jar"
 hash-format = "sha1"
 hash = "9d2d29e713c5aa3c12fe1dc6ac4f56f2d57b40db"
+mode = "metadata:curseforge"
 
 [update]
-[update.modrinth]
-mod-id = "4Vno77MY"
-version = "pG5pCyUD"
+[update.curseforge]
+file-id = 5320679
+project-id = 962885

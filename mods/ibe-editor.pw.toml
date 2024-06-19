@@ -3,11 +3,11 @@ filename = "IBEEditor-1.20-2.2.8-fabric.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/E9sX1ncV/versions/loGmZ8r0/IBEEditor-1.20-2.2.8-fabric.jar"
 hash-format = "sha1"
 hash = "19e9483bc594ea50a90abaaaef666d742eb1185c"
+mode = "metadata:curseforge"
 
 [update]
-[update.modrinth]
-mod-id = "E9sX1ncV"
-version = "loGmZ8r0"
+[update.curseforge]
+file-id = 4994071
+project-id = 256822

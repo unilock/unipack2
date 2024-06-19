@@ -1,0 +1,13 @@
+name = "Passable Foliage 🌳 (Fabric)"
+filename = "PassableFoliage-1.20.1-fabric-8.2.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9ec63b88c2e7f3672236b48a777ca735086f0d36"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4868209
+project-id = 552617

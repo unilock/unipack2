@@ -3,11 +3,11 @@ filename = "PridefulAnimals (1.20.x-fabric)-1.0.0.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/8KWb3iU0/versions/wNHpo3Lv/PridefulAnimals%20%281.20.x-fabric%29-1.0.0.jar"
 hash-format = "sha1"
 hash = "a7b76675180494e6d1dd766358c54d341473e3be"
+mode = "metadata:curseforge"
 
 [update]
-[update.modrinth]
-mod-id = "8KWb3iU0"
-version = "wNHpo3Lv"
+[update.curseforge]
+file-id = 5100777
+project-id = 973648

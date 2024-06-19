@@ -3,11 +3,11 @@ filename = "linkedstorage-1.5.2-1.20.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/RiJDpVc2/versions/bkshgaKH/linkedstorage-1.5.2-1.20.jar"
 hash-format = "sha1"
 hash = "3656a2a5916a6e879c23b937156bf447bf4c2895"
+mode = "metadata:curseforge"
 
 [update]
-[update.modrinth]
-mod-id = "RiJDpVc2"
-version = "bkshgaKH"
+[update.curseforge]
+file-id = 4597709
+project-id = 357718

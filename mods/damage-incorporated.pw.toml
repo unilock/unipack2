@@ -3,11 +3,11 @@ filename = "damage_incorporated-3.1.0+1.20.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/9Ey6omWt/versions/H8z2lMOP/damage_incorporated-3.1.0%2B1.20.jar"
 hash-format = "sha1"
 hash = "6941d2b8ed275df74ae45391925a00d18a83b9b7"
+mode = "metadata:curseforge"
 
 [update]
-[update.modrinth]
-mod-id = "9Ey6omWt"
-version = "H8z2lMOP"
+[update.curseforge]
+file-id = 4572871
+project-id = 534137

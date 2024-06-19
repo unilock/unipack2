@@ -3,11 +3,11 @@ filename = "spectrum-deeper-down-1.7.13.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/3rc31Hgo/versions/W5hqOrTM/spectrum-deeper-down-1.7.13.jar"
 hash-format = "sha1"
 hash = "80011d8dd9745dbb40c503ba016e731bab8b38c9"
+mode = "metadata:curseforge"
 
 [update]
-[update.modrinth]
-mod-id = "3rc31Hgo"
-version = "W5hqOrTM"
+[update.curseforge]
+file-id = 5435505
+project-id = 556967

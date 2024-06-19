@@ -3,11 +3,11 @@ filename = "NBTac-FABRIC-1.20.1-1.2.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/UR0ocuEt/versions/q6DMfyr0/NBTac-FABRIC-1.20.1-1.2.1.jar"
 hash-format = "sha1"
 hash = "8b2715429a6cd65da58745ee392cac10d9ae93f7"
+mode = "metadata:curseforge"
 
 [update]
-[update.modrinth]
-mod-id = "UR0ocuEt"
-version = "q6DMfyr0"
+[update.curseforge]
+file-id = 5298560
+project-id = 813557

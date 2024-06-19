@@ -3,11 +3,11 @@ filename = "quickbench-4.1.0+mc.1.20.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/v2yISwb0/versions/EYrqPaBk/quickbench-4.1.0%2Bmc.1.20.1.jar"
 hash-format = "sha1"
 hash = "d22ecd402f60ee284c658da246eddd92be98eb89"
+mode = "metadata:curseforge"
 
 [update]
-[update.modrinth]
-mod-id = "v2yISwb0"
-version = "EYrqPaBk"
+[update.curseforge]
+file-id = 4767801
+project-id = 914551

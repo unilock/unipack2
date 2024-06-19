@@ -3,11 +3,11 @@ filename = "suggestion-tweaker-1.20-1.5.2-fabric.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/MBLj38R0/versions/3K6uPj89/suggestion-tweaker-1.20-1.5.2-fabric.jar"
 hash-format = "sha1"
 hash = "e001eaef6207fbd817a501a4269c7fbf5e0f4084"
+mode = "metadata:curseforge"
 
 [update]
-[update.modrinth]
-mod-id = "MBLj38R0"
-version = "3K6uPj89"
+[update.curseforge]
+file-id = 5341749
+project-id = 615242

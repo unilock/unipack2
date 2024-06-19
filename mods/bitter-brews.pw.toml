@@ -3,11 +3,11 @@ filename = "Bitter Brews-fabric-1.20.1-1.0.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/o99e9Mv0/versions/Ero2xogi/Bitter%20Brews-fabric-1.20.1-1.0.2.jar"
 hash-format = "sha1"
 hash = "7b34dd2148dab1f870c7aac53435b0f3cd86995d"
+mode = "metadata:curseforge"
 
 [update]
-[update.modrinth]
-mod-id = "o99e9Mv0"
-version = "Ero2xogi"
+[update.curseforge]
+file-id = 5422928
+project-id = 1000391

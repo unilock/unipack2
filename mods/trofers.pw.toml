@@ -3,11 +3,11 @@ filename = "trofers-fabric-5.0.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/wBU6XiJa/versions/Gi4QAkeM/trofers-fabric-5.0.2.jar"
 hash-format = "sha1"
 hash = "d29cfb51ee86d1848cfa87e86930a2f2cff2ab5e"
+mode = "metadata:curseforge"
 
 [update]
-[update.modrinth]
-mod-id = "wBU6XiJa"
-version = "Gi4QAkeM"
+[update.curseforge]
+file-id = 5259006
+project-id = 482265

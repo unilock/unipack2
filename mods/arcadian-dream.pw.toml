@@ -3,11 +3,11 @@ filename = "arcadiandream-1.20.1-0.1.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/Oim7y3T3/versions/rOqxK23k/arcadiandream-1.20.1-0.1.0.jar"
 hash-format = "sha1"
 hash = "e48990f8623f87607e4418503dd6f62fe5003d48"
+mode = "metadata:curseforge"
 
 [update]
-[update.modrinth]
-mod-id = "Oim7y3T3"
-version = "rOqxK23k"
+[update.curseforge]
+file-id = 4772937
+project-id = 854118

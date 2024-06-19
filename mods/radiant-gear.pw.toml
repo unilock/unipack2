@@ -1,13 +1,13 @@
-name = "Radiant Gear"
+name = "Radiant Gear (Fabric/Forge/Quilt)"
 filename = "radiantgear-quilt-2.1.6+1.20.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/AtT9wm5O/versions/glYNVObg/radiantgear-quilt-2.1.6%2B1.20.1.jar"
 hash-format = "sha1"
 hash = "61beb0fbebb806cafbc347a369826634255e242c"
+mode = "metadata:curseforge"
 
 [update]
-[update.modrinth]
-mod-id = "AtT9wm5O"
-version = "glYNVObg"
+[update.curseforge]
+file-id = 5385599
+project-id = 602199

@@ -3,11 +3,11 @@ filename = "sparkweave-0.4.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/nf68xfAw/versions/8h8EkEa6/sparkweave-0.4.1.jar"
 hash-format = "sha1"
 hash = "3a1b018dbe049dfbfa2ea07fc3f532c6c1cccc21"
+mode = "metadata:curseforge"
 
 [update]
-[update.modrinth]
-mod-id = "nf68xfAw"
-version = "8h8EkEa6"
+[update.curseforge]
+file-id = 4991114
+project-id = 911456

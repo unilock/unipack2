@@ -3,11 +3,11 @@ filename = "wraith-harvestscythes-2.5.6+mc1.20.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/TQyaHwzF/versions/abUkudWH/wraith-harvestscythes-2.5.6%2Bmc1.20.jar"
 hash-format = "sha1"
 hash = "0f299d7335e36f08eb2cce613645398fb9d67b02"
+mode = "metadata:curseforge"
 
 [update]
-[update.modrinth]
-mod-id = "TQyaHwzF"
-version = "abUkudWH"
+[update.curseforge]
+file-id = 4580870
+project-id = 412225

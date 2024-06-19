@@ -3,11 +3,11 @@ filename = "Icarus-Quilt-2.9.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/Dw7M6XKW/versions/34m1RvQK/Icarus-Quilt-2.9.1.jar"
 hash-format = "sha1"
 hash = "ae38b446075c8d603f9e6f17aecf21a99d5940de"
+mode = "metadata:curseforge"
 
 [update]
-[update.modrinth]
-mod-id = "Dw7M6XKW"
-version = "34m1RvQK"
+[update.curseforge]
+file-id = 5417919
+project-id = 428151

@@ -3,11 +3,11 @@ filename = "artifacts-fabric-9.5.12.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/P0Mu4wcQ/versions/jcPe37QH/artifacts-fabric-9.5.12.jar"
 hash-format = "sha1"
 hash = "89024afea2dede6f33597e901c2fddab62d3a971"
+mode = "metadata:curseforge"
 
 [update]
-[update.modrinth]
-mod-id = "P0Mu4wcQ"
-version = "jcPe37QH"
+[update.curseforge]
+file-id = 5424363
+project-id = 312353

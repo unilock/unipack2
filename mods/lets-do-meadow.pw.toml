@@ -3,11 +3,11 @@ filename = "letsdo-meadow-fabric-1.3.17.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/ra7o6Sl7/versions/bbDfR1Os/letsdo-meadow-fabric-1.3.17.jar"
 hash-format = "sha1"
 hash = "4672d84f9e69943be5bb0b0f49a1a985b65a507a"
+mode = "metadata:curseforge"
 
 [update]
-[update.modrinth]
-mod-id = "ra7o6Sl7"
-version = "bbDfR1Os"
+[update.curseforge]
+file-id = 5413161
+project-id = 821483

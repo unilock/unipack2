@@ -3,11 +3,11 @@ filename = "peripheralium-fabric-1.20.1-0.6.15.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/vV2a9qrZ/versions/wYmP8eyh/peripheralium-fabric-1.20.1-0.6.15.jar"
 hash-format = "sha1"
 hash = "06a82ad56fa46619a1efc9610c6780808ddfc057"
+mode = "metadata:curseforge"
 
 [update]
-[update.modrinth]
-mod-id = "vV2a9qrZ"
-version = "wYmP8eyh"
+[update.curseforge]
+file-id = 5077945
+project-id = 621088

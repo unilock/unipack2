@@ -3,11 +3,11 @@ filename = "sc-goodies-1.12.7.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/glA8M6fC/versions/FeRx7jb3/sc-goodies-1.12.7.jar"
 hash-format = "sha1"
 hash = "ddd84c6a4f6b8b670284596ccae60992750485bc"
+mode = "metadata:curseforge"
 
 [update]
-[update.modrinth]
-mod-id = "glA8M6fC"
-version = "FeRx7jb3"
+[update.curseforge]
+file-id = 5243886
+project-id = 807667

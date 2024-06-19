@@ -3,11 +3,11 @@ filename = "AutochefsDelight-1.20.1-Fabric-1.0.4.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/HY0PMpa3/versions/nHOjTavv/AutochefsDelight-1.20.1-Fabric-1.0.4.jar"
 hash-format = "sha1"
 hash = "00aacae9ab67cadd06739e4f082aa571a08a279b"
+mode = "metadata:curseforge"
 
 [update]
-[update.modrinth]
-mod-id = "HY0PMpa3"
-version = "nHOjTavv"
+[update.curseforge]
+file-id = 5232491
+project-id = 964282
