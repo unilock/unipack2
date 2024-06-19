@@ -3151,7 +3151,7 @@ metafile = true
 
 [[files]]
 file = "options.amecsapi.txt"
-hash = "368a8829ae78d2aecdbfad6187f377af512508ccbbc0a81da84d93691e248053"
+hash = "e3368a22f4c0dca28698920894a0f1acce76b5553fe87478220ae85573fadee2"
 
 [[files]]
 file = "resources/assets/hotm/lang/en_us.json"
