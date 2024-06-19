@@ -2000,9 +2000,8 @@ hash = "c239c951796882b9c93e649a0dba4f2d95804441faaed707b686381b7a5c67da"
 metafile = true
 
 [[files]]
-file = "mods/lodestone.pw.toml"
-hash = "98b62eb363e94568544936a7e90acd2adbcea8f9f1ec937cc578a04075d727c4"
-metafile = true
+file = "mods/lodestone-1.20.1-1.6.1-fabric.jar"
+hash = "74e496456caae1ca632fcf3674093138c76a68d2bda48e879ffba631941e522f"
 
 [[files]]
 file = "mods/logic-chips.pw.toml"
