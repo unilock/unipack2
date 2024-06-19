@@ -3,11 +3,11 @@ filename = "mealapiaddon-1.0.1.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/RbE9Jt5n/versions/wUfeh5xx/mealapiaddon-1.0.1.jar"
 hash-format = "sha1"
 hash = "6795c12e7e210188bf6592751b66a98489445ea0"
-mode = "metadata:curseforge"
 
 [update]
-[update.curseforge]
-file-id = 4701099
-project-id = 890693
+[update.modrinth]
+mod-id = "RbE9Jt5n"
+version = "wUfeh5xx"

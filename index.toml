@@ -800,8 +800,8 @@ hash = "3d791706553bb0cb251622b32011ff581d1526c1bb8eb9f9e27b647ab89b7a1a"
 metafile = true
 
 [[files]]
-file = "mods/bad-wither-no-cookie-reloaded.pw.toml"
-hash = "c4ef03bd04acbdb5e3226417b3afcc2507753abf2517289952c864be8f295a14"
+file = "mods/bad-wither-no-cookie.pw.toml"
+hash = "b5ab061f078e160c2d6b60b43fa4e35860306f1e7bb5e3323dd3689d4f1a24ba"
 metafile = true
 
 [[files]]
@@ -2066,7 +2066,7 @@ metafile = true
 
 [[files]]
 file = "mods/meal-api-addon.pw.toml"
-hash = "1b6ac4603be6c6e7a016997a25f65a74a478ee43e6f317af8b575e023eebd9dc"
+hash = "926630434babee59c6da9981b7a215f8d11d7e66af0f50fbf57a4c6c500853a4"
 metafile = true
 
 [[files]]
