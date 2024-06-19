@@ -3,11 +3,11 @@ filename = "kawaiidishes-1.11.1.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/v2Vpr5Uf/versions/wOqJ74ee/kawaiidishes-1.11.1.jar"
 hash-format = "sha1"
 hash = "10c0896a9cb2dbf8a56523ec9fd159cdd5b8aa12"
-mode = "metadata:curseforge"
 
 [update]
-[update.curseforge]
-file-id = 5184921
-project-id = 694309
+[update.modrinth]
+mod-id = "v2Vpr5Uf"
+version = "wOqJ74ee"

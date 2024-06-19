@@ -3,11 +3,11 @@ filename = "colorfulhearts-fabric-1.20.1-4.2.11.jar"
 side = "client"
 
 [download]
+url = "https://cdn.modrinth.com/data/wQfMUdZT/versions/5fjIyC3U/colorfulhearts-fabric-1.20.1-4.2.11.jar"
 hash-format = "sha1"
 hash = "01dc4019b1d0da73ad015444cf8e96d589f23e39"
-mode = "metadata:curseforge"
 
 [update]
-[update.curseforge]
-file-id = 5438641
-project-id = 854213
+[update.modrinth]
+mod-id = "wQfMUdZT"
+version = "5fjIyC3U"

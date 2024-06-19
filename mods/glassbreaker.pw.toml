@@ -1,0 +1,13 @@
+name = "Glass Breaker"
+filename = "glassbreaker-fabric-1.4.0+1.20.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/vY7Ka6pe/versions/cy6fXKfy/glassbreaker-fabric-1.4.0%2B1.20.jar"
+hash-format = "sha1"
+hash = "4a0610e57b86233e97405b1dbab1e4b6f77f13ab"
+
+[update]
+[update.modrinth]
+mod-id = "vY7Ka6pe"
+version = "cy6fXKfy"

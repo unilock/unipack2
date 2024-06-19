@@ -3,11 +3,11 @@ filename = "abridged-fabric-1.20.x-1.1.1.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/tb5O1ssC/versions/CXBnYvDZ/abridged-fabric-1.20.x-1.1.1.jar"
 hash-format = "sha1"
 hash = "fd5918ec0334f277719036a3436edb2269c627a1"
-mode = "metadata:curseforge"
 
 [update]
-[update.curseforge]
-file-id = 4985757
-project-id = 948999
+[update.modrinth]
+mod-id = "tb5O1ssC"
+version = "CXBnYvDZ"

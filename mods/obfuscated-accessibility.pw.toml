@@ -3,11 +3,11 @@ filename = "obfuscatedaccessibility-1.0.0.jar"
 side = "client"
 
 [download]
+url = "https://cdn.modrinth.com/data/s4nnzSM8/versions/GteVHL9Z/obfuscatedaccessibility-1.0.0.jar"
 hash-format = "sha1"
 hash = "4ebd28c30e6d6d1ad6cc3ed51a82fb1ba4a28d7b"
-mode = "metadata:curseforge"
 
 [update]
-[update.curseforge]
-file-id = 4807132
-project-id = 925208
+[update.modrinth]
+mod-id = "s4nnzSM8"
+version = "GteVHL9Z"

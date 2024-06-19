@@ -3,11 +3,11 @@ filename = "amethyst_core-1.5.0+1.20.1.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/UbOpZw7q/versions/t3Tks6iD/amethyst_core-1.5.0%2B1.20.1.jar"
 hash-format = "sha1"
 hash = "19f5e8fb0d6ecf9b89fa164734e4db7f83428288"
-mode = "metadata:curseforge"
 
 [update]
-[update.curseforge]
-file-id = 5288905
-project-id = 639888
+[update.modrinth]
+mod-id = "UbOpZw7q"
+version = "t3Tks6iD"

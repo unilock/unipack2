@@ -3,11 +3,11 @@ filename = "letsdo-nethervinery-fabric-1.2.13.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/4TTDxtOx/versions/QBjSnYBQ/letsdo-nethervinery-fabric-1.2.13.jar"
 hash-format = "sha1"
 hash = "3e55f40153cd19a29befef53d5c287fab33bc957"
-mode = "metadata:curseforge"
 
 [update]
-[update.curseforge]
-file-id = 5424276
-project-id = 930072
+[update.modrinth]
+mod-id = "4TTDxtOx"
+version = "QBjSnYBQ"

@@ -3,11 +3,11 @@ filename = "botaniacombat-1.20.1-2.1.2.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/CFXaaDkh/versions/UsEQst1O/botaniacombat-1.20.1-2.1.2.jar"
 hash-format = "sha1"
 hash = "9e029eaa4b9057f453638f95ab1c0fa88bd84240"
-mode = "metadata:curseforge"
 
 [update]
-[update.curseforge]
-file-id = 5328075
-project-id = 937159
+[update.modrinth]
+mod-id = "CFXaaDkh"
+version = "UsEQst1O"

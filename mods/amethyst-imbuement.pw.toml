@@ -3,11 +3,11 @@ filename = "amethyst_imbuement-1.20.1-19.4.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/fThucCjR/versions/w5WIqueM/amethyst_imbuement-1.20.1-19.4.jar"
 hash-format = "sha1"
-hash = "ff100d64e73b475099926210ffc005a72a75a3ad"
-mode = "metadata:curseforge"
+hash = "d44bdc458334c3b7cc7c79f2dbebefe533fc20ba"
 
 [update]
-[update.curseforge]
-file-id = 5288915
-project-id = 608261
+[update.modrinth]
+mod-id = "fThucCjR"
+version = "w5WIqueM"

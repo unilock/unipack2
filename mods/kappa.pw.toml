@@ -1,13 +1,13 @@
 name = "Kappa"
 filename = "kappa-3.0.4.jar"
-side = "both"
+side = "client"
 
 [download]
+url = "https://cdn.modrinth.com/data/2wsNAbi3/versions/otPau6t0/kappa-3.0.4.jar"
 hash-format = "sha1"
 hash = "e56b7a8b962acb8ffab87ccba04cdee59fc7a59b"
-mode = "metadata:curseforge"
 
 [update]
-[update.curseforge]
-file-id = 4052443
-project-id = 492101
+[update.modrinth]
+mod-id = "2wsNAbi3"
+version = "otPau6t0"

@@ -3,11 +3,11 @@ filename = "polymer-bundled-0.5.20+1.20.1.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/xGdtZczs/versions/UB9Kcuk5/polymer-bundled-0.5.20%2B1.20.1.jar"
 hash-format = "sha1"
 hash = "ffb08df320847363b913dca539be68d3671f6ff9"
-mode = "metadata:curseforge"
 
 [update]
-[update.curseforge]
-file-id = 5334580
-project-id = 551890
+[update.modrinth]
+mod-id = "xGdtZczs"
+version = "UB9Kcuk5"

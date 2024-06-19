@@ -3,11 +3,11 @@ filename = "expandedstorage-10.3.0-beta.5+1.20.1-quilt.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/jCCPlP3c/versions/WFNUj3D8/expandedstorage-10.3.0-beta.5%2B1.20.1-quilt.jar"
 hash-format = "sha1"
 hash = "f52e7886b855e9391ba0e56d00e400155a0829bc"
-mode = "metadata:curseforge"
 
 [update]
-[update.curseforge]
-file-id = 5270227
-project-id = 978068
+[update.modrinth]
+mod-id = "jCCPlP3c"
+version = "WFNUj3D8"

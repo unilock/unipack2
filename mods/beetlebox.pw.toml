@@ -3,11 +3,11 @@ filename = "beetlebox-1.2.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/N1P4KKDZ/versions/NbugcenK/beetlebox-1.2.jar"
 hash-format = "sha1"
 hash = "7a95ed6b14c111c58cfdb4f0d777a4011152e2fc"
-mode = "metadata:curseforge"
 
 [update]
-[update.curseforge]
-file-id = 5349165
-project-id = 846007
+[update.modrinth]
+mod-id = "N1P4KKDZ"
+version = "NbugcenK"

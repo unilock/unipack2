@@ -1,0 +1,13 @@
+name = "LibreExpFix (Fixes \"0 Experience\" Bug)"
+filename = "libreexpfix-0.2.7+1.18b14-BETA-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/qOQALrK4/versions/fLVhqshg/libreexpfix-0.2.7%2B1.18b14-BETA-fabric.jar"
+hash-format = "sha1"
+hash = "cd701ad5cd93a1a7676b3e903d344f3c3988470a"
+
+[update]
+[update.modrinth]
+mod-id = "qOQALrK4"
+version = "fLVhqshg"

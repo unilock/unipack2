@@ -1,13 +1,13 @@
 name = "Grid"
 filename = "grid-1.20-fabric0.83.0-1.7.jar"
-side = "both"
+side = "client"
 
 [download]
+url = "https://cdn.modrinth.com/data/ebxDDOKt/versions/6n2Bbjby/grid-1.20-fabric0.83.0-1.7.jar"
 hash-format = "sha1"
 hash = "6d7c7bd79c3a2e4f09e4684b6a4f42d7464f4a83"
-mode = "metadata:curseforge"
 
 [update]
-[update.curseforge]
-file-id = 4712004
-project-id = 310560
+[update.modrinth]
+mod-id = "ebxDDOKt"
+version = "6n2Bbjby"

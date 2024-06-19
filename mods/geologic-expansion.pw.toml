@@ -3,11 +3,11 @@ filename = "geologicexpansion-1.0.1-1.20.1-fabric.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/DNzJ3VYv/versions/Nslf1XNY/geologicexpansion-1.0.1-1.20.1-fabric.jar"
 hash-format = "sha1"
 hash = "ab612a040996d27f3b621b3877f247efa8e4b1b0"
-mode = "metadata:curseforge"
 
 [update]
-[update.curseforge]
-file-id = 4963405
-project-id = 547397
+[update.modrinth]
+mod-id = "DNzJ3VYv"
+version = "Nslf1XNY"

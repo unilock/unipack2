@@ -3,11 +3,11 @@ filename = "Modern-Dynamics-0.7.0-beta.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/fMpvLrnF/versions/dLMmaJID/Modern-Dynamics-0.7.0-beta.jar"
 hash-format = "sha1"
 hash = "6032cfeb2eed90b1a6f86396623e7d2b890d906a"
-mode = "metadata:curseforge"
 
 [update]
-[update.curseforge]
-file-id = 4760048
-project-id = 552758
+[update.modrinth]
+mod-id = "fMpvLrnF"
+version = "dLMmaJID"

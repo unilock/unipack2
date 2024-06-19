@@ -3,11 +3,11 @@ filename = "tankstorage-0.1.0+1.20.1.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/4tkhj6x9/versions/lOo7TarD/tankstorage-0.1.0%2B1.20.1.jar"
 hash-format = "sha1"
 hash = "4f7c3e0bed5e6e061fdd5f0b0cc78057c798f442"
-mode = "metadata:curseforge"
 
 [update]
-[update.curseforge]
-file-id = 5407133
-project-id = 1032670
+[update.modrinth]
+mod-id = "4tkhj6x9"
+version = "lOo7TarD"

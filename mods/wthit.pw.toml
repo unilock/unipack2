@@ -3,11 +3,11 @@ filename = "wthit-quilt-8.13.0.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/6AQIaxuO/versions/bMDKSHmW/wthit-quilt-8.13.0.jar"
 hash-format = "sha1"
 hash = "fbc68a962b0cf91a9b853160613618eaf4a0a7a4"
-mode = "metadata:curseforge"
 
 [update]
-[update.curseforge]
-file-id = 5438370
-project-id = 440979
+[update.modrinth]
+mod-id = "6AQIaxuO"
+version = "bMDKSHmW"

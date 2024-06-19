@@ -3,11 +3,11 @@ filename = "EnhancedWorkbenches-1.1.2+1.20.1.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/IhBYAM6m/versions/dYr9feVJ/EnhancedWorkbenches-1.1.2%2B1.20.1.jar"
 hash-format = "sha1"
 hash = "cb37272b136ea8c2639b903ce8c798e986a843fd"
-mode = "metadata:curseforge"
 
 [update]
-[update.curseforge]
-file-id = 5409706
-project-id = 857513
+[update.modrinth]
+mod-id = "IhBYAM6m"
+version = "dYr9feVJ"

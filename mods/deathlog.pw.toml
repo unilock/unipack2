@@ -3,11 +3,11 @@ filename = "deathlog-0.3.2+1.20.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/TPAYeAOc/versions/V0Hz3q2W/deathlog-0.3.2%2B1.20.jar"
 hash-format = "sha1"
 hash = "a637205931bac5fd455341d82cc32bb181d617f7"
-mode = "metadata:curseforge"
 
 [update]
-[update.curseforge]
-file-id = 4576406
-project-id = 496150
+[update.modrinth]
+mod-id = "TPAYeAOc"
+version = "V0Hz3q2W"
