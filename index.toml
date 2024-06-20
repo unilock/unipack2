@@ -174,7 +174,7 @@ hash = "e6588cb1e350fad93ceb56194b06f690dc6f52e405ddbe4cfb1a46b080681f2d"
 
 [[files]]
 file = "config/dimdoors-config.json5"
-hash = "325c78c8f2e4847db045c3f304280ada5509866bd9d50c498dd0a39a6461b81f"
+hash = "1ce56d99578092f484052b30cad2cbf535cf777ba6e773a5e74aea3b5bc89180"
 
 [[files]]
 file = "config/dsurround/dsurround.json"
@@ -329,6 +329,10 @@ file = "config/lightoverlay.properties"
 hash = "c183c29ba63942c7e76c024b5047133065df8995e7d403cbb75a14a6b20cb767"
 
 [[files]]
+file = "config/logbegone.toml"
+hash = "a54d5d11a3e01dbf1bb516fb60051892fa7a738697c6b2d1a388415c670ac8b1"
+
+[[files]]
 file = "config/logprot.json"
 hash = "de00982091ecb1bdc7e43572d1c6b04d56d69310e93507ca76f22a7314aa30f4"
 
@@ -342,7 +346,7 @@ hash = "e65299c1a432f2aae4374bdb01e71d06a6e3fb7350e905e5ba93217fa7178911"
 
 [[files]]
 file = "config/malum-client.toml"
-hash = "e3d10289b6a65913ce3c6cd24008051c7b55ee7b1e29fefd02e96618e3e9e338"
+hash = "9d16c1a1821474ea3dd830d4c777baa0fbf172de06e05481e2271f3337334ea8"
 
 [[files]]
 file = "config/malum-common.toml"
@@ -695,7 +699,7 @@ metafile = true
 
 [[files]]
 file = "mods/amethyst-imbuement.pw.toml"
-hash = "8d1e88c596e9b5fb074beefbaa470963a33152b2dead3560084575663687ed70"
+hash = "f6527681d1d338784442528c2e9e1962d55f0ae3f7873e12c285ea680a73cd26"
 metafile = true
 
 [[files]]
@@ -760,7 +764,7 @@ metafile = true
 
 [[files]]
 file = "mods/artsandcrafts.pw.toml"
-hash = "0fc2b0e19289298cc5717da652c2c6fd58a713865e5d8d3999fdff2abdbab4d7"
+hash = "37c1c82b05cb0cf61dfa03ee9e93607a12cff6e0dc4ee46429a2f50e9e088bce"
 metafile = true
 
 [[files]]
@@ -999,11 +1003,6 @@ hash = "f897e24727f68b1b00d2606b6fcc1e5fe134d62cc47e4ef874494aa465ea7f5a"
 metafile = true
 
 [[files]]
-file = "mods/calibrated.pw.toml"
-hash = "d4b95a7c533292451f3c8e415dea3a9157d0a94f59d61b56136f7e14e823bc61"
-metafile = true
-
-[[files]]
 file = "mods/canary-safety.pw.toml"
 hash = "fe2380b7a797f6c7f5b9932d9648929f90bb69437ec3af8a8f9427ea5aaf9929"
 metafile = true
@@ -1016,6 +1015,11 @@ metafile = true
 [[files]]
 file = "mods/cc-tweaked.pw.toml"
 hash = "0df20ae68221168e9d7c1dd9d078139d15c15d28bb96591409c8aca28ccaeb63"
+metafile = true
+
+[[files]]
+file = "mods/cc-vs.pw.toml"
+hash = "90a0fac3fb0c39eb8a79ac31affea5fffc4148875bae72939c08f2fc536465e8"
 metafile = true
 
 [[files]]
@@ -1050,7 +1054,7 @@ metafile = true
 
 [[files]]
 file = "mods/chisel-reborn.pw.toml"
-hash = "3c7c67992a65d2339254e418d158721b90a5393bc7c988bb0f8217c522e6d126"
+hash = "35aab80ff93f34490db321edaff03f6ce9bfb32688f2d38e0741898f8c1ae506"
 metafile = true
 
 [[files]]
@@ -1115,7 +1119,7 @@ metafile = true
 
 [[files]]
 file = "mods/common-network.pw.toml"
-hash = "e5f09459600432653fb8de3bc823b84432400b8159bbe993e19c93a127de40fc"
+hash = "6901c1a68b19205bc878bfd382945c4f288527cbb15a7300ab3d4cc9b35aff3e"
 metafile = true
 
 [[files]]
@@ -1419,6 +1423,11 @@ hash = "55a4537d46958dadd9cfb7999fcc076cdaf600f1aa8f283b7c4550307ff488b6"
 metafile = true
 
 [[files]]
+file = "mods/eureka-ships.pw.toml"
+hash = "20cec26bbd2c28b4eaea5d7cbbfbce3e3f631e484d4b75e0dbe4cdd7b9e75be4"
+metafile = true
+
+[[files]]
 file = "mods/ex-pattern-provider.pw.toml"
 hash = "b3aa3212c74a98698f6c9543d37740328f4dd9a93dbb9169cb1a54adae3adec7"
 metafile = true
@@ -1550,7 +1559,7 @@ metafile = true
 
 [[files]]
 file = "mods/fsit.pw.toml"
-hash = "a4cf445a4893c21fdcf2e5ab6c124f37a28184ef13e9e140e8434be0c64bb806"
+hash = "52371601504121c5d3257ce0211a5d0c1f73bca07f114288b7373edd8898491d"
 metafile = true
 
 [[files]]
@@ -1565,7 +1574,7 @@ metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "fdd10ba558f8f3dd518f6be006786f88a0c3f8fb7673ad57c953eef6b9743c4e"
+hash = "de134ed84c0efcfb52f94ad2f9f46cb45f53606409253744c59c4daf0c721739"
 metafile = true
 
 [[files]]
@@ -2004,6 +2013,11 @@ hash = "e4704c153d615cb33a9c182117c88ab46687cef3ae37943e6fe12491efa89e40"
 metafile = true
 
 [[files]]
+file = "mods/log-begone.pw.toml"
+hash = "7fabd6bd7ee1f94d0bbb48a9f0c563eafb0ef878903716f6d989b2c441585bb1"
+metafile = true
+
+[[files]]
 file = "mods/logic-chips.pw.toml"
 hash = "48ba9679f4a934de3d8a3523150d64f9bcd029625c48b9656ec9655483ad2c5b"
 metafile = true
@@ -2035,7 +2049,7 @@ metafile = true
 
 [[files]]
 file = "mods/malum.pw.toml"
-hash = "d73526ad719b0ee38e92b71977aade2016ad80a75298daf495bf871182eb6299"
+hash = "93ac52ce2f03084ba5d1087152b3d62c7c581c0b4e432a76d51756319e849769"
 metafile = true
 
 [[files]]
@@ -2200,7 +2214,7 @@ metafile = true
 
 [[files]]
 file = "mods/neepmeat.pw.toml"
-hash = "4cd0244e4a7fe89605ff1c0daa22db58562f4bdf6c0c9bfe791e7a16a9179a35"
+hash = "24720d8fd339fb9185441f70a29d1a6cb5b040e2a3219e387407906b769b43cb"
 metafile = true
 
 [[files]]
@@ -2285,7 +2299,7 @@ metafile = true
 
 [[files]]
 file = "mods/on1chest.pw.toml"
-hash = "86354c695d5bf6658b5439aa7eec553829d156d08288f07bdf0f52d225fb2c0a"
+hash = "ad0dea961f9ed50d8b0a9788de6669e3110c914ca1352a55bd5db37922aaa616"
 metafile = true
 
 [[files]]
@@ -2420,7 +2434,7 @@ metafile = true
 
 [[files]]
 file = "mods/portal-cubed.pw.toml"
-hash = "7e669c24997aea2e205fd4cd6149a087a21ba036f8279a8656537cd866130a57"
+hash = "49bb8a20bed4f6ab8dc72d4acb3fa0602fb7282c8ff27b3d6ecfe6fac6fcb759"
 metafile = true
 
 [[files]]
@@ -2540,17 +2554,17 @@ metafile = true
 
 [[files]]
 file = "mods/ranged-weapon-api.pw.toml"
-hash = "119234949c4304f2a934762ac15ad92a072462b03e2909a2fdade76482fd2077"
+hash = "ea9dc10b9c697ac70baa6907ed3719c09caaf6a4bab63596fb50e66291b233aa"
 metafile = true
 
 [[files]]
 file = "mods/rats-mischief.pw.toml"
-hash = "fdc87a87f743f97002f5c7a9b7d5ae9d5a117796369d9b8a083c2376c9ae3c0c"
+hash = "7f9b7fc7194947765714ae88f30a9f918d9a4c43af5b195dc0dc6577ea524ea7"
 metafile = true
 
 [[files]]
 file = "mods/reacharound.pw.toml"
-hash = "a92caaa0a2de8d699a3036ec563c09ce3db537751364e4736a89ecdbdb030516"
+hash = "e65b94b18fb834d973b5c61738a3299df2b928d614868f4188cdfaf4c35aceed"
 metafile = true
 
 [[files]]
@@ -2615,7 +2629,7 @@ metafile = true
 
 [[files]]
 file = "mods/roguelikedungeons.pw.toml"
-hash = "34c9fd7d10a0138896f078dea8a45f5e5e2b6b05acd6b0a14df5c7cd39379923"
+hash = "c7e7b31e79bf6224b0b46502f3b1b2445d68de56c35e5b41ab97250c48f07edc"
 metafile = true
 
 [[files]]
@@ -2670,7 +2684,7 @@ metafile = true
 
 [[files]]
 file = "mods/shutup.pw.toml"
-hash = "e512a53be38ef198c575e71d84117c2911234373282c09fc000ace83c9cb5267"
+hash = "d4fab97c1676cf385ea3ede47e93faaa0eee88ff3833a245ba6e55668f0fedc5"
 metafile = true
 
 [[files]]
@@ -2839,11 +2853,6 @@ hash = "d818d0a11d1837477c4fb5f3e3dc7cf24a7152ad7796b8718d142fb0a0bcb0c7"
 metafile = true
 
 [[files]]
-file = "mods/swingthrough.pw.toml"
-hash = "164bd9070d86ca231da118c32790f2144195a29a9ed1c556fcbf9714a1e633f7"
-metafile = true
-
-[[files]]
 file = "mods/tamago.pw.toml"
 hash = "8c85745e01321c43f39de96338da1c9dc20843f7890ccb14d36f12236a33716d"
 metafile = true
@@ -2984,6 +2993,11 @@ hash = "b61011a2bb1aecc3a7205841601d5762d2ab8bf088ffa1d0fa98729f8a4bb647"
 metafile = true
 
 [[files]]
+file = "mods/valkyrien-skies.pw.toml"
+hash = "fc80f12d2c7a83c87636046eba45885178060f2b4ff0ce847c1a595513414ea6"
+metafile = true
+
+[[files]]
 file = "mods/vanillaparts.pw.toml"
 hash = "aed1ff0d9583d0d0d2424f9885f3823be1730f469ec5056d98a3f63e74cbe017"
 metafile = true
@@ -3065,7 +3079,7 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
-hash = "79375f9532d94145f5b4d1d31c785b348da6acfa495c0cd7d43e2cf58e9b49a6"
+hash = "63860b782b9604c871479805a2ed2d77b9857a5d7788a510a52450a6436a8312"
 metafile = true
 
 [[files]]
