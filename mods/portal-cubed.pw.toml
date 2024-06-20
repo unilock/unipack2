@@ -1,8 +1,8 @@
 name = "Portal Cubed"
-filename = "portal_cubed-2.3.0-rev.4493895.jar"
+filename = "portal_cubed-2.3.0-rev.c1bc401.jar"
 side = "both"
 
 [download]
-url = "https://play.fennet.rentals/packwiz/unipack2/manual-jars/both/portal_cubed-2.3.0-rev.4493895.jar"
+url = "https://play.fennet.rentals/packwiz/unipack2/manual-jars/both/portal_cubed-2.3.0-rev.c1bc401.jar"
 hash-format = "sha256"
-hash = "238177cf1511df9c08d0e97d2b8d638ed4854343f44e5e0f71a90551e8b75b80"
+hash = "21aff9c96b4148bdc12056cbd86ffde5edbaa7d95fe04f944850e5fd3d6e3f04"

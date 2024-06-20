@@ -1,0 +1,8 @@
+name = "Eureka! Ships!"
+filename = "eureka-1201-1.5.1-beta.3+0044230de5.jar"
+side = "both"
+
+[download]
+url = "https://play.fennet.rentals/packwiz/unipack2/manual-jars/both/eureka-1201-1.5.1-beta.3+0044230de5.jar"
+hash-format = "sha256"
+hash = "316df24e1d346087a689af03097d9ba83f1e4e81dc99fecb2d197b7e09016aa9"

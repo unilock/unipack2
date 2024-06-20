@@ -1,0 +1,8 @@
+name = "Valkyrien Skies"
+filename = "valkyrienskies-120-2.3.0-beta.5+0528915b5c.jar"
+side = "both"
+
+[download]
+url = "https://play.fennet.rentals/packwiz/unipack2/manual-jars/both/valkyrienskies-120-2.3.0-beta.5+0528915b5c.jar"
+hash-format = "sha256"
+hash = "3c7513e2d509143d38a07e9c818f054120ac8bc55be3ba9dcd2750acff7374f8"
