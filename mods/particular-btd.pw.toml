@@ -1,0 +1,8 @@
+name = "Particular"
+filename = "particular-btd-1.0.0+1.20.1+fabric.jar"
+side = "client"
+
+[download]
+url = "https://play.fennet.rentals/packwiz/unipack2/manual-jars/client/particular-btd-1.0.0+1.20.1+fabric.jar"
+hash-format = "sha256"
+hash = "ea80e91bec681483149ac38e0be043eac3160224c464fd335751d8c9b5b8b28a"
