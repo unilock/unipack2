@@ -446,7 +446,7 @@ hash = "f5a3e757ca74a0ee07e5e63052b31f68105c0538f9e64ef6e705934632b3c4e9"
 
 [[files]]
 file = "config/resourcepackoverrides.json"
-hash = "81720cdcce1941fd5f3dcba321e24961b6221c1da2a859987e83ccc5a9c50fba"
+hash = "763d43a63f9e795b145efe77863faba33871e576d2e3665ce1baeb1727994026"
 
 [[files]]
 file = "config/ribbits-fabric-1_20_1.toml"
@@ -664,7 +664,7 @@ metafile = true
 
 [[files]]
 file = "mods/agricraft.pw.toml"
-hash = "4ee3739c72acdd295961776aa2f4d6c1f59cae1cde6f9ecdc93d06695e860836"
+hash = "4f2994d2212479649056152dde643f1f1c0874a85b3af6af35c8d40435242a96"
 metafile = true
 
 [[files]]
@@ -1135,6 +1135,11 @@ metafile = true
 [[files]]
 file = "mods/computer-cartographer.pw.toml"
 hash = "e567a249b43bf4a6fdc41409be12be3bd775161d561f1889a0bcc18afc829b31"
+metafile = true
+
+[[files]]
+file = "mods/config-menus-forge.pw.toml"
+hash = "f396dea8cc44bbe8e57f06b3bacc348a8daedfb11b10d09aa510b59bd0c6109a"
 metafile = true
 
 [[files]]
@@ -2054,7 +2059,7 @@ metafile = true
 
 [[files]]
 file = "mods/malum.pw.toml"
-hash = "93ac52ce2f03084ba5d1087152b3d62c7c581c0b4e432a76d51756319e849769"
+hash = "1a6bd2b40122d950cb93856c4ae8fa0a490d99373cfc12326ef11b779b83d205"
 metafile = true
 
 [[files]]
@@ -3129,7 +3134,7 @@ metafile = true
 
 [[files]]
 file = "mods/yttr.pw.toml"
-hash = "92684df9732f15be413d6e42d25042368b71389ff296743d9dafba65570990a2"
+hash = "2a0b52c104445107c56360d657ed28b48dd3c1f22bc134f1e3420b010ec229e2"
 metafile = true
 
 [[files]]
