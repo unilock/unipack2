@@ -1099,7 +1099,7 @@ metafile = true
 
 [[files]]
 file = "mods/collars.pw.toml"
-hash = "a90d76f1fe18884e0ab52ff35423aa11b111f48077fa371d823140febcd7add3"
+hash = "2ce69f82c507be5f19bcbce310c0a334af7d3cd63fc15b603a07a5ed29dfa1af"
 metafile = true
 
 [[files]]
@@ -1784,7 +1784,7 @@ metafile = true
 
 [[files]]
 file = "mods/idwtialsimmoedm.pw.toml"
-hash = "b043560344c7ce974bac1ab6c7bef96b48a7a87a4610aba62fb22160fdb56bed"
+hash = "0c105f93621e5b84dfdb9e12fc0ba2065cd562e812d185ad04685ec84f48a937"
 metafile = true
 
 [[files]]
@@ -2624,7 +2624,7 @@ metafile = true
 
 [[files]]
 file = "mods/revelationary.pw.toml"
-hash = "51f99f67cd59817dcee434483c7e53f57c48edfbc44d2e250f2d5cf393c5d1e6"
+hash = "1497620ef8cd3c1e1e1b061582dec03a65dc219e3b0e60da7720434f726456c5"
 metafile = true
 
 [[files]]

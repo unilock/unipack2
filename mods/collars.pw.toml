@@ -1,13 +1,13 @@
 name = "Wearable Collars"
-filename = "wearable-collars-1.0.0-1.20.1-4.jar"
+filename = "wearable-collars-1.0.1-1.20.1-4.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/eNlwe2oS/versions/8egz6ASA/wearable-collars-1.0.0-1.20.1-4.jar"
+url = "https://cdn.modrinth.com/data/eNlwe2oS/versions/Q6JxDUiT/wearable-collars-1.0.1-1.20.1-4.jar"
 hash-format = "sha1"
-hash = "f88ac3f9eafcb2ec3fff684c30a1f1b755971201"
+hash = "b8e97f5d4ca41261ce6ce5b565d9c45075035018"
 
 [update]
 [update.modrinth]
 mod-id = "eNlwe2oS"
-version = "8egz6ASA"
+version = "Q6JxDUiT"
