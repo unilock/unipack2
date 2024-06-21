@@ -25,7 +25,7 @@ key_modifiers_gui.xaero_toggle_entity_radar:0,0,0
 key_modifiers_gui.xaero_toggle_grid:0,0,0
 key_modifiers_gui.xaero_toggle_light_overlay:0,0,0
 key_modifiers_gui.xaero_toggle_manual_cave_mode:0,0,0
-key_modifiers_gui.xaero_toggle_map:0,0,0
+key_modifiers_gui.xaero_toggle_map:0,1,0
 key_modifiers_gui.xaero_toggle_map_waypoints:0,0,0
 key_modifiers_gui.xaero_toggle_pac_chunk_claims:0,0,0
 key_modifiers_gui.xaero_toggle_slime:0,0,0
@@ -199,6 +199,8 @@ key_modifiers_key.trashslot.toggleLock:0,0,0
 key_modifiers_key.tricksy.dec_order:0,0,0
 key_modifiers_key.tricksy.inc_order:0,0,0
 key_modifiers_key.use:0,0,0
+key_modifiers_key.valkyrienskies.ship_cruise:0,0,0
+key_modifiers_key.valkyrienskies.ship_down:0,0,0
 key_modifiers_key.veinmining.activate.desc:0,0,0
 key_modifiers_key.waila.config:0,0,0
 key_modifiers_key.waila.show_overlay:0,0,0

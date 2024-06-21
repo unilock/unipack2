@@ -8,7 +8,7 @@ key_dsurround.text.keybind.individualSoundConfig:key.keyboard.unknown:NONE
 key_dsurround.text.keybind.modConfigurationMenu:key.keyboard.unknown:NONE
 key_gui.xaero_alternative_list_players:key.keyboard.unknown:NONE
 key_gui.xaero_display_all_sets:key.keyboard.unknown:NONE
-key_gui.xaero_enlarge_map:key.keyboard.v:NONE
+key_gui.xaero_enlarge_map:key.keyboard.unknown:NONE
 key_gui.xaero_instant_waypoint:key.keyboard.unknown:NONE
 key_gui.xaero_map_zoom_in:key.keyboard.unknown:NONE
 key_gui.xaero_map_zoom_out:key.keyboard.unknown:NONE
@@ -25,7 +25,7 @@ key_gui.xaero_toggle_entity_radar:key.keyboard.unknown:NONE
 key_gui.xaero_toggle_grid:key.keyboard.unknown:NONE
 key_gui.xaero_toggle_light_overlay:key.keyboard.unknown:NONE
 key_gui.xaero_toggle_manual_cave_mode:key.keyboard.unknown:NONE
-key_gui.xaero_toggle_map:key.keyboard.unknown:NONE
+key_gui.xaero_toggle_map:key.keyboard.o:NONE
 key_gui.xaero_toggle_map_waypoints:key.keyboard.unknown:NONE
 key_gui.xaero_toggle_pac_chunk_claims:key.keyboard.unknown:NONE
 key_gui.xaero_toggle_slime:key.keyboard.unknown:NONE
@@ -69,9 +69,9 @@ key_key.amethyst_imbuement.spell_key:key.keyboard.unknown:NONE
 key_key.amethyst_imbuement.vein_mine_key:key.keyboard.unknown:NONE
 key_key.attack:key.mouse.left:NONE
 key_key.back:key.keyboard.s:NONE
-key_key.bankstorage.lockslot:key.keyboard.k:NONE
+key_key.bankstorage.lockslot:key.keyboard.unknown:NONE
 key_key.bankstorage.openbankfromkeybind:key.keyboard.unknown:NONE
-key_key.bankstorage.togglebuildmode:key.keyboard.c:NONE
+key_key.bankstorage.togglebuildmode:key.keyboard.unknown:NONE
 key_key.bankstorage.togglepickupmode:key.keyboard.unknown:NONE
 key_key.beetlebox.bp_open:key.keyboard.unknown:NONE
 key_key.beetlebox.bp_t_attack:key.keyboard.unknown:NONE
@@ -182,10 +182,10 @@ key_key.socialInteractions:key.keyboard.unknown:NONE
 key_key.spectatorOutlines:key.keyboard.unknown:NONE
 key_key.sprint:key.keyboard.left.control:NONE
 key_key.swapOffhand:key.keyboard.f:NONE
-key_key.tankstorage.lockslot:key.keyboard.k:NONE
+key_key.tankstorage.lockslot:key.keyboard.unknown:NONE
 key_key.tankstorage.opentankfromkeybind:key.keyboard.unknown:NONE
 key_key.tankstorage.toggleinsertmode:key.keyboard.unknown:NONE
-key_key.tankstorage.toggleinteractionmode:key.keyboard.c:NONE
+key_key.tankstorage.toggleinteractionmode:key.keyboard.unknown:NONE
 key_key.tconstruct.helmet_interact:key.keyboard.unknown:NONE
 key_key.tconstruct.leggings_interact:key.keyboard.unknown:NONE
 key_key.things.openenderchest:key.keyboard.unknown:NONE
@@ -199,6 +199,8 @@ key_key.trashslot.toggleLock:key.keyboard.unknown:NONE
 key_key.tricksy.dec_order:key.keyboard.unknown:NONE
 key_key.tricksy.inc_order:key.keyboard.unknown:NONE
 key_key.use:key.mouse.right:NONE
+key_key.valkyrienskies.ship_cruise:key.keyboard.c:NONE
+key_key.valkyrienskies.ship_down:key.keyboard.v:NONE
 key_key.veinmining.activate.desc:key.keyboard.grave.accent:NONE
 key_key.waila.config:key.keyboard.unknown:NONE
 key_key.waila.show_overlay:key.keyboard.unknown:NONE
