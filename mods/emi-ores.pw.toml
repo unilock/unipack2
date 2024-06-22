@@ -1,13 +1,8 @@
 name = "EMI Ores"
-filename = "emi_ores-0.4+1.20.1.jar"
+filename = "emi_ores-0.4+1.20.1+fabric.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "f3f6d4e131545579d404fa52258b07b7a35a89da"
-mode = "metadata:curseforge"
-
-[update]
-[update.curseforge]
-file-id = 5213774
-project-id = 974009
+url = "https://play.fennet.rentals/packwiz/unipack2/manual-jars/both/emi_ores-0.4+1.20.1+fabric.jar"
+hash-format = "sha256"
+hash = "e968c7220916716aa62204fe18ce1291b7a5f2312566b77f046d0e97b29a34eb"
