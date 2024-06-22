@@ -764,7 +764,7 @@ metafile = true
 
 [[files]]
 file = "mods/artsandcrafts.pw.toml"
-hash = "37c1c82b05cb0cf61dfa03ee9e93607a12cff6e0dc4ee46429a2f50e9e088bce"
+hash = "a9bab66141b365b7eee5f25cc11a937fbff893e3e084149fe36cf81b2ec277c8"
 metafile = true
 
 [[files]]
@@ -2204,7 +2204,7 @@ metafile = true
 
 [[files]]
 file = "mods/natures-delight.pw.toml"
-hash = "40eb211ffa613b30ca8e840c148f76d2e0e693c26bad716f13e6cd783830ad12"
+hash = "4090e1f0f05ab78878f3b1f45e1b112f6028bc526275fd1f80ef560cd213e843"
 metafile = true
 
 [[files]]
