@@ -334,7 +334,7 @@ hash = "a54d5d11a3e01dbf1bb516fb60051892fa7a738697c6b2d1a388415c670ac8b1"
 
 [[files]]
 file = "config/logprot.json"
-hash = "de00982091ecb1bdc7e43572d1c6b04d56d69310e93507ca76f22a7314aa30f4"
+hash = "cf49427054e2358a97847b682ea99cd6e940349a53d18f079764b97d284c2f8e"
 
 [[files]]
 file = "config/lootr.json"
@@ -680,6 +680,11 @@ metafile = true
 [[files]]
 file = "mods/alternate-current.pw.toml"
 hash = "c91188fce95259071890dfbffe0165e22122fe6b89e2dc72c7e702a53c0c8285"
+metafile = true
+
+[[files]]
+file = "mods/alternate-endings.pw.toml"
+hash = "c592104070f94c8fdbe1a1a5bf9c5fabe57c9b9c47fad4ac25199ddeb3ba6a39"
 metafile = true
 
 [[files]]
@@ -1374,7 +1379,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi-ores.pw.toml"
-hash = "b6c519c77dacae8431b342b7428044d068e44b49ffff5977d03aaea30f0c255b"
+hash = "7d1f509f97bb9b2b999643b7eac7fa3707a5a96e373de74830e3034e559bbf76"
 metafile = true
 
 [[files]]
@@ -2030,6 +2035,11 @@ metafile = true
 [[files]]
 file = "mods/logic-chips.pw.toml"
 hash = "48ba9679f4a934de3d8a3523150d64f9bcd029625c48b9656ec9655483ad2c5b"
+metafile = true
+
+[[files]]
+file = "mods/login-protection.pw.toml"
+hash = "ae8ddb83f088146f36559553093feff63d83491d65a899f7419f07782b4528b7"
 metafile = true
 
 [[files]]

@@ -1,0 +1,8 @@
+name = "Alternate Endings"
+filename = "altendings-0.1.0+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://play.fennet.rentals/packwiz/unipack2/manual-jars/both/altendings-0.1.0+1.20.1.jar"
+hash-format = "sha256"
+hash = "c70f9caca0ad73fe904e43a6194738c5650436ffaf5d11ed56a453e6704bb048"
