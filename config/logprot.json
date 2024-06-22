@@ -17,6 +17,6 @@
   },
   "respawnprotection": {
     "desc:": "Enables the protection for respawning too, default: true",
-    "respawnprotection": false
+    "respawnprotection": true
   }
 }
