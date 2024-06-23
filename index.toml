@@ -238,7 +238,7 @@ hash = "f8abfda5b6bad3daeb79d2628103722b701b2d9eb6f82d74dfe11094ffcef50a"
 
 [[files]]
 file = "config/fast-rtp.json"
-hash = "63764551f450a823e21c749cc74e5434c9358d86dbd560db2be2e69529387d3a"
+hash = "ab16d0c70ec4d259e5363e41886108611bc3425fefcad0fc96109df2f7dadaf5"
 
 [[files]]
 file = "config/flywheel.json"

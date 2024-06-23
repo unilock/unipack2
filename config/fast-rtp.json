@@ -3,7 +3,7 @@
   "useCurrentWorld": true,
   "useStrictTeleportCheck": false,
   "defaultDimension": "minecraft:overworld",
-  "radius": 10000,
+  "radius": 5000,
   "minRadius": 1000,
   "safetyCheckRadius": 2,
   "cooldown": 0,
