@@ -2073,6 +2073,11 @@ hash = "b91dbfcb842d642390f47deadd6e6862c9be4ea0551fb4f10d0d7807d9e95c75"
 metafile = true
 
 [[files]]
+file = "mods/luckyducks.pw.toml"
+hash = "9783296c6d0aa84072c83b48c8c5b86ff53a85513885c32c6fefd7f60cbb8b8f"
+metafile = true
+
+[[files]]
 file = "mods/macos-input-fixes.pw.toml"
 hash = "f14660be4c4cbc78a43756aafe528e956851119fcc5023139e82c18f8c520082"
 metafile = true
