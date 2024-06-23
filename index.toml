@@ -1003,6 +1003,11 @@ hash = "6162785cfa9e7f295bb1f9dd0d1fc94f85e1e06a90b205ee8a56fdb53f7c06a3"
 metafile = true
 
 [[files]]
+file = "mods/c2me-fabric.pw.toml"
+hash = "5afe4e900b83aa83109d0c845df28e9695d8e3639518b0f08169a547f0e3682b"
+metafile = true
+
+[[files]]
 file = "mods/caffeinated.pw.toml"
 hash = "f897e24727f68b1b00d2606b6fcc1e5fe134d62cc47e4ef874494aa465ea7f5a"
 metafile = true
@@ -1614,7 +1619,7 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.pw.toml"
-hash = "4375a78dc2331d06b922e9011969e259e23947bb57088871d30b26d3b2ed37b6"
+hash = "33dfeaeec4730da684884aff3b41b7ff2ed43839239c36c762b3102524ebdce3"
 metafile = true
 
 [[files]]
@@ -1833,6 +1838,11 @@ hash = "1cf070d8ef24ff396376cf435208dd6339945d8a04b917c03a28a92bfeae3ba3"
 metafile = true
 
 [[files]]
+file = "mods/interactive.pw.toml"
+hash = "9f2a0c7348f5dae0e61812c8ca724ce4e5e9bf7ca27fb474d14dab9b39a1ae1a"
+metafile = true
+
+[[files]]
 file = "mods/inventory-profiles-next.pw.toml"
 hash = "804c0a4d962afa7ed6a207bed0ae6dcb9d6ed0215c1b3c01a936421c55618634"
 metafile = true
@@ -1864,7 +1874,7 @@ metafile = true
 
 [[files]]
 file = "mods/jline4mcdsrv.pw.toml"
-hash = "df1f66f500c693e7c17eb46c282abaad211401dae80c2a8e881ec6d2a328f12d"
+hash = "b6fe190c182dee15e05345c007027ada29d59dc753edb5a82f7913c88716baea"
 metafile = true
 
 [[files]]
@@ -2024,7 +2034,7 @@ metafile = true
 
 [[files]]
 file = "mods/lodestone.pw.toml"
-hash = "e4704c153d615cb33a9c182117c88ab46687cef3ae37943e6fe12491efa89e40"
+hash = "48afa73d48d9901b252d62fec438cbf1d98764c51941c666cb0f4de15a7cdfe5"
 metafile = true
 
 [[files]]
@@ -2069,7 +2079,7 @@ metafile = true
 
 [[files]]
 file = "mods/malum.pw.toml"
-hash = "1a6bd2b40122d950cb93856c4ae8fa0a490d99373cfc12326ef11b779b83d205"
+hash = "e1da95a773fc9229f01f760cd0ea17497814f1a57e57cfbf06d3bbb7210079fb"
 metafile = true
 
 [[files]]
