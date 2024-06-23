@@ -1839,7 +1839,7 @@ metafile = true
 
 [[files]]
 file = "mods/interactive.pw.toml"
-hash = "9f2a0c7348f5dae0e61812c8ca724ce4e5e9bf7ca27fb474d14dab9b39a1ae1a"
+hash = "b094e34df4e623024f47c4ed8ca41684f736c2e2c6d4f9504fa2660254e51d66"
 metafile = true
 
 [[files]]
@@ -2079,7 +2079,7 @@ metafile = true
 
 [[files]]
 file = "mods/malum.pw.toml"
-hash = "e1da95a773fc9229f01f760cd0ea17497814f1a57e57cfbf06d3bbb7210079fb"
+hash = "37551e3352a0333ba2fca8d7a8307882901c0e4422590ebdcd6871ed66ba80b4"
 metafile = true
 
 [[files]]
