@@ -5,4 +5,4 @@
 phrases = []
 
 # If a log message matches one of these regex patterns, it will be filtered out from logging
-regex = ["Registering id\\=\\d+ for LiquidState", "Registering id\\=\\d+ for SolidStateImpl", "Registering id\\=\\d+ for VsBlockState", "solid box \\(\\d+ \\d+ \\d+\\) \\< \\(\\d+ \\d+ \\d+\\) must not intersect negative box"]
+regex = ["has a mass of 0.0, not creating a ShipObject", "Registering id\\=\\d+ for LiquidState", "Registering id\\=\\d+ for SolidStateImpl", "Registering id\\=\\d+ for VsBlockState", "solid box \\(\\d+ \\d+ \\d+\\) \\< \\(\\d+ \\d+ \\d+\\) must not intersect negative box"]

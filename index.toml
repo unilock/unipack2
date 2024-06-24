@@ -326,7 +326,7 @@ hash = "c183c29ba63942c7e76c024b5047133065df8995e7d403cbb75a14a6b20cb767"
 
 [[files]]
 file = "config/logbegone.toml"
-hash = "a54d5d11a3e01dbf1bb516fb60051892fa7a738697c6b2d1a388415c670ac8b1"
+hash = "03b9f3142e760b972ec17bb2f6777fa1b80f75da431a0fac6ebc14f26dda2113"
 
 [[files]]
 file = "config/logprot.json"
@@ -865,7 +865,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-log4j-config.pw.toml"
-hash = "4cef46e3adc8c9154b76a6ccf57811edf60a0dd262a0a4767dfe2df5345d105d"
+hash = "3021ecf8039fca2b936499c69d9fb885c820fb256e0e79b5f301ec7f478821a5"
 metafile = true
 
 [[files]]
@@ -1856,11 +1856,6 @@ metafile = true
 [[files]]
 file = "mods/jei.pw.toml"
 hash = "677ead110db05c927cdb9acd6d23bb059c18dc1b79f97b5711a7b03adaf88ca2"
-metafile = true
-
-[[files]]
-file = "mods/jline4mcdsrv.pw.toml"
-hash = "b6fe190c182dee15e05345c007027ada29d59dc753edb5a82f7913c88716baea"
 metafile = true
 
 [[files]]
