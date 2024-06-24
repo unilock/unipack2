@@ -749,11 +749,6 @@ hash = "9fdcddf9d57a776983ce72201358fa0475fc03f3242479891a11a70a2a8c924f"
 metafile = true
 
 [[files]]
-file = "mods/armaments.pw.toml"
-hash = "9caeca52a009789d262f8778996c155fc59b339b922df55a7843cc8a6e67e0af"
-metafile = true
-
-[[files]]
 file = "mods/artifacts.pw.toml"
 hash = "82cda9da7129ebbf2f3dcdcd31e2d1a74e3bd4541750bb48078585d67382bd0b"
 metafile = true
