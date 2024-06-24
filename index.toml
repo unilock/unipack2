@@ -1915,11 +1915,6 @@ hash = "505b2a92d050a7debdf7d72938d673fb8ab4c3ebfdb1714573a03ae02b5a0897"
 metafile = true
 
 [[files]]
-file = "mods/lets-do-addon-apple-wood.pw.toml"
-hash = "65d534d7decc4d145dbe7f0018eef28a51bce1ba3058faec1c2f606410c03698"
-metafile = true
-
-[[files]]
 file = "mods/lets-do-addon-fluids.pw.toml"
 hash = "58a97f15605078b0ac22ae6443580fb3dc35713759ff85781ce8e4ebfae2f9b5"
 metafile = true
