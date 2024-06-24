@@ -241,10 +241,6 @@ file = "config/fast-rtp.json"
 hash = "ab16d0c70ec4d259e5363e41886108611bc3425fefcad0fc96109df2f7dadaf5"
 
 [[files]]
-file = "config/flywheel.json"
-hash = "085e0ea22bd592a73d7e400b3fed9dd3eb838f0d9ed3a85ecd106cfd5b60513c"
-
-[[files]]
 file = "config/forgeconfigapiport.toml"
 hash = "ebeeb3ad6a574d20f2fabaffd46b0cd8cebcfa5cdd63efd3c8faeb26162b6388"
 
