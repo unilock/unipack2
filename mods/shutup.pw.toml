@@ -1,8 +1,8 @@
 name = "ShutUp"
-filename = "shutup-2.6.0+1.20.1+quilt.jar"
+filename = "shutup-3.0.0+1.20.1+quilt.jar"
 side = "both"
 
 [download]
-url = "https://play.fennet.rentals/packwiz/unipack2/manual-jars/both/shutup-2.6.0+1.20.1+quilt.jar"
+url = "https://play.fennet.rentals/packwiz/unipack2/manual-jars/both/shutup-3.0.0+1.20.1+quilt.jar"
 hash-format = "sha256"
-hash = "68258fc18449428657231cf9071f5167ef59f555393228050f1b1751e651190a"
+hash = "eaa986cbc82409a0aa1a17c367071ec604f80c81b0a6b76a7e0dd2bb4544c281"
