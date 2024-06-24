@@ -4,6 +4,13 @@
 	<Appenders>
 		<!-- System Out -->
 		<Console name="SysOut" target="SYSTEM_OUT">
+			<!-- Hide garbage -->
+			<Filters>
+				<RegexFilter regex=".*has a mass of 0.0, not creating a ShipObject.*" onMatch="DENY" onMismatch="NEUTRAL"/>
+				<RegexFilter regex=".*Registering id\=\d+ for (LiquidState|SolidStateImpl|VsBlockState).*" onMatch="DENY" onMismatch="NEUTRAL"/>
+				<RegexFilter regex=".*solid box \(\d+ \d+ \d+\) &lt; \(\d+ \d+ \d+\) must not intersect negative box.*" onMatch="DENY" onMismatch="NEUTRAL"/>
+			</Filters>
+
 			<PatternLayout>
 				<LoggerNamePatternSelector defaultPattern="%style{[%d{HH:mm:ss}]}{blue} %highlight{[%t/%level]}{FATAL=red, ERROR=red, WARN=yellow, INFO=green, DEBUG=green, TRACE=blue} %style{(%logger{1})}{cyan} %highlight{%msg%n}{FATAL=red, ERROR=red, WARN=normal, INFO=normal, DEBUG=normal, TRACE=normal}" disableAnsi="${sys:fabric.log.disableAnsi:-true}">
 					<!-- Dont show the logger name for minecraft classes -->
@@ -14,6 +21,13 @@
 
 		<!-- Server GUI -->
 		<Queue name="ServerGuiConsole" ignoreExceptions="true">
+			<!-- Hide garbage -->
+			<Filters>
+				<RegexFilter regex=".*has a mass of 0.0, not creating a ShipObject.*" onMatch="DENY" onMismatch="NEUTRAL"/>
+				<RegexFilter regex=".*Registering id\=\d+ for (LiquidState|SolidStateImpl|VsBlockState).*" onMatch="DENY" onMismatch="NEUTRAL"/>
+				<RegexFilter regex=".*solid box \(\d+ \d+ \d+\) &lt; \(\d+ \d+ \d+\) must not intersect negative box.*" onMatch="DENY" onMismatch="NEUTRAL"/>
+			</Filters>
+
 			<PatternLayout>
 				<LoggerNamePatternSelector defaultPattern="[%d{HH:mm:ss} %level] (%logger{1}) %msg{nolookups}%n">
 					<!-- Dont show the logger name for minecraft classes -->
@@ -24,6 +38,13 @@
 
 		<!-- latest.log -->
 		<RollingRandomAccessFile name="LatestFile" fileName="logs/latest.log" filePattern="logs/%d{yyyy-MM-dd}-%i.log.gz">
+			<!-- Hide garbage -->
+			<Filters>
+				<RegexFilter regex=".*has a mass of 0.0, not creating a ShipObject.*" onMatch="DENY" onMismatch="NEUTRAL"/>
+				<RegexFilter regex=".*Registering id\=\d+ for (LiquidState|SolidStateImpl|VsBlockState).*" onMatch="DENY" onMismatch="NEUTRAL"/>
+				<RegexFilter regex=".*solid box \(\d+ \d+ \d+\) &lt; \(\d+ \d+ \d+\) must not intersect negative box.*" onMatch="DENY" onMismatch="NEUTRAL"/>
+			</Filters>
+
 			<PatternLayout>
 				<LoggerNamePatternSelector defaultPattern="[%d{HH:mm:ss}] [%t/%level] (%logger{1}) %msg{nolookups}%n">
 					<!-- Dont show the logger name for minecraft classes -->
@@ -42,6 +63,9 @@
 			<!-- Hide garbage -->
 			<Filters>
 				<RegexFilter regex=".*Handling inbound packet.*" onMatch="DENY" onMismatch="NEUTRAL"/>
+				<RegexFilter regex=".*has a mass of 0.0, not creating a ShipObject.*" onMatch="DENY" onMismatch="NEUTRAL"/>
+				<RegexFilter regex=".*Registering id\=\d+ for (LiquidState|SolidStateImpl|VsBlockState).*" onMatch="DENY" onMismatch="NEUTRAL"/>
+				<RegexFilter regex=".*solid box \(\d+ \d+ \d+\) &lt; \(\d+ \d+ \d+\) must not intersect negative box.*" onMatch="DENY" onMismatch="NEUTRAL"/>
 			</Filters>
 
 			<PatternLayout>

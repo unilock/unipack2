@@ -94,7 +94,7 @@ hash = "c01362d70dd8d13c6e7e3f33e4689cf5c628904f43767d15c20a0161431729a4"
 
 [[files]]
 file = "config/better_log4j_config.xml"
-hash = "5e1ba51da86387328099b2dcc6f1505f1a69a470150d7a6cb960fdd4116d60cd"
+hash = "1cc9a87239b57fefb56c6edd4197176f9a2cd602f8d2c282ccf646d1ab5aae07"
 
 [[files]]
 file = "config/betterdungeons-fabric-1_20.toml"
@@ -323,10 +323,6 @@ hash = "d341410037970de3771f55a69df8ea4f12b9b527d51183551192de4d3a0ff16d"
 [[files]]
 file = "config/lightoverlay.properties"
 hash = "c183c29ba63942c7e76c024b5047133065df8995e7d403cbb75a14a6b20cb767"
-
-[[files]]
-file = "config/logbegone.toml"
-hash = "03b9f3142e760b972ec17bb2f6777fa1b80f75da431a0fac6ebc14f26dda2113"
 
 [[files]]
 file = "config/logprot.json"
@@ -2016,11 +2012,6 @@ metafile = true
 [[files]]
 file = "mods/lodestone.pw.toml"
 hash = "48afa73d48d9901b252d62fec438cbf1d98764c51941c666cb0f4de15a7cdfe5"
-metafile = true
-
-[[files]]
-file = "mods/log-begone.pw.toml"
-hash = "7fabd6bd7ee1f94d0bbb48a9f0c563eafb0ef878903716f6d989b2c441585bb1"
 metafile = true
 
 [[files]]
