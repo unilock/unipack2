@@ -3442,6 +3442,10 @@ file = "resources/data/c/tags/items/hidden_from_recipe_viewers.json"
 hash = "aaf333b6b638ea43b388d0c9fbc8601de1e1736de5f5de957e6c2e46e64a279f"
 
 [[files]]
+file = "resources/data/c/tags/items/leather_storage_blocks.json"
+hash = "d1012e2856cde81c1fcd62bdb94c72fd83a628037d3d2cd9372655d7212a938c"
+
+[[files]]
 file = "resources/data/c/tags/items/raw_cobalt_ores.json"
 hash = "e403033a89e67c627748efdd2d81467289e9fbd57ed0e0f500fd6a9294205786"
 
