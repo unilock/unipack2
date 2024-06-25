@@ -611,7 +611,7 @@ metafile = true
 
 [[files]]
 file = "mods/ad-astra-giselle-addon.pw.toml"
-hash = "f5c6bc188acdbb3ded43c2b9a12e7813e44b4a4ed3d824b95b6dfe75a1b2e80c"
+hash = "38b0ed2234abf14b64f3fee2453b46368db2cf5143dbca5c54fc0b9632d66160"
 metafile = true
 
 [[files]]
@@ -1236,7 +1236,7 @@ metafile = true
 
 [[files]]
 file = "mods/cupboard.pw.toml"
-hash = "5cbed14fa75080964a03a2a723595baf26237eecd396ba47177efd8496d1dcd2"
+hash = "4463005ad6ae41db2bf707952d6945297f48601a42ec8b6cac8aef09d653ffd2"
 metafile = true
 
 [[files]]
@@ -1451,7 +1451,7 @@ metafile = true
 
 [[files]]
 file = "mods/explorify.pw.toml"
-hash = "6fe33454b775d480be9ee6c50b2b6bf2bc7117b631e8bc6144af6f59d2f7d2d2"
+hash = "3db14e9f213e7664b00d3849f81563ae41d0604d825c5aa6751bec33f8478cae"
 metafile = true
 
 [[files]]
@@ -1926,7 +1926,7 @@ metafile = true
 
 [[files]]
 file = "mods/lets-do-bakery.pw.toml"
-hash = "812bfd42fd11f1afeea836c1742e25d0f600b72a0681fc8644a14ed47caf2291"
+hash = "b1c3548e1757bea68c31267d2bbcb60867561dd7e3c65a83b909ae73b38cf504"
 metafile = true
 
 [[files]]
@@ -2006,7 +2006,7 @@ metafile = true
 
 [[files]]
 file = "mods/lodestone.pw.toml"
-hash = "48afa73d48d9901b252d62fec438cbf1d98764c51941c666cb0f4de15a7cdfe5"
+hash = "3f9d83a0a4ed95c67ed7eed36c0b765fcad502958811dcf92a4a04f6c9e958d9"
 metafile = true
 
 [[files]]
@@ -2051,7 +2051,7 @@ metafile = true
 
 [[files]]
 file = "mods/malum.pw.toml"
-hash = "37551e3352a0333ba2fca8d7a8307882901c0e4422590ebdcd6871ed66ba80b4"
+hash = "371f43a2534e7d7f1e00b823ef53bac4531ea57773a14bc4441f4fff2b2ed9a7"
 metafile = true
 
 [[files]]
