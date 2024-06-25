@@ -2,11 +2,11 @@
   "type": "botania:orechid",
   "input": {
     "type": "block",
-    "block": "minecraft:stone"
+    "block": "minecraft:end_stone"
   },
   "output": {
     "type": "block",
-    "block": "modern_industrialization:uranium_ore"
+    "block": "mythicmetals:endstone_starrite_ore"
   },
-  "weight": 14552
+  "weight": 98
 }

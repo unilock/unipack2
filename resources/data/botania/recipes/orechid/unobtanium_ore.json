@@ -6,7 +6,7 @@
   },
   "output": {
     "type": "block",
-    "block": "modern_industrialization:uranium_ore"
+    "block": "mythicmetals:unobtanium_ore"
   },
-  "weight": 14552
+  "weight": 3
 }

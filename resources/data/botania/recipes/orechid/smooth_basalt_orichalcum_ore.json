@@ -2,11 +2,11 @@
   "type": "botania:orechid",
   "input": {
     "type": "block",
-    "block": "minecraft:stone"
+    "block": "minecraft:smooth_basalt"
   },
   "output": {
     "type": "block",
-    "block": "modern_industrialization:uranium_ore"
+    "block": "mythicmetals:smooth_basalt_orichalcum_ore"
   },
-  "weight": 14552
+  "weight": 1
 }
