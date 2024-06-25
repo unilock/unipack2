@@ -1575,6 +1575,11 @@ hash = "f4ce79d79d2a5bc0c7a979341494365743adceecab63424803e4154537446e46"
 metafile = true
 
 [[files]]
+file = "mods/fusion-connected-textures.pw.toml"
+hash = "dc59c6208d7b2e6c2609e0a2d0aadbe4c24a2090abf9afaad1fd21f33b521a2d"
+metafile = true
+
+[[files]]
 file = "mods/fzzy-config.pw.toml"
 hash = "de134ed84c0efcfb52f94ad2f9f46cb45f53606409253744c59c4daf0c721739"
 metafile = true
