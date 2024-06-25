@@ -2270,11 +2270,6 @@ hash = "dfcf0446ce11ef9691761c4a696b7ca8763854d977c5074a56fa266d92aebd86"
 metafile = true
 
 [[files]]
-file = "mods/nox-renoxed.pw.toml"
-hash = "01033e2ae5ee6337551b496b79f5d6fa1186a465f7fb5fdd5eaf4d297561a40b"
-metafile = true
-
-[[files]]
 file = "mods/obfuscated-accessibility.pw.toml"
 hash = "3fe176748a9ddcc91c3fa179e3dcca174015e00db2dcba3a38d737c7eb833509"
 metafile = true
