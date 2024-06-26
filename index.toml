@@ -831,7 +831,7 @@ metafile = true
 
 [[files]]
 file = "mods/baubley-heart-canisters-fabric.pw.toml"
-hash = "e1997c1442741e9960088e40cf204318eaf755e07bac0108cc7e1030c46a068f"
+hash = "78dd97600284b0752273ff1dc863edd7dcb9e02b587bf09d0252053bb42d244b"
 metafile = true
 
 [[files]]
@@ -1156,7 +1156,7 @@ metafile = true
 
 [[files]]
 file = "mods/construction-wand-fabric.pw.toml"
-hash = "e51dec3ffd367d5b5df79de8a915454c9fcc88db52d16507efe3e663c4b032c4"
+hash = "d0165348a927978dde787c6d821c3a26ffdf2e57f77f9b4d9cb0aa8f0dbc363b"
 metafile = true
 
 [[files]]
@@ -1212,11 +1212,6 @@ metafile = true
 [[files]]
 file = "mods/crops-love-rain.pw.toml"
 hash = "13f1580427f5255b261446351e24ee1865adf71a6c846b7b027c321dd787d3cd"
-metafile = true
-
-[[files]]
-file = "mods/crossstitch.pw.toml"
-hash = "f3129b7e98e3c01560cd891d915a4af7effb8acbebc6c3c9fb9855593f853d49"
 metafile = true
 
 [[files]]
@@ -1406,7 +1401,7 @@ metafile = true
 
 [[files]]
 file = "mods/ends-delight.pw.toml"
-hash = "eaf1ccd2f10b95d58026be6dd07ce11224758a6d1916478be7b85547a4aba598"
+hash = "2668059f44658e4779bd85844fab57d2c41360f7033acc23fef7b7b3f9576aa7"
 metafile = true
 
 [[files]]
@@ -1466,7 +1461,7 @@ metafile = true
 
 [[files]]
 file = "mods/extra-mod-integrations.pw.toml"
-hash = "fce2be0de327cbcd6d1589aa18a538ce377ba9e3ed7826d8a3adcdacaf9fb178"
+hash = "7667b7c9026afecc88ef430e058355f112afc2b4a377c66b303f397710596171"
 metafile = true
 
 [[files]]
@@ -1482,11 +1477,6 @@ metafile = true
 [[files]]
 file = "mods/fabrication.pw.toml"
 hash = "934201fdb3163539be2bca6b6e79f5f4009bc8919f787e217362b325740dd0f1"
-metafile = true
-
-[[files]]
-file = "mods/fabricproxy-legacy.pw.toml"
-hash = "8e6de714243f958f53c0c89a5e32630568ff66e29ad69b748d1b8942f9031847"
 metafile = true
 
 [[files]]
@@ -1825,11 +1815,6 @@ hash = "1cf070d8ef24ff396376cf435208dd6339945d8a04b917c03a28a92bfeae3ba3"
 metafile = true
 
 [[files]]
-file = "mods/interactive.pw.toml"
-hash = "b094e34df4e623024f47c4ed8ca41684f736c2e2c6d4f9504fa2660254e51d66"
-metafile = true
-
-[[files]]
 file = "mods/inventory-profiles-next.pw.toml"
 hash = "804c0a4d962afa7ed6a207bed0ae6dcb9d6ed0215c1b3c01a936421c55618634"
 metafile = true
@@ -1861,7 +1846,7 @@ metafile = true
 
 [[files]]
 file = "mods/jline4mcdsrv.pw.toml"
-hash = "150cb4a54aa91ff5d02add4da872969b5b514ae0be3791b320914a8334af8812"
+hash = "58567b23252ec837faa0d3ab12c85b0315b6e3101da0337631d7f49893b962f4"
 metafile = true
 
 [[files]]
@@ -1936,7 +1921,7 @@ metafile = true
 
 [[files]]
 file = "mods/lets-do-bakery.pw.toml"
-hash = "812bfd42fd11f1afeea836c1742e25d0f600b72a0681fc8644a14ed47caf2291"
+hash = "b1239d2df41ababa1af496d85d2488a3421cdfc9fd511673d347d87160942038"
 metafile = true
 
 [[files]]
@@ -2700,11 +2685,6 @@ hash = "28c97f2e7359520b58275699f3fe33db6c73517e9bed72e4fa4617701066688b"
 metafile = true
 
 [[files]]
-file = "mods/signedvelocity.pw.toml"
-hash = "c1dffc6902312c269d86786eb7bbe78fc33179bc66dd03e575d88e520faf0127"
-metafile = true
-
-[[files]]
 file = "mods/simple-discord-rich-presence.pw.toml"
 hash = "54233edb308f5d1326971b28fe8898c606a2dbdfc0b8c56f50ca0b5e80e30d7e"
 metafile = true
@@ -2781,7 +2761,7 @@ metafile = true
 
 [[files]]
 file = "mods/spectrum.pw.toml"
-hash = "cc8d898588a5b1270ec3196a4b2955f42dc0af975d5e73e116c1ad1ac72772b4"
+hash = "a8f197fdd0b6cb811f5b79ee44d248bb19cb777b438e631f42e7342d58198c5e"
 metafile = true
 
 [[files]]
