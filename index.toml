@@ -1165,11 +1165,6 @@ hash = "c2503c50409c00c88632b4d7d188696bfad0aa3f404aedf7e740928cf37e1289"
 metafile = true
 
 [[files]]
-file = "mods/cosmetic-armor-fabric.pw.toml"
-hash = "df4a2abec8e59fbce59a7ebbfdb26b840ed397432b037bce3e3e89609dc35cb3"
-metafile = true
-
-[[files]]
 file = "mods/couplings.pw.toml"
 hash = "415e964b7e8d65192cd594809f6e95c85b2772ede860585e6499ed441086e11f"
 metafile = true
