@@ -1,8 +1,0 @@
-name = "CrossStitch"
-filename = "crossstitch-0.1.6.jar"
-side = "server"
-
-[download]
-url = "https://play.fennet.rentals/packwiz/unipack2/manual-jars/server/crossstitch-0.1.6.jar"
-hash-format = "sha256"
-hash = "445b92e91f869957c15e0d7ad1b6cef4201bc761be600374249dcecf8f51cf0d"
