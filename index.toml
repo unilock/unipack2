@@ -1326,7 +1326,7 @@ metafile = true
 
 [[files]]
 file = "mods/eccentric-tome-fabric.pw.toml"
-hash = "9a6f81955b9cded4151cc84dd13fd94482598a2847ef3e54aecb34fa01dd90de"
+hash = "dde25c12063ad9d05cb3f0db21176fef6e93a5d739f255a694c67300f3ef3d1e"
 metafile = true
 
 [[files]]
