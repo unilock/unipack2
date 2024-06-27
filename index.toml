@@ -1635,6 +1635,16 @@ hash = "985facad5abe2519902bc588347cc18cc009f24e58764a4ae8da0beaa4ce10f8"
 metafile = true
 
 [[files]]
+file = "mods/gravity-api.pw.toml"
+hash = "b214c6268434f39504af49167ebda6baf627e1d9db2334309bcb2bf938398c3b"
+metafile = true
+
+[[files]]
+file = "mods/gravity-pads.pw.toml"
+hash = "2bf5bbc6e275933285170aac6b252bde83a1c94c28c6171d28f0b5a601211693"
+metafile = true
+
+[[files]]
 file = "mods/grid.pw.toml"
 hash = "e63f54a04c77c4f917610c36c3eb2a2ba35ffb0833f663885f09d98bbbe1c28d"
 metafile = true
