@@ -1,13 +1,8 @@
-name = "Botania (Fabric/Quilt)"
-filename = "Botania-1.20.1-444-FABRIC.jar"
+name = "Botania"
+filename = "Botania-1.20.1-445-FABRIC-SNAPSHOT.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "e5e8b14f7788d4ce49b530cdba1f49dd07853e9c"
-mode = "metadata:curseforge"
-
-[update]
-[update.curseforge]
-file-id = 5346279
-project-id = 421839
+url = "https://play.fennet.rentals/packwiz/unipack2/manual-jars/both/Botania-1.20.1-445-FABRIC-SNAPSHOT.jar"
+hash-format = "sha256"
+hash = "6e2073bfd93e7e5abd1f2c13cf54151546f6bdf1586730160eef6cc2027f380f"
