@@ -756,7 +756,7 @@ metafile = true
 
 [[files]]
 file = "mods/artsandcrafts.pw.toml"
-hash = "a9bab66141b365b7eee5f25cc11a937fbff893e3e084149fe36cf81b2ec277c8"
+hash = "e348dae7d67f96481ea2bb44b43f3c5a4ba298cd2e8fdf538a2352f44fba5e79"
 metafile = true
 
 [[files]]
@@ -1366,7 +1366,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "85ee86682accb6188cfb7807bd5cde6d2b8cce1761fd28aec8658d1d9df2e37e"
+hash = "bab76022e812bef2567fa22417d565c18e5ac35dfc7f4e465b82bc66de6eac9d"
 metafile = true
 
 [[files]]
@@ -1396,7 +1396,7 @@ metafile = true
 
 [[files]]
 file = "mods/ends-delight.pw.toml"
-hash = "2668059f44658e4779bd85844fab57d2c41360f7033acc23fef7b7b3f9576aa7"
+hash = "8df84b4c1caee197b28983c70e849d5df116750755c740a1fdcdc2e311ea2f4a"
 metafile = true
 
 [[files]]
@@ -1441,7 +1441,7 @@ metafile = true
 
 [[files]]
 file = "mods/explorify.pw.toml"
-hash = "3db14e9f213e7664b00d3849f81563ae41d0604d825c5aa6751bec33f8478cae"
+hash = "2362f0d0bc9c31ff7bf6a0ddab29cf4122f8c381610c8da5e19fa4b6ab7c1b44"
 metafile = true
 
 [[files]]
@@ -1451,7 +1451,7 @@ metafile = true
 
 [[files]]
 file = "mods/exposure.pw.toml"
-hash = "0e1bcec4edde700e8c4bf9b5db47b379262dd27102faa932041c7d4b45790a73"
+hash = "2209081455f9e9c9f267ad14585d30e43baac54df7b6e5a71c1afcb3c4927c09"
 metafile = true
 
 [[files]]
@@ -2001,7 +2001,7 @@ metafile = true
 
 [[files]]
 file = "mods/lodestone.pw.toml"
-hash = "3f9d83a0a4ed95c67ed7eed36c0b765fcad502958811dcf92a4a04f6c9e958d9"
+hash = "80b96eedd425d34e5f62d809517ba915db4e11fbed1ce2aa11e3bee192d5384b"
 metafile = true
 
 [[files]]
@@ -2046,7 +2046,7 @@ metafile = true
 
 [[files]]
 file = "mods/malum.pw.toml"
-hash = "1375022b3eea199167915f3a74524a0680972021d49d4b713a1d5612608fbfdc"
+hash = "ad4140ba1bdd978a0ff7a7dd84d98dcb902ca4f6fdc1911d0987bdaba85f6a5b"
 metafile = true
 
 [[files]]
@@ -3001,7 +3001,7 @@ metafile = true
 
 [[files]]
 file = "mods/vein-mining.pw.toml"
-hash = "f05808cb7ff36fe371835c3310c6f3912276b7999a63957b9462b6cfd94ab51c"
+hash = "89646dc3685a9c51b9107419e765bf22ea1c2b57992f5bf5e22019c163c12d9f"
 metafile = true
 
 [[files]]
@@ -3071,7 +3071,7 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
-hash = "63860b782b9604c871479805a2ed2d77b9857a5d7788a510a52450a6436a8312"
+hash = "c9019f5cbc34de17fc2254388677ded3501e6a0373358ea6e67d57104f98d45c"
 metafile = true
 
 [[files]]
