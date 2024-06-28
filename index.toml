@@ -961,7 +961,7 @@ metafile = true
 
 [[files]]
 file = "mods/botania-fabric.pw.toml"
-hash = "6f1083a48507407ba20565aca39df2862510ea1eb4db2b667b9cd1ec74ca40bc"
+hash = "6e32619b4003d5a07968eb6d6db730240a5eb0bc40e51daecd9e80c6b9219a7d"
 metafile = true
 
 [[files]]
@@ -1401,12 +1401,12 @@ metafile = true
 
 [[files]]
 file = "mods/enhanced-block-entities.pw.toml"
-hash = "63e1916f7e0447dee1e84963ae9c847a4eb183fe338b07d836644da2e3b853b1"
+hash = "665e28f8100d62def756174c4ff6a47ca75baebd8eee52a421a391b8639aad94"
 metafile = true
 
 [[files]]
 file = "mods/enhanced-workbenches.pw.toml"
-hash = "78242dfebb07f9a188aa0a6787c7a6cdfcb7f06f88ac749c2cfe846fbf2e10d3"
+hash = "8c96764b59a010804f34e2435d513303a873256b57f26dd7773daa8be92ee9d6"
 metafile = true
 
 [[files]]

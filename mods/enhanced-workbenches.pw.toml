@@ -3,11 +3,6 @@ filename = "EnhancedWorkbenches-1.1.2+1.20.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "cb37272b136ea8c2639b903ce8c798e986a843fd"
-mode = "metadata:curseforge"
-
-[update]
-[update.curseforge]
-file-id = 5409706
-project-id = 857513
+url = "https://play.fennet.rentals/packwiz/unipack2/manual-jars/both/EnhancedWorkbenches-1.1.2+1.20.1.jar"
+hash-format = "sha256"
+hash = "fde7d91a77a4b92fef9b77047366f7a5cf4595ecf736f1441c22ba42a733294a"
