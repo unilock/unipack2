@@ -904,11 +904,6 @@ hash = "4b8ffbe47270effb2da83ff2fba6e5dea0158a515033b61a484a21aae6146a76"
 metafile = true
 
 [[files]]
-file = "mods/betterendsky.pw.toml"
-hash = "cfaed7d126f269e6ab6f688bd6c528f70d148929c3c88fca6491612e261728b0"
-metafile = true
-
-[[files]]
 file = "mods/bettersmithingtable.pw.toml"
 hash = "483ad0edd5f3be9e84b8925ba69ad8052d966bfdc3c23cc8c13a3b8f9770dd84"
 metafile = true
