@@ -86,11 +86,11 @@ hash = "90834945951d980644cb37adf4458d78d64273f50bb04b4a5e9d234abf0a1221"
 
 [[files]]
 file = "config/bclib/client.json"
-hash = "f5b21bbf4a4bb66d6e9e7d4744236f10bd9b764d3c06c75e3bdaf970250719e9"
+hash = "610b17f05c3c66cb2f9fb38ab42b1c787163489ae66d3513c5b7c73e39203789"
 
 [[files]]
 file = "config/bclib/server.json"
-hash = "c01362d70dd8d13c6e7e3f33e4689cf5c628904f43767d15c20a0161431729a4"
+hash = "2a8b39c4be4a06431050375dc1888941e185dd36319ce876d904debea4ee46ee"
 
 [[files]]
 file = "config/better_log4j_config.xml"
@@ -835,6 +835,11 @@ hash = "78dd97600284b0752273ff1dc863edd7dcb9e02b587bf09d0252053bb42d244b"
 metafile = true
 
 [[files]]
+file = "mods/bclib.pw.toml"
+hash = "0c6982d793283b27ef35fdc3b57b7b9554fbc162c03ac7431ebbee9b1d5b241c"
+metafile = true
+
+[[files]]
 file = "mods/bedrodium.pw.toml"
 hash = "3d85fff4286a77e96c83752664ae74fc2fd39b4e8c11402993968662fe0d3e8b"
 metafile = true
@@ -887,6 +892,11 @@ metafile = true
 [[files]]
 file = "mods/bettercookedaxolotls.pw.toml"
 hash = "f50460bc7e31c4adff4d9aa7e12dece3b97ed65dc35371d60c780d755c3e2a1d"
+metafile = true
+
+[[files]]
+file = "mods/betterend.pw.toml"
+hash = "4b8ffbe47270effb2da83ff2fba6e5dea0158a515033b61a484a21aae6146a76"
 metafile = true
 
 [[files]]
@@ -3460,6 +3470,10 @@ hash = "792655af226d8541fc88794c97202162ae0810b214918680c61197c677363b49"
 [[files]]
 file = "resources/data/minecraft/tags/items/hoes.json"
 hash = "96b450608a580c2dfccb8d49099c9b02a052b92e263549a1c3a28e6505c26ea3"
+
+[[files]]
+file = "resources/data/minecraft/worldgen/world_preset/normal.json"
+hash = "2d1dc1c4bd8022ef00e445feedde5ae5d74ed8979f32fc97d6e522a59a3ab38b"
 
 [[files]]
 file = "resources/data/naturescompass/advancements/natures_compass.json"
