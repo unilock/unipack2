@@ -1451,7 +1451,7 @@ metafile = true
 
 [[files]]
 file = "mods/exposure.pw.toml"
-hash = "2209081455f9e9c9f267ad14585d30e43baac54df7b6e5a71c1afcb3c4927c09"
+hash = "095ef2d3e8790ae23d6a209c127c3c7fa2d7e99fa066878ffdff82b66c6c1f9a"
 metafile = true
 
 [[files]]
@@ -2001,7 +2001,7 @@ metafile = true
 
 [[files]]
 file = "mods/lodestone.pw.toml"
-hash = "80b96eedd425d34e5f62d809517ba915db4e11fbed1ce2aa11e3bee192d5384b"
+hash = "e62122711ea3d091d7ffc9d59eca5a8992ef6a5d071446dbc600b20442115b6a"
 metafile = true
 
 [[files]]
