@@ -17,6 +17,10 @@ file = "config/BlossomMods/BlossomPVP.json"
 hash = "a2cbbdf49474f429079ecf92622042e352fc4bdacbbad1599334da83ccd1e171"
 
 [[files]]
+file = "config/BlossomMods/BlossomSpawn.json"
+hash = "e6c79bee28bf051ad39622f8111ba0e001f4b0f047c602ba8488392ad5f953f3"
+
+[[files]]
 file = "config/BlossomMods/BlossomTpa.json"
 hash = "1fcb351365535b424696a5051c6b5d1135fc83a3623a88f5d17fdbded4c064a0"
 
@@ -952,6 +956,11 @@ metafile = true
 [[files]]
 file = "mods/blossompvp.pw.toml"
 hash = "ed6cc043645c07c39116ef8bba8ecb18beda5a55d15d104bcdee813e2d7b444e"
+metafile = true
+
+[[files]]
+file = "mods/blossomspawn.pw.toml"
+hash = "780b7d7ca27ee8d96f324e4841c7deb6d9eeba2de7653e35ebb3500d5004cbee"
 metafile = true
 
 [[files]]
