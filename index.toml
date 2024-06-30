@@ -110,7 +110,7 @@ hash = "c6a85caaa8862b8f0d6c08f7f280a93f809006a9adeb0fbad146ea152ef60a14"
 
 [[files]]
 file = "config/boring_default_game_rules/config.json"
-hash = "ead0843672f5abdfb2c28625e66b9747226fb2e97afe91bddc9ae9c018844ac6"
+hash = "5369069b86e833cabcf856cd4aa680ac04f1faa094a22c6b5fbcae9e3035321d"
 
 [[files]]
 file = "config/bwncr.toml"
