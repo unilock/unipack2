@@ -985,7 +985,7 @@ metafile = true
 
 [[files]]
 file = "mods/botarium.pw.toml"
-hash = "938dedd6b8da990018f2e4df0bee0c63c676eaef9673d6390e2def255a04bd48"
+hash = "62eee72c3a020fa7e20ddb186d6831b2a8561ab8f1345b0e3bf1d3fa5322ce90"
 metafile = true
 
 [[files]]
@@ -1125,7 +1125,7 @@ metafile = true
 
 [[files]]
 file = "mods/common-network.pw.toml"
-hash = "6901c1a68b19205bc878bfd382945c4f288527cbb15a7300ab3d4cc9b35aff3e"
+hash = "e1b1e7629e390f1c8b0fa6be0bd07fa54abc03522a1659259ca762b8e2f64faa"
 metafile = true
 
 [[files]]
@@ -1750,7 +1750,7 @@ metafile = true
 
 [[files]]
 file = "mods/horseshoes.pw.toml"
-hash = "e7822cdabc94ab8e1f9d1273fc188ae3bb0a7abdb2ba1b5ecf474167769af850"
+hash = "e62be61764472e9f4e79efe1e465b9f57d9f1887cbc90a91bac11ee17f158c35"
 metafile = true
 
 [[files]]
@@ -1835,7 +1835,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-tabs.pw.toml"
-hash = "a59823cb4698d6b0b1c288459c7d007c480cc02ab0689caa3ed10e6f77006ab3"
+hash = "61a66aa91c3ba82d1aa98dcbca4c087252d7c129b3006f22681cc2bc9d4d3cb1"
 metafile = true
 
 [[files]]
@@ -2215,7 +2215,7 @@ metafile = true
 
 [[files]]
 file = "mods/nbt-autocomplete.pw.toml"
-hash = "895902fb8e41ae8c4c29b0de5b2657e853b94f867fd888cc3aafa10fb01b4c92"
+hash = "c9bc9d44f1d0ff93a04ded4a5c04200a473435f75988df49e3ab054a677fb716"
 metafile = true
 
 [[files]]
