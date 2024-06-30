@@ -1414,11 +1414,6 @@ hash = "8df84b4c1caee197b28983c70e849d5df116750755c740a1fdcdc2e311ea2f4a"
 metafile = true
 
 [[files]]
-file = "mods/enhanced-block-entities.pw.toml"
-hash = "665e28f8100d62def756174c4ff6a47ca75baebd8eee52a421a391b8639aad94"
-metafile = true
-
-[[files]]
 file = "mods/enhanced-workbenches.pw.toml"
 hash = "8c96764b59a010804f34e2435d513303a873256b57f26dd7773daa8be92ee9d6"
 metafile = true
