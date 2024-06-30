@@ -2639,7 +2639,7 @@ metafile = true
 
 [[files]]
 file = "mods/roguelikedungeons.pw.toml"
-hash = "c7e7b31e79bf6224b0b46502f3b1b2445d68de56c35e5b41ab97250c48f07edc"
+hash = "7ee4d1009fb1bc7fc88b13ee10fe66f8a699ab88a15b41a76d9736ddb62913fc"
 metafile = true
 
 [[files]]
