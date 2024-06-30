@@ -537,6 +537,10 @@ file = "config/wiredredstone/common.json5"
 hash = "eee99c58459afa2d18c6288148da86988fd5507291f6e53a99fa0cd751492cc9"
 
 [[files]]
+file = "config/wstweaks.toml"
+hash = "3486f6e1ff3d9bd729748aec4934aa1fb2005e4e7fee1ba43666f81cf522b9e4"
+
+[[files]]
 file = "config/xaerominimap-common.txt"
 hash = "3207f2641a911313fd2c4104c1a4f82e8153385a4d33ada56bde5bf08ca4f427"
 
@@ -3061,6 +3065,11 @@ metafile = true
 [[files]]
 file = "mods/wired-redstone.pw.toml"
 hash = "6dd13e54fb6fbd88384489e33f846e68db793ed5603dfb9476ac78a4511db406"
+metafile = true
+
+[[files]]
+file = "mods/wither-skeleton-tweaks.pw.toml"
+hash = "0934bec9325efe2a981b7eac7d4df926720e5062b984c7c77b504a2ff1f811fc"
 metafile = true
 
 [[files]]

@@ -1,0 +1,30 @@
+# The chance for a skull shard to drop. 1 = 100%, 0.5 = 50%, etc
+# range: 0.0 - 1.0
+# default: 1.0
+shard_drop_chance = 0.5
+# If skeletons in ALL biomes are converted, instead of just the nether.
+# default: false
+convert_all_biomes = false
+# The chance for skeletons to be converted in all biomes, when enabled. 1 = 100%, 0.5 = 50%, etc
+# range: 0.0 - 1.0
+# default: 0.15
+all_biomes_chance = 0.15
+# If stone swords and other trash are removed from wither skeleton drop tables.
+# default: true
+delete_swords = true
+# If converted skeletons receive bows (Wither Skeletons always shoot flaming arrows).
+# default: true
+give_bows = true
+# [Unsynced] [Requires Restart] The durability of immolation blades.
+# range: 1 - 65536
+# default: 4096
+blades_durability = 4096
+# [Unsynced] [Requires Restart] The attack damage of immolation blades. This is a modifier, so the real value is always 1 higher.
+# range: 1.0 - 4096.0
+# default: 11.0
+blades_attack_damage = 11.0
+# [Unsynced] [Requires Restart] The attack speed of immolation blades. This is a modifier, so the real value is a bit different.
+# range: -4096.0 - 4096.0
+# default: -2.0
+blades_attack_speed = -2.0
+
