@@ -205,6 +205,10 @@ file = "config/effecttimerplus.json"
 hash = "4c2970ca41c2313adb3a51c151d9a394e3b952a459e0779f513ef917e529a772"
 
 [[files]]
+file = "config/elytra-trims.json"
+hash = "c54febee99f46f696a3dd99e6eb8748a7eb0a7df34ba92bd62f7387a78e372d9"
+
+[[files]]
 file = "config/enchancement.json"
 hash = "22fe3904861b435364aa2e0dbb323a9453f8b2f2254436e325e1df5fc81cf420"
 
