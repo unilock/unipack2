@@ -2937,6 +2937,11 @@ hash = "dc45cfa495a12ac9901213dd72bb11f7e0a93d8d31e9c3e77673604600664c6a"
 metafile = true
 
 [[files]]
+file = "mods/too-many-trinkets.pw.toml"
+hash = "681cb23e61af8c1c0584eb53889a2881df0bed6540e0558938b04a42650c2170"
+metafile = true
+
+[[files]]
 file = "mods/tooltip-tool-tips.pw.toml"
 hash = "2712a11d19090ad2fb31660b7b48bb32ea18f09fc39b7ecb2cec109e2cfc2990"
 metafile = true
