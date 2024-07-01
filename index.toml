@@ -719,7 +719,7 @@ metafile = true
 
 [[files]]
 file = "mods/applied-energistics-2.pw.toml"
-hash = "fca19850754fee8232175c994a7d08fac2247f599c1efd84dabd1e09e80d5ac0"
+hash = "812b1635d7b0419444340de54b4dc742ea1742f6a8ba59fd6b22371431404eee"
 metafile = true
 
 [[files]]
@@ -1364,7 +1364,7 @@ metafile = true
 
 [[files]]
 file = "mods/elytra-trims.pw.toml"
-hash = "f9347289aadf66f9f6afe7784228a148af6e9fe631361e9aad6defd82f18d2f9"
+hash = "ba802fb935cd9f5e5123006cfaecc639dd65452edfa8cf6e899bbe93ccc78875"
 metafile = true
 
 [[files]]
@@ -2014,7 +2014,7 @@ metafile = true
 
 [[files]]
 file = "mods/lodestone.pw.toml"
-hash = "e62122711ea3d091d7ffc9d59eca5a8992ef6a5d071446dbc600b20442115b6a"
+hash = "8f542a0ad71e4303a97ebe6d981cb790aac7c3ed8f338f3030836d177e1780d7"
 metafile = true
 
 [[files]]
@@ -2059,7 +2059,7 @@ metafile = true
 
 [[files]]
 file = "mods/malum.pw.toml"
-hash = "ad4140ba1bdd978a0ff7a7dd84d98dcb902ca4f6fdc1911d0987bdaba85f6a5b"
+hash = "3c4e9753ce2136a54d1e863a6ab807cf85df53c01cae9c0194b981122b9f8045"
 metafile = true
 
 [[files]]
@@ -2899,7 +2899,7 @@ metafile = true
 
 [[files]]
 file = "mods/thaumon.pw.toml"
-hash = "95219ebea8ba514c0ecad1857a77b5aa7c6641802457d7bfba2e200c1dbce847"
+hash = "6c9195c2a4252c514c46f93de51cb04f2ac4c464f9c9ba28e916de3c170f5532"
 metafile = true
 
 [[files]]
