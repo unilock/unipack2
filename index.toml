@@ -3213,7 +3213,7 @@ hash = "7798882c6e0c6d49df9e35e5e23e757bde316148371ba9abaecbb958b57b1cd4"
 
 [[files]]
 file = "resources/data/bhc/recipes/red_heart_canister.json"
-hash = "239cbd561e1014538f72375367c566dd662fcada88960838cfcf14dedd1e9160"
+hash = "3f5469bd46050a250434ee0cea275eb36d10279db050dc4beaa6aaa5d7ebfffc"
 
 [[files]]
 file = "resources/data/botania/recipes/orechid/adamantite_ore.json"
