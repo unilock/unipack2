@@ -3208,6 +3208,10 @@ file = "resources/data/arcanuscontinuum/advancements/grant_compendium_arcanus.js
 hash = "7798882c6e0c6d49df9e35e5e23e757bde316148371ba9abaecbb958b57b1cd4"
 
 [[files]]
+file = "resources/data/bhc/recipes/red_heart_canister.json"
+hash = "239cbd561e1014538f72375367c566dd662fcada88960838cfcf14dedd1e9160"
+
+[[files]]
 file = "resources/data/botania/recipes/orechid/adamantite_ore.json"
 hash = "56dc816da2b69bdcccd92319b17fe8ed7169d8b2230b4caa2eac848e78209d88"
 
@@ -3446,6 +3450,10 @@ hash = "d1012e2856cde81c1fcd62bdb94c72fd83a628037d3d2cd9372655d7212a938c"
 [[files]]
 file = "resources/data/c/tags/items/raw_cobalt_ores.json"
 hash = "e403033a89e67c627748efdd2d81467289e9fbd57ed0e0f500fd6a9294205786"
+
+[[files]]
+file = "resources/data/c/tags/items/wither_bones.json"
+hash = "2067161621216ab0475d29afcd63f6c560a122179cbb7d9f4107f0ffccc10900"
 
 [[files]]
 file = "resources/data/culturaldelights/loot_tables/blocks/avocado_leaves.json"
