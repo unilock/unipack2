@@ -1048,7 +1048,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "71c482e39fc984195a045bf124b23ed65e4701a1d775af64d4b6f764dfa79879"
+hash = "12ece0547f473690fae5a80ec4a027a6c2a4208d2ce42e1b409a970b50c9e796"
 metafile = true
 
 [[files]]
@@ -1068,7 +1068,7 @@ metafile = true
 
 [[files]]
 file = "mods/chisel-reborn.pw.toml"
-hash = "35aab80ff93f34490db321edaff03f6ce9bfb32688f2d38e0741898f8c1ae506"
+hash = "2d60a3dac1a7914a23887b81437b564e059513fbf8ffe0273f6099110485e4df"
 metafile = true
 
 [[files]]
@@ -1813,7 +1813,7 @@ metafile = true
 
 [[files]]
 file = "mods/indium.pw.toml"
-hash = "523659698dcfb97f79c9971a9c3ce41ba5e654d55b0464d73da01a63cd9a1824"
+hash = "31278d67704a56eb32d93c240e4bfd9822e1ab6047ee14d752953dd0c24dca95"
 metafile = true
 
 [[files]]
@@ -2658,7 +2658,7 @@ metafile = true
 
 [[files]]
 file = "mods/sc-goodies.pw.toml"
-hash = "fff9bdbbaa26873536ba8a63b304f06c982bd0f7fcd7adfd29e3cc657213a544"
+hash = "84c1e187920dc474d06b2731911477943852a4dabdb77cafdcb42ca10b5e8d35"
 metafile = true
 
 [[files]]
@@ -2738,7 +2738,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "c3774af2e5f18da0c4cb00f95421a08bf9f0dda90a4169ce87b021d2f8d0dbce"
+hash = "245530bdbb5c4127a1286f3722778d71e478194a8dcee89388c8fd247b4a57da"
 metafile = true
 
 [[files]]
