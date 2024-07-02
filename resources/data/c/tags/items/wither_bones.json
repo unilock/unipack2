@@ -1,7 +1,12 @@
 {
 	"values": [
-		"bhc:wither_bone",
-		"imbued_gear:wither_bone",
-		"tconstruct:necrotic_bone"
+		{
+			"id": "architects_palette:withered_bone",
+			"required": false
+		},
+		{
+			"id": "imbued_gear:wither_bone",
+			"required": false
+		},
 	]
 }

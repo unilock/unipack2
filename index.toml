@@ -3462,7 +3462,7 @@ hash = "e403033a89e67c627748efdd2d81467289e9fbd57ed0e0f500fd6a9294205786"
 
 [[files]]
 file = "resources/data/c/tags/items/wither_bones.json"
-hash = "2067161621216ab0475d29afcd63f6c560a122179cbb7d9f4107f0ffccc10900"
+hash = "2c802d856f2eaf542d94acd846eeacddbccea890ea328f0a5c027773ab161c9c"
 
 [[files]]
 file = "resources/data/culturaldelights/loot_tables/blocks/avocado_leaves.json"
