@@ -768,7 +768,7 @@ metafile = true
 
 [[files]]
 file = "mods/artsandcrafts.pw.toml"
-hash = "e348dae7d67f96481ea2bb44b43f3c5a4ba298cd2e8fdf538a2352f44fba5e79"
+hash = "f653ea200158520f268b236da824baa90d63631bb6f985534eaba4988cc6fec8"
 metafile = true
 
 [[files]]
@@ -1048,7 +1048,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "12ece0547f473690fae5a80ec4a027a6c2a4208d2ce42e1b409a970b50c9e796"
+hash = "b0096596caa108cc8e5158cb7718d1c27fe1f40e4ba8f6269d9512883d140cfb"
 metafile = true
 
 [[files]]
@@ -1243,7 +1243,7 @@ metafile = true
 
 [[files]]
 file = "mods/cultural-delights-fabric.pw.toml"
-hash = "acb2458f8eaba98425872db2b620f4c0ad7de7d591c0f354f0188a8e3989e93a"
+hash = "2f540ebf2ea2330a7624244537117dca8c0ff0f0b49d8fe4b201691d0b5cb5f7"
 metafile = true
 
 [[files]]
@@ -1388,7 +1388,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "bab76022e812bef2567fa22417d565c18e5ac35dfc7f4e465b82bc66de6eac9d"
+hash = "45681630c9cf80f9d53d78091ad573ded75113cb63a2071d5ff5e6cdeef1358e"
 metafile = true
 
 [[files]]
@@ -1418,7 +1418,7 @@ metafile = true
 
 [[files]]
 file = "mods/ends-delight.pw.toml"
-hash = "8df84b4c1caee197b28983c70e849d5df116750755c740a1fdcdc2e311ea2f4a"
+hash = "4a18f04fe1eb13a6ce485856d3b7762bcda47786378a42235dffbc0dc72239f3"
 metafile = true
 
 [[files]]
@@ -2063,7 +2063,7 @@ metafile = true
 
 [[files]]
 file = "mods/malum.pw.toml"
-hash = "ad4140ba1bdd978a0ff7a7dd84d98dcb902ca4f6fdc1911d0987bdaba85f6a5b"
+hash = "163e9bfa90ef5a994cae73822e320c99ec6dfa7921b9d1db188672c1d4bce1a3"
 metafile = true
 
 [[files]]
