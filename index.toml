@@ -2018,7 +2018,7 @@ metafile = true
 
 [[files]]
 file = "mods/lodestone.pw.toml"
-hash = "8f542a0ad71e4303a97ebe6d981cb790aac7c3ed8f338f3030836d177e1780d7"
+hash = "8f177787fb33729990dbff34062e580fdd9b8dceeb9d6d34e67c2b48393d6274"
 metafile = true
 
 [[files]]
@@ -2213,7 +2213,7 @@ metafile = true
 
 [[files]]
 file = "mods/natures-spirit.pw.toml"
-hash = "4017a2cb3805bc152c576fb2f851a4a086f3081682102025508b45b40636ecf2"
+hash = "cf437bfb45c8e50969c27715b29c97326a6b85f622c996ff721b4226126d7d03"
 metafile = true
 
 [[files]]
