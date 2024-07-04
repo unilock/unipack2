@@ -1468,7 +1468,7 @@ metafile = true
 
 [[files]]
 file = "mods/exposure.pw.toml"
-hash = "095ef2d3e8790ae23d6a209c127c3c7fa2d7e99fa066878ffdff82b66c6c1f9a"
+hash = "0f42e968d9eca29e80aec9f52d3a7d49ffca810c25b899f1f672e718d84705f8"
 metafile = true
 
 [[files]]
@@ -2063,7 +2063,7 @@ metafile = true
 
 [[files]]
 file = "mods/malum.pw.toml"
-hash = "163e9bfa90ef5a994cae73822e320c99ec6dfa7921b9d1db188672c1d4bce1a3"
+hash = "4fd3843c02dc339acd0a3f6348e4c01a4708383ae8a917c7f2a38b9cfdf63561"
 metafile = true
 
 [[files]]
