@@ -425,6 +425,10 @@ file = "config/portalcubed.json"
 hash = "b4e9c80637ce089f1fc68cf7189e5467439032df93cf00586ab8f23b66bdf362"
 
 [[files]]
+file = "config/quarktips.toml"
+hash = "f637661f12209971c158d76e40a40b142501d5107699f996f9d9d275f45d9817"
+
+[[files]]
 file = "config/quilt-loader-overrides.json"
 hash = "ab139390eb16642d6071552174cede0f118d759af189ec2ce70f15ed8d88bc45"
 
