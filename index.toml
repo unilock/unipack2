@@ -1146,6 +1146,11 @@ hash = "d9fb7585b69729746e282391499802e721e425a21a675fabd6f59c76ab6aae43"
 metafile = true
 
 [[files]]
+file = "mods/complex-hex.pw.toml"
+hash = "f1541bdbfd54ed17e03fcb77dace3a57d190eff121045b4e4dad384dbcb26a84"
+metafile = true
+
+[[files]]
 file = "mods/compressed-mod.pw.toml"
 hash = "dd7f29bd999b052f551b8e1cc56c26fd98914c417213195e0b0eefa24f7445c8"
 metafile = true

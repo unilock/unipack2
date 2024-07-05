@@ -1,0 +1,13 @@
+name = "Complex Hex"
+filename = "complexhex-fabric-1.20.1-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/sLUv4r1B/versions/6pev19j2/complexhex-fabric-1.20.1-1.0.0.jar"
+hash-format = "sha1"
+hash = "b480a99bb22d09c3c8527d61e3f04f66407f8575"
+
+[update]
+[update.modrinth]
+mod-id = "sLUv4r1B"
+version = "6pev19j2"
