@@ -1372,7 +1372,7 @@ metafile = true
 
 [[files]]
 file = "mods/elytra-trims.pw.toml"
-hash = "ba802fb935cd9f5e5123006cfaecc639dd65452edfa8cf6e899bbe93ccc78875"
+hash = "9c8bd689857dfbdd105708ff492bf83131067163f4bd0b9d92f6ba4097140706"
 metafile = true
 
 [[files]]
@@ -1972,7 +1972,7 @@ metafile = true
 
 [[files]]
 file = "mods/lets-do-meadow.pw.toml"
-hash = "c9a9ec6e6ad821cc37a84148443196f93ff5834ca29a203917b12167e87a8345"
+hash = "62fbaff64d1dc140a0806001cb4ae15cdff6de9da3d181e09ea4fb74e6c43409"
 metafile = true
 
 [[files]]
@@ -1982,7 +1982,7 @@ metafile = true
 
 [[files]]
 file = "mods/lets-do-vinery.pw.toml"
-hash = "192d7fc697be7f2dbe19857a3cd505ce29ce5aee64ac076148cd15d737250789"
+hash = "fed60afcc4d0745ace20cc7a99c70616d3c06d7ddb8078c0c857580142f668dc"
 metafile = true
 
 [[files]]
