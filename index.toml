@@ -2552,6 +2552,11 @@ hash = "9db1f01e807aa89e0c6a840fc1b1f86e6f542592db46fb21ef777736628676b8"
 metafile = true
 
 [[files]]
+file = "mods/quarktips.pw.toml"
+hash = "11a87dd50a90dd8ce3dbae053ddc9827fe38424955836a8b2d83831f07b1db92"
+metafile = true
+
+[[files]]
 file = "mods/quickbench.pw.toml"
 hash = "abd497360809bbb5d0552f72fbff22c3d455931ea3f68b9fcf4f54c9a39c3c94"
 metafile = true
