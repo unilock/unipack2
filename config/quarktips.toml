@@ -5,4 +5,6 @@ enchantingStacks = ["minecraft:diamond_sword", "minecraft:diamond_pickaxe", "min
 # 	So to display a carrot on a stick on a mending book, for example, you use:
 # 	minecraft:mending=minecraft:carrot_on_a_stick
 enchantingAdditionalStacks = []
+# Screens that should not show the tooltip (bandaid fix)
+enchantingBlacklistedScreens = ["com.unascribed.exco.client.screen.TerminalScreen"]
 

@@ -426,7 +426,7 @@ hash = "b4e9c80637ce089f1fc68cf7189e5467439032df93cf00586ab8f23b66bdf362"
 
 [[files]]
 file = "config/quarktips.toml"
-hash = "f637661f12209971c158d76e40a40b142501d5107699f996f9d9d275f45d9817"
+hash = "1747eac45c7f561cc9a09667bba63e3d669dd363cfd7b477b62e7107cd324524"
 
 [[files]]
 file = "config/quilt-loader-overrides.json"
@@ -2557,7 +2557,7 @@ metafile = true
 
 [[files]]
 file = "mods/quarktips.pw.toml"
-hash = "11a87dd50a90dd8ce3dbae053ddc9827fe38424955836a8b2d83831f07b1db92"
+hash = "14f4e24ef5f66e3853b224a1a046a8068072c054f0aa17a7e1dc21994a1ab820"
 metafile = true
 
 [[files]]
