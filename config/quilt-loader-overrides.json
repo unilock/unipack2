@@ -62,6 +62,21 @@
 			]
 		},
 		{
+			"id": "complexhex",
+			"depends": [
+				{
+					"replace": {
+						"id": "fabric-language-kotlin",
+						"versions": ">=1.10.20+kotlin.1.9.24"
+					},
+					"with": {
+						"id": "fabric-language-kotlin",
+						"versions": ">=1.10.10+kotlin.1.9.10"
+					}
+				}
+			]
+		},
+		{
 			"id": "fzzy_config",
 			"depends": [
 				{
