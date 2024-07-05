@@ -1173,7 +1173,7 @@ metafile = true
 
 [[files]]
 file = "mods/connectivity.pw.toml"
-hash = "fcf0eba22e87809cb09862669571f0b120348a1ea83c0f72c316fa41634231f2"
+hash = "308030498a282075732310b66eecf419baa2217ce88496ad87818ae21b1d2423"
 metafile = true
 
 [[files]]
@@ -2213,7 +2213,7 @@ metafile = true
 
 [[files]]
 file = "mods/natures-spirit.pw.toml"
-hash = "cf437bfb45c8e50969c27715b29c97326a6b85f622c996ff721b4226126d7d03"
+hash = "9b977aed919559f179c9efdbf8a8437c907218bc54dca4c5800604ddb4b9d261"
 metafile = true
 
 [[files]]
