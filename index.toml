@@ -1427,7 +1427,7 @@ metafile = true
 
 [[files]]
 file = "mods/enhanced-workbenches.pw.toml"
-hash = "8c96764b59a010804f34e2435d513303a873256b57f26dd7773daa8be92ee9d6"
+hash = "34de7b482f56b71d35148ca8941c55585966889545f182d6953bbfccdb9cc3d5"
 metafile = true
 
 [[files]]
