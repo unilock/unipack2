@@ -426,7 +426,7 @@ hash = "b4e9c80637ce089f1fc68cf7189e5467439032df93cf00586ab8f23b66bdf362"
 
 [[files]]
 file = "config/quarktips.toml"
-hash = "1747eac45c7f561cc9a09667bba63e3d669dd363cfd7b477b62e7107cd324524"
+hash = "00342b0a74a3b97e9e1608c3e5e3c708fc96a93505f1a19f7c2bb16891892bc8"
 
 [[files]]
 file = "config/quilt-loader-overrides.json"
