@@ -1722,7 +1722,7 @@ metafile = true
 
 [[files]]
 file = "mods/hex-casting.pw.toml"
-hash = "c5752d550637eaa106f74cff78dcf6818c668d8ffade4c0a52a59a9f3476280c"
+hash = "062a57f98309349dad3fb4673d93378debebf7f91f80e8caaa01605a69c41b86"
 metafile = true
 
 [[files]]
@@ -2182,7 +2182,7 @@ metafile = true
 
 [[files]]
 file = "mods/moreiotas.pw.toml"
-hash = "fa7bd77deec787331e36a5de5fd027b32430d812e8edbb4181b792e0dc92e0c9"
+hash = "7d8b125e04461c3b5aa319b786a27afc806bfb8dcfab50504a1371c83627a714"
 metafile = true
 
 [[files]]

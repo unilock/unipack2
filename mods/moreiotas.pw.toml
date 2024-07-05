@@ -1,8 +1,8 @@
 name = "MoreIotas"
-filename = "moreiotas-fabric-1.20.1-0.1.0-4.jar"
+filename = "moreiotas-fabric-1.20.1-0.1.0-5.jar"
 side = "both"
 
 [download]
-url = "https://github.com/Talia-12/MoreIotas/releases/download/0.1.0-4/moreiotas-fabric-1.20.1-0.1.0-4.jar"
+url = "https://github.com/Talia-12/MoreIotas/releases/download/0.1.0-5/moreiotas-fabric-1.20.1-0.1.0-5.jar"
 hash-format = "sha256"
-hash = "f580b94fac3909facf1f6887ecd7d87ada85a6fc2296917b394fa553968c381a"
+hash = "4023ed1fae0d5ed845e72ea5f3c280e26f7fce20df44b569a6610e1b938de9ee"
