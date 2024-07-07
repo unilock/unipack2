@@ -987,7 +987,7 @@ metafile = true
 
 [[files]]
 file = "mods/botania-fabric.pw.toml"
-hash = "6e32619b4003d5a07968eb6d6db730240a5eb0bc40e51daecd9e80c6b9219a7d"
+hash = "f82e0933a9cea62a58073a59af39163e5d3ec72b7382a4ef3cf59e6072d82402"
 metafile = true
 
 [[files]]
