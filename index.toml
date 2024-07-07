@@ -1111,6 +1111,11 @@ hash = "403c99e6b3c7f03bfc1ef8f0a23c79d9929eb42658be02bd0911c36b0174cf5b"
 metafile = true
 
 [[files]]
+file = "mods/clothesline-fabric.pw.toml"
+hash = "63e803b6acefcef2d08aed4eec7acfda928a678a843ccd3fbbb542b759e73597"
+metafile = true
+
+[[files]]
 file = "mods/clumps.pw.toml"
 hash = "e00fc109714e08b5ec2f5d74574eab80c9df8090d33e0d2fdeeeeb93df0c09b1"
 metafile = true
