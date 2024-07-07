@@ -2327,7 +2327,7 @@ metafile = true
 
 [[files]]
 file = "mods/open-parties-and-claims.pw.toml"
-hash = "a8e78756fab40c2ca32794f30aa1c8188e721c463f6c797e1b3b7d972ae0d8b1"
+hash = "3b2ff4dd134e27981ec8ec6effede4dddc43afa35cdfab4b226709f15951b482"
 metafile = true
 
 [[files]]
@@ -2737,7 +2737,7 @@ metafile = true
 
 [[files]]
 file = "mods/smartbrainlib.pw.toml"
-hash = "825261ff462fa259147ff0bea3368cc5d6351aa7cff944112e15a55f6181a572"
+hash = "8c3c84217adda73208b67c6417ea3e93c69dc638b59fe63d73e8e8acc2f76efe"
 metafile = true
 
 [[files]]

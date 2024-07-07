@@ -1,13 +1,13 @@
 name = "SmartBrainLib"
-filename = "SmartBrainLib-fabric-1.20.1-1.14.jar"
+filename = "SmartBrainLib-fabric-1.20.1-1.14.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/PuyPazRT/versions/aLYIaCqo/SmartBrainLib-fabric-1.20.1-1.14.jar"
+url = "https://cdn.modrinth.com/data/PuyPazRT/versions/4r56AcMw/SmartBrainLib-fabric-1.20.1-1.14.1.jar"
 hash-format = "sha1"
-hash = "9d947d3d72210cf9c29066fa6f1e7c1577ebffc0"
+hash = "cd1815fb0ab08807d1623a1ed1fc5a4b7f415362"
 
 [update]
 [update.modrinth]
 mod-id = "PuyPazRT"
-version = "aLYIaCqo"
+version = "4r56AcMw"
