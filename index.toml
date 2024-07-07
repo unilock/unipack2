@@ -1226,6 +1226,11 @@ hash = "252878ad67eb85e89d725478bd36a64ce6f84b247c3ac8a1851f3b4f553f11f4"
 metafile = true
 
 [[files]]
+file = "mods/create-vibrant-vaults.pw.toml"
+hash = "26d172af52659ae9f54ee1880cc57a4b549ab966369c6d62081694f4b9ed5863"
+metafile = true
+
+[[files]]
 file = "mods/critical-shears.pw.toml"
 hash = "f9a10c6bf51d8e416d288e0c7db8f100ba63e339d1e62b22b511679d4585ccfd"
 metafile = true
@@ -2398,6 +2403,11 @@ metafile = true
 [[files]]
 file = "mods/pehkui.pw.toml"
 hash = "9e26bfad609bded0b1ed972a4cb6ed0bd66fdecd352970ffee6b50dd6a81b4fb"
+metafile = true
+
+[[files]]
+file = "mods/perfect-birbs.pw.toml"
+hash = "f4d61685b94ffc36b8cc5c35279c748f12cffb92c06d1939619d6744c663f47a"
 metafile = true
 
 [[files]]
