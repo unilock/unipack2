@@ -1057,7 +1057,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "b0096596caa108cc8e5158cb7718d1c27fe1f40e4ba8f6269d9512883d140cfb"
+hash = "533a91ad1f91c66bb48966b2b2dc217de021bac8c053de51283987bd82ddbebe"
 metafile = true
 
 [[files]]
@@ -2187,7 +2187,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "efaee3263d2816be123c3fa0c9f5962555be09e8a3d628d5eb4862d3cc7cac53"
+hash = "3199aa1324b0f0daba1e1c7943eb056da6f5b1cebcea3d0a3bf1589f46f0bbe0"
 metafile = true
 
 [[files]]
@@ -2757,7 +2757,7 @@ metafile = true
 
 [[files]]
 file = "mods/smartbrainlib.pw.toml"
-hash = "8c3c84217adda73208b67c6417ea3e93c69dc638b59fe63d73e8e8acc2f76efe"
+hash = "30a9c2712f130e1a5fb81b9350fdf72fd9e2bcc7cf0f91388a48f6b71d0fed6d"
 metafile = true
 
 [[files]]
@@ -2832,7 +2832,7 @@ metafile = true
 
 [[files]]
 file = "mods/stackdeobf.pw.toml"
-hash = "f873a549b596170178920aefb8bda3956f3014700af54b36f32a34f373309a57"
+hash = "1338fe3f258a472b58526481cba2bf624d966866f4cde360e466caa5c9d24274"
 metafile = true
 
 [[files]]
