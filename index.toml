@@ -846,6 +846,11 @@ hash = "0796c4a4c654ed73f0be7c23e7d5e33a1c0536ffc410b822a2f18273f69f9388"
 metafile = true
 
 [[files]]
+file = "mods/barbeques-delight.pw.toml"
+hash = "4dfc57422145d6e61151129a81146f94252f33e9425d30524c79501d260013b2"
+metafile = true
+
+[[files]]
 file = "mods/baubley-heart-canisters-fabric.pw.toml"
 hash = "78dd97600284b0752273ff1dc863edd7dcb9e02b587bf09d0252053bb42d244b"
 metafile = true
@@ -3964,6 +3969,11 @@ hash = "92a8f6834c210e64cadb1cb572748ffea22c87782c48e3672958c71cd8120cc4"
 [[files]]
 file = "resources/datapacks/separatedleaves/pack.mcmeta"
 hash = "11e6adba848d7c273604876b37c72ce42163a9989d7f0c60e017ff4574fa6260"
+
+[[files]]
+file = "resources/datapacks/ttcrc.pw.toml"
+hash = "a5efdfe1dc1f1ac3968e31cfed57492cc0040d77e0e94b163fb0b37ddf9f2de8"
+metafile = true
 
 [[files]]
 file = "resources/resourcepacks/Chaotix Apotheotic Tweaks v1.0.zip"

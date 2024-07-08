@@ -1,0 +1,13 @@
+name = "Terrestria, Traverse & Cinderscape Recipe Compat"
+filename = "ttcrc-v0.0.0-1.20.1.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d5cd32758ef905d930327eb2502fcff36b0292d4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5510104
+project-id = 1058991
