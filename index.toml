@@ -672,7 +672,7 @@ metafile = true
 
 [[files]]
 file = "mods/agricraft.pw.toml"
-hash = "036987bbe143142451aa2e6b7b6cb9f3ac817abca0f3c3749caf3ce3c04999f5"
+hash = "cf263d30d45021b779d1607db665aa0293bf5070d0132397da88d2920dfa5324"
 metafile = true
 
 [[files]]
@@ -847,7 +847,7 @@ metafile = true
 
 [[files]]
 file = "mods/barbeques-delight.pw.toml"
-hash = "4dfc57422145d6e61151129a81146f94252f33e9425d30524c79501d260013b2"
+hash = "d8f0d514475744d8ac123f72bf4d032774d088ae154a81916b21db74d4d221dd"
 metafile = true
 
 [[files]]

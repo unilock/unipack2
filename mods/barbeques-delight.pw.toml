@@ -1,13 +1,8 @@
-name = "Barbeque‘s Delight"
+name = "Barbeque's Delight"
 filename = "barbeques-delight-1.0.6.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/c9qdJjaq/versions/hKW5Cg1F/barbeques-delight-1.0.6.jar"
-hash-format = "sha1"
-hash = "c74eeb4ad1721b121732d061e53bb792d96eef76"
-
-[update]
-[update.modrinth]
-mod-id = "c9qdJjaq"
-version = "hKW5Cg1F"
+url = "https://play.fennet.rentals/packwiz/unipack2/manual-jars/both/barbeques-delight-1.0.6.jar"
+hash-format = "sha256"
+hash = "7349e44d9a7e212162c828cbb8d3f6d8de81a587d1761c074081e84dc99208ca"
