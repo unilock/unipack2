@@ -1,13 +1,13 @@
 name = "Baubley Heart Canisters (Fabric)"
-filename = "bhc-1.0.4+1.20.1.jar"
+filename = "bhc-1.0.5+1.20.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "67d43a1e4901434da4ab362d75519853a474c153"
+hash = "3a4280dabdc4334671e4869a9dc69b10589839ee"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5475843
+file-id = 5520031
 project-id = 1030062

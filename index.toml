@@ -682,7 +682,7 @@ metafile = true
 
 [[files]]
 file = "mods/almost-unified.pw.toml"
-hash = "e9830c6939b96f7694dac6a707e145d395a796f1af851d70164e49e2f865e78e"
+hash = "f00be18ade67ea33c5b1e8eb27a151b6a4507e5d01455f33eff5329420db2d98"
 metafile = true
 
 [[files]]
@@ -727,7 +727,7 @@ metafile = true
 
 [[files]]
 file = "mods/applied-energistics-2.pw.toml"
-hash = "812b1635d7b0419444340de54b4dc742ea1742f6a8ba59fd6b22371431404eee"
+hash = "470e63f686d6b9eb90efa947de66cdb59396164ef0ba1361be75771791163238"
 metafile = true
 
 [[files]]
@@ -772,7 +772,7 @@ metafile = true
 
 [[files]]
 file = "mods/artsandcrafts.pw.toml"
-hash = "f653ea200158520f268b236da824baa90d63631bb6f985534eaba4988cc6fec8"
+hash = "9bbaac265057114b7eb84b686b47aaa318fcc7701b42c9b94fcc3b83046ec1d4"
 metafile = true
 
 [[files]]
@@ -852,7 +852,7 @@ metafile = true
 
 [[files]]
 file = "mods/baubley-heart-canisters-fabric.pw.toml"
-hash = "78dd97600284b0752273ff1dc863edd7dcb9e02b587bf09d0252053bb42d244b"
+hash = "bbda87c06389a5358ba421dccd904e5eb4109cbf06cc357295d587af75d07471"
 metafile = true
 
 [[files]]
@@ -997,7 +997,7 @@ metafile = true
 
 [[files]]
 file = "mods/botaniacombat.pw.toml"
-hash = "bd62c08c6b905ea95aa345304c8c90902cffc4b8f520f0c3ce299f6ce638a00d"
+hash = "ab1ac12b8e2bffb1376870736200b1300b6d7f5afc27b0d577f724a065edb00c"
 metafile = true
 
 [[files]]
@@ -1157,7 +1157,7 @@ metafile = true
 
 [[files]]
 file = "mods/complex-hex.pw.toml"
-hash = "f1541bdbfd54ed17e03fcb77dace3a57d190eff121045b4e4dad384dbcb26a84"
+hash = "b560a6c5f2a61454ac5ce58c9f65bae9548545f1fb43f18e870c3cda7f082e55"
 metafile = true
 
 [[files]]
@@ -1197,7 +1197,7 @@ metafile = true
 
 [[files]]
 file = "mods/construction-wand-fabric.pw.toml"
-hash = "d0165348a927978dde787c6d821c3a26ffdf2e57f77f9b4d9cb0aa8f0dbc363b"
+hash = "76fddd8363f8b12dfe787b05d009be912e3a17790efa594d2b8cf74586da1166"
 metafile = true
 
 [[files]]
@@ -1237,7 +1237,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-vibrant-vaults.pw.toml"
-hash = "26d172af52659ae9f54ee1880cc57a4b549ab966369c6d62081694f4b9ed5863"
+hash = "ad923f2bab927ff639052d63cdd4e24a3ed4dbb12d204430fd38e00216a81ec9"
 metafile = true
 
 [[files]]
@@ -1307,7 +1307,7 @@ metafile = true
 
 [[files]]
 file = "mods/delightful-creators-fabric.pw.toml"
-hash = "463b41c5825e272a6250145b9e9ca21c118abb2eba68192811ffe601591241ea"
+hash = "eb20e94739a17ee33b0deb63094b60b4306e3702ad8e4dd3d12c3c36e4cb309e"
 metafile = true
 
 [[files]]
@@ -1367,7 +1367,7 @@ metafile = true
 
 [[files]]
 file = "mods/easy-eula.pw.toml"
-hash = "2150e83cbeecd814d429575024307eb4c45654a7c36647078059f29e02b5a7de"
+hash = "75d08c3e37e6647de04ea8ccc9c017e28797e4ffd8c126afc34de36cae01cb0e"
 metafile = true
 
 [[files]]
@@ -1392,7 +1392,7 @@ metafile = true
 
 [[files]]
 file = "mods/elytra-trims.pw.toml"
-hash = "9c8bd689857dfbdd105708ff492bf83131067163f4bd0b9d92f6ba4097140706"
+hash = "6ec6c05910dd618ebb3da23818331e4430e5326b772336048a3a8662d19c5def"
 metafile = true
 
 [[files]]
@@ -1582,7 +1582,7 @@ metafile = true
 
 [[files]]
 file = "mods/fsit.pw.toml"
-hash = "52371601504121c5d3257ce0211a5d0c1f73bca07f114288b7373edd8898491d"
+hash = "206482e14dfc1679d7938696ebd6d43c96ee1f23e1d38ef515e0d000eca167b9"
 metafile = true
 
 [[files]]
@@ -1722,7 +1722,7 @@ metafile = true
 
 [[files]]
 file = "mods/hephaestus.pw.toml"
-hash = "d9a21276de16a0e50c83cc730e24e2794a6393b238cf22ca96753d118525bd74"
+hash = "a956c6e7dea778d088b0059ba7019c139b9477d80bab38a22fa00e4b984a94af"
 metafile = true
 
 [[files]]
@@ -1792,7 +1792,7 @@ metafile = true
 
 [[files]]
 file = "mods/icarus.pw.toml"
-hash = "c752c4f2e3f7f1f8487cf50c90e30dd9de7487b6e01dc5ddb325e74ba8c74280"
+hash = "1e44157fec3994990cb0856170e686d8e86783de66c005bb12a79e1b0b488a76"
 metafile = true
 
 [[files]]
@@ -1877,7 +1877,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "677ead110db05c927cdb9acd6d23bb059c18dc1b79f97b5711a7b03adaf88ca2"
+hash = "9432a97052d9913d959559da0959174a3d58073cb4d8267d643fba39fe94eb0a"
 metafile = true
 
 [[files]]
@@ -1962,7 +1962,7 @@ metafile = true
 
 [[files]]
 file = "mods/lets-do-bakery.pw.toml"
-hash = "b1239d2df41ababa1af496d85d2488a3421cdfc9fd511673d347d87160942038"
+hash = "33182d07954f76689044d0be27c0bce753b1a0a85f680e060ba313f08bed1395"
 metafile = true
 
 [[files]]
@@ -2042,7 +2042,7 @@ metafile = true
 
 [[files]]
 file = "mods/lodestone.pw.toml"
-hash = "8f177787fb33729990dbff34062e580fdd9b8dceeb9d6d34e67c2b48393d6274"
+hash = "53655f947f58eedd01de55b5d5795d9b9458c1566aeeb59b5e3a4bc8f5684913"
 metafile = true
 
 [[files]]
@@ -2242,7 +2242,7 @@ metafile = true
 
 [[files]]
 file = "mods/nbt-autocomplete.pw.toml"
-hash = "c9bc9d44f1d0ff93a04ded4a5c04200a473435f75988df49e3ab054a677fb716"
+hash = "e60864660e2a983fe643a45b2b5f6c213032b027d0ab25e0f41769def4813dc0"
 metafile = true
 
 [[files]]
@@ -2252,7 +2252,7 @@ metafile = true
 
 [[files]]
 file = "mods/neepmeat.pw.toml"
-hash = "24720d8fd339fb9185441f70a29d1a6cb5b040e2a3219e387407906b769b43cb"
+hash = "7eff9c5d3fb84206e6ef0785407995160a5181b5023cf42b6c61a4712b94f4d2"
 metafile = true
 
 [[files]]
@@ -2417,7 +2417,7 @@ metafile = true
 
 [[files]]
 file = "mods/perfect-birbs.pw.toml"
-hash = "f4d61685b94ffc36b8cc5c35279c748f12cffb92c06d1939619d6744c663f47a"
+hash = "23d00998afb2eb62ad65b3d6e52d9b9f37067353fa7d73d7ef58d716cfbe7de5"
 metafile = true
 
 [[files]]
@@ -2577,7 +2577,7 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "9db1f01e807aa89e0c6a840fc1b1f86e6f542592db46fb21ef777736628676b8"
+hash = "8e4e293525f9eb65c4a3db7044e9fa26721f75010b612d2ac15673f050e64d98"
 metafile = true
 
 [[files]]
@@ -2652,7 +2652,7 @@ metafile = true
 
 [[files]]
 file = "mods/respite-creators-fabric.pw.toml"
-hash = "3b965df2088aeee820b257b07107da73c1ab92a59b91667aed59ab5f542381e4"
+hash = "e07c8b7bccbd34148a4a9052f37c9e3a802c709d33109e0fe002684013963a79"
 metafile = true
 
 [[files]]
@@ -2767,7 +2767,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-shadowy-path-blocks.pw.toml"
-hash = "71164245f9e06a916689d4683bd15dec40effbb1a748e353318c243bbee4924e"
+hash = "5c69ebc94dea5c38f397990c14e0def4732c2fab19625f5e9a8e92a845d858a9"
 metafile = true
 
 [[files]]
