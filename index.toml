@@ -1387,7 +1387,7 @@ metafile = true
 
 [[files]]
 file = "mods/elytra-slot.pw.toml"
-hash = "da87b8a7b86c539306e4830e8fce278d5f2eb2477b12c476057a70441f946ef5"
+hash = "f431bc85a59a23d0df6dffc688216bf3b9f09efc262972fae77b4c58b677fe3d"
 metafile = true
 
 [[files]]
@@ -1582,7 +1582,7 @@ metafile = true
 
 [[files]]
 file = "mods/fsit.pw.toml"
-hash = "206482e14dfc1679d7938696ebd6d43c96ee1f23e1d38ef515e0d000eca167b9"
+hash = "66530bb1002e48bf8ee684e767d436dcbd7f7670099e0b28c94df82516c641ae"
 metafile = true
 
 [[files]]
@@ -2187,7 +2187,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "3199aa1324b0f0daba1e1c7943eb056da6f5b1cebcea3d0a3bf1589f46f0bbe0"
+hash = "57c10cd49d77f76c5389a4c869827416afe259f173bf0bf9d66df9dece7d0ae0"
 metafile = true
 
 [[files]]
