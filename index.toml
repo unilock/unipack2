@@ -1392,7 +1392,7 @@ metafile = true
 
 [[files]]
 file = "mods/elytra-trims.pw.toml"
-hash = "6ec6c05910dd618ebb3da23818331e4430e5326b772336048a3a8662d19c5def"
+hash = "6bdbb7f91051ec0cf3f105585be12ba65f26f2c6d779d8d369d9a77753ae1754"
 metafile = true
 
 [[files]]
@@ -1482,12 +1482,12 @@ metafile = true
 
 [[files]]
 file = "mods/exposure-catalog.pw.toml"
-hash = "480f2f55a0b13f618b855b520cf4a3240f2bc4be5a27995bfa9badcff33dbbf4"
+hash = "d89cb9776cc4683facd411a506cb321d3b3c0457ae8c77eb6c71b71ba0efd53d"
 metafile = true
 
 [[files]]
 file = "mods/exposure.pw.toml"
-hash = "0f42e968d9eca29e80aec9f52d3a7d49ffca810c25b899f1f672e718d84705f8"
+hash = "223d537ef3f3e40cc669ed4a6867680c9ed3560531b7bd42ff0e4db911a0c821"
 metafile = true
 
 [[files]]
@@ -1877,7 +1877,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "9432a97052d9913d959559da0959174a3d58073cb4d8267d643fba39fe94eb0a"
+hash = "db674606fde49b1fcdb6d338cacb5186162d402fa58bab4a71a93091428656a5"
 metafile = true
 
 [[files]]
@@ -2042,7 +2042,7 @@ metafile = true
 
 [[files]]
 file = "mods/lodestone.pw.toml"
-hash = "53655f947f58eedd01de55b5d5795d9b9458c1566aeeb59b5e3a4bc8f5684913"
+hash = "5d9a010a5ea8bb36d15aad574c6196066ec48d8aff1169cfccd9f978eed52b31"
 metafile = true
 
 [[files]]
@@ -2187,7 +2187,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "57c10cd49d77f76c5389a4c869827416afe259f173bf0bf9d66df9dece7d0ae0"
+hash = "f4af7a3d1fc3f4038805b3ba41bd8b785aacfe0af6dbbf0c356b077fb3f14930"
 metafile = true
 
 [[files]]
@@ -2342,7 +2342,7 @@ metafile = true
 
 [[files]]
 file = "mods/open-parties-and-claims.pw.toml"
-hash = "3b2ff4dd134e27981ec8ec6effede4dddc43afa35cdfab4b226709f15951b482"
+hash = "f2078c17a23e1fdb39a871822401b60436d3638dcf0db4a3dcea69ec9d9e43dc"
 metafile = true
 
 [[files]]

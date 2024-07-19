@@ -1,13 +1,13 @@
 name = "Exposure"
-filename = "exposure-1.20.1-1.7.2-fabric.jar"
+filename = "exposure-1.20.1-1.7.3-fabric.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "4f98ca6b421c8e9efacabd431674b91779fab75e"
+hash = "975dc0a2f2c9c0c31084c2bc6a02b092302d6ab7"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5500002
+file-id = 5545254
 project-id = 871755
