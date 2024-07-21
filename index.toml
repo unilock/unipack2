@@ -2726,11 +2726,6 @@ hash = "9490f8bc0ec2bf5e003acc03afabc140116cdc58c37090f6e7026e3023968b62"
 metafile = true
 
 [[files]]
-file = "mods/shulkerboxtooltip.pw.toml"
-hash = "db5a1c7f46a9e397a88fb49ed9856ead85dc22b40611b614b71d1fe15e09c770"
-metafile = true
-
-[[files]]
 file = "mods/shutup.pw.toml"
 hash = "7f219a468d59019e5d5b02c021a27a0a661ecf1d9926ef3e34fd0386743bc37d"
 metafile = true
