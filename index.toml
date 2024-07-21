@@ -501,6 +501,10 @@ file = "config/styledplayerlist/styles/default.json"
 hash = "ee7cfed4b302fffab83af2fe1fe2704be35bb1463c1da1929c3663ed8529bf25"
 
 [[files]]
+file = "config/surveyor.toml"
+hash = "fb468843621ed96cbf822255354204691a9e659954892030508503e5272b8a48"
+
+[[files]]
 file = "config/tconstruct-common.toml"
 hash = "17d88f0f1fbb67f125015a0a8963dfb4870183ed321ffd0a878846063f452e7d"
 
@@ -547,26 +551,6 @@ hash = "eee99c58459afa2d18c6288148da86988fd5507291f6e53a99fa0cd751492cc9"
 [[files]]
 file = "config/wstweaks.toml"
 hash = "3486f6e1ff3d9bd729748aec4934aa1fb2005e4e7fee1ba43666f81cf522b9e4"
-
-[[files]]
-file = "config/xaerominimap-common.txt"
-hash = "3207f2641a911313fd2c4104c1a4f82e8153385a4d33ada56bde5bf08ca4f427"
-
-[[files]]
-file = "config/xaerominimap.txt"
-hash = "57a0d16be5acbb50670f52a9988bad658557419d4871028b60e538ed877d95ba"
-
-[[files]]
-file = "config/xaerominimap_entities.json"
-hash = "de10f2b40ac5fc0d790e6c65fca967916ff33248a04816c8a5bf88b9a44463dd"
-
-[[files]]
-file = "config/xaeroworldmap-common.txt"
-hash = "10ba22dca29b33ace769afd33c752cf1e8217d9e112b4a6ced7fef2c93e46632"
-
-[[files]]
-file = "config/xaeroworldmap.txt"
-hash = "12e3d740cd237368a7663322ed89e501cd6149128b558dfe11ab8a0bfa7e3f3a"
 
 [[files]]
 file = "config/yigd.json"
@@ -1766,6 +1750,11 @@ hash = "4565234eea76d39c35deb2945b2b081b7a5cbe4b2cbcbfb1295f4e2c69ae793c"
 metafile = true
 
 [[files]]
+file = "mods/hoofprint.pw.toml"
+hash = "94382c4fd3fcdda343a9076595746adc4b24e458fa911ee27168ae4462fd5b6b"
+metafile = true
+
+[[files]]
 file = "mods/horse-stonks.pw.toml"
 hash = "c163df2a24d23f278ee8591b83bcca71215c3597495b058c75084f5e5d2ca535"
 metafile = true
@@ -2886,6 +2875,11 @@ hash = "1a8631c458bae95073653ed03fc97683c912b0c19ea2e424e7b1ae2b6821ab63"
 metafile = true
 
 [[files]]
+file = "mods/surveyor.pw.toml"
+hash = "fa835fec4717efc505c3fa78803e8446991efbd3693fcbdc85be0c889c6af52b"
+metafile = true
+
+[[files]]
 file = "mods/sushi-bar.pw.toml"
 hash = "d818d0a11d1837477c4fb5f3e3dc7cf24a7152ad7796b8718d142fb0a0bcb0c7"
 metafile = true
@@ -3133,16 +3127,6 @@ metafile = true
 [[files]]
 file = "mods/wyd.pw.toml"
 hash = "73a8bd0d5aebfc2a7884833806b1f2814c7e53fbe87aea03a658a8022dd6b6ef"
-metafile = true
-
-[[files]]
-file = "mods/xaeros-minimap.pw.toml"
-hash = "2a08a399b364bc64bc2abb848cce938c1b87d0534a17fcb8a87ba80dbec7304d"
-metafile = true
-
-[[files]]
-file = "mods/xaeros-world-map.pw.toml"
-hash = "16499c922a2bf62ecbc740979edb0040f3f2ecab032d005270aabea1a386d321"
 metafile = true
 
 [[files]]
