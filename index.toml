@@ -553,6 +553,14 @@ file = "config/wstweaks.toml"
 hash = "3486f6e1ff3d9bd729748aec4934aa1fb2005e4e7fee1ba43666f81cf522b9e4"
 
 [[files]]
+file = "config/xaeroworldmap-common.txt"
+hash = "2368316a002698f50553c86e9b88507480d795cef442e9243e8e76b7c650398c"
+
+[[files]]
+file = "config/xaeroworldmap.txt"
+hash = "12e3d740cd237368a7663322ed89e501cd6149128b558dfe11ab8a0bfa7e3f3a"
+
+[[files]]
 file = "config/yigd.json"
 hash = "ec9a9fb9ff6d8a40493038787f227a6abed61d971bc9cc7a4419a6f9d8977f50"
 
@@ -3127,6 +3135,11 @@ metafile = true
 [[files]]
 file = "mods/wyd.pw.toml"
 hash = "73a8bd0d5aebfc2a7884833806b1f2814c7e53fbe87aea03a658a8022dd6b6ef"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "16499c922a2bf62ecbc740979edb0040f3f2ecab032d005270aabea1a386d321"
 metafile = true
 
 [[files]]
