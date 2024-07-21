@@ -627,7 +627,7 @@ metafile = true
 
 [[files]]
 file = "mods/ad-astra-giselle-addon.pw.toml"
-hash = "38b0ed2234abf14b64f3fee2453b46368db2cf5143dbca5c54fc0b9632d66160"
+hash = "bd192644afa98b1d7693cb6a0996b52e07595fc6ffe9185068f05622bc6ce526"
 metafile = true
 
 [[files]]
@@ -772,7 +772,7 @@ metafile = true
 
 [[files]]
 file = "mods/artsandcrafts.pw.toml"
-hash = "9bbaac265057114b7eb84b686b47aaa318fcc7701b42c9b94fcc3b83046ec1d4"
+hash = "2a5a3751a55cd3f37488a569a5914a71e7f561cb8faebf975bb4a2a878794d59"
 metafile = true
 
 [[files]]
@@ -1487,7 +1487,7 @@ metafile = true
 
 [[files]]
 file = "mods/exposure.pw.toml"
-hash = "223d537ef3f3e40cc669ed4a6867680c9ed3560531b7bd42ff0e4db911a0c821"
+hash = "3ed01550c8a103dd2e83e3b63bc6eb457655524a727b1eb32ef0a10c16ea2064"
 metafile = true
 
 [[files]]
@@ -1877,7 +1877,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "db674606fde49b1fcdb6d338cacb5186162d402fa58bab4a71a93091428656a5"
+hash = "5825e807a2efc2da915215e7d4d2fa5c8cfd729bcd4f457f60b1f35fb0ca3414"
 metafile = true
 
 [[files]]
@@ -1927,7 +1927,7 @@ metafile = true
 
 [[files]]
 file = "mods/kiwi-fabric.pw.toml"
-hash = "c1111166478d81fd6dca93fcfc52e911521df0a6d24300fa50e719905be42981"
+hash = "75eff4cad67bf52bfda37c654e8d3410f77936417b9384cc6d15d21a6dea569d"
 metafile = true
 
 [[files]]
@@ -2232,7 +2232,7 @@ metafile = true
 
 [[files]]
 file = "mods/natures-delight.pw.toml"
-hash = "4090e1f0f05ab78878f3b1f45e1b112f6028bc526275fd1f80ef560cd213e843"
+hash = "70d68ad3bc68d0fe9eb6b9499502eb9cb9d89b607f4de12a2f08b1c7f1e909db"
 metafile = true
 
 [[files]]
