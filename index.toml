@@ -166,7 +166,7 @@ hash = "43045171386212d5a139e6e530ba1cfe210ed3f5b9fefc6575d2443083b0ee08"
 
 [[files]]
 file = "config/defaultoptions/keybindings.txt"
-hash = "679535e5fb174f77ae420fcbb1402a1d140db3af6f290723624f743b851e6620"
+hash = "84b85eb3bd9b0666308d2b3faab7d722764f8f058d50a5f0e64427e6b949db71"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
@@ -3204,7 +3204,7 @@ metafile = true
 
 [[files]]
 file = "options.amecsapi.txt"
-hash = "b54ecfe75b87312fede8f99e0b5a472160aab8a79e59d97f62d590828267c0d8"
+hash = "63154305042f0a48cfdaf843359682a924f21fb9227182639781455f1edd374b"
 
 [[files]]
 file = "resources/assets/hotm/lang/en_us.json"
