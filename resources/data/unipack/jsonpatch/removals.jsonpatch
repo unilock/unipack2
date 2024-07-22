@@ -33,7 +33,10 @@ val removals = [
 	"sc-goodies:recipes/iron_diamond_chest_upgrade.json",
 	"sc-goodies:recipes/iron_gold_chest_upgrade.json",
 	"sc-goodies:recipes/modify_ender_storage.json",
-	"sc-goodies:recipes/vanilla_iron_chest_upgrade.json"
+	"sc-goodies:recipes/vanilla_iron_chest_upgrade.json",
+
+	"create_dd:recipes/crafting/diamond_shard_compacting",
+	"create_dd:recipes/crafting/diamond_shard_from_decompacting",
 ];
 
 foreach (i in removals) {
