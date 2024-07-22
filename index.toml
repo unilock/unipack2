@@ -2423,6 +2423,11 @@ hash = "7ab75ac7228b4462d6899a5a0e5f04a30169fe70e945bd048ddbc917e77d07f0"
 metafile = true
 
 [[files]]
+file = "mods/picohud.pw.toml"
+hash = "e13b2c9e64543a6832bc00f3d16e7fcd6a21db7a017c229aae13fafddde34028"
+metafile = true
+
+[[files]]
 file = "mods/piercingpaxels.pw.toml"
 hash = "0ddbfb3c0a0dec61c63d1e4e76f42832838630035dc546da2e3ea65fc36f5a04"
 metafile = true
