@@ -1413,6 +1413,11 @@ hash = "9f96f04bd600c82c88e4d9762f35fc53af3bdd34a9062c8ada736ba3a3971635"
 metafile = true
 
 [[files]]
+file = "mods/emiffect-status-effects-emi-plugin.pw.toml"
+hash = "1cafd31169228e1888380d040b806baf1bb1e0b973d46c7b22b1b1e78db57e41"
+metafile = true
+
+[[files]]
 file = "mods/enchancement.pw.toml"
 hash = "4091cbd06fc8806b90a28a1e841b7d43620bcbc47395383d78dd0ac37fa8f175"
 metafile = true
@@ -1890,11 +1895,6 @@ metafile = true
 [[files]]
 file = "mods/jukeboxfix.pw.toml"
 hash = "1d009a41e3ddf2cc5b6af4f4083ef07bb8805377d4f65fec6e11e59e93e8372d"
-metafile = true
-
-[[files]]
-file = "mods/just-enough-effect-descriptions-jeed.pw.toml"
-hash = "398a3e80aa324646719a7d1ff4cf7cf18b7abf5d7653b9fea2fa8bcb9ec08a03"
 metafile = true
 
 [[files]]
