@@ -58,7 +58,7 @@ hash = "f56c756a363687175b92871ae9cf2b5da333e8f5c629ff05aea9d2c1bf9a6847"
 
 [[files]]
 file = "config/almostunified/unify.json"
-hash = "462fa029f8dd260545bf4c13a9dfc2edcbe0287c61fae3ad9fc4b1329c6803ce"
+hash = "e91a6d2cae72caab67aeb835b4c5ef21fe707e0f85b119fdd5da400413568301"
 
 [[files]]
 file = "config/amethyst_imbuement/enchantments_config.toml"
@@ -3482,6 +3482,10 @@ hash = "e4cb29ff538fa2f7325c665abe543996188124d0b71a0168db46bbbebf60357f"
 [[files]]
 file = "resources/data/c/tags/items/hidden_from_recipe_viewers.json"
 hash = "aaf333b6b638ea43b388d0c9fbc8601de1e1736de5f5de957e6c2e46e64a279f"
+
+[[files]]
+file = "resources/data/c/tags/items/iron_dusts.json"
+hash = "11e2e19c897ae8a92ba2e635312a038039fb568dd30b60d360471771c61e8173"
 
 [[files]]
 file = "resources/data/c/tags/items/leather_storage_blocks.json"
