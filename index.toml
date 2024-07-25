@@ -989,7 +989,7 @@ metafile = true
 
 [[files]]
 file = "mods/botaniacombat.pw.toml"
-hash = "ab1ac12b8e2bffb1376870736200b1300b6d7f5afc27b0d577f724a065edb00c"
+hash = "e844f35f7e68e999cee758bb4be979b1b742a011036bb6915330f8dee1f77dcc"
 metafile = true
 
 [[files]]
@@ -1379,7 +1379,7 @@ metafile = true
 
 [[files]]
 file = "mods/elytra-slot.pw.toml"
-hash = "f431bc85a59a23d0df6dffc688216bf3b9f09efc262972fae77b4c58b677fe3d"
+hash = "d20a26e75e5d62f2f19afaa45904863070a9a5d7582b5fe95abbb445317847ef"
 metafile = true
 
 [[files]]
@@ -1479,7 +1479,7 @@ metafile = true
 
 [[files]]
 file = "mods/exposure-catalog.pw.toml"
-hash = "d89cb9776cc4683facd411a506cb321d3b3c0457ae8c77eb6c71b71ba0efd53d"
+hash = "bf03fe68da518f6a31f58e64c269e3f4314741db27a9deb00865b58cbb239ad4"
 metafile = true
 
 [[files]]
@@ -1754,7 +1754,7 @@ metafile = true
 
 [[files]]
 file = "mods/hibernal-herbs.pw.toml"
-hash = "e585eb88a1ca2e2a21a5007efb603552a3e9ebffeaf3b591948e2e6c9c883f45"
+hash = "c6f2e6a618f7c7b170dfd1c29a04f3a4d13a4bfa1540562e5469ae07dae0444a"
 metafile = true
 
 [[files]]
@@ -1879,7 +1879,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "5825e807a2efc2da915215e7d4d2fa5c8cfd729bcd4f457f60b1f35fb0ca3414"
+hash = "915e0485510fc1af2d4224dcdc16a06dd399cd08a553e738a41eb469b02d28dd"
 metafile = true
 
 [[files]]
@@ -1959,7 +1959,7 @@ metafile = true
 
 [[files]]
 file = "mods/lets-do-bakery.pw.toml"
-hash = "33182d07954f76689044d0be27c0bce753b1a0a85f680e060ba313f08bed1395"
+hash = "473d589f9f29d43536c040c1364ee26efa3f263a84017dfbbd9fc6c49d2e7e4e"
 metafile = true
 
 [[files]]
@@ -2179,7 +2179,7 @@ metafile = true
 
 [[files]]
 file = "mods/modern-industrialization.pw.toml"
-hash = "212f9397692e057f2819ae2a1193a0e8b90901abd7c6302a681bc5d5b29f6860"
+hash = "5799cd71cf1a52e3582afb7d74dce3f5a618653346102153b15df870ab0cb123"
 metafile = true
 
 [[files]]
@@ -2239,7 +2239,7 @@ metafile = true
 
 [[files]]
 file = "mods/nbt-autocomplete.pw.toml"
-hash = "e60864660e2a983fe643a45b2b5f6c213032b027d0ab25e0f41769def4813dc0"
+hash = "517355c7f5460462dba4ad74726ff9256a246f4967f61436cf938b453225c775"
 metafile = true
 
 [[files]]
@@ -2339,7 +2339,7 @@ metafile = true
 
 [[files]]
 file = "mods/open-parties-and-claims.pw.toml"
-hash = "f2078c17a23e1fdb39a871822401b60436d3638dcf0db4a3dcea69ec9d9e43dc"
+hash = "7e987a1cd98c2b5b26d11ded0cfe3c9d8270654cfe2cef4dae594189a149f403"
 metafile = true
 
 [[files]]
@@ -2999,7 +2999,7 @@ metafile = true
 
 [[files]]
 file = "mods/traverse.pw.toml"
-hash = "ab7e965d70636b5f3319e09315b877f6067106e5226128c757428660527f88ce"
+hash = "cf31e490bd0b38cb27dd2094940ff41fbdd71c1b2c97c3837029e292a5c672d8"
 metafile = true
 
 [[files]]
