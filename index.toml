@@ -2804,7 +2804,7 @@ metafile = true
 
 [[files]]
 file = "mods/spectre.pw.toml"
-hash = "95d1feeb7450abcc18b6929a5032b60919e298ef96979a044a911a8e8afd93d0"
+hash = "45d1a959093d397add17cbbf786e9161d47e4e620caf59e1bd23fe51dba0c03e"
 metafile = true
 
 [[files]]

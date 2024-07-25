@@ -3,11 +3,6 @@ filename = "spectre-1.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/KiRlULA1/versions/zump3S8O/spectre-1.1.jar"
-hash-format = "sha1"
-hash = "45b8c439a23f38fd4704cb3ed3b4e29751d843c8"
-
-[update]
-[update.modrinth]
-mod-id = "KiRlULA1"
-version = "zump3S8O"
+url = "https://play.fennet.rentals/packwiz/unipack2/manual-jars/both/spectre-1.1.jar"
+hash-format = "sha256"
+hash = "31d4c9d8884b8a080e5f893818f17994cf1cc197f7143a707867a4c4d6e6e61e"
