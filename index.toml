@@ -759,7 +759,7 @@ metafile = true
 
 [[files]]
 file = "mods/artsandcrafts-compatibility.pw.toml"
-hash = "6c02a007248ffe73828a55f2cbea1b710d69e1f7106797f006800d34e8b220fc"
+hash = "ccdb9b745c81b687a6fd9019c3bd2a574e91fc30bb7a9e243719811aec3d107a"
 metafile = true
 
 [[files]]
@@ -1434,7 +1434,7 @@ metafile = true
 
 [[files]]
 file = "mods/ends-delight.pw.toml"
-hash = "4a18f04fe1eb13a6ce485856d3b7762bcda47786378a42235dffbc0dc72239f3"
+hash = "3f42fe078d9e10e970a2aa82d24ece01e11c8e2ccc38cea31d1773decabbbff0"
 metafile = true
 
 [[files]]
@@ -1484,7 +1484,7 @@ metafile = true
 
 [[files]]
 file = "mods/exposure.pw.toml"
-hash = "3ed01550c8a103dd2e83e3b63bc6eb457655524a727b1eb32ef0a10c16ea2064"
+hash = "3c529502ac3e20300ea3b9639883f38c6f42e7faad346cb07894fb5aef5c14ad"
 metafile = true
 
 [[files]]
@@ -1524,7 +1524,7 @@ metafile = true
 
 [[files]]
 file = "mods/farmers-delight-refabricated.pw.toml"
-hash = "3b86de705a9329aac3d5e44b74cfbfc40667dfad73da42dabcea55391c33f7c2"
+hash = "487778c20e2dcdd8ed076b39a716572a3cc8b561779bd24127656c799202fac0"
 metafile = true
 
 [[files]]
@@ -1879,7 +1879,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "915e0485510fc1af2d4224dcdc16a06dd399cd08a553e738a41eb469b02d28dd"
+hash = "ac7240587c4663aee2b82b571ca675aa9e786ad7862404951efbc7b448830658"
 metafile = true
 
 [[files]]
@@ -1959,7 +1959,7 @@ metafile = true
 
 [[files]]
 file = "mods/lets-do-bakery.pw.toml"
-hash = "473d589f9f29d43536c040c1364ee26efa3f263a84017dfbbd9fc6c49d2e7e4e"
+hash = "ba57633bbcc0325184e6712da6116bbc4887e7bd8d8a85df00dde697aa4dbaf0"
 metafile = true
 
 [[files]]
@@ -1989,7 +1989,7 @@ metafile = true
 
 [[files]]
 file = "mods/lets-do-meadow.pw.toml"
-hash = "62fbaff64d1dc140a0806001cb4ae15cdff6de9da3d181e09ea4fb74e6c43409"
+hash = "41063560a0aecce3a31c8da6d4a51387fab5f15c06295c50788ffe72722996e6"
 metafile = true
 
 [[files]]
@@ -1999,7 +1999,7 @@ metafile = true
 
 [[files]]
 file = "mods/lets-do-vinery.pw.toml"
-hash = "fed60afcc4d0745ace20cc7a99c70616d3c06d7ddb8078c0c857580142f668dc"
+hash = "d7dfc5a50a9fb5e981338ef32879ca7b631fed5592da64c51c6d33b1bee6aee2"
 metafile = true
 
 [[files]]
@@ -2249,7 +2249,7 @@ metafile = true
 
 [[files]]
 file = "mods/neepmeat.pw.toml"
-hash = "7eff9c5d3fb84206e6ef0785407995160a5181b5023cf42b6c61a4712b94f4d2"
+hash = "db44f7f62ef4e271e688d9fa469a71716bf3cca2f6ca7e7b3ae4348153d9efce"
 metafile = true
 
 [[files]]
