@@ -1,13 +1,13 @@
 name = "Applied Energistics 2"
-filename = "appliedenergistics2-fabric-15.2.9.jar"
+filename = "appliedenergistics2-fabric-15.2.11.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "de1bb69a97c688ba738586278c0e25c03ad8e399"
+hash = "0e507e9c2aae5e7ffd2fa4b37f435975aa0e7315"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5525510
+file-id = 5570771
 project-id = 223794
