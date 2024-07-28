@@ -2038,6 +2038,11 @@ hash = "c239c951796882b9c93e649a0dba4f2d95804441faaed707b686381b7a5c67da"
 metafile = true
 
 [[files]]
+file = "mods/lmft.pw.toml"
+hash = "662512cd3986e81c6cfd75816e9c968f66a2bf60001f82cb27a68c9ef5919c90"
+metafile = true
+
+[[files]]
 file = "mods/lodestone.pw.toml"
 hash = "c12935f8c08284fb1b3d818a022670a77688f63a293fae88dc278641c1ed0e1e"
 metafile = true
