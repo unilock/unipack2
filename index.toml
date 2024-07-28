@@ -2047,6 +2047,11 @@ hash = "662512cd3986e81c6cfd75816e9c968f66a2bf60001f82cb27a68c9ef5919c90"
 metafile = true
 
 [[files]]
+file = "mods/lmpcompat.pw.toml"
+hash = "5b5717ad136c56927b3c5fe8abe0c6cbec902bfcec01628d9746648a17030219"
+metafile = true
+
+[[files]]
 file = "mods/lodestone.pw.toml"
 hash = "c12935f8c08284fb1b3d818a022670a77688f63a293fae88dc278641c1ed0e1e"
 metafile = true

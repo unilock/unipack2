@@ -1,0 +1,15 @@
+name = "LMPCompat"
+filename = "lmp-compat-0.3.0+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Kneelawk/LMPCompat/releases/download/v0.3.0%2B1.20.1/lmp-compat-0.3.0%2B1.20.1.jar"
+hash-format = "sha256"
+hash = "5982fd42d7b9e5bc5caf7dc2bc1541462cf4a51aa9381037dc460e9786ba8332"
+
+[update]
+[update.github]
+branch = "0.2.x-1.19"
+regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
+slug = "Kneelawk/LMPCompat"
+tag = "v0.3.0+1.20.1"
