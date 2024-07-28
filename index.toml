@@ -2048,7 +2048,7 @@ metafile = true
 
 [[files]]
 file = "mods/lmpcompat.pw.toml"
-hash = "5b5717ad136c56927b3c5fe8abe0c6cbec902bfcec01628d9746648a17030219"
+hash = "ba910173fc2ce8883dbf736bfd99f4f5110b2b38e32ef86d9e306af663c6247d"
 metafile = true
 
 [[files]]
