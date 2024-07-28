@@ -333,6 +333,10 @@ file = "config/lightoverlay.properties"
 hash = "c183c29ba63942c7e76c024b5047133065df8995e7d403cbb75a14a6b20cb767"
 
 [[files]]
+file = "config/lmft.json"
+hash = "2a2ee19297afe3fc512f5cbe639349847f3e7a74616f282d24a179a17f4559ed"
+
+[[files]]
 file = "config/logprot.json"
 hash = "cf49427054e2358a97847b682ea99cd6e940349a53d18f079764b97d284c2f8e"
 
