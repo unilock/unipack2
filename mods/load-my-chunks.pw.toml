@@ -1,0 +1,13 @@
+name = "Load My Chunks"
+filename = "loadmychunks-1.0.6-hf2+1.20.1+fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "95def6f5da6970e4e312e1bd6a3df231d4dd38e1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5571173
+project-id = 1024152

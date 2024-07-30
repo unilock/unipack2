@@ -337,6 +337,10 @@ file = "config/lmft.json"
 hash = "2a2ee19297afe3fc512f5cbe639349847f3e7a74616f282d24a179a17f4559ed"
 
 [[files]]
+file = "config/loadmychunks.json"
+hash = "9d5baef0749c9688e6b75de82a6061def965b43da29f7974447116271df38183"
+
+[[files]]
 file = "config/logprot.json"
 hash = "cf49427054e2358a97847b682ea99cd6e940349a53d18f079764b97d284c2f8e"
 
@@ -395,10 +399,6 @@ hash = "914aaf25189c284d9116652e0abf677810538751e063abb10ae9fcbf90164c50"
 [[files]]
 file = "config/ok_zoomer/config.toml"
 hash = "2855b32e7918b6df8f108e9ce759e935c40a147ebbb3a6beb0c2d68bf4bfb06d"
-
-[[files]]
-file = "config/openpartiesandclaims-server.toml"
-hash = "14ed83a7f982c46e9f7565b68ca6d5b0ee37df7fd4f2cf5109ec33e934a5a95a"
 
 [[files]]
 file = "config/options.amecsapi.txt"
@@ -557,14 +557,6 @@ file = "config/wstweaks.toml"
 hash = "3486f6e1ff3d9bd729748aec4934aa1fb2005e4e7fee1ba43666f81cf522b9e4"
 
 [[files]]
-file = "config/xaeroworldmap-common.txt"
-hash = "2368316a002698f50553c86e9b88507480d795cef442e9243e8e76b7c650398c"
-
-[[files]]
-file = "config/xaeroworldmap.txt"
-hash = "12e3d740cd237368a7663322ed89e501cd6149128b558dfe11ab8a0bfa7e3f3a"
-
-[[files]]
 file = "config/yigd.json"
 hash = "ec9a9fb9ff6d8a40493038787f227a6abed61d971bc9cc7a4419a6f9d8977f50"
 
@@ -607,10 +599,6 @@ hash = "60e3e6147976e5eae5d73a81a5afd64dc330f6003d8e3b6fcd9a9af2aa65f0bf"
 [[files]]
 file = "defaultconfigs/emi.css"
 hash = "f87fa13adbf2879af181eebc77f650e3bee87db508a156357a0188f73a3f8c87"
-
-[[files]]
-file = "defaultconfigs/openpartiesandclaims-default-player-config.toml"
-hash = "0d63220256950def521688da5035b9f5ee05a98eeb7fa8afb58f712353e5f63f"
 
 [[files]]
 file = "lambdamap/config.toml"
@@ -2052,6 +2040,11 @@ hash = "ba910173fc2ce8883dbf736bfd99f4f5110b2b38e32ef86d9e306af663c6247d"
 metafile = true
 
 [[files]]
+file = "mods/load-my-chunks.pw.toml"
+hash = "21bb8df66ac5158bf8ae34f2deb1fa2e9be757ce5524d9107dc9cbda4453171a"
+metafile = true
+
+[[files]]
 file = "mods/lodestone.pw.toml"
 hash = "c12935f8c08284fb1b3d818a022670a77688f63a293fae88dc278641c1ed0e1e"
 metafile = true
@@ -2344,16 +2337,6 @@ metafile = true
 [[files]]
 file = "mods/on1chest.pw.toml"
 hash = "ad0dea961f9ed50d8b0a9788de6669e3110c914ca1352a55bd5db37922aaa616"
-metafile = true
-
-[[files]]
-file = "mods/opac-fabric-create-support.pw.toml"
-hash = "695b9f5005afd8b091a887ae44a63b1626cf5a223031682dfe69eac21fec71f9"
-metafile = true
-
-[[files]]
-file = "mods/open-parties-and-claims.pw.toml"
-hash = "7e987a1cd98c2b5b26d11ded0cfe3c9d8270654cfe2cef4dae594189a149f403"
 metafile = true
 
 [[files]]
@@ -3154,11 +3137,6 @@ metafile = true
 [[files]]
 file = "mods/wyd.pw.toml"
 hash = "73a8bd0d5aebfc2a7884833806b1f2814c7e53fbe87aea03a658a8022dd6b6ef"
-metafile = true
-
-[[files]]
-file = "mods/xaeros-world-map.pw.toml"
-hash = "16499c922a2bf62ecbc740979edb0040f3f2ecab032d005270aabea1a386d321"
 metafile = true
 
 [[files]]
