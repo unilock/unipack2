@@ -6,15 +6,6 @@ key_create.keyinfo.toolmenu:key.keyboard.unknown:NONE
 key_dsurround.text.keybind.diagnosticHud:key.keyboard.unknown:NONE
 key_dsurround.text.keybind.individualSoundConfig:key.keyboard.unknown:NONE
 key_dsurround.text.keybind.modConfigurationMenu:key.keyboard.unknown:NONE
-key_gui.xaero_map_zoom_in:key.keyboard.unknown:NONE
-key_gui.xaero_map_zoom_out:key.keyboard.unknown:NONE
-key_gui.xaero_open_map:key.keyboard.m:NONE
-key_gui.xaero_open_settings:key.keyboard.unknown:NONE
-key_gui.xaero_pac_key_open_menu:key.keyboard.period:NONE
-key_gui.xaero_quick_confirm:key.keyboard.unknown:NONE
-key_gui.xaero_toggle_dimension:key.keyboard.unknown:NONE
-key_gui.xaero_toggle_pac_chunk_claims:key.keyboard.unknown:NONE
-key_gui.xaero_toggle_tracked_players:key.keyboard.unknown:NONE
 key_ibeeditor.key.editor:key.keyboard.unknown:NONE
 key_ibeeditor.key.nbt_editor:key.keyboard.unknown:NONE
 key_ibeeditor.key.snbt_editor:key.keyboard.unknown:NONE

@@ -6,15 +6,6 @@ key_modifiers_create.keyinfo.toolmenu:0,0,0
 key_modifiers_dsurround.text.keybind.diagnosticHud:0,0,0
 key_modifiers_dsurround.text.keybind.individualSoundConfig:0,0,0
 key_modifiers_dsurround.text.keybind.modConfigurationMenu:0,0,0
-key_modifiers_gui.xaero_map_zoom_in:0,0,0
-key_modifiers_gui.xaero_map_zoom_out:0,0,0
-key_modifiers_gui.xaero_open_map:0,1,0
-key_modifiers_gui.xaero_open_settings:0,0,0
-key_modifiers_gui.xaero_pac_key_open_menu:0,0,0
-key_modifiers_gui.xaero_quick_confirm:0,0,0
-key_modifiers_gui.xaero_toggle_dimension:0,0,0
-key_modifiers_gui.xaero_toggle_pac_chunk_claims:0,0,0
-key_modifiers_gui.xaero_toggle_tracked_players:0,0,0
 key_modifiers_ibeeditor.key.editor:0,0,0
 key_modifiers_ibeeditor.key.nbt_editor:0,0,0
 key_modifiers_ibeeditor.key.snbt_editor:0,0,0
