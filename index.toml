@@ -623,7 +623,7 @@ metafile = true
 
 [[files]]
 file = "mods/ad-astra-giselle-addon.pw.toml"
-hash = "bd192644afa98b1d7693cb6a0996b52e07595fc6ffe9185068f05622bc6ce526"
+hash = "cf9d930b0c5c8fb336fb9fc928e45fa04cc9b9ccf14c51206986d02f885e3fb6"
 metafile = true
 
 [[files]]
@@ -768,7 +768,7 @@ metafile = true
 
 [[files]]
 file = "mods/artsandcrafts.pw.toml"
-hash = "2a5a3751a55cd3f37488a569a5914a71e7f561cb8faebf975bb4a2a878794d59"
+hash = "263938b75152fe29ddcfb258f9b058d29ffef506587be5f9edb358df75ddb2d8"
 metafile = true
 
 [[files]]
@@ -1053,7 +1053,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "533a91ad1f91c66bb48966b2b2dc217de021bac8c053de51283987bd82ddbebe"
+hash = "d718bd5fe66ceebf489b29829ec5e88f8ce6c3669379f0d115c99fe51508ad86"
 metafile = true
 
 [[files]]
@@ -1148,7 +1148,7 @@ metafile = true
 
 [[files]]
 file = "mods/companion-fabric.pw.toml"
-hash = "d9fb7585b69729746e282391499802e721e425a21a675fabd6f59c76ab6aae43"
+hash = "b928d85d6700a373f06d560e5a0fe73d7926b18b5c8435418a200e8ca6c323f2"
 metafile = true
 
 [[files]]
@@ -1883,7 +1883,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "ac7240587c4663aee2b82b571ca675aa9e786ad7862404951efbc7b448830658"
+hash = "b2ec03631aabc983dc2330de80d1aef66957c01bd2e691b62bc7d6be5edb4195"
 metafile = true
 
 [[files]]
@@ -2098,7 +2098,7 @@ metafile = true
 
 [[files]]
 file = "mods/malum.pw.toml"
-hash = "f5ece800c70e6fa5d6cd9d6dff5bb1641d5d52cbfcf21821f385a383ffbab062"
+hash = "915aafb13515163df3b739f0dcea609f88f7187172b5d14e0db76a96c4c20343"
 metafile = true
 
 [[files]]
@@ -2243,12 +2243,12 @@ metafile = true
 
 [[files]]
 file = "mods/natures-delight.pw.toml"
-hash = "70d68ad3bc68d0fe9eb6b9499502eb9cb9d89b607f4de12a2f08b1c7f1e909db"
+hash = "a12509d0468260734c1753de2f2910ff919445716ff8fe3d3c6d2de8b279ef8a"
 metafile = true
 
 [[files]]
 file = "mods/natures-spirit.pw.toml"
-hash = "9b977aed919559f179c9efdbf8a8437c907218bc54dca4c5800604ddb4b9d261"
+hash = "dcba84be48bd7e640030f1e481f809d8d13f8f663eea31a41a3e9665b79bc605"
 metafile = true
 
 [[files]]
@@ -2383,7 +2383,7 @@ metafile = true
 
 [[files]]
 file = "mods/particle-core.pw.toml"
-hash = "547e6bce531bb300387d2520db758e8d9bf3332e07971abd5c4f30624ea4b7bf"
+hash = "21d9822b4e408bd8df24d07736ed7eb7ccf9848543cea7e84068ba877acb6a12"
 metafile = true
 
 [[files]]
@@ -2903,7 +2903,7 @@ metafile = true
 
 [[files]]
 file = "mods/surveyor.pw.toml"
-hash = "6332179a6bcf6712a9aaa2af2ca4ae08cf924e24bc7c5c78bd5e52b575b42455"
+hash = "bb462544837046e443354debfd8050745656961a43c7a3e02bb41ab7a29684c3"
 metafile = true
 
 [[files]]
