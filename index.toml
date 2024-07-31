@@ -1021,7 +1021,7 @@ metafile = true
 
 [[files]]
 file = "mods/cc-tweaked.pw.toml"
-hash = "0df20ae68221168e9d7c1dd9d078139d15c15d28bb96591409c8aca28ccaeb63"
+hash = "e539a389d2c4a0f44f975fc92ed65c42a99b31c75efd7548d4212af115687fc5"
 metafile = true
 
 [[files]]
@@ -2896,7 +2896,7 @@ metafile = true
 
 [[files]]
 file = "mods/surveyor.pw.toml"
-hash = "bb462544837046e443354debfd8050745656961a43c7a3e02bb41ab7a29684c3"
+hash = "3defc9aa73f6bfc56a82165b234ff834f1aa3e85ae02895ee46343959d63a935"
 metafile = true
 
 [[files]]
