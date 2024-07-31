@@ -1,0 +1,13 @@
+name = "Chunk Loaders"
+filename = "chunkloaders-1.2.8a-fabric-mc1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "74d9d1ff036ce70878beeb443427b34e3c4cf7cc"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4809756
+project-id = 402924

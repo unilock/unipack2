@@ -133,6 +133,10 @@ file = "config/chesttracker.json5"
 hash = "47bed7a9cefc8ff43ad80fde94f71f2960eac04352460051517df44053da7802"
 
 [[files]]
+file = "config/chunkloaders-common.toml"
+hash = "ebd6c759208a0f3412321a9ee98057e9a8e440b53120de7a02ca1e91a1e860e0"
+
+[[files]]
 file = "config/chunky/config.json"
 hash = "6c103db0800e63ba88c2296e42fb8f5e631f70ea17b8c5d77bef0166d0662d96"
 
@@ -335,10 +339,6 @@ hash = "c183c29ba63942c7e76c024b5047133065df8995e7d403cbb75a14a6b20cb767"
 [[files]]
 file = "config/lmft.json"
 hash = "2a2ee19297afe3fc512f5cbe639349847f3e7a74616f282d24a179a17f4559ed"
-
-[[files]]
-file = "config/loadmychunks.json"
-hash = "9d5baef0749c9688e6b75de82a6061def965b43da29f7974447116271df38183"
 
 [[files]]
 file = "config/logprot.json"
@@ -1062,6 +1062,11 @@ metafile = true
 [[files]]
 file = "mods/chisel-reborn.pw.toml"
 hash = "2d60a3dac1a7914a23887b81437b564e059513fbf8ffe0273f6099110485e4df"
+metafile = true
+
+[[files]]
+file = "mods/chunk-loaders.pw.toml"
+hash = "7f84336da8b3fcb21fc1f0cb8a62f3cfa4fe50ea0e90525694ba03055b4a992b"
 metafile = true
 
 [[files]]
@@ -2040,11 +2045,6 @@ hash = "ba910173fc2ce8883dbf736bfd99f4f5110b2b38e32ef86d9e306af663c6247d"
 metafile = true
 
 [[files]]
-file = "mods/load-my-chunks.pw.toml"
-hash = "21bb8df66ac5158bf8ae34f2deb1fa2e9be757ce5524d9107dc9cbda4453171a"
-metafile = true
-
-[[files]]
 file = "mods/lodestone.pw.toml"
 hash = "c12935f8c08284fb1b3d818a022670a77688f63a293fae88dc278641c1ed0e1e"
 metafile = true
@@ -2882,6 +2882,16 @@ metafile = true
 [[files]]
 file = "mods/superb-steeds.pw.toml"
 hash = "1a8631c458bae95073653ed03fc97683c912b0c19ea2e424e7b1ae2b6821ab63"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-config-lib.pw.toml"
+hash = "d8fea7b65f0e5ce3e77bdc748bb114439859956ab74b7b0a10ec5286b5da4889"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-core-lib.pw.toml"
+hash = "4a9b09e2702f231a4d9fe598d23c07f6587df61a67c3689f11c1a7b0c5bb146c"
 metafile = true
 
 [[files]]
