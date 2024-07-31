@@ -2,6 +2,9 @@
 	"replace": false,
 	"values": [
 		"ae2:facade",
+		"chunkloaders:advanced_chunk_loader",
+		"chunkloaders:basic_chunk_loader",
+		"chunkloaders:single_chunk_loader",
 		"coxinhautilities:cardboard_box",
 		"kibe:chunk_loader",
 		"kibe:entangled_bag",

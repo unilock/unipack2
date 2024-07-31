@@ -3483,7 +3483,7 @@ hash = "e4cb29ff538fa2f7325c665abe543996188124d0b71a0168db46bbbebf60357f"
 
 [[files]]
 file = "resources/data/c/tags/items/hidden_from_recipe_viewers.json"
-hash = "aaf333b6b638ea43b388d0c9fbc8601de1e1736de5f5de957e6c2e46e64a279f"
+hash = "31bad95f286dcae6108fe37754e18fdad1c5e475188ee55de281251915b5776a"
 
 [[files]]
 file = "resources/data/c/tags/items/iron_dusts.json"
