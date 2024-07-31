@@ -37,6 +37,18 @@ val removals = [
 
 	"create_dd:recipes/crafting/diamond_shard_compacting.json",
 	"create_dd:recipes/crafting/diamond_shard_from_decompacting.json",
+
+	"chunkloaders:advancements/recipes/misc/advanced_chunk_loader.json",
+	"chunkloaders:advancements/recipes/misc/basic_chunk_loader.json",
+	"chunkloaders:advancements/recipes/misc/single_chunk_loader.json",
+	"chunkloaders:advancements/recipes/misc/single_to_basic_chunk_loader.json",
+	"chunkloaders:advancements/recipes/misc/ultimate_chunk_loader.json",
+
+	"chunkloaders:recipes/advanced_chunk_loader.json",
+	"chunkloaders:recipes/basic_chunk_loader.json",
+	"chunkloaders:recipes/single_chunk_loader.json",
+	"chunkloaders:recipes/single_to_basic_chunk_loader.json",
+	"chunkloaders:recipes/ultimate_chunk_loader.json",
 ];
 
 foreach (i in removals) {

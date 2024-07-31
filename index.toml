@@ -3567,7 +3567,7 @@ hash = "f8df36b03b72cef51fc3ebb1557fb3c618c0d8dfa777af284383b3677f7a8971"
 
 [[files]]
 file = "resources/data/unipack/jsonpatch/removals.jsonpatch"
-hash = "4129ffc45a5d2133e140ea84c95aea7c3c53dd51bdd546a16f6545e4c37b4be3"
+hash = "fee7d1fda7c15a0dd1920c54e9efe888eceefc800ac619cde3236b49a02de71a"
 
 [[files]]
 file = "resources/data/unipack/loot_tables/book.json"
@@ -3592,6 +3592,10 @@ hash = "d52015bf87da20a851339f24e6dba27a155818465f3f461a4a4b14b0a4fd7580"
 [[files]]
 file = "resources/data/unipack/recipes/glass_leggings.json"
 hash = "88990b4f2bbaaf4ad3ed99e9d3c52932f384ac20ed79a32950e498fc1606518f"
+
+[[files]]
+file = "resources/data/unipack/recipes/ultimate_chunk_loader.json"
+hash = "f57a046721efc275f5c1d35d56a12e8ca1e97f5544bfd6d5a8d3c5a6e57bf424"
 
 [[files]]
 file = "resources/data/zenith/enchanting_stats/gaia_pylon.json"
