@@ -1900,11 +1900,6 @@ hash = "aec565d92734e89cff9aae713f93ce8013c0edb9b63546dcb4d960e6cbe74730"
 metafile = true
 
 [[files]]
-file = "mods/kappa.pw.toml"
-hash = "cc1847438b09db5f6b488762dd3f72e26dec084c214290e7ca071252581e02d4"
-metafile = true
-
-[[files]]
 file = "mods/kawaii-dishes.pw.toml"
 hash = "ecd19dce0765e852375ed77bec37dc9c1fe39aad75390237c3161cdb7b870cd2"
 metafile = true
