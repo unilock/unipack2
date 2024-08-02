@@ -3562,7 +3562,7 @@ hash = "f8df36b03b72cef51fc3ebb1557fb3c618c0d8dfa777af284383b3677f7a8971"
 
 [[files]]
 file = "resources/data/unipack/jsonpatch/removals.jsonpatch"
-hash = "fee7d1fda7c15a0dd1920c54e9efe888eceefc800ac619cde3236b49a02de71a"
+hash = "692a1145910186a30f4059993d3363ab63e544ec73721c932b7d9d4ba31357e2"
 
 [[files]]
 file = "resources/data/unipack/loot_tables/book.json"

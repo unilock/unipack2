@@ -49,6 +49,14 @@ val removals = [
 	"chunkloaders:recipes/single_chunk_loader.json",
 	"chunkloaders:recipes/single_to_basic_chunk_loader.json",
 	"chunkloaders:recipes/ultimate_chunk_loader.json",
+
+	"alloy_forgery:recipes/compat/aluminum_ingot_from_ores.json",
+	"alloy_forgery:recipes/compat/titanium_ingot_from_ores.json",
+	"alloy_forgery:recipes/compat/titanium_ingot_from_raw_ores.json",
+	"alloy_forgery:recipes/compat/tungsten_ingot_from_ores.json",
+	"alloy_forgery:recipes/compat/tungsten_ingot_from_raw_ores.json",
+	"alloy_forgery:recipes/titanium_blocks.json",
+	"alloy_forgery:recipes/tungsten_blocks.json",
 ];
 
 foreach (i in removals) {
