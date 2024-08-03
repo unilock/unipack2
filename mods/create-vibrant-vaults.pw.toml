@@ -1,13 +1,13 @@
 name = "Create: Vibrant Vaults"
-filename = "create_vibrant_vaults-0.1.1+1.20.1.jar"
+filename = "create_vibrant_vaults-0.2.0+1.20.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/hddN8ksR/versions/6bEYNajM/create_vibrant_vaults-0.1.1%2B1.20.1.jar"
+url = "https://cdn.modrinth.com/data/hddN8ksR/versions/mZCap8Zj/create_vibrant_vaults-0.2.0%2B1.20.1.jar"
 hash-format = "sha1"
-hash = "c15ccbf0e20c5d89f84a8afc4346da6167e9b537"
+hash = "8e47b8354e6d4a1cd29a609dac754cfb09073089"
 
 [update]
 [update.modrinth]
 mod-id = "hddN8ksR"
-version = "6bEYNajM"
+version = "mZCap8Zj"

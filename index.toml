@@ -711,7 +711,7 @@ metafile = true
 
 [[files]]
 file = "mods/applied-energistics-2.pw.toml"
-hash = "499a2ddac58e4c88981ae3d60b7417920140f06339979857fbba22e67cdba57e"
+hash = "b03884978f6f554b95ac3ffa2bcb1667e36cecf9cdad741925be79a3f7ad5ba5"
 metafile = true
 
 [[files]]
@@ -1226,7 +1226,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-vibrant-vaults.pw.toml"
-hash = "54979e2b51b3615d019c7a4a5f88f620bd5d89d1d40d8c84b36ce2bd31256bde"
+hash = "8f1f5e58f9b44581a284eb1926b6e4dd9f4498a465c14f3d2e0f7e817a9d0869"
 metafile = true
 
 [[files]]
