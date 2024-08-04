@@ -976,7 +976,7 @@ metafile = true
 
 [[files]]
 file = "mods/botania-fabric.pw.toml"
-hash = "f82e0933a9cea62a58073a59af39163e5d3ec72b7382a4ef3cf59e6072d82402"
+hash = "fa64f397145f904df069fbbea1ecd4ad4f047790ec2244df8270789258a02262"
 metafile = true
 
 [[files]]
@@ -2321,7 +2321,7 @@ metafile = true
 
 [[files]]
 file = "mods/ok-zoomer.pw.toml"
-hash = "a3b1ee46568f9b42f75e5f95638da5702a2502bc67af0cc0edad6b5f6c7e418b"
+hash = "278a5b1956417a4f07f0c50b29297e1b088b99b641960c103b72efb501fa1030"
 metafile = true
 
 [[files]]
@@ -2906,7 +2906,7 @@ metafile = true
 
 [[files]]
 file = "mods/tank-storage.pw.toml"
-hash = "50d3cc5b7035bc5ae02e45152ec0a1d99c734dd1ddb777fbbfb79b214969df3f"
+hash = "52bbbce2605062817a8e58b845b2f5be5a4788277f858bb77d8634e087e7b905"
 metafile = true
 
 [[files]]
