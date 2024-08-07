@@ -3241,6 +3241,46 @@ file = "resources/data/apathy/tags/entity_types/bosses.json"
 hash = "22923efccc0bf7f9165992b397b0c05b73b22a79660e5ff2587178811f9d9e1c"
 
 [[files]]
+file = "resources/data/arcanuscontinuum/advancements/arcane/wizard_level_1.json"
+hash = "554ee2ef3b4508bec708ec74d2e652659fb3f19fa2eb1a4a88210c432073fad2"
+
+[[files]]
+file = "resources/data/arcanuscontinuum/advancements/arcane/wizard_level_10.json"
+hash = "df2d484973dcabb49c6c8f940ed18d53702adcd729804568539a851523eeba68"
+
+[[files]]
+file = "resources/data/arcanuscontinuum/advancements/arcane/wizard_level_2.json"
+hash = "d3ed4ad4276e45a5b110c7597d1372a726cc7506db416ffcc69a1d86d67b41c3"
+
+[[files]]
+file = "resources/data/arcanuscontinuum/advancements/arcane/wizard_level_3.json"
+hash = "2ed45491d385d8abeae461f2b047cb980f27010e18dcbdb4638d7c3140e586a5"
+
+[[files]]
+file = "resources/data/arcanuscontinuum/advancements/arcane/wizard_level_4.json"
+hash = "b2ec1ac7eeb163a2d562b49acfdc325853cb361a47069eebfb4380f5d4ec4d7f"
+
+[[files]]
+file = "resources/data/arcanuscontinuum/advancements/arcane/wizard_level_5.json"
+hash = "9e91aac38ed0280312a824aa5c1b1fbd16049f052a46888fd40916c3b5cee25f"
+
+[[files]]
+file = "resources/data/arcanuscontinuum/advancements/arcane/wizard_level_6.json"
+hash = "975d102c750a0d90534a680b42801ee0d9e442a48a3405b19dc28d4ba63a6eb5"
+
+[[files]]
+file = "resources/data/arcanuscontinuum/advancements/arcane/wizard_level_7.json"
+hash = "d86942fe8772dd7c417e61337d04e2318eeadcd6ec6791bca955f94af9f4f95e"
+
+[[files]]
+file = "resources/data/arcanuscontinuum/advancements/arcane/wizard_level_8.json"
+hash = "3a95e3edfef4309027b3b5fb4811a2ba879cb64ce824aa9c80cdd10dc5b8e533"
+
+[[files]]
+file = "resources/data/arcanuscontinuum/advancements/arcane/wizard_level_9.json"
+hash = "881dee95f119747fde2d64199c6afc2b2b189e3b5385f054a97f3f7faf351375"
+
+[[files]]
 file = "resources/data/arcanuscontinuum/advancements/grant_compendium_arcanus.json"
 hash = "7798882c6e0c6d49df9e35e5e23e757bde316148371ba9abaecbb958b57b1cd4"
 

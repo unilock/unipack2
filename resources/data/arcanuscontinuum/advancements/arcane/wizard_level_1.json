@@ -1,0 +1,28 @@
+{
+	"parent": "arcanuscontinuum:arcane/meet_and_greet",
+	"display": {
+		"icon": {
+			"item": "arcanuscontinuum:scroll_of_knowledge"
+		},
+		"title": {
+			"translate": "advancements.arcanuscontinuum.wizard_level_1.title"
+		},
+		"description": {
+			"translate": "advancements.arcanuscontinuum.wizard_level_1.description"
+		},
+		"frame": "task",
+		"hidden": false,
+		"show_toast": true,
+		"announce_to_chat": true
+	},
+	"criteria": {
+		"requirement": {
+			"trigger": "minecraft:tick"
+		}
+	},
+	"requirements": [
+		[
+			"requirement"
+		]
+	]
+}
