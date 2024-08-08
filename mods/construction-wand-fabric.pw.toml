@@ -1,13 +1,13 @@
 name = "Construction Wand (Fabric)"
-filename = "constructionwand-1.0.3+1.20.1.jar"
+filename = "constructionwand-1.0.4+1.20.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/SdT4Yu5L/versions/ppIP8ZFO/constructionwand-1.0.3%2B1.20.1.jar"
+url = "https://cdn.modrinth.com/data/SdT4Yu5L/versions/udhX4toI/constructionwand-1.0.4%2B1.20.1.jar"
 hash-format = "sha1"
-hash = "a235a07cedcf9ddffab87f1ccc971f758cdfc99d"
+hash = "9107f23094b339052fa6d9a2d7d144fb17b9a86d"
 
 [update]
 [update.modrinth]
 mod-id = "SdT4Yu5L"
-version = "ppIP8ZFO"
+version = "udhX4toI"

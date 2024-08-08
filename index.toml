@@ -611,7 +611,7 @@ metafile = true
 
 [[files]]
 file = "mods/ad-astra-giselle-addon.pw.toml"
-hash = "cf9d930b0c5c8fb336fb9fc928e45fa04cc9b9ccf14c51206986d02f885e3fb6"
+hash = "dcc09861b8c2afccb3f1d8eb3841b8880107cd82fc0cd10e9b3460211d15b530"
 metafile = true
 
 [[files]]
@@ -1186,7 +1186,7 @@ metafile = true
 
 [[files]]
 file = "mods/construction-wand-fabric.pw.toml"
-hash = "76fddd8363f8b12dfe787b05d009be912e3a17790efa594d2b8cf74586da1166"
+hash = "eb429eee0ab77b1e104922aa309282e693af65a18b984718d473b91cc263917b"
 metafile = true
 
 [[files]]
@@ -2061,7 +2061,7 @@ metafile = true
 
 [[files]]
 file = "mods/lodestone.pw.toml"
-hash = "c12935f8c08284fb1b3d818a022670a77688f63a293fae88dc278641c1ed0e1e"
+hash = "92d96f1577936f020fd678d919e0ded5d2c55ed53849192f818c9a7a1ecd5795"
 metafile = true
 
 [[files]]
