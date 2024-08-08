@@ -1950,8 +1950,8 @@ hash = "68bb18bd4fe091b70cb49dd89bda457ce6c13739a83de2fc15c73a496cdd94a5"
 metafile = true
 
 [[files]]
-file = "mods/lets-do-bakery.pw.toml"
-hash = "ba57633bbcc0325184e6712da6116bbc4887e7bd8d8a85df00dde697aa4dbaf0"
+file = "mods/lets-do-bakery-farm-charm-compat.pw.toml"
+hash = "c4496bf3ea3fd75fad5c824310cd9a5e688b1a6396c5b1f7f2620eb573d48b8c"
 metafile = true
 
 [[files]]
@@ -1965,13 +1965,28 @@ hash = "57e568f57794286d8306f99763a21e864ba2fa1e04ceb54a9d7a857138fc8b48"
 metafile = true
 
 [[files]]
-file = "mods/lets-do-brewery.pw.toml"
-hash = "d60ef5a75c1b734bd5580d53ca8d7631602b4da38911660dd0defa893cf2886e"
+file = "mods/lets-do-brewery-farm-charm-compat.pw.toml"
+hash = "8101d55c74a04f0cfd497a365ad6539beed8dd34ea6d5fb22449caff88bb974e"
 metafile = true
 
 [[files]]
-file = "mods/lets-do-candlelight.pw.toml"
-hash = "a8aaf4ad332d42ea99bb4f9c6e03ae5d1c1fe84a6dcaa97f366e0fd09f1de24b"
+file = "mods/lets-do-camping.pw.toml"
+hash = "7c54e75a5ab5e24c93c9fd1ebbc73b523322b700f1be20b469a136d875e009e4"
+metafile = true
+
+[[files]]
+file = "mods/lets-do-candlelight-farm-charm-compat.pw.toml"
+hash = "8e7d83cd575c89beb6c36a949bbd545a17cc1173fb25d11be6dfd8b306c68d8e"
+metafile = true
+
+[[files]]
+file = "mods/lets-do-farm-charm.pw.toml"
+hash = "f4abcb4a7c94275226542188cb75e5013fa1116ae391061874d2e4a7ef4672b7"
+metafile = true
+
+[[files]]
+file = "mods/lets-do-furniture.pw.toml"
+hash = "bb18690df7dd885cd7ae283b30385e4ecb378dc5467cad91552b40893bfd0a8a"
 metafile = true
 
 [[files]]
@@ -1992,6 +2007,11 @@ metafile = true
 [[files]]
 file = "mods/lets-do-vinery.pw.toml"
 hash = "d7dfc5a50a9fb5e981338ef32879ca7b631fed5592da64c51c6d33b1bee6aee2"
+metafile = true
+
+[[files]]
+file = "mods/lets-do-wildernature.pw.toml"
+hash = "8e389046bf868f40a4592a27b3ae480e5d7174452ace7df26c436d0461810eac"
 metafile = true
 
 [[files]]

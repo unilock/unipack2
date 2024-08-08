@@ -1,0 +1,13 @@
+name = "[Let's Do] Bakery - Farm&Charm Compat"
+filename = "letsdo-bakery-fabric-2.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7dd8b832cb50e8099afc8db2a69d276e60a6241e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5607652
+project-id = 1038130

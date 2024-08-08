@@ -1,0 +1,13 @@
+name = "[Let's Do] Furniture"
+filename = "letsdo-furniture-fabric-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8d719069640607bf70b00b8c0fc43cb4580dfa3e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5607035
+project-id = 1062363
