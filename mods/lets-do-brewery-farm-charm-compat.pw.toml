@@ -1,13 +1,13 @@
 name = "[Let's Do] Brewery - Farm&Charm Compat"
-filename = "letsdo-brewery-fabric-2.0.0.jar"
+filename = "letsdo-brewery-fabric-2.0.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "0d0121d71787c0da9710ee0cc5335d5d9545dc84"
+hash = "683d6a17eee09bd7a24623825ebe7f0c37e51ac1"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5567736
+file-id = 5610359
 project-id = 1038106

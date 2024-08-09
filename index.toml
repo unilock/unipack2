@@ -1126,7 +1126,7 @@ metafile = true
 
 [[files]]
 file = "mods/colorful-hearts.pw.toml"
-hash = "a477457679eb177ae99444a2b52a4934949f605dfe797beb322053d50626a6d8"
+hash = "669b06fd8b30b93f446469ac0748cb3dbecfd806b2e36492a19358b95134866c"
 metafile = true
 
 [[files]]
@@ -1401,7 +1401,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "45681630c9cf80f9d53d78091ad573ded75113cb63a2071d5ff5e6cdeef1358e"
+hash = "40118b2be2f36faf904a79f7f367c3e2350b5ddac1690fb490bb60e096cf2fde"
 metafile = true
 
 [[files]]
@@ -1876,7 +1876,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "9294fbcb5ece0bf43a24d26053d9b7fc92bc77660c4ae74d60291606d429af21"
+hash = "e8b284712c0cf47c8e3030878069d0fb8322add5102fe5dd4a0c1de5894563da"
 metafile = true
 
 [[files]]
@@ -1966,12 +1966,12 @@ metafile = true
 
 [[files]]
 file = "mods/lets-do-brewery-farm-charm-compat.pw.toml"
-hash = "8101d55c74a04f0cfd497a365ad6539beed8dd34ea6d5fb22449caff88bb974e"
+hash = "9a27ba905d130be5065524cdc3cef130caebad5e06f6bf2a884db579b750a751"
 metafile = true
 
 [[files]]
 file = "mods/lets-do-camping.pw.toml"
-hash = "7c54e75a5ab5e24c93c9fd1ebbc73b523322b700f1be20b469a136d875e009e4"
+hash = "d064e92731e1adbe2f45536c333a9da8b13ec2a09c7b6630cd15e4c32cce1197"
 metafile = true
 
 [[files]]
@@ -1986,7 +1986,7 @@ metafile = true
 
 [[files]]
 file = "mods/lets-do-furniture.pw.toml"
-hash = "bb18690df7dd885cd7ae283b30385e4ecb378dc5467cad91552b40893bfd0a8a"
+hash = "539ebda4a1d284e015d15eef3ee80d489dae6c68a1393957e51113e461781727"
 metafile = true
 
 [[files]]
@@ -2011,7 +2011,7 @@ metafile = true
 
 [[files]]
 file = "mods/lets-do-wildernature.pw.toml"
-hash = "8e389046bf868f40a4592a27b3ae480e5d7174452ace7df26c436d0461810eac"
+hash = "b566a5bf795ea801847e2764a3ae22ecb07a2feb09078e591850facc5bfcf406"
 metafile = true
 
 [[files]]
@@ -2616,7 +2616,7 @@ metafile = true
 
 [[files]]
 file = "mods/ranged-weapon-api.pw.toml"
-hash = "ea9dc10b9c697ac70baa6907ed3719c09caaf6a4bab63596fb50e66291b233aa"
+hash = "486067e4430ca57fc759f8cbe03a7141bd3b42f6324d5123c44be3370edf8ec8"
 metafile = true
 
 [[files]]
