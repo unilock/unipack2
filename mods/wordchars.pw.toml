@@ -1,0 +1,13 @@
+name = "wordchars"
+filename = "wordchars-1.0.1+1.14+fabric.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "f80f8ebddc3a5552c27b77324e07a125a92e857a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5162852
+project-id = 973438

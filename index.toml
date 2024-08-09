@@ -3155,6 +3155,11 @@ hash = "dbafccd29495ea54027c8820fb40484cf8326f7c3603213481d957df6dab6091"
 metafile = true
 
 [[files]]
+file = "mods/wordchars.pw.toml"
+hash = "6ec9a69ff857b081232c3368eaa9f9df433b4a18d825847fcbab6f4bde275147"
+metafile = true
+
+[[files]]
 file = "mods/wthit.pw.toml"
 hash = "3a1897450be3554dfbc1a2506abaf7c42d59facf9d21d52cb9ceaae49ca9c60e"
 metafile = true
