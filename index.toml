@@ -1306,7 +1306,7 @@ metafile = true
 
 [[files]]
 file = "mods/dimensionaldoors.pw.toml"
-hash = "ec9aacd70ddf41a22851e04eae99454183300b5cae34859f498f7eb8cf5fddb1"
+hash = "52ac774e7dbd7334684293bbaca5244525207125b528b5aab37be6b4ef2cb44a"
 metafile = true
 
 [[files]]
