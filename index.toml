@@ -405,6 +405,10 @@ file = "config/options.amecsapi.txt"
 hash = "e3368a22f4c0dca28698920894a0f1acce76b5553fe87478220ae85573fadee2"
 
 [[files]]
+file = "config/overloadedarmorbar.json"
+hash = "09034e0e9d2b3cb99939fc9422163f954f1e6c4eb3635f8df68f99174efcc389"
+
+[[files]]
 file = "config/particular.json5"
 hash = "738bb8189f34dd1083a0c4a9a1fbdc645d8556c52f7d3a366bcb634e2f53c24f"
 
