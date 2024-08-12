@@ -1,13 +1,13 @@
 name = "[Let's Do] BloomingNature"
-filename = "letsdo-bloomingnature-fabric-1.0.8.jar"
+filename = "letsdo-bloomingnature-fabric-1.0.9.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "9c3bdf5fd469ddd90de36782c696f36cec1fa5fc"
+hash = "656ee93a554b5fbff47ba2b5aaa9eb1b230a26c6"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5604256
+file-id = 5620885
 project-id = 962885
