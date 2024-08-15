@@ -1,13 +1,13 @@
 name = "[Let's Do] WilderNature"
-filename = "letsdo-wildernature-fabric-1.0.2.jar"
+filename = "letsdo-wildernature-fabric-1.0.3.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "6312e7c91674ce733a17a42f28647251ee5e6d63"
+hash = "9aa4fd5d0954320673a73735bdd12495a82f9006"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5610403
+file-id = 5623676
 project-id = 1071657

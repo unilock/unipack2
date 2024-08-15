@@ -825,7 +825,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm-fabric.pw.toml"
-hash = "90a2f4c1d1db8752aa93240fc2f916f04ef9f8eda3da1dcee5e8666e33058c9b"
+hash = "63d67a97888c5db11a566790d67d002759adcb1496a1bacd475a32d42cf788f3"
 metafile = true
 
 [[files]]
@@ -985,7 +985,7 @@ metafile = true
 
 [[files]]
 file = "mods/botaniacombat.pw.toml"
-hash = "e844f35f7e68e999cee758bb4be979b1b742a011036bb6915330f8dee1f77dcc"
+hash = "a040afddc107928fda6d2c613b9b70efce6fbe1ebadbe2fdf8af524e57a4309e"
 metafile = true
 
 [[files]]
@@ -1130,7 +1130,7 @@ metafile = true
 
 [[files]]
 file = "mods/colorful-hearts.pw.toml"
-hash = "669b06fd8b30b93f446469ac0748cb3dbecfd806b2e36492a19358b95134866c"
+hash = "5336fd4d29a3470b8e4d534ed362947a9b0e58443c0989c10f3bbe958af62e8f"
 metafile = true
 
 [[files]]
@@ -1210,7 +1210,7 @@ metafile = true
 
 [[files]]
 file = "mods/crafting-tweaks-fabric.pw.toml"
-hash = "eccac09c133cbf940f23e72ba143f379bd5b65c0fab06c6881e9a0df69e4abdd"
+hash = "bb5638c5298265a73c1cc6515bd600f5bd368ff39231385e66aa9dac8c933632"
 metafile = true
 
 [[files]]
@@ -1880,7 +1880,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "1819c903806683000bf94a30d396420f03be8dad1577874407afa770b672271f"
+hash = "f646820b69c29778efd2f2c493a09312eabcc20fdfc558e9f20fee327926a96f"
 metafile = true
 
 [[files]]
@@ -1920,7 +1920,7 @@ metafile = true
 
 [[files]]
 file = "mods/kiwi-fabric.pw.toml"
-hash = "39fb4435e630240483ff7714432b27d4c7a48f72d5afd06ae2648be7ccbf4f30"
+hash = "dd02dd1295b6eee5835cca608975083335c8d41c0462f1d63cc23e5709085b28"
 metafile = true
 
 [[files]]
@@ -1975,12 +1975,12 @@ metafile = true
 
 [[files]]
 file = "mods/lets-do-camping.pw.toml"
-hash = "d064e92731e1adbe2f45536c333a9da8b13ec2a09c7b6630cd15e4c32cce1197"
+hash = "ac1a5326230de6f1df465db20d37ad4f8fd5ce6dbcc92f38c649c11f5fb6cf42"
 metafile = true
 
 [[files]]
 file = "mods/lets-do-candlelight-farm-charm-compat.pw.toml"
-hash = "8e7d83cd575c89beb6c36a949bbd545a17cc1173fb25d11be6dfd8b306c68d8e"
+hash = "f6432b8408e3f3868a02c4677ecf5080bb6a833905002a2eeba59bdae0d12d58"
 metafile = true
 
 [[files]]
@@ -2010,12 +2010,12 @@ metafile = true
 
 [[files]]
 file = "mods/lets-do-vinery.pw.toml"
-hash = "d7dfc5a50a9fb5e981338ef32879ca7b631fed5592da64c51c6d33b1bee6aee2"
+hash = "9e8e9d062564de809f9136445585de3b592a9413269033d699773ee70927d948"
 metafile = true
 
 [[files]]
 file = "mods/lets-do-wildernature.pw.toml"
-hash = "b566a5bf795ea801847e2764a3ae22ecb07a2feb09078e591850facc5bfcf406"
+hash = "c7e4bd92c283768961ee4a92b1fccb4514bf37b0d10b590682d39c8865a60904"
 metafile = true
 
 [[files]]
@@ -2170,7 +2170,7 @@ metafile = true
 
 [[files]]
 file = "mods/mica.pw.toml"
-hash = "3710f2eb2a4c0077e4ce57afd8675f846655809f3eafe4fd0caaa91dc5d3548c"
+hash = "91e471ce32fadfbbeadde86e62a6aeae97c41abad4db79ad218aa3f42ed27567"
 metafile = true
 
 [[files]]
@@ -2260,12 +2260,12 @@ metafile = true
 
 [[files]]
 file = "mods/natures-spirit.pw.toml"
-hash = "ba6deea1c473512239645d1dc34fc42f64f0b0960a806db23bd5f39a7ec9c85d"
+hash = "bbc2382b3059993d49031beb889427ac35f54d94d898d7fab4fe464562a36e91"
 metafile = true
 
 [[files]]
 file = "mods/nbt-autocomplete.pw.toml"
-hash = "517355c7f5460462dba4ad74726ff9256a246f4967f61436cf938b453225c775"
+hash = "b49016fa67621ae1e219f8b286b5f3e117b46eff90cd655dc6194bce0b547037"
 metafile = true
 
 [[files]]
@@ -2785,7 +2785,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-shadowy-path-blocks.pw.toml"
-hash = "5c69ebc94dea5c38f397990c14e0def4732c2fab19625f5e9a8e92a845d858a9"
+hash = "70c0efbdfa18c5fbe7cc613e258d3f42e5ff276cc301c4109bf511898177d49b"
 metafile = true
 
 [[files]]
@@ -3195,7 +3195,7 @@ metafile = true
 
 [[files]]
 file = "mods/youre-in-grave-danger.pw.toml"
-hash = "3c80b55505627f784f8e8e510ac493a79e17931483aaa5743c72de7b646f38f9"
+hash = "3bf2f311a235b8fd995c264992dc0f010cfd10bbb6b2d01d07bd03083a149edb"
 metafile = true
 
 [[files]]
