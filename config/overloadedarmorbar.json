@@ -14,7 +14,7 @@
   "overloadedarmorbar.config.offset": {
     "key": "overloadedarmorbar.config.offset",
     "toolTip": "overloadedarmorbar.config.tt.offset",
-    "value": true,
+    "value": false,
     "defaultValue": true
   },
   "overloadedarmorbar.config.alwaysshow": {
