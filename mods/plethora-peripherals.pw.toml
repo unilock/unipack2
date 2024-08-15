@@ -3,11 +3,6 @@ filename = "Plethora-Fabric-1.11.7.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "92fe6e3ebf57a7f7ff419d1fa1baa88062440422"
-mode = "metadata:curseforge"
-
-[update]
-[update.curseforge]
-file-id = 5250359
-project-id = 248425
+url = "https://play.fennet.rentals/packwiz/unipack2/manual-jars/both/Plethora-Fabric-1.11.7.jar"
+hash-format = "sha256"
+hash = "20f870a05d837046a3507ba0559c3dfc05ca89b882d6b34131e9a245a4b251de"
