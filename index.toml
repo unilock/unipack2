@@ -655,7 +655,7 @@ metafile = true
 
 [[files]]
 file = "mods/ages.pw.toml"
-hash = "dffe4bf8e0d917ff0d789405a6c130f3ebc0c0fde74f340f5cd6444c2a5b41ec"
+hash = "dc64765c7b7757f3dd3e0d2f7b114eddc9ff9c778bc19f4fb2588ba0d0467efb"
 metafile = true
 
 [[files]]
