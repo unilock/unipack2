@@ -22,7 +22,7 @@ compactLargeContainers = false
 # Logs all registered screen handler IDs for use in screen overrides
 # Logs all registry tab provider contents (blocks etc) to help find bad tabs
 # default: true
-configLogging = true
+configLogging = false
 # Whether to log vanilla tab provider contents
 # For development purposes, not modpack configuration
 # default: false
@@ -33,6 +33,11 @@ allowScreensByDefault = true
 # Whether to show tabs on the bottom of screens that aren't specified below
 # default: false
 invertTabsByDefault = false
+# How many ticks to keep a tab on-screen for when its block is obstructed.
+# Prevents tab 'flickering' with specific setups - raising to 4 should be plenty.
+# range: 0 - 5
+# default: 0
+blockRaycastTimeout = 0
 
 # 
 # -------------------------------
@@ -40,41 +45,41 @@ invertTabsByDefault = false
 # Manually set whether tabs should be shown on a given screen
 # 
 [screenOverrides]
-	"tricksy:work_table" = false
-	"computercraft:pocket_computer_no_term" = false
-	"tconstruct:tinker_chest" = false
-	"computercraft:printout" = false
-	"tconstruct:modifier_worktable" = false
-	"portalcubed:faith_plate_screen" = false
-	"tconstruct:tool_container" = false
 	"ad_astra:planets_menu" = false
-	"spectrum:paintbrush" = false
 	"computercraft:computer" = false
+	"computercraft:pocket_computer" = false
+	"computercraft:pocket_computer_no_term" = false
+	"computercraft:printout" = false
+	"computercraft:turtle" = false
+	"computercraft:view_computer" = false
 	"ducky-periphs:keyboard_screen_handler" = false
-	"modern_industrialization:item_pipe" = false
-	"tricksy:scripture_screen" = false
 	"fwaystones:abyss" = false
-	"yttr:magtank" = false
-	"yttr:rafting" = false
-	"tricksy:clockwork_friar" = false
+	"fwaystones:pocket_wormhole" = false
+	"fwaystones:waystone" = false
+	"modern_industrialization:fluid_pipe" = false
+	"modern_industrialization:item_pipe" = false
+	"piercingpaxels:paxel" = false
+	"plethora:keyboard" = false
+	"plethora:neural_interface" = false
+	"portalcubed:faith_plate_screen" = false
+	"portalcubed:velocity_helper" = false
+	"spectrum:paintbrush" = false
 	"spectrum:workstaff" = false
 	"tconstruct:crafting_station" = false
-	"piercingpaxels:paxel" = false
-	"fwaystones:waystone" = false
-	"tconstruct:tinker_station" = false
-	"plethora:neural_interface" = false
-	"tricksy:tree_screen" = false
-	"tricksy:prescient_candle_screen" = false
-	"fwaystones:pocket_wormhole" = false
-	"tricksy:inventory_screen" = false
-	"computercraft:turtle" = false
-	"yttr:dsu" = false
-	"computercraft:view_computer" = false
+	"tconstruct:modifier_worktable" = false
 	"tconstruct:part_builder" = false
-	"modern_industrialization:fluid_pipe" = false
-	"computercraft:pocket_computer" = false
-	"portalcubed:velocity_helper" = false
-	"plethora:keyboard" = false
+	"tconstruct:tinker_chest" = false
+	"tconstruct:tinker_station" = false
+	"tconstruct:tool_container" = false
+	"tricksy:clockwork_friar" = false
+	"tricksy:inventory_screen" = false
+	"tricksy:prescient_candle_screen" = false
+	"tricksy:scripture_screen" = false
+	"tricksy:tree_screen" = false
+	"tricksy:work_table" = false
+	"yttr:dsu" = false
+	"yttr:magtank" = false
+	"yttr:rafting" = false
 # 
 # -------------------------------
 # 
@@ -83,9 +88,9 @@ invertTabsByDefault = false
 # null means the player inventory
 # 
 [leftBoundOffsetOverride]
-	"yttr:suit_station" = -24
 	null = 0
 	"create:toolbox" = -20
+	"yttr:suit_station" = -24
 # 
 # -------------------------------
 # 
@@ -129,8 +134,8 @@ invertTabsByDefault = false
 # | ""            | No tab at all!                           | Use this to disable bad entity tabs in your pack
 # 
 [entityProviderOverrides]
-	"minecraft:chest_minecart" = "inventory_tabs:entity_simple"
 	"lovely_snails:snail" = "inventory_tabs:entity_sneak"
+	"minecraft:chest_minecart" = "inventory_tabs:entity_simple"
 # 
 # -------------------------------
 # 
@@ -141,21 +146,21 @@ invertTabsByDefault = false
 # | ""            | No tab at all!                       | Use this to disable bad item tabs in your pack
 # 
 [itemProviderOverrides]
+	"aurorasdeco:painter_palette" = "inventory_tabs:item_sneak"
+	"botania:bauble_box" = "inventory_tabs:item_simple"
+	"botania:flower_bag" = "inventory_tabs:item_simple"
+	"fwaystones:abyss_watcher" = ""
+	"fwaystones:pocket_wormhole" = ""
 	"inmis:baby_backpack" = "inventory_tabs:item_simple"
-	"inmis:frayed_backpack" = "inventory_tabs:item_simple"
+	"inmis:bejeweled_backpack" = "inventory_tabs:item_simple"
 	"inmis:blazing_backpack" = "inventory_tabs:item_simple"
 	"inmis:ender_pouch" = "inventory_tabs:item_simple"
+	"inmis:endless_backpack" = "inventory_tabs:item_simple"
+	"inmis:frayed_backpack" = "inventory_tabs:item_simple"
 	"inmis:gilded_backpack" = "inventory_tabs:item_simple"
-	"fwaystones:pocket_wormhole" = ""
-	"aurorasdeco:painter_palette" = "inventory_tabs:item_sneak"
-	"inmis:bejeweled_backpack" = "inventory_tabs:item_simple"
-	"botania:flower_bag" = "inventory_tabs:item_simple"
+	"inmis:plated_backpack" = "inventory_tabs:item_simple"
 	"inmis:withered_backpack" = "inventory_tabs:item_simple"
 	"yttr:ammo_pack" = "inventory_tabs:item_sneak"
-	"inmis:plated_backpack" = "inventory_tabs:item_simple"
-	"botania:bauble_box" = "inventory_tabs:item_simple"
-	"fwaystones:abyss_watcher" = ""
-	"inmis:endless_backpack" = "inventory_tabs:item_simple"
 # 
 # -------------------------------
 # 
@@ -163,18 +168,18 @@ invertTabsByDefault = false
 # Non-registry Tab Providers like player_inventory and vehicle_inventory can't be disabled here
 # 
 [registryProviderDefaults]
-	"inventory_tabs:vehicle_inventory" = true
-	"inventory_tabs:block_ender_chest" = false
-	"inventory_tabs:item_unique" = true
-	"inventory_tabs:block_simple" = false
-	"inventory_tabs:player_inventory" = true
-	"inventory_tabs:entity_sneak" = true
-	"inventory_tabs:item_sneak" = true
-	"inventory_tabs:block_chest" = false
-	"expandedstorage:block_chest" = false
-	"inventory_tabs:item_simple" = true
-	"inventory_tabs:entity_simple" = true
 	"inventory_tabs:block_shulker_box" = false
-	"inventory_tabs:block_simple_storage" = false
-	"portable_crafting:item_portable_crafting" = true
+	"inventory_tabs:block_ender_chest" = false
+	"inventory_tabs:block_chest" = false
 	"inventory_tabs:block_unique" = true
+	"inventory_tabs:block_simple_storage" = false
+	"inventory_tabs:block_simple" = false
+	"inventory_tabs:entity_sneak" = true
+	"inventory_tabs:entity_simple" = true
+	"inventory_tabs:item_unique" = true
+	"inventory_tabs:item_sneak" = true
+	"inventory_tabs:item_simple" = true
+	"inventory_tabs:player_inventory" = true
+	"inventory_tabs:vehicle_inventory" = true
+	"expandedstorage:block_chest" = false
+	"portable_crafting:item_portable_crafting" = true
