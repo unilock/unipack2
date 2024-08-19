@@ -1,11 +1,15 @@
 {
     "replace": false,
     "values": [
+        "ae2:certus_quartz_hoe",
+        "ae2:fluix_hoe",
+        "ae2:nether_quartz_hoe",
         "arcadiandream:makaite_hoe",
         "mythicmetals:aquarium_hoe",
         "mythicmetals:banglum_hoe",
         "mythicmetals:bronze_hoe",
         "mythicmetals:quadrillum_hoe",
+        "paradise_lost:olvite_hoe",
         "spectrum:multitool",
         "yttr:brookite_hoe"
     ]
