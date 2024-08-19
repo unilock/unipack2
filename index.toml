@@ -825,7 +825,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm-fabric.pw.toml"
-hash = "63d67a97888c5db11a566790d67d002759adcb1496a1bacd475a32d42cf788f3"
+hash = "c1ead41ba57b2b034b237bbf2b6d7bbbdac9be08dedc35f9f157e0b1e7c0b327"
 metafile = true
 
 [[files]]
@@ -1525,7 +1525,7 @@ metafile = true
 
 [[files]]
 file = "mods/farmers-delight-refabricated.pw.toml"
-hash = "487778c20e2dcdd8ed076b39a716572a3cc8b561779bd24127656c799202fac0"
+hash = "8f92525e4df11eb5b63d26b391687ef2f112a801f4833384e9f0dc8836a2e48b"
 metafile = true
 
 [[files]]
