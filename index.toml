@@ -825,7 +825,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm-fabric.pw.toml"
-hash = "c1ead41ba57b2b034b237bbf2b6d7bbbdac9be08dedc35f9f157e0b1e7c0b327"
+hash = "63d67a97888c5db11a566790d67d002759adcb1496a1bacd475a32d42cf788f3"
 metafile = true
 
 [[files]]
