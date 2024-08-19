@@ -2389,6 +2389,11 @@ hash = "8b5f434d3ee8c659f5ae7ce3780a6ec5a3f33c478d2992d760c08f7c1983f57e"
 metafile = true
 
 [[files]]
+file = "mods/paradise-lost.pw.toml"
+hash = "102605a9a3c4f8b648e1ee7c2b08f646e4ea4c0dd2a0f3d95d7932b98f6588e8"
+metafile = true
+
+[[files]]
 file = "mods/particle-core.pw.toml"
 hash = "21d9822b4e408bd8df24d07736ed7eb7ccf9848543cea7e84068ba877acb6a12"
 metafile = true
