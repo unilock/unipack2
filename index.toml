@@ -425,10 +425,6 @@ file = "config/player-pronouns.json"
 hash = "ea621d13900f4b75321cba93eca27ebf76a293f58a6ba945b788d54d93b5c166"
 
 [[files]]
-file = "config/polymer/networking.json"
-hash = "702aa9ed417d546c560b51cdffdddf248f31a033e681ad370a57a3e5b9ec87a5"
-
-[[files]]
 file = "config/portalcubed.json"
 hash = "b4e9c80637ce089f1fc68cf7189e5467439032df93cf00586ab8f23b66bdf362"
 
