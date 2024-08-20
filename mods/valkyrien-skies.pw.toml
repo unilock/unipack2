@@ -1,8 +1,13 @@
-name = "Valkyrien Skies"
-filename = "valkyrienskies-120-2.3.0-beta.5+62ada2d669.jar"
+name = "Valkyrien Skies (Forge/Fabric)"
+filename = "valkyrienskies-120-2.3.0-beta.5.jar"
 side = "both"
 
 [download]
-url = "https://play.fennet.rentals/packwiz/unipack2/manual-jars/both/valkyrienskies-120-2.3.0-beta.5+62ada2d669.jar"
-hash-format = "sha256"
-hash = "0c2bd54c8d57fa0f7d5bfbafb0e310a2f12868e379078e6270e9d46e6301b72c"
+hash-format = "sha1"
+hash = "284bbc3f8eb3f4c0d8ac1bb57eb6cff5af35a25c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5212231
+project-id = 258371

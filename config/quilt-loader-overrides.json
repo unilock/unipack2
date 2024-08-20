@@ -32,21 +32,6 @@
 			]
 		},
 		{
-			"id": "collars",
-			"depends": [
-				{
-					"replace": {
-						"id": "fabricloader",
-						"versions": ">=0.15.11"
-					},
-					"with": {
-						"id": "fabricloader",
-						"versions": ">=0.15.10"
-					}
-				}
-			]
-		},
-		{
 			"id": "complexhex",
 			"depends": [
 				{
@@ -102,6 +87,21 @@
 					"with": {
 						"id": "fabric-language-kotlin",
 						"versions": ">=1.10.10+kotlin.1.9.10"
+					}
+				}
+			]
+		},
+		{
+			"id": "hexsky",
+			"depends": [
+				{
+					"replace": {
+						"id": "fabricloader",
+						"versions": ">=0.16.0"
+					},
+					"with": {
+						"id": "fabricloader",
+						"versions": ">=0.15.11"
 					}
 				}
 			]

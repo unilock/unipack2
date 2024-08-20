@@ -438,7 +438,7 @@ hash = "00342b0a74a3b97e9e1608c3e5e3c708fc96a93505f1a19f7c2bb16891892bc8"
 
 [[files]]
 file = "config/quilt-loader-overrides.json"
-hash = "e83eb4a489e8d189766ef7ea4824813208feba57b7dfbb455db75e81dd7dcf81"
+hash = "8ce0cb8d557e32f304f5c4f3a413f00193c648f8deda09b5687131e281f020b7"
 
 [[files]]
 file = "config/railways-client.toml"
@@ -636,6 +636,11 @@ metafile = true
 [[files]]
 file = "mods/ae2-qol-recipes.pw.toml"
 hash = "951cf733abc505db7127a236e8af4d06114ff8107c7579446b6dc3c8ff86ddcb"
+metafile = true
+
+[[files]]
+file = "mods/ae2things.pw.toml"
+hash = "cfa2cc83649d28e4b77d916f4896a3c672fefc2e757224e74d6ae982b280bb4b"
 metafile = true
 
 [[files]]
@@ -1751,6 +1756,11 @@ metafile = true
 [[files]]
 file = "mods/hexbound.pw.toml"
 hash = "2aa57a0fa68ce2088cb5febe53e4897e364cb0e908ded74fd78ff5125a56a507"
+metafile = true
+
+[[files]]
+file = "mods/hexsky.pw.toml"
+hash = "d5f020720cc27f3420b52baa1b142386686063c9e9e23356fde7fb7b0d180bfb"
 metafile = true
 
 [[files]]
@@ -3080,7 +3090,7 @@ metafile = true
 
 [[files]]
 file = "mods/valkyrien-skies.pw.toml"
-hash = "080dc88b1d842af768922b66d57e5b58395bdbb080ce40cc9c484381fcaf87ed"
+hash = "b2201491a26e4c814e48c9bace0b4850cac23e950a843e413d8be2240127dc0f"
 metafile = true
 
 [[files]]
