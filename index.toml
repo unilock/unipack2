@@ -830,7 +830,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm-fabric.pw.toml"
-hash = "63d67a97888c5db11a566790d67d002759adcb1496a1bacd475a32d42cf788f3"
+hash = "0692f3e985180a07a90415a4185d27fc579cdd9c201f1d03ba8369ad347842e8"
 metafile = true
 
 [[files]]
@@ -1030,7 +1030,7 @@ metafile = true
 
 [[files]]
 file = "mods/cc-tweaked.pw.toml"
-hash = "e539a389d2c4a0f44f975fc92ed65c42a99b31c75efd7548d4212af115687fc5"
+hash = "9150d439b5f58ee6c672c8fb04b66a2ee08c4244c4af78794311bfb96774a48f"
 metafile = true
 
 [[files]]
@@ -2400,7 +2400,7 @@ metafile = true
 
 [[files]]
 file = "mods/paradise-lost.pw.toml"
-hash = "102605a9a3c4f8b648e1ee7c2b08f646e4ea4c0dd2a0f3d95d7932b98f6588e8"
+hash = "cb75188f5d38e3c627c733a0cec6607b67ddd7b9a8ef6c65a4b8aa5f8d127f47"
 metafile = true
 
 [[files]]
