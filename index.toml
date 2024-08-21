@@ -726,7 +726,7 @@ metafile = true
 
 [[files]]
 file = "mods/arcadian-dream.pw.toml"
-hash = "08938b8f86d384471fde1833e9d173ff3d1c51c7fa56d3a1e4f9fae01d7281e9"
+hash = "68cb29bd616befbdab2d61f943e0c7c2fc932b63cbd01acc5bc254260c3ac5a3"
 metafile = true
 
 [[files]]
