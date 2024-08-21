@@ -1,7 +1,15 @@
-name = "Crafty Crashes"
+name = "Crafty-Crashes"
 filename = "Crafty-Crashes-1.0.jar"
+side = "both"
 
 [download]
 url = "https://github.com/Chocohead/Crafty-Crashes/releases/download/v1.0/Crafty-Crashes-1.0.jar"
 hash-format = "sha256"
 hash = "e2b9f1e63442715d816d08f466df3ebffb6936f5236e16acd780c4ca8473b584"
+
+[update]
+[update.github]
+branch = "master"
+regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
+slug = "Chocohead/Crafty-Crashes"
+tag = "v1.0"

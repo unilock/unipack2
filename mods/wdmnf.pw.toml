@@ -1,7 +1,15 @@
-name = "WDMNF | Why Did My Netty Fail"
+name = "WDMNF"
 filename = "wdmnf-1.1.0+snapshots.jar"
+side = "both"
 
 [download]
-url = "https://github.com/Tom-The-Geek/WDMNF/releases/download/v1.1.0%2Bsnapshots/wdmnf-1.1.0+snapshots.jar"
+url = "https://github.com/Tom-The-Geek/WDMNF/releases/download/v1.1.0%2Bsnapshots/wdmnf-1.1.0%2Bsnapshots.jar"
 hash-format = "sha256"
 hash = "e4f4073038fa0355439a31d845bd2112980fe618ecdfb73a9bfbd74af4ec5e25"
+
+[update]
+[update.github]
+branch = "snapshots"
+regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
+slug = "Tom-The-Geek/WDMNF"
+tag = "v1.1.0+snapshots"

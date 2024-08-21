@@ -1216,7 +1216,7 @@ metafile = true
 
 [[files]]
 file = "mods/crafty-crashes.pw.toml"
-hash = "9fdbfa34547ea2afcc1329ed43ea1c1c333937779b986c8292609864521a874b"
+hash = "1194f733cc70e21af4f351e992743e29212697ed1220a23e7d8e1852d4a738b3"
 metafile = true
 
 [[files]]
@@ -1741,7 +1741,7 @@ metafile = true
 
 [[files]]
 file = "mods/hex-casting.pw.toml"
-hash = "4d6ea8a0b5479c90721682520bfaaac9abf522a1ac7e83cf1cfdd2d931250d14"
+hash = "c31d7f06081b36fdb7fbf20dbf0e907afea792ddea8e597ef9612cd24e86c38a"
 metafile = true
 
 [[files]]
@@ -2231,7 +2231,7 @@ metafile = true
 
 [[files]]
 file = "mods/moreiotas.pw.toml"
-hash = "7d8b125e04461c3b5aa319b786a27afc806bfb8dcfab50504a1371c83627a714"
+hash = "fa532ae090f50e36eeb90bfe81c44340314c68ff1b1377965fc2b538481b533e"
 metafile = true
 
 [[files]]
@@ -3131,7 +3131,7 @@ metafile = true
 
 [[files]]
 file = "mods/wdmnf.pw.toml"
-hash = "c898a5c177c0ac70cf70a1c1421c6598518aeaf951eb7e29a225993d5726747e"
+hash = "aa961e18702c5b5b39e4495096c30049447c9732919299f5ab93b4420bb0309a"
 metafile = true
 
 [[files]]
