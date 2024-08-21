@@ -1191,7 +1191,7 @@ metafile = true
 
 [[files]]
 file = "mods/construction-wand-fabric.pw.toml"
-hash = "eb429eee0ab77b1e104922aa309282e693af65a18b984718d473b91cc263917b"
+hash = "078eb7e582d353ba7a99bed9b85cd4a4d1fd3e4eb57e549ae4b3d8accfab3336"
 metafile = true
 
 [[files]]
@@ -1756,7 +1756,7 @@ metafile = true
 
 [[files]]
 file = "mods/hexsky.pw.toml"
-hash = "d5f020720cc27f3420b52baa1b142386686063c9e9e23356fde7fb7b0d180bfb"
+hash = "f4b93500a26bf9093b5ea1d368ad1a59fdc0f5650fe75320495eaee2dc1d0697"
 metafile = true
 
 [[files]]
@@ -1886,7 +1886,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "f646820b69c29778efd2f2c493a09312eabcc20fdfc558e9f20fee327926a96f"
+hash = "d97b094e602c4b4fdae9be5ab4455936638ca2b5374f29015b4d90acd9d53853"
 metafile = true
 
 [[files]]
@@ -1961,7 +1961,7 @@ metafile = true
 
 [[files]]
 file = "mods/lets-do-bakery-farm-charm-compat.pw.toml"
-hash = "c4496bf3ea3fd75fad5c824310cd9a5e688b1a6396c5b1f7f2620eb573d48b8c"
+hash = "65b0ccaeedb9ea0559af127da8238c5324ff1bd8997383910c6d4f9ee798cc9c"
 metafile = true
 
 [[files]]
@@ -1976,7 +1976,7 @@ metafile = true
 
 [[files]]
 file = "mods/lets-do-brewery-farm-charm-compat.pw.toml"
-hash = "9a27ba905d130be5065524cdc3cef130caebad5e06f6bf2a884db579b750a751"
+hash = "411e871d2a654dc8d1e858d5d9d19492da50c5b444b88b99a2a99e0ba68b0e9d"
 metafile = true
 
 [[files]]
@@ -1991,7 +1991,7 @@ metafile = true
 
 [[files]]
 file = "mods/lets-do-farm-charm.pw.toml"
-hash = "24a4c387c4ef18689d85c02da2b7bff2f54b5e93c4918f17c56cf0d5543b05f1"
+hash = "ccca51778476b8977a766036caefebbcc15c89b293ffa49e745087317da10cd3"
 metafile = true
 
 [[files]]
@@ -2321,12 +2321,12 @@ metafile = true
 
 [[files]]
 file = "mods/noisium.pw.toml"
-hash = "4ecccde3987e389d9acab93fb0692b81da2e865275cf0c50063b4e250f4ed1f3"
+hash = "4bef2974b0ccbf63265a7c430fa37d57c11f4dc0c38c4764b7b7a5336b4f9434"
 metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "dfcf0446ce11ef9691761c4a696b7ca8763854d977c5074a56fa266d92aebd86"
+hash = "c1af094459b98cec11530cdaefc40588728aa0384d90e1a9c6d5deae47a900d5"
 metafile = true
 
 [[files]]
@@ -2451,7 +2451,7 @@ metafile = true
 
 [[files]]
 file = "mods/peripheralium.pw.toml"
-hash = "7ab75ac7228b4462d6899a5a0e5f04a30169fe70e945bd048ddbc917e77d07f0"
+hash = "9fd9b86bdb5097fea5f7eafe7cc5561802db9bda3509aa6e5e7801a08ca435c1"
 metafile = true
 
 [[files]]
@@ -3071,7 +3071,7 @@ metafile = true
 
 [[files]]
 file = "mods/turtlematic.pw.toml"
-hash = "c0f0fcbfcd73cf2d7c3e9ea6dc3f69b9c5e068e48f64e1edf9a4bfdf669969c2"
+hash = "342c0f7042bd6d7a09c4e54395a5ae85284b469bba9307d4989264ebbc7c1279"
 metafile = true
 
 [[files]]
@@ -3081,7 +3081,7 @@ metafile = true
 
 [[files]]
 file = "mods/unlimitedperipheralworks.pw.toml"
-hash = "b61011a2bb1aecc3a7205841601d5762d2ab8bf088ffa1d0fa98729f8a4bb647"
+hash = "f78e705e6cbb9660bd13d60784ff37f296f21c8ca7a3a8433e3c796f59341cc8"
 metafile = true
 
 [[files]]
@@ -3206,7 +3206,7 @@ metafile = true
 
 [[files]]
 file = "mods/youre-in-grave-danger.pw.toml"
-hash = "3bf2f311a235b8fd995c264992dc0f010cfd10bbb6b2d01d07bd03083a149edb"
+hash = "b1d9c50154234b4ef4dc033ba79469327768e4a7d8b7d662d3b66e420eee1774"
 metafile = true
 
 [[files]]
