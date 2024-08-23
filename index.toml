@@ -1961,7 +1961,7 @@ metafile = true
 
 [[files]]
 file = "mods/lets-do-bakery-farm-charm-compat.pw.toml"
-hash = "65b0ccaeedb9ea0559af127da8238c5324ff1bd8997383910c6d4f9ee798cc9c"
+hash = "61715e45e10f6b0c37bae20c8dd20d9f281edeb0bb253969e156a5581c3380c3"
 metafile = true
 
 [[files]]
@@ -1976,22 +1976,22 @@ metafile = true
 
 [[files]]
 file = "mods/lets-do-brewery-farm-charm-compat.pw.toml"
-hash = "411e871d2a654dc8d1e858d5d9d19492da50c5b444b88b99a2a99e0ba68b0e9d"
+hash = "5987027c0d0beec89d97dc0c0149849ae4488c3ecfffebe552f3674bfff69cc6"
 metafile = true
 
 [[files]]
 file = "mods/lets-do-camping.pw.toml"
-hash = "ac1a5326230de6f1df465db20d37ad4f8fd5ce6dbcc92f38c649c11f5fb6cf42"
+hash = "7d8ac1efe22609e813247ba9a87c8036c4535aa1b4c5735acb58107082355924"
 metafile = true
 
 [[files]]
 file = "mods/lets-do-candlelight-farm-charm-compat.pw.toml"
-hash = "f6432b8408e3f3868a02c4677ecf5080bb6a833905002a2eeba59bdae0d12d58"
+hash = "1cb6418b7e476f6bc5b5700d4542ffe8320c823d269779ddd4b169ae38cc6754"
 metafile = true
 
 [[files]]
 file = "mods/lets-do-farm-charm.pw.toml"
-hash = "ccca51778476b8977a766036caefebbcc15c89b293ffa49e745087317da10cd3"
+hash = "96fd2474a245ca6656d4c01698255e27b6c176194d46e7b5d421321d86531dc4"
 metafile = true
 
 [[files]]
@@ -2451,7 +2451,7 @@ metafile = true
 
 [[files]]
 file = "mods/peripheralium.pw.toml"
-hash = "773eea8b01f8570be10ac366c20f19cba875e19014f8f1b0ff508996249d7b45"
+hash = "9fd9b86bdb5097fea5f7eafe7cc5561802db9bda3509aa6e5e7801a08ca435c1"
 metafile = true
 
 [[files]]
@@ -3206,7 +3206,7 @@ metafile = true
 
 [[files]]
 file = "mods/youre-in-grave-danger.pw.toml"
-hash = "b1d9c50154234b4ef4dc033ba79469327768e4a7d8b7d662d3b66e420eee1774"
+hash = "f3ac85b2e46c9e91c09e6f86dc6dde87ebf3547ab6f9a3c2890ae10ab9b29248"
 metafile = true
 
 [[files]]

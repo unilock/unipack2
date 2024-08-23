@@ -1,13 +1,13 @@
 name = "[Let's Do] Camping"
-filename = "letsdo-camping-fabric-1.0.2.jar"
+filename = "letsdo-camping-fabric-1.0.3.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "4cf06f12aa7d169f6b3625cd43a28440a4a774ff"
+hash = "ee8c8073bfb52b18ee9e70287ce1efaa52ca27cb"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5627843
+file-id = 5652322
 project-id = 1072398
