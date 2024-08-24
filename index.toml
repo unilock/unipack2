@@ -93,6 +93,10 @@ file = "config/astrocraft.json"
 hash = "6f906a17701b8013c7c510b6f4e445a86ff24eb42c2f8ac51fc3f1b8e17ae185"
 
 [[files]]
+file = "config/badoptimizations.txt"
+hash = "3297268a9e5e925977a967d71a9ffec44eb8180a415d96a01eb664dffb4fe7df"
+
+[[files]]
 file = "config/bclib/client.json"
 hash = "610b17f05c3c66cb2f9fb38ab42b1c787163489ae66d3513c5b7c73e39203789"
 
