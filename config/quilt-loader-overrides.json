@@ -32,6 +32,21 @@
 			]
 		},
 		{
+			"id": "astrocompat",
+			"depends": [
+				{
+					"replace": {
+						"id": "ad_astra",
+						"versions": "1.15.5"
+					},
+					"with": {
+						"id": "ad_astra",
+						"versions": ">=1.15.5"
+					}
+				}
+			]
+		},
+		{
 			"id": "complexhex",
 			"depends": [
 				{
