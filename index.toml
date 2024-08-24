@@ -1866,7 +1866,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-tabs.pw.toml"
-hash = "61a66aa91c3ba82d1aa98dcbca4c087252d7c129b3006f22681cc2bc9d4d3cb1"
+hash = "c36f8ee375edf3c754631d828ab855f83265df8bb84a134585594664c653a6fe"
 metafile = true
 
 [[files]]
@@ -2281,7 +2281,7 @@ metafile = true
 
 [[files]]
 file = "mods/neepmeat.pw.toml"
-hash = "50410d60e4381fafd4794de6352ca50403baaf067c4a024acd3d9b108ca4447d"
+hash = "4caf4cc94d57b05e9e113940ac571ef83aafeee2207e2de897a2fdd68c0959ca"
 metafile = true
 
 [[files]]
@@ -2506,7 +2506,7 @@ metafile = true
 
 [[files]]
 file = "mods/portable-crafting.pw.toml"
-hash = "b8cb26022199fc8563895f1a0ad41f6175080f27947bc7dda74afe5d58e5c50e"
+hash = "f38ce7b2f1209c1c8232a5d76c0282ac218530e58488ec1afbfed903e7112aca"
 metafile = true
 
 [[files]]
@@ -2931,7 +2931,7 @@ metafile = true
 
 [[files]]
 file = "mods/surveyor.pw.toml"
-hash = "829d0ae8aca8eacee77b2706aeb3a9b4636c76f5bb7948c1dde5db6d9bf0628c"
+hash = "8057ab65e227873389ae3ce246fe3e39bf39213b58c7170bdb6801899ea280ee"
 metafile = true
 
 [[files]]
@@ -3121,7 +3121,7 @@ metafile = true
 
 [[files]]
 file = "mods/wakes.pw.toml"
-hash = "fab6ac1665f022c0ca72c73ed0974049f5453b8f4f280092b4aa5ac773fed5c2"
+hash = "2c27fa315f6a06c0c56b12151417d5b3c2f6f1a551b881ffa3a54f010c63956c"
 metafile = true
 
 [[files]]
