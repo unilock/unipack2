@@ -37,7 +37,7 @@
 				{
 					"replace": {
 						"id": "ad_astra",
-						"versions": "1.15.5"
+						"versions": "=1.15.5"
 					},
 					"with": {
 						"id": "ad_astra",
