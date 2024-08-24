@@ -770,8 +770,8 @@ hash = "c47f0b75a9d72538812381243f456bdff9b9467b89863beaf318ad8c8dda317a"
 metafile = true
 
 [[files]]
-file = "mods/astrocraft-mod.pw.toml"
-hash = "868ec54496e43bd0784c926968962e43e75d4b84db1a93ed21556be773fae20e"
+file = "mods/astrocraft.pw.toml"
+hash = "392f2aac613a7b1de6307c7676ba284338ac4f6d7ad4b2ebc717bf138ce07ca1"
 metafile = true
 
 [[files]]
