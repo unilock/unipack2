@@ -1000,7 +1000,7 @@ metafile = true
 
 [[files]]
 file = "mods/botaniacombat.pw.toml"
-hash = "a040afddc107928fda6d2c613b9b70efce6fbe1ebadbe2fdf8af524e57a4309e"
+hash = "cf75771dc172f181069f2be6864e0d2c3c1483b70dee7035c13e5fac15362527"
 metafile = true
 
 [[files]]
@@ -1205,7 +1205,7 @@ metafile = true
 
 [[files]]
 file = "mods/construction-wand-fabric.pw.toml"
-hash = "078eb7e582d353ba7a99bed9b85cd4a4d1fd3e4eb57e549ae4b3d8accfab3336"
+hash = "26fcaa0aeac9eb245f52d4d0522ed8be1fb5a897c550905acec3f309570931fc"
 metafile = true
 
 [[files]]
@@ -1615,7 +1615,7 @@ metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "de134ed84c0efcfb52f94ad2f9f46cb45f53606409253744c59c4daf0c721739"
+hash = "05a97023c38727c4f8e2aef314c3d7447d6f027d03505303b3a11087cf47d82d"
 metafile = true
 
 [[files]]
@@ -2230,7 +2230,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "6812c21ed98b9c28291966622854bc155839c9420a48e1c0f140c56d3b832cd9"
+hash = "68f31f600882d0fddbdcd880398336bb60c76028de1d7b5d50c7fa227d6d5001"
 metafile = true
 
 [[files]]
@@ -2460,7 +2460,7 @@ metafile = true
 
 [[files]]
 file = "mods/peripheralium.pw.toml"
-hash = "773eea8b01f8570be10ac366c20f19cba875e19014f8f1b0ff508996249d7b45"
+hash = "9fd9b86bdb5097fea5f7eafe7cc5561802db9bda3509aa6e5e7801a08ca435c1"
 metafile = true
 
 [[files]]
@@ -2685,7 +2685,7 @@ metafile = true
 
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
-hash = "1a8ac237defdecbf53055ff8b0f64fa6ca5e99e21cf73e2f898f09eb98a9380a"
+hash = "a716c1404c8efc8fc3c5dc9301253cb2b606ded2062d601b8e237e2266b7cd81"
 metafile = true
 
 [[files]]
@@ -3185,7 +3185,7 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
-hash = "aa495cc420c7d2b50f66929119029313352ffa852257c045d406f72f820fbebd"
+hash = "3d5dc49a8ef4b693227c298d32a88bbb83f67f7f02e3bd5314f8337f4d2a217f"
 metafile = true
 
 [[files]]
