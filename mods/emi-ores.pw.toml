@@ -5,4 +5,4 @@ side = "both"
 [download]
 url = "https://play.fennet.rentals/packwiz/unipack2/manual-jars/both/emi_ores-0.4+1.20.1+fabric.jar"
 hash-format = "sha256"
-hash = "e968c7220916716aa62204fe18ce1291b7a5f2312566b77f046d0e97b29a34eb"
+hash = "24b1791cfc908512e33e1f9b84fe76e173a32f35a96af797385ee844cc649898"
