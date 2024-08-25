@@ -665,7 +665,7 @@ metafile = true
 
 [[files]]
 file = "mods/agricraft.pw.toml"
-hash = "cf263d30d45021b779d1607db665aa0293bf5070d0132397da88d2920dfa5324"
+hash = "44ca277511e4360aeab7bc425e8a7178c8ff11c611e12b237fd5ab2593d07305"
 metafile = true
 
 [[files]]
