@@ -655,7 +655,7 @@ metafile = true
 
 [[files]]
 file = "mods/afkdisplay.pw.toml"
-hash = "56cacad6e82765b1071ba4c277153f26711eefaa2d9329b56bb7431b87467b10"
+hash = "cd91bf852f6b5b42043a626839b4b150028426d76af071cbca75f72658b36dfb"
 metafile = true
 
 [[files]]
