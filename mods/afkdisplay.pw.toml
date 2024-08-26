@@ -1,8 +1,8 @@
 name = "AfkDisplay"
-filename = "afkdisplay-1.1.0+1.20.1.jar"
-side = "both"
+filename = "afkdisplay-1.1.0+1.20.1+fabric.jar"
+side = "server"
 
 [download]
-url = "https://play.fennet.rentals/packwiz/unipack2/manual-jars/both/afkdisplay-1.1.0+1.20.1.jar"
+url = "https://play.fennet.rentals/packwiz/unipack2/manual-jars/server/afkdisplay-1.1.0+1.20.1+fabric.jar"
 hash-format = "sha256"
-hash = "65788e12c54112cafe61a83eeda6de18390612a614e95c2911d9084393dd7c79"
+hash = "31e834e8457fc981592ace96849b983747d0e884ab4c99604d23c51be63ce32c"

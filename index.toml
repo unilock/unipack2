@@ -655,7 +655,7 @@ metafile = true
 
 [[files]]
 file = "mods/afkdisplay.pw.toml"
-hash = "90c6d24c94a2aec0637bb5803dfba5124f6df3bb89a5ad073f3d527c6163b44c"
+hash = "ff9106be29906c75cf472de2b3e582f98993571c1797e4a03ce9ecbfa90c1c64"
 metafile = true
 
 [[files]]
@@ -1870,7 +1870,7 @@ metafile = true
 
 [[files]]
 file = "mods/inspecio.pw.toml"
-hash = "1cf070d8ef24ff396376cf435208dd6339945d8a04b917c03a28a92bfeae3ba3"
+hash = "77d2a59e9c95e93889992e3cf2c0ecd302a5817aa29d3629d61cf0ce51741732"
 metafile = true
 
 [[files]]
