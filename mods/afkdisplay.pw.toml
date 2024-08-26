@@ -5,4 +5,4 @@ side = "server"
 [download]
 url = "https://play.fennet.rentals/packwiz/unipack2/manual-jars/server/afkdisplay-1.1.0+1.20.1+fabric.jar"
 hash-format = "sha256"
-hash = "31e834e8457fc981592ace96849b983747d0e884ab4c99604d23c51be63ce32c"
+hash = "a52dc69ed2398f28ee6553c9807605510938dde388d2ec9c2e2b2c9c8aab0a2d"
