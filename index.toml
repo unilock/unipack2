@@ -680,7 +680,7 @@ metafile = true
 
 [[files]]
 file = "mods/alternate-current.pw.toml"
-hash = "c91188fce95259071890dfbffe0165e22122fe6b89e2dc72c7e702a53c0c8285"
+hash = "e27509d05a166a20ba2853b490f64d751b1fae570559c695cd8b0e8a90059a57"
 metafile = true
 
 [[files]]
@@ -1615,7 +1615,7 @@ metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "05a97023c38727c4f8e2aef314c3d7447d6f027d03505303b3a11087cf47d82d"
+hash = "8873cfd73fe9c2089e00cfc762159e779006f49be89a8c138140fefa2c365c9c"
 metafile = true
 
 [[files]]
@@ -1900,7 +1900,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "d97b094e602c4b4fdae9be5ab4455936638ca2b5374f29015b4d90acd9d53853"
+hash = "5b9e7ffc59aa88ec5aefd7ef95d45bbbbb8e2729b4f6357a1ef9f765aee806e2"
 metafile = true
 
 [[files]]
@@ -2940,7 +2940,7 @@ metafile = true
 
 [[files]]
 file = "mods/sushi-bar.pw.toml"
-hash = "d818d0a11d1837477c4fb5f3e3dc7cf24a7152ad7796b8718d142fb0a0bcb0c7"
+hash = "65fc240fd0e26598a98bfd7decc7e99dac36dec19c74d8aa6b3ab86bf1a76700"
 metafile = true
 
 [[files]]
