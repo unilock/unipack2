@@ -2459,6 +2459,11 @@ hash = "23d00998afb2eb62ad65b3d6e52d9b9f37067353fa7d73d7ef58d716cfbe7de5"
 metafile = true
 
 [[files]]
+file = "mods/perfectly-packed.pw.toml"
+hash = "929c0ca4625afcd504db3a049aa83c62fd9b79f4e29fb3b6c6c74993d38c70d3"
+metafile = true
+
+[[files]]
 file = "mods/peripheralium.pw.toml"
 hash = "2287f0d70ea964fdaef93c65cc36dd153ae4bf229963984f174094d3199d7a32"
 metafile = true
