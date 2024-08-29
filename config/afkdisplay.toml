@@ -1,18 +1,41 @@
+# Allows you to disable the /afk command to mark yourself or other players (only for operators) as AFK
+# default: true
 enableAfkCommand = true
+# This will be the value of the placeholder %player:afk% if a player is AFK
+# default: [AFK]
 afkPlaceholder = "[AFK] "
 
 [packetOptions]
-timeoutSeconds = 180
-resetOnMovement = true
-resetOnLook = false
+	# The time without actions after which a player is considered AFK. Set to -1 to disable automatic AFK detection.
+	# default: 180
+	timeoutSeconds = 180
+	# Consider players that moved no longer AFK (enables easy bypass methods like AFK pools)
+	# default: false
+	resetOnMovement = false
+	# Consider players which looked around no longer AFK
+	# default: false
+	resetOnLook = true
 
 [playerListOptions]
-enableListDisplay = true
-afkColor = "gray"
-afkPlayerName = "[AFK] %player:name%"
+	# Change the playerlist name for players who are AFK
+	# default: true
+	enableListDisplay = false
+	# The color for AFK players in the playerlist
+	# default: gray
+	afkColor = "gray"
+	# The name that is shown in the playerlist if a player is AFK
+	# default: [AFK] %player:displayname%
+	afkPlayerName = "[AFK] %player:name%"
 
 [messageOptions]
-enableChatMessages = true
-messageColor = "gold"
-wentAfk = "%player:name% is now AFK"
-returned = "%player:name% is no longer AFK"
+	# Send chat messages when a player starts or stops being AFK
+	# default: true
+	enableChatMessages = true
+	# The color of those chat messages
+	# default: yellow
+	messageColor = "gold"
+	# The message content
+	# default: %player:displayname% is now AFK
+	wentAfk = "%player:name% is now AFK"
+	# default: %player:displayname% is no longer AFK
+	returned = "%player:name% is no longer AFK"

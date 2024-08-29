@@ -1,4 +1,5 @@
 {
+    "can_loop_de_loop": true,
     "armor_slows": false,
     "can_slow_fall": false,
     // Type: Float

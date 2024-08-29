@@ -1,6 +1,6 @@
 {
     "ModSettings": {
-        "sort_order": "ITEM_ID",
+        "sort_order": "CUSTOM",
         "include_hotbar_modifier": {
             "main": {
                 "keys": ""
@@ -33,7 +33,7 @@
         },
         "enable_auto_refill": {
             "main": {
-                "keys": "G"
+                "keys": "Y"
             }
         },
         "villager_trading_enable": {
@@ -114,6 +114,11 @@
             }
         },
         "scroll_throw": {
+            "main": {
+                "keys": ""
+            }
+        },
+        "temp_disable": {
             "main": {
                 "keys": ""
             }
@@ -205,11 +210,6 @@
             }
         },
         "do_local_trade": {
-            "main": {
-                "keys": ""
-            }
-        },
-        "copy_nbt": {
             "main": {
                 "keys": ""
             }

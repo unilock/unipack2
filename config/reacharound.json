@@ -1,12 +1,22 @@
 {
   "enabled": true,
-  "mode": 0,
-  "indicatorStyle": 1,
+  "offhand": true,
+  "render2d": true,
+  "render3d": false,
+  "axis": 0,
+  "indicator2DStyle": 1,
+  "indicator3DStyle": 0,
   "indicatorVertical": "|   |",
   "indicatorHorizontal": "{   }",
-  "indicatorColor": -1,
-  "indicatorColorObstructed": -43691,
+  "indicatorColor2D": -1,
+  "indicatorColor2DObstructed": -43691,
+  "indicatorColor3DOutline": -1442840576,
+  "indicatorColor3DSolid": 1140850688,
+  "indicatorColor3DObstructedOutline": -1426107051,
+  "indicatorColor3DObstructedSolid": 1157584213,
   "indicatorAnimationDuration": 5,
   "indicatorAnimationInterpolation": 2,
-  "indicatorAnimationFadeInterpolation": 2
+  "indicatorAnimationFadeInterpolation": 2,
+  "indicatorOffsetX": 0.0,
+  "indicatorOffsetY": 0.0
 }

@@ -127,6 +127,8 @@
   },
   "compatConfig": {
     "standardDropRuleInClaim": "PUT_IN_GRAVE",
+    "enableAccessoriesCompat": true,
+    "defaultAccessoriesDropRule": "PUT_IN_GRAVE",
     "enableInventorioCompat": true,
     "defaultInventorioDropRule": "PUT_IN_GRAVE",
     "enableLevelzCompat": true,

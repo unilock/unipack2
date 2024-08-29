@@ -1,2 +1,0 @@
-# List of Identifiers of ArgumentTypes to ignore
-ignored = ["minecraft:block_placement_type", "minecraft:pocket"]

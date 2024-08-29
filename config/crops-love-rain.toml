@@ -2,12 +2,12 @@
 	rainGrowthSpeed = 6
 	useRainGrowthSpeed = true
 [individual]
-	useIndividualSpeeds = false
+	useGeneralSpeedSaplings = true
+	sugarCaneCustomSpeed = 10
+	bambooCustomSpeed = 10
 	useGeneralSpeedBamboo = true
 	useGeneralSpeedCrops = true
-	useGeneralSpeedSaplings = true
-	useGeneralSpeedSugarCane = true
-	bambooCustomSpeed = 10
 	cropsCustomSpeed = 10
+	useGeneralSpeedSugarCane = true
+	useIndividualSpeeds = false
 	saplingCustomSpeed = 10
-	sugarCaneCustomSpeed = 10

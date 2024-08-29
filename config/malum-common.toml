@@ -1,4 +1,3 @@
-
 [spirit]
 	#If set to true, any spirits dropped will simply take the form of an item.
 	noFancySpirits = false
@@ -6,13 +5,10 @@
 	[spirit.spawner]
 		#If set to true, mob spawners will create soulless mobs instead.
 		lameSpawners = false
-
 	[spirit.defaults]
 		#Whether entities without spirit jsons will use the default spirit data for their category.
 		defaultSpiritValues = true
-
 	[spirit.affinity]
-
 		[spirit.affinity.soul_ward]
 			#Multiplier for magic damage taken while soul ward is active.
 			#Range: 0.0 ~ 1.0
@@ -22,14 +18,10 @@
 			#Multiplier for physical damage taken while soul ward is active.
 			#Range: 0.0 ~ 1.0
 			soulWardPhysical = 0.7
-
 [codex]
 	#If set to true, the first undead enemy a player slays will drop the encyclopedia arcana.
 	enableCodexDrop = false
-
 [item]
-
 	[item.rebound]
 		#If set to true, you may put rebound on any weapon in the game.
 		enableUltimateRebound = false
-

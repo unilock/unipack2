@@ -11,7 +11,7 @@ enable_lightmap_caching: true
 lightmap_time_change_needed_for_update: 80
 
 # Whether the sky's color should be cached unless you're on a biome border.
-enable_sky_color_caching: true
+enable_sky_color_caching: false
 # How much the in-game time must change in ticks for the sky color to
 # be recalculated with our own calculation. Higher values will result in
 # the sky updating less frequently, but slightly better performance.

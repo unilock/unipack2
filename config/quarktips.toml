@@ -7,4 +7,3 @@ enchantingStacks = ["minecraft:diamond_sword", "minecraft:diamond_pickaxe", "min
 enchantingAdditionalStacks = []
 # Screens that should not show the tooltip (bandaid fix)
 enchantingBlacklistedScreens = ["com.unascribed.exco.client.screen.TerminalScreen"]
-

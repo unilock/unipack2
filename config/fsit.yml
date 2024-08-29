@@ -5,9 +5,6 @@ sitting:
   apply_gravity: true
   # Allows sitting even if not standing on a solid block.
   allow_in_air: true
-riding:
-  # Whether to hide a player's rider when the player is not looking at him.
-  hide_rider: true
 on_use:
   # Allows to start sitting on specific blocks by interacting with them.
   sitting: true

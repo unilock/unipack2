@@ -1,0 +1,3 @@
+@custom
+	minecraft:enchanted_book(sub_rule = ::by_nbt(nbt_path = StoredEnchantments))
+	@item_id
