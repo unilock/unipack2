@@ -705,7 +705,7 @@ metafile = true
 
 [[files]]
 file = "mods/amethyst-imbuement.pw.toml"
-hash = "f6527681d1d338784442528c2e9e1962d55f0ae3f7873e12c285ea680a73cd26"
+hash = "8ed94b9c4a704c4929572f973690ad26d1e7c7d893a6c613dd2d92fc35329432"
 metafile = true
 
 [[files]]
@@ -1400,7 +1400,7 @@ metafile = true
 
 [[files]]
 file = "mods/elytra-trims.pw.toml"
-hash = "5714a971888c89d6a7f157f378a7c656612b5726cb000fa6f0a85f67c3bdaa68"
+hash = "c9bb3993b3ea6aa2da21bec438837aa5807c6e2b964c4059689dbd63e35ae037"
 metafile = true
 
 [[files]]
@@ -1520,7 +1520,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabrication.pw.toml"
-hash = "934201fdb3163539be2bca6b6e79f5f4009bc8919f787e217362b325740dd0f1"
+hash = "b7c72a82db26fac07710c49364dae56f177f4aab6c189bf579891567fbec09f1"
 metafile = true
 
 [[files]]
@@ -1640,7 +1640,7 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.pw.toml"
-hash = "33dfeaeec4730da684884aff3b41b7ff2ed43839239c36c762b3102524ebdce3"
+hash = "725ddece2a447ba7bbb7c4538c91c948e0890bf65497884af65b90a6865d1ee8"
 metafile = true
 
 [[files]]
@@ -1900,7 +1900,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "5b9e7ffc59aa88ec5aefd7ef95d45bbbbb8e2729b4f6357a1ef9f765aee806e2"
+hash = "e25e624cb32783b04a709c2ff6552bda7f1ebca981a0c88ff98814afe98750d2"
 metafile = true
 
 [[files]]
@@ -2930,7 +2930,7 @@ metafile = true
 
 [[files]]
 file = "mods/supermartijn642s-core-lib.pw.toml"
-hash = "4a9b09e2702f231a4d9fe598d23c07f6587df61a67c3689f11c1a7b0c5bb146c"
+hash = "da31954dee4b88e0bedbda2414d3b225f5df997d8f597fda208572ec07c2152b"
 metafile = true
 
 [[files]]
