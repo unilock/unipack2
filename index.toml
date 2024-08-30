@@ -274,7 +274,7 @@ hash = "14ef301a525006a33ab0d4742540763a77044182bc3733934032e4483717d42c"
 
 [[files]]
 file = "config/gearifiers/config.toml"
-hash = "31fa7cca5485d67a7d7c026e28ce8979d1c02d06efd0ea00401989b627379dcb"
+hash = "1fd188ced65e3c21e1b0908c39a7ee401f4a3bf4f6723167c032fb49c0e07ce9"
 
 [[files]]
 file = "config/geologicexpansion.json"

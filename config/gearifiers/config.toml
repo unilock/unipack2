@@ -27,7 +27,38 @@ useRepairIngredient = "NO"
 defaultPaymentItem = "minecraft:diamond"
 paymentItemScaling = 0.0
 maxLegendarySealUses = 1
-disabledModifiers = [  ]
+disabledModifiers = [
+    "gearifiers:additive",
+    "gearifiers:betraying",
+    "gearifiers:blunt",
+    "gearifiers:clanging",
+    "gearifiers:clumsy",
+    "gearifiers:crumbling",
+    "gearifiers:destroyed",
+    "gearifiers:disrepaired",
+    "gearifiers:double_edged",
+    "gearifiers:dull",
+    "gearifiers:greater_crumbling",
+    "gearifiers:harsh",
+    "gearifiers:infirm",
+    "gearifiers:jarring",
+    "gearifiers:lesser_limiting",
+    "gearifiers:lesser_stubby",
+    "gearifiers:limiting",
+    "gearifiers:rounded",
+    "gearifiers:slow",
+    "gearifiers:sluggish",
+    "gearifiers:stubby",
+    "gearifiers:super_unlucky",
+    "gearifiers:tattered",
+    "gearifiers:thin",
+    "gearifiers:unlucky",
+    "gearifiers:unpointy",
+    "gearifiers:unsubstantial",
+    "gearifiers:unwieldy",
+    "gearifiers:useless",
+    "gearifiers:wimpy"
+]
 
 [modifiers.rerollCosts]
 enabled = true
