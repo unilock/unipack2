@@ -1,8 +1,13 @@
 name = "Affinity"
-filename = "affinity-0.1.0+1.20.jar"
+filename = "affinity-0.1.1+1.20.jar"
 side = "both"
 
 [download]
-url = "https://play.fennet.rentals/packwiz/unipack2/manual-jars/both/affinity-0.1.0+1.20.jar"
-hash-format = "sha256"
-hash = "7ffae0423da858b8be99d69f0788128566cd7517e8b6d0b4be439e3b081d6162"
+hash-format = "sha1"
+hash = "09d5612d41c92b7d42ca65529b9137cbaed12d14"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5646665
+project-id = 938918

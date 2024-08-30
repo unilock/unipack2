@@ -654,7 +654,7 @@ metafile = true
 
 [[files]]
 file = "mods/affinity.pw.toml"
-hash = "5e47026fb9096fc0480095ad8771cc088285a631a55a73e833e451fe7e884372"
+hash = "13b0b02b9b0c6351068442c037bd7a944f086dbe9da38db092ffc2bff882c98a"
 metafile = true
 
 [[files]]
@@ -1449,7 +1449,7 @@ metafile = true
 
 [[files]]
 file = "mods/enchanting-max-level.pw.toml"
-hash = "e412d14cabdc5d9b5e46767228ed2e73d22c2d1a232bd38225cebd875de0ba1e"
+hash = "55bf9f8e6aa71f4d225f4a2b2caf2b6e0ce70cf9998b7c3e47eeb76adbc6ec56"
 metafile = true
 
 [[files]]
