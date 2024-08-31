@@ -1409,7 +1409,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi-loot.pw.toml"
-hash = "27ff46564582fa1411a0abd2cf5b45034f295435ec8dbb29493c1e8ea08c3c12"
+hash = "4f9ad8f8959bee54b4fd61a727933eefb18794c38fedf6ad03688d76c1f1163f"
 metafile = true
 
 [[files]]
@@ -3296,6 +3296,10 @@ hash = "716d058f0d86aee120e8f3a876538e902e749b4de0b946eae3172b4fb52ee2b7"
 [[files]]
 file = "resources/assets/spiceoffabric/lang/en_us.json"
 hash = "af973310a8f91854d1ac4c5990bf34557058967316e22df29804c5328e591bd1"
+
+[[files]]
+file = "resources/assets/unipack/lang/en_us.json"
+hash = "0cb1e9c5f6b279068bbc7d4facf18a6e08dcaa8d81b2ff5db817175c6981cfdc"
 
 [[files]]
 file = "resources/data/abridged/loot_tables/chests/badlands_mining.json"
