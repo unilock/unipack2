@@ -1,8 +1,13 @@
 name = "EMI Loot"
-filename = "emi_loot-0.7.0+1.20.1.jar"
+filename = "emi_loot-0.7.1+1.20.1.jar"
 side = "both"
 
 [download]
-url = "https://play.fennet.rentals/packwiz/unipack2/manual-jars/both/emi_loot-0.7.0+1.20.1.jar"
-hash-format = "sha256"
-hash = "485ca6231b858a88690397469c33dbe60bf070babd648313959231c2254f0a02"
+hash-format = "sha1"
+hash = "cdddf165acbbc4d36889ac4f3820bbcbd670ecb2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5681234
+project-id = 681783

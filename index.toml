@@ -221,10 +221,6 @@ file = "config/elytra-trims.json"
 hash = "c54febee99f46f696a3dd99e6eb8748a7eb0a7df34ba92bd62f7387a78e372d9"
 
 [[files]]
-file = "config/emi_loot_config.toml"
-hash = "d275cb8c17067cbd5cb100c2c443fafeec66f2f5692a54d3fe132ae9324875fd"
-
-[[files]]
 file = "config/enchancement.json"
 hash = "22fe3904861b435364aa2e0dbb323a9453f8b2f2254436e325e1df5fc81cf420"
 
@@ -1413,7 +1409,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi-loot.pw.toml"
-hash = "4f9ad8f8959bee54b4fd61a727933eefb18794c38fedf6ad03688d76c1f1163f"
+hash = "4fc80c2140af76dbec6a91abecd29e0d574bc8ad54d199b32af4771b0691ef06"
 metafile = true
 
 [[files]]
