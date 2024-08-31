@@ -779,7 +779,7 @@ metafile = true
 
 [[files]]
 file = "mods/astrocraft.pw.toml"
-hash = "392f2aac613a7b1de6307c7676ba284338ac4f6d7ad4b2ebc717bf138ce07ca1"
+hash = "6bdcb2545077c014f2cb177362bd80fc708eb29aafca6c94b989402b91a06d6a"
 metafile = true
 
 [[files]]
@@ -3209,7 +3209,7 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
-hash = "3d5dc49a8ef4b693227c298d32a88bbb83f67f7f02e3bd5314f8337f4d2a217f"
+hash = "56096b6bdb7c538d226a8b7b850d6857fb49e75a6f3263852a8aba2f4a218163"
 metafile = true
 
 [[files]]
