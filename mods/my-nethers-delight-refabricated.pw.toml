@@ -1,0 +1,13 @@
+name = "My Nether's Delight Refabricated"
+filename = "MyNethersDelight-1.20.1-0.1.0.0+0.1.7.5.refabricated.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "83f51608658a8cef7dec43a5ede9e3376be827f7"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5676065
+project-id = 1093355

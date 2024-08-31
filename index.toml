@@ -2268,6 +2268,11 @@ hash = "f07572689c9171b5ac9926bf6cd4022b9ff24d02dba2afeca07a5ca622fa7d80"
 metafile = true
 
 [[files]]
+file = "mods/my-nethers-delight-refabricated.pw.toml"
+hash = "1a3ed5bde3d2d1e898784b4415404e37b01837e84e036f3cc4e74799337181d9"
+metafile = true
+
+[[files]]
 file = "mods/mythicmetals-decorations.pw.toml"
 hash = "0ef70d3f2ba3f21a7149e8958720225ef09b2f381f5b4d353e0779e4a39a3a2a"
 metafile = true
@@ -2315,11 +2320,6 @@ metafile = true
 [[files]]
 file = "mods/netherportalfix-fabric.pw.toml"
 hash = "23ab8cbe4992e305825d977af0aa8d023a7acff693d0a3a311dae1e78f43a5d1"
-metafile = true
-
-[[files]]
-file = "mods/nethers-delight-refabricated.pw.toml"
-hash = "43c7de5a26ce576577c1684a6b36416a8896a5c96a593149acbc33c61cb38176"
 metafile = true
 
 [[files]]
