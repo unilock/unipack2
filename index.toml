@@ -1409,7 +1409,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi-loot.pw.toml"
-hash = "0c95afc7e60d3689a65e6d2145f467b0aa6e09e8318071ecd53f6273b139174e"
+hash = "27ff46564582fa1411a0abd2cf5b45034f295435ec8dbb29493c1e8ea08c3c12"
 metafile = true
 
 [[files]]
@@ -1909,7 +1909,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "e25e624cb32783b04a709c2ff6552bda7f1ebca981a0c88ff98814afe98750d2"
+hash = "d36d8399627473106253e217ecde671a02297449660d4221947045435bfea833"
 metafile = true
 
 [[files]]
@@ -2955,6 +2955,11 @@ metafile = true
 [[files]]
 file = "mods/sushi-bar.pw.toml"
 hash = "65fc240fd0e26598a98bfd7decc7e99dac36dec19c74d8aa6b3ab86bf1a76700"
+metafile = true
+
+[[files]]
+file = "mods/symbols-n-stuff.pw.toml"
+hash = "9b42e6bc3643834815c3899edf97ea456fcf2cf2bc7ed6a7e94e28dcb93b8a53"
 metafile = true
 
 [[files]]

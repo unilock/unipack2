@@ -1,0 +1,13 @@
+name = "Symbols 'n' Stuff"
+filename = "symbols_n_stuff-0.1.1+1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8a1c2f4f6ee44b548cafc0eb51e6827cd92d23d3"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5678815
+project-id = 1091274
