@@ -240,6 +240,21 @@
 					}
 				}
 			]
+		},
+		{
+			"id": "symbols_n_stuff",
+			"depends": [
+				{
+					"replace": {
+						"id": "fabric-language-kotlin",
+						"versions": ">=1.10.18+kotlin.1.9.22"
+					},
+					"with": {
+						"id": "fabric-language-kotlin",
+						"versions": ">=1.10.10+kotlin.1.9.10"
+					}
+				}
+			]
 		}
 	]
 }
