@@ -1518,6 +1518,11 @@ hash = "7667b7c9026afecc88ef430e058355f112afc2b4a377c66b303f397710596171"
 metafile = true
 
 [[files]]
+file = "mods/f3-everywhere.pw.toml"
+hash = "8618cffbf632ed808abda2da600447d47866dafa2fc02c6e488289e8ae453acf"
+metafile = true
+
+[[files]]
 file = "mods/fabric-hammers.pw.toml"
 hash = "4541e9c11394a99bc2fddbf9fac5e2cec0fc1134a04b756a439f30220b63cd8b"
 metafile = true
