@@ -1914,7 +1914,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "d36d8399627473106253e217ecde671a02297449660d4221947045435bfea833"
+hash = "b4a74c7665c95740c9c0058adf3a38273ca5d548bd110027a4fae544319d31bf"
 metafile = true
 
 [[files]]
@@ -2299,7 +2299,7 @@ metafile = true
 
 [[files]]
 file = "mods/natures-spirit.pw.toml"
-hash = "bbc2382b3059993d49031beb889427ac35f54d94d898d7fab4fe464562a36e91"
+hash = "8f9a4f7d61b13c429d308ca965e1e3f0d2081e8a90c026c5f698ad71470e0b9f"
 metafile = true
 
 [[files]]
