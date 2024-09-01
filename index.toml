@@ -1329,7 +1329,7 @@ metafile = true
 
 [[files]]
 file = "mods/dimensionaldoors.pw.toml"
-hash = "52ac774e7dbd7334684293bbaca5244525207125b528b5aab37be6b4ef2cb44a"
+hash = "ec9aacd70ddf41a22851e04eae99454183300b5cae34859f498f7eb8cf5fddb1"
 metafile = true
 
 [[files]]
@@ -3616,22 +3616,6 @@ hash = "cb48b5226a0f6389d319634bc1d31ac77f4054e12e0ff870f117a44c6cca4cca"
 [[files]]
 file = "resources/data/culturaldelights/loot_tables/blocks/avocado_leaves.json"
 hash = "ee6d4d14a7b6b601a85d26cd479565379417ae184972a7549e7257f7bf6df46b"
-
-[[files]]
-file = "resources/data/dimdoors/worldgen/placed_feature/end_gateway.json"
-hash = "63f302ecd91aedfde3546712db84bf85474fcca9e1db67f95fbdb2788b582612"
-
-[[files]]
-file = "resources/data/dimdoors/worldgen/placed_feature/limbo_gateway.json"
-hash = "ee053171c7a7559183a5cb1e25f81d54229a83176414d3309a7ac75b9e4c6853"
-
-[[files]]
-file = "resources/data/dimdoors/worldgen/placed_feature/sandstone_pillars.json"
-hash = "c61f54602bea11c2c6f7c8f27e6874a8ee6d8bf45f1ebcc806e3e635bc429d78"
-
-[[files]]
-file = "resources/data/dimdoors/worldgen/placed_feature/two_pillars.json"
-hash = "8da4e2192febe777e97b6500b09dd85de8703305fc8036fd021f8e82ee6c8acb"
 
 [[files]]
 file = "resources/data/hexcasting/advancements/grant_patchi_book.json"

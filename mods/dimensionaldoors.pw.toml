@@ -1,14 +1,13 @@
 name = "DimensionalDoors"
-filename = "dimdoors-5.3.5-1.20.1-fabric.jar"
+filename = "dimdoors-5.4.1-fabric.jar"
 side = "both"
-pin = true
 
 [download]
 hash-format = "sha1"
-hash = "a41b7bb9b390246ba857ab471d73cf00d1ec4be6"
+hash = "87eacbe440449b2e145fdfc64bc2c5df5313a69f"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5375111
+file-id = 5617424
 project-id = 284876
