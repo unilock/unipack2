@@ -2763,6 +2763,11 @@ hash = "687e228160d55719a63fd2815e660505df859d97d84ed97bd835015cb2d3f174"
 metafile = true
 
 [[files]]
+file = "mods/scooters.pw.toml"
+hash = "994406c485e14a3a01897c45e9b8493d35cb04ce2210fc07a897a23c967afa36"
+metafile = true
+
+[[files]]
 file = "mods/seamless.pw.toml"
 hash = "b71dbeffb1ab80f098523c02a26b5fbdf9752e4eb4c7ca720e23c9120f3c4884"
 metafile = true
