@@ -1403,11 +1403,6 @@ hash = "d20a26e75e5d62f2f19afaa45904863070a9a5d7582b5fe95abbb445317847ef"
 metafile = true
 
 [[files]]
-file = "mods/elytra-trims.pw.toml"
-hash = "0bd8a6dee961aaa0d607513f0faabac1f3b67c3988c32f01a28c113ed2a63932"
-metafile = true
-
-[[files]]
 file = "mods/emi-loot.pw.toml"
 hash = "4fc80c2140af76dbec6a91abecd29e0d574bc8ad54d199b32af4771b0691ef06"
 metafile = true
