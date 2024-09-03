@@ -107,21 +107,6 @@
 			]
 		},
 		{
-			"id": "hexsky",
-			"depends": [
-				{
-					"replace": {
-						"id": "fabricloader",
-						"versions": ">=0.16.0"
-					},
-					"with": {
-						"id": "fabricloader",
-						"versions": ">=0.15.11"
-					}
-				}
-			]
-		},
-		{
 			"id": "imbued_gear",
 			"depends": [
 				{
@@ -132,6 +117,21 @@
 					"with": {
 						"id": "fabric-language-kotlin",
 						"versions": ">=1.10.10+kotlin.1.9.10"
+					}
+				}
+			]
+		},
+		{
+			"id": "multilinemastery",
+			"depends": [
+				{
+					"replace": {
+						"id": "fabricloader",
+						"versions": ">=0.16.3"
+					},
+					"with": {
+						"id": "fabricloader",
+						"versions": ">=0.16.2"
 					}
 				}
 			]
