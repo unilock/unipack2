@@ -1,13 +1,13 @@
 name = "Lodestone"
-filename = "lodestone-1.20.1-1.6.2.1b-fabric.jar"
+filename = "lodestone-1.20.1-1.6.2.2-fabric.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "bb15927ace64e6f2131d3769abc9a9a083490731"
+hash = "d3409c1e24517eb4ae5108e5386915cb98b4f074"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5609062
+file-id = 5694338
 project-id = 616457

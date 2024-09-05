@@ -759,7 +759,7 @@ metafile = true
 
 [[files]]
 file = "mods/artifacts.pw.toml"
-hash = "82cda9da7129ebbf2f3dcdcd31e2d1a74e3bd4541750bb48078585d67382bd0b"
+hash = "63470864e8511f28cb971475b8b209f37df57b348e3ac61b363f49707536260f"
 metafile = true
 
 [[files]]
@@ -1779,7 +1779,7 @@ metafile = true
 
 [[files]]
 file = "mods/hexsky.pw.toml"
-hash = "85dc627beebf330092e95068b227f971d43e4e963abbbf026d375658fbfad3a9"
+hash = "7b515c060e3d8b1d5b4b42b6b555323512b642639e11d65ce099b33dbd169cd8"
 metafile = true
 
 [[files]]
@@ -1909,7 +1909,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "7169695f3d4723f177676367e370b482a17574d15b27bae4f35f4cdc069e6b98"
+hash = "c41f5b3851b5a19812deae87cebe3f19d8d9afdd8f95366f481ab4d49cbdaf3c"
 metafile = true
 
 [[files]]
@@ -2094,7 +2094,7 @@ metafile = true
 
 [[files]]
 file = "mods/lodestone.pw.toml"
-hash = "92d96f1577936f020fd678d919e0ded5d2c55ed53849192f818c9a7a1ecd5795"
+hash = "0fde007fc22ff5da4b5c8c92431bccc4a3a13349fa917264a146060cdef466f7"
 metafile = true
 
 [[files]]
@@ -2139,7 +2139,7 @@ metafile = true
 
 [[files]]
 file = "mods/malum.pw.toml"
-hash = "8396eef54d18739b30acb6a4fc0ab5afef70193c98510c6a8ccef717009a98c1"
+hash = "54e0940518e28cdcb41717da9841e31bf2f0c4de6966330cfbbd7ebd880a3634"
 metafile = true
 
 [[files]]

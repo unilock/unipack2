@@ -1,13 +1,13 @@
 name = "Hexxy Skies"
-filename = "hexsky-fabric-1.0.5.jar"
+filename = "hexsky-fabric-1.0.6.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/ta01udVD/versions/u36GELtJ/hexsky-fabric-1.0.5.jar"
+url = "https://cdn.modrinth.com/data/ta01udVD/versions/ZsXIim7b/hexsky-fabric-1.0.6.jar"
 hash-format = "sha1"
-hash = "1592e7fc1110254640bea95a971fc922316e3e0f"
+hash = "0ae42a733d60c108348be97cbfeb08574cad481f"
 
 [update]
 [update.modrinth]
 mod-id = "ta01udVD"
-version = "u36GELtJ"
+version = "ZsXIim7b"

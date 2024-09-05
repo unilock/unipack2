@@ -1,13 +1,13 @@
 name = "Malum"
-filename = "malum-1.20.1-1.6.2.0i-fabric.jar"
+filename = "malum-1.20.1-1.6.2.1-fabric.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "829e5da5d8ecdfb53efb7ece4931a25fd29e6e6c"
+hash = "92e84cfe04df78b1d034a889631e7e2c547dae04"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5688971
+file-id = 5694343
 project-id = 484064
