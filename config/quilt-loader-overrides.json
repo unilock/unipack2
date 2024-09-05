@@ -122,6 +122,21 @@
 			]
 		},
 		{
+			"id": "jei",
+			"depends": [
+				{
+					"replace": {
+						"id": "fabricloader",
+						"versions": ">=0.16.3"
+					},
+					"with": {
+						"id": "fabricloader",
+						"versions": ">=0.16.2"
+					}
+				}
+			]
+		},
+		{
 			"id": "multilinemastery",
 			"depends": [
 				{
