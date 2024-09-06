@@ -2143,6 +2143,11 @@ hash = "f14660be4c4cbc78a43756aafe528e956851119fcc5023139e82c18f8c520082"
 metafile = true
 
 [[files]]
+file = "mods/malum-void-bound.pw.toml"
+hash = "1163bfb99b890fbcb64b9b25454dc0ee1daa4e52b82ff7b9288f3b9c70888bae"
+metafile = true
+
+[[files]]
 file = "mods/malum.pw.toml"
 hash = "54e0940518e28cdcb41717da9841e31bf2f0c4de6966330cfbbd7ebd880a3634"
 metafile = true
