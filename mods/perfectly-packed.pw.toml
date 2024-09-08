@@ -1,13 +1,13 @@
 name = "Perfectly Packed"
-filename = "perfectlypacked_1.20-1.0.jar"
+filename = "perfectlypacked-1.1.1+1.20.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/lwQvUJec/versions/eMX4vujJ/perfectlypacked_1.20-1.0.jar"
+url = "https://cdn.modrinth.com/data/lwQvUJec/versions/jFMp0Muw/perfectlypacked-1.1.1%2B1.20.1.jar"
 hash-format = "sha1"
-hash = "b65663d0b67a26e20c4c9da019c3713773b6a8ba"
+hash = "d4aa18e99978af9c54b6845d110d151927c0377e"
 
 [update]
 [update.modrinth]
 mod-id = "lwQvUJec"
-version = "eMX4vujJ"
+version = "jFMp0Muw"

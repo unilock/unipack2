@@ -779,7 +779,7 @@ metafile = true
 
 [[files]]
 file = "mods/astrocraft.pw.toml"
-hash = "6bdcb2545077c014f2cb177362bd80fc708eb29aafca6c94b989402b91a06d6a"
+hash = "9b1945053650d53ee7ea6c2cb1aff49c458d980100e58887e768965a954cd92a"
 metafile = true
 
 [[files]]
@@ -1079,7 +1079,7 @@ metafile = true
 
 [[files]]
 file = "mods/chest-tracker.pw.toml"
-hash = "9079215420621e17cc9a19fb14a925c5bf35aad4f9e5213d25f6f0cfec750b1e"
+hash = "59f67bf3e4e28e7a707a24a8087d53b5d03c55720fca1b4d747df2e780042376"
 metafile = true
 
 [[files]]
@@ -2099,7 +2099,7 @@ metafile = true
 
 [[files]]
 file = "mods/lodestone.pw.toml"
-hash = "0fde007fc22ff5da4b5c8c92431bccc4a3a13349fa917264a146060cdef466f7"
+hash = "8636e86469859bbdb9d927a11ea3af78255d3f201984a7289718c200cf7e51ba"
 metafile = true
 
 [[files]]
@@ -2144,7 +2144,7 @@ metafile = true
 
 [[files]]
 file = "mods/malum-void-bound.pw.toml"
-hash = "1163bfb99b890fbcb64b9b25454dc0ee1daa4e52b82ff7b9288f3b9c70888bae"
+hash = "ab1c27ab77e044ab135707b7666f338335c1eb3f6e7c527d5c6344d2a0a0e89f"
 metafile = true
 
 [[files]]
@@ -2354,7 +2354,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "c1af094459b98cec11530cdaefc40588728aa0384d90e1a9c6d5deae47a900d5"
+hash = "156495b9b9cfa4471e61098866483138f4a9cfc5d4ad853bba0e502f96d38048"
 metafile = true
 
 [[files]]
@@ -2479,7 +2479,7 @@ metafile = true
 
 [[files]]
 file = "mods/perfectly-packed.pw.toml"
-hash = "929c0ca4625afcd504db3a049aa83c62fd9b79f4e29fb3b6c6c74993d38c70d3"
+hash = "42fb5c9ca1d7a719e48aab3ee7006d58c4fd4ae892476d3b7a3b809937162f5d"
 metafile = true
 
 [[files]]
@@ -2824,7 +2824,7 @@ metafile = true
 
 [[files]]
 file = "mods/snow-real-magic-fabric.pw.toml"
-hash = "1574e5c3b0a69fdd0da15f1bef65e51a6c4fb68e0af94d73d707641a274eac51"
+hash = "d298611e601fe6cad7850392aaa95948adc78f4a3506d6ba90b3807ce7c142ec"
 metafile = true
 
 [[files]]
