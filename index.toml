@@ -137,10 +137,6 @@ file = "config/chatpatches.json"
 hash = "83d3220bfc144c8fa3aad1a0b47d92fc95d075fe76deaee8ffd0fb5d6da163ae"
 
 [[files]]
-file = "config/chesttracker.json5"
-hash = "47bed7a9cefc8ff43ad80fde94f71f2960eac04352460051517df44053da7802"
-
-[[files]]
 file = "config/chunkloaders-common.toml"
 hash = "ebd6c759208a0f3412321a9ee98057e9a8e440b53120de7a02ca1e91a1e860e0"
 
@@ -1078,11 +1074,6 @@ hash = "463940fb8de3fb34480eec0d2405428dfd70732cfda966bcf6de2a9e846e7fff"
 metafile = true
 
 [[files]]
-file = "mods/chest-tracker.pw.toml"
-hash = "59f67bf3e4e28e7a707a24a8087d53b5d03c55720fca1b4d747df2e780042376"
-metafile = true
-
-[[files]]
 file = "mods/chisel-reborn.pw.toml"
 hash = "2d60a3dac1a7914a23887b81437b564e059513fbf8ffe0273f6099110485e4df"
 metafile = true
@@ -1479,7 +1470,7 @@ metafile = true
 
 [[files]]
 file = "mods/excorrelation.pw.toml"
-hash = "1b288b50af6d159b52299342e0a988c3c47b6b41ba0d7f729ada8e59ec373103"
+hash = "f7a2c59667d51a79a76431745e75d925ac7785df2e783e6a220d75f80cd6f2ec"
 metafile = true
 
 [[files]]
@@ -2794,7 +2785,7 @@ metafile = true
 
 [[files]]
 file = "mods/shutup.pw.toml"
-hash = "879756fd3962f31f409e7eda9468ec247a148f92cb3a04f2ef6584898ec545e8"
+hash = "87e7937643ed027af2957d3645edc473dac30eef34100b4009eb0d773ed6f2b6"
 metafile = true
 
 [[files]]
