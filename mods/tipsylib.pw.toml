@@ -1,13 +1,13 @@
 name = "TipsyLib"
-filename = "TipsyLib-fabric-1.20.1-2.0.8.jar"
+filename = "TipsyLib-fabric-1.20.1-2.0.9.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "b44950341c1ae14a2faccae186dd485f5a0889e1"
+hash = "0c5507038bf2c349e2caa7ecaf801feb207a8270"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5426408
+file-id = 5704669
 project-id = 880879

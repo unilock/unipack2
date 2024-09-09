@@ -1,13 +1,13 @@
 name = "Malum: Void Bound"
-filename = "voidbound-1.20.1-0.1.2-fabric.jar"
+filename = "voidbound-1.20.1-0.1.3-fabric.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "07a3f11bae4fe80c6d74bd9f9c8767a4d9b2aba2"
+hash = "82b3c5617e6daa8620f7a258b14a97341a6c915c"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5704028
+file-id = 5704572
 project-id = 1097303
