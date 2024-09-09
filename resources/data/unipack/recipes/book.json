@@ -1,137 +1,137 @@
 {
-  "type": "minecraft:crafting_shapeless",
-  "ingredients": [
-    {
-      "item": "minecraft:book"
-    }
-  ],
-  "result": {
-    "item": "eccentrictome:tome",
-    "nbt": {
-      "eccentrictome:version": 1,
-      "eccentrictome:mods": {
-        "botania": {
-          "0": {
-            "id": "botania:lexicon",
-            "Count": 1
-          }
-        },
-        "neepmeat": {
-          "0": {
-            "id": "neepmeat:projector",
-            "Count": 1
-          }
-        },
-        "hexcasting": {
-          "0": {
-            "id": "patchouli:guide_book",
-            "Count": 1,
-            "tag": {
-              "patchouli:book": "hexcasting:thehexbook"
-            }
-          }
-        },
-        "tconstruct": {
-          "0": {
-            "id": "tconstruct:materials_and_you",
-            "Count": 1
-          }
-        },
-        "hibernalherbs": {
-          "0": {
-            "id": "hibernalherbs:grimoire",
-            "Count": 1
-          }
-        },
-        "peculiarpieces": {
-          "0": {
-            "id": "peculiarpieces:peculiar_book",
-            "Count": 1
-          }
-        },
-        "tis3d": {
-          "0": {
-            "id": "tis3d:manual",
-            "Count": 1
-          }
-        },
-        "arcanuscontinuum": {
-          "0": {
-            "id": "patchouli:guide_book",
-            "Count": 1,
-            "tag": {
-              "patchouli:book": "arcanuscontinuum:compendium_arcanus"
-            }
-          }
-        },
-        "things": {
-          "0": {
-            "id": "things:things_almanac",
-            "Count": 1
-          }
-        },
-        "spectrum": {
-          "0": {
-            "id": "spectrum:guidebook",
-            "Count": 1
-          }
-        },
-        "malum": {
-          "0": {
-            "id": "malum:encyclopedia_arcana",
-            "Count": 1
-          }
-        },
-        "conjuring": {
-          "0": {
-            "id": "conjuring:enchiridion",
-            "Count": 1
-          }
-        },
-        "bewitchment": {
-          "0": {
-            "id": "bewitchment:book_of_shadows",
-            "Count": 1
-          }
-        },
-        "modern_industrialization": {
-          "0": {
-            "id": "modern_industrialization:guidebook",
-            "Count": 1
-          }
-        },
-        "amethyst_imbuement": {
-          "0": {
-            "id": "amethyst_imbuement:glistering_tome",
-            "Count": 1
-          }
-        },
-        "ad_astra": {
-          "0": {
-            "id": "patchouli:guide_book",
-            "Count": 1,
-            "tag": {
-              "patchouli:book": "ad_astra:astrodux"
-            }
-          }
-        },
-        "enchanted": {
-          "0": {
-            "id": "patchouli:guide_book",
-            "Count": 1,
-            "tag": {
-              "patchouli:book": "enchanted:getting_started"
-            }
-          }
-        },
-        "affinity": {
-          "0": {
-            "id": "affinity:wispen_testament",
-            "Count": 1
-          }
-        }
-      }
-    },
-    "count": 1
-  }
+	"type": "minecraft:crafting_shapeless",
+	"ingredients": [
+		{
+			"item": "minecraft:book"
+		}
+	],
+	"result": {
+		"item": "eccentrictome:tome",
+		"nbt": {
+			"eccentrictome:version": 1,
+			"eccentrictome:mods": {
+				"botania": {
+					"0": {
+						"id": "botania:lexicon",
+						"Count": 1
+					}
+				},
+				"neepmeat": {
+					"0": {
+						"id": "neepmeat:projector",
+						"Count": 1
+					}
+				},
+				"hexcasting": {
+					"0": {
+						"id": "patchouli:guide_book",
+						"Count": 1,
+						"tag": {
+							"patchouli:book": "hexcasting:thehexbook"
+						}
+					}
+				},
+				"tconstruct": {
+					"0": {
+						"id": "tconstruct:materials_and_you",
+						"Count": 1
+					}
+				},
+				"hibernalherbs": {
+					"0": {
+						"id": "hibernalherbs:grimoire",
+						"Count": 1
+					}
+				},
+				"peculiarpieces": {
+					"0": {
+						"id": "peculiarpieces:peculiar_book",
+						"Count": 1
+					}
+				},
+				"tis3d": {
+					"0": {
+						"id": "tis3d:manual",
+						"Count": 1
+					}
+				},
+				"arcanuscontinuum": {
+					"0": {
+						"id": "patchouli:guide_book",
+						"Count": 1,
+						"tag": {
+							"patchouli:book": "arcanuscontinuum:compendium_arcanus"
+						}
+					}
+				},
+				"things": {
+					"0": {
+						"id": "things:things_almanac",
+						"Count": 1
+					}
+				},
+				"spectrum": {
+					"0": {
+						"id": "spectrum:guidebook",
+						"Count": 1
+					}
+				},
+				"malum": {
+					"0": {
+						"id": "malum:encyclopedia_arcana",
+						"Count": 1
+					}
+				},
+				"conjuring": {
+					"0": {
+						"id": "conjuring:enchiridion",
+						"Count": 1
+					}
+				},
+				"bewitchment": {
+					"0": {
+						"id": "bewitchment:book_of_shadows",
+						"Count": 1
+					}
+				},
+				"modern_industrialization": {
+					"0": {
+						"id": "modern_industrialization:guidebook",
+						"Count": 1
+					}
+				},
+				"amethyst_imbuement": {
+					"0": {
+						"id": "amethyst_imbuement:glistering_tome",
+						"Count": 1
+					}
+				},
+				"ad_astra": {
+					"0": {
+						"id": "patchouli:guide_book",
+						"Count": 1,
+						"tag": {
+							"patchouli:book": "ad_astra:astrodux"
+						}
+					}
+				},
+				"enchanted": {
+					"0": {
+						"id": "patchouli:guide_book",
+						"Count": 1,
+						"tag": {
+							"patchouli:book": "enchanted:getting_started"
+						}
+					}
+				},
+				"affinity": {
+					"0": {
+						"id": "affinity:wispen_testament",
+						"Count": 1
+					}
+				}
+			}
+		},
+		"count": 1
+	}
 }

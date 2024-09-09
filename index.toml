@@ -3309,7 +3309,7 @@ hash = "0cb1e9c5f6b279068bbc7d4facf18a6e08dcaa8d81b2ff5db817175c6981cfdc"
 
 [[files]]
 file = "resources/data/abridged/loot_tables/chests/badlands_mining.json"
-hash = "a6e884375230ab73d69501102c7011ce7122e89b70b1bb63bd93ff0657c29820"
+hash = "c1c7d2405ff94b29bcf778993ed39186500a5345539e6c5dc5edce9585bb0833"
 
 [[files]]
 file = "resources/data/affinity/advancements/root.json"
@@ -3366,10 +3366,6 @@ hash = "881dee95f119747fde2d64199c6afc2b2b189e3b5385f054a97f3f7faf351375"
 [[files]]
 file = "resources/data/arcanuscontinuum/advancements/grant_compendium_arcanus.json"
 hash = "7798882c6e0c6d49df9e35e5e23e757bde316148371ba9abaecbb958b57b1cd4"
-
-[[files]]
-file = "resources/data/bhc/recipes/red_heart_canister.json"
-hash = "3f5469bd46050a250434ee0cea275eb36d10279db050dc4beaa6aaa5d7ebfffc"
 
 [[files]]
 file = "resources/data/botania/recipes/orechid/adamantite_ore.json"
@@ -3593,11 +3589,11 @@ hash = "82fd44d785ce9012c05aba9eae08cf7349e98f7193deafbc90a290481df7c0d1"
 
 [[files]]
 file = "resources/data/c/tags/blocks/brookite_ores.json"
-hash = "527dd84650ee5ea413367d183668b5ea5ebb2d336866bd0b6f2ee5899dabdbad"
+hash = "7d50174482a26acb8f6f59e2e3a183c4d9b1899e3eb9361e8203a39f12328169"
 
 [[files]]
 file = "resources/data/c/tags/blocks/gadolinite_ores.json"
-hash = "e4cb29ff538fa2f7325c665abe543996188124d0b71a0168db46bbbebf60357f"
+hash = "bb4978e249555f4943069acdf915adf00c380d45c1166f31dec0397cf9549543"
 
 [[files]]
 file = "resources/data/c/tags/items/hidden_from_recipe_viewers.json"
@@ -3613,7 +3609,7 @@ hash = "d1012e2856cde81c1fcd62bdb94c72fd83a628037d3d2cd9372655d7212a938c"
 
 [[files]]
 file = "resources/data/c/tags/items/raw_cobalt_ores.json"
-hash = "e403033a89e67c627748efdd2d81467289e9fbd57ed0e0f500fd6a9294205786"
+hash = "e87f395d34821d682f40be69409cf8305d128e042b8b0bef38f285d551244479"
 
 [[files]]
 file = "resources/data/c/tags/items/wither_bones.json"
@@ -3621,7 +3617,7 @@ hash = "cb48b5226a0f6389d319634bc1d31ac77f4054e12e0ff870f117a44c6cca4cca"
 
 [[files]]
 file = "resources/data/culturaldelights/loot_tables/blocks/avocado_leaves.json"
-hash = "ee6d4d14a7b6b601a85d26cd479565379417ae184972a7549e7257f7bf6df46b"
+hash = "a7b16f2974f89463bcce6fcbdf475c0cc412ae2641b498c5b4f519ccdf15c3e7"
 
 [[files]]
 file = "resources/data/hexcasting/advancements/grant_patchi_book.json"
@@ -3629,11 +3625,11 @@ hash = "7798882c6e0c6d49df9e35e5e23e757bde316148371ba9abaecbb958b57b1cd4"
 
 [[files]]
 file = "resources/data/hotm/worldgen/placed_feature/nns_nectere_portal.json"
-hash = "792655af226d8541fc88794c97202162ae0810b214918680c61197c677363b49"
+hash = "683a37259ececababa5148d740339678f85686489f081e04b8bc73a5b177a17d"
 
 [[files]]
 file = "resources/data/minecraft/tags/items/hoes.json"
-hash = "96b450608a580c2dfccb8d49099c9b02a052b92e263549a1c3a28e6505c26ea3"
+hash = "50da5de58f009247235d7412c5a2f64e9b378296876cb042f8a2f566e4c7263d"
 
 [[files]]
 file = "resources/data/minecraft/worldgen/world_preset/normal.json"
@@ -3641,11 +3637,11 @@ hash = "2d1dc1c4bd8022ef00e445feedde5ae5d74ed8979f32fc97d6e522a59a3ab38b"
 
 [[files]]
 file = "resources/data/naturescompass/advancements/natures_compass.json"
-hash = "c6022c2fc62c77a5c81a52972451fddee63a822582f76263fa41f7044c6de48d"
+hash = "0bf44782a4614faef52dc3d477f0b4947d95f2651e6f28a258a860a6ee3caf61"
 
 [[files]]
 file = "resources/data/neepmeat/recipes/ingredients/copper_coil.json"
-hash = "19eb251a6ac0d3d57827b314d4c00117cd3787f843ab909cc0e9d5d7f9130cad"
+hash = "75a3d13445d37d47311dbe4fb922bb8899b9c00b626b8c951a0e839a480fb208"
 
 [[files]]
 file = "resources/data/peculiarpieces/advancements/patchouli_book.json"
@@ -3653,15 +3649,19 @@ hash = "7798882c6e0c6d49df9e35e5e23e757bde316148371ba9abaecbb958b57b1cd4"
 
 [[files]]
 file = "resources/data/rightclickharvest/tags/items/high_tier_hoes.json"
-hash = "34d210b6d65f34f63a38269dbe3c63e575149be380ea79d2e68ef5518e051f2d"
+hash = "81f6ab49c58dc3afc5d077ef6771edfff726e49a92b68f1f1b986de1e3cef5a9"
 
 [[files]]
 file = "resources/data/rightclickharvest/tags/items/low_tier_hoes.json"
-hash = "f44715278a511287904dd306871edb255d1ddef54509340f30e475682ef0ebb2"
+hash = "08327d6e9b53aaee2d4a35a627a25136757fe46b4a49553d49346871c36fdff9"
 
 [[files]]
 file = "resources/data/rightclickharvest/tags/items/mid_tier_hoes.json"
-hash = "4159b9c70fcf613543a1178ed9415fe5005f67a60fd58a2dfb22c0f55b9e2ba8"
+hash = "b5dc76f960b626180e780d8d1c17797fbf0b23fa701c737ab4ae3fbf135df8c6"
+
+[[files]]
+file = "resources/data/spectrum/loot_tables/blocks/amaranth.json"
+hash = "74de5fad6c1a62afefe4fb74183e1b8b03285443677b833b17da5086698cc28e"
 
 [[files]]
 file = "resources/data/unipack/advancements/book.json"
@@ -3677,27 +3677,27 @@ hash = "6b97ae78f075015975695febf6917696bfb912cf4a18c833ea9542928ac502a7"
 
 [[files]]
 file = "resources/data/unipack/recipes/book.json"
-hash = "774ad4787b015056e2fe36481d96b63a03516616878b34520f8b27d245069ce4"
+hash = "4f92b1749ad405aece90dd496934f1aad1c6a6798da18338b4c7e94372eaa4d2"
 
 [[files]]
 file = "resources/data/unipack/recipes/glass_boots.json"
-hash = "f2691c4fb2968cf31031d221bf1915c820fac17281d7bff6e61f0197c2ce0e6f"
+hash = "4365defe284b5ba3f5eb0ae5090791d3063d2563b347f5c73579592449481860"
 
 [[files]]
 file = "resources/data/unipack/recipes/glass_chestplate.json"
-hash = "0fd586b46edcc51eaa904549daa73522c8e4fe7f5bc0dd5d9609767dce052729"
+hash = "9b83e398bd74178653ed15a7816cfdf8894d2408e7c2213137a093bc1fcb4cab"
 
 [[files]]
 file = "resources/data/unipack/recipes/glass_helmet.json"
-hash = "d52015bf87da20a851339f24e6dba27a155818465f3f461a4a4b14b0a4fd7580"
+hash = "40109d7f658ea2452e40416680cbd9d0366f21df926f8d6f0a1a79deb478974f"
 
 [[files]]
 file = "resources/data/unipack/recipes/glass_leggings.json"
-hash = "88990b4f2bbaaf4ad3ed99e9d3c52932f384ac20ed79a32950e498fc1606518f"
+hash = "bf345d974685f31381cebb5c6b31530bdb9e7724c180458e77a220ae679ed208"
 
 [[files]]
 file = "resources/data/unipack/recipes/ultimate_chunk_loader.json"
-hash = "f57a046721efc275f5c1d35d56a12e8ca1e97f5544bfd6d5a8d3c5a6e57bf424"
+hash = "97396a5bc9cad4f8199c70cb0109e2c2fe06ecbe3dd2ad0bb95e4d0db9dd9fb9"
 
 [[files]]
 file = "resources/data/zenith/enchanting_stats/gaia_pylon.json"
