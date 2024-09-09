@@ -2249,6 +2249,11 @@ hash = "4cd171d3f5f3e1d2948cb1b0062e742a5e85110c9e9a668f9aed5b0cebcb9c97"
 metafile = true
 
 [[files]]
+file = "mods/modonomicon.pw.toml"
+hash = "59b48e3b87b6701bc611ff4a77e09e1df356c8945d97b4f916b9dcff8468d7f0"
+metafile = true
+
+[[files]]
 file = "mods/more-crustacean.pw.toml"
 hash = "fce9c6c51447d852becf0ba00250ec5af14426b4f5a0cf536a6c24446774324b"
 metafile = true
@@ -2865,7 +2870,7 @@ metafile = true
 
 [[files]]
 file = "mods/spectrum.pw.toml"
-hash = "a8f197fdd0b6cb811f5b79ee44d248bb19cb777b438e631f42e7342d58198c5e"
+hash = "8832f832393964188c49a34bc0a32933070fc64591773452231f6ecaf11d055b"
 metafile = true
 
 [[files]]
@@ -3658,10 +3663,6 @@ hash = "08327d6e9b53aaee2d4a35a627a25136757fe46b4a49553d49346871c36fdff9"
 [[files]]
 file = "resources/data/rightclickharvest/tags/items/mid_tier_hoes.json"
 hash = "b5dc76f960b626180e780d8d1c17797fbf0b23fa701c737ab4ae3fbf135df8c6"
-
-[[files]]
-file = "resources/data/spectrum/loot_tables/blocks/amaranth.json"
-hash = "74de5fad6c1a62afefe4fb74183e1b8b03285443677b833b17da5086698cc28e"
 
 [[files]]
 file = "resources/data/unipack/advancements/book.json"
