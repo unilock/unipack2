@@ -705,7 +705,7 @@ metafile = true
 
 [[files]]
 file = "mods/amethyst-imbuement.pw.toml"
-hash = "8ed94b9c4a704c4929572f973690ad26d1e7c7d893a6c613dd2d92fc35329432"
+hash = "3290f049c939700e64cd4a20b429da685ee3d529ceb88a670e13355a12810672"
 metafile = true
 
 [[files]]
@@ -1060,7 +1060,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "a8e3b9da9c4331755fe896e158f5ddb672d3d431d932b003f5c9492dfd8eef2d"
+hash = "56579fdba79f90649bdd0c9e6903360844946a76d331da5b8169778d3d8a2731"
 metafile = true
 
 [[files]]
@@ -1155,7 +1155,7 @@ metafile = true
 
 [[files]]
 file = "mods/companion-fabric.pw.toml"
-hash = "b928d85d6700a373f06d560e5a0fe73d7926b18b5c8435418a200e8ca6c323f2"
+hash = "972b1754a41bf705bda871745ab268f6b49db4c9059876bf9c750eaa54c1d778"
 metafile = true
 
 [[files]]
@@ -1310,7 +1310,7 @@ metafile = true
 
 [[files]]
 file = "mods/delightful-creators-fabric.pw.toml"
-hash = "eb20e94739a17ee33b0deb63094b60b4306e3702ad8e4dd3d12c3c36e4cb309e"
+hash = "faf1cab36a880f6a326ccc342d64bae0d63e12c111fd007f8606134241511a69"
 metafile = true
 
 [[files]]
@@ -1620,7 +1620,7 @@ metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "1e652f465fccd7b88b496a2f7ac5b07f538c10188549f675bda622fcd3a09883"
+hash = "1dc55abe9485f0a1a80e15d066dc31f93901ba428ba044a91377bbb86443a241"
 metafile = true
 
 [[files]]
@@ -1855,7 +1855,7 @@ metafile = true
 
 [[files]]
 file = "mods/immersive-aircraft.pw.toml"
-hash = "cdc030a4636da8d8bd188de562c09cd10c7d33ebdde720ec276f5f66018ecaec"
+hash = "e2d48eecccaea9c43c0ecc4c6676fddef9c2ad78cf4427c4ffe7a44a399d2bf5"
 metafile = true
 
 [[files]]
@@ -2090,7 +2090,7 @@ metafile = true
 
 [[files]]
 file = "mods/lodestone.pw.toml"
-hash = "787e2badd2e2015007e294b05530567a9253343f1b70dd205f15d68e4baaeae1"
+hash = "d6be0be2526c9da78642238a15ed06a4f880b8a494e5f0c618148fe2400ee1ea"
 metafile = true
 
 [[files]]
@@ -2135,7 +2135,7 @@ metafile = true
 
 [[files]]
 file = "mods/malum-void-bound.pw.toml"
-hash = "ed1d6abbfd7dac6683de15bccc34f15fb4ec7778fb55eee8934fcfbc4be0f92c"
+hash = "134251f097e4008763139c98d351089871edf086239189e46e53305be0abd4ff"
 metafile = true
 
 [[files]]
@@ -2145,7 +2145,7 @@ metafile = true
 
 [[files]]
 file = "mods/man-of-many-planes.pw.toml"
-hash = "7bcfeb7d267b366b6bcf263313ec9bf1ec187f153f0852929eb08816f86174b3"
+hash = "e0560dd439d799bfd883bf7583ea8b9ad6e4b5340bcbbe991a7566dffd390117"
 metafile = true
 
 [[files]]
@@ -2250,7 +2250,7 @@ metafile = true
 
 [[files]]
 file = "mods/modonomicon.pw.toml"
-hash = "59b48e3b87b6701bc611ff4a77e09e1df356c8945d97b4f916b9dcff8468d7f0"
+hash = "2233b786cb6914844e6b16f787eb56da09e5cd5de9788bcd67b1d5e55219e865"
 metafile = true
 
 [[files]]
@@ -2315,7 +2315,7 @@ metafile = true
 
 [[files]]
 file = "mods/neepmeat.pw.toml"
-hash = "4caf4cc94d57b05e9e113940ac571ef83aafeee2207e2de897a2fdd68c0959ca"
+hash = "a1f3cc2eaf50fc1d92f8ed12f86ef95df4bf95bb460f4811ee85ac4177f9fa68"
 metafile = true
 
 [[files]]
@@ -2710,7 +2710,7 @@ metafile = true
 
 [[files]]
 file = "mods/respite-creators-fabric.pw.toml"
-hash = "e07c8b7bccbd34148a4a9052f37c9e3a802c709d33109e0fe002684013963a79"
+hash = "a4ff05753dc4cc9b580fc18fb71c7d07fbec74723eee676a07e943c6531a8f5d"
 metafile = true
 
 [[files]]
@@ -2851,16 +2851,6 @@ metafile = true
 [[files]]
 file = "mods/species.pw.toml"
 hash = "6b11bae061fc05b4d0559e9a39a92263648cfb4008e75ace4d594835eca8b42c"
-metafile = true
-
-[[files]]
-file = "mods/spectral-decorations.pw.toml"
-hash = "3d00b0d20139ec07494a41de5a45ea65804f9a502380e744625137522c54bc31"
-metafile = true
-
-[[files]]
-file = "mods/spectral-utilities.pw.toml"
-hash = "ed5b4a5bd389bf1603772f74d04a154aedc53384fa890b0cd68c37bfd122ed0a"
 metafile = true
 
 [[files]]
