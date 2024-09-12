@@ -1,13 +1,13 @@
 name = "Just Enough Items (JEI)"
-filename = "jei-1.20.1-fabric-15.18.0.79.jar"
+filename = "jei-1.20.1-fabric-15.19.0.87.jar"
 side = "client"
 
 [download]
 hash-format = "sha1"
-hash = "07b8d7492ad3def8ddf993dfcfddeb41f2338980"
+hash = "a914dff24d48354859b6321c9ae2d3dbeca58ca8"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5705578
+file-id = 5716407
 project-id = 238222

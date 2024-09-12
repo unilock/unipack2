@@ -1040,7 +1040,7 @@ metafile = true
 
 [[files]]
 file = "mods/cc-tweaked.pw.toml"
-hash = "9150d439b5f58ee6c672c8fb04b66a2ee08c4244c4af78794311bfb96774a48f"
+hash = "add98aca0d451e23f27f529f0f83139dddf96e2979d1187817d928aff4f1828a"
 metafile = true
 
 [[files]]
@@ -1395,7 +1395,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi-loot.pw.toml"
-hash = "4fc80c2140af76dbec6a91abecd29e0d574bc8ad54d199b32af4771b0691ef06"
+hash = "7086d8b8ca23911fd4f1f7635f659452fa8cb0613b199c86c6a6f49d42be73b1"
 metafile = true
 
 [[files]]
@@ -1905,7 +1905,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "9824a334c53dfe808e02f027c8ebc4f87979e00f78012c4c5feea795459b17c7"
+hash = "58101d103816435c73a58c84435fa83d016530989b85f6562882fb986a263440"
 metafile = true
 
 [[files]]
