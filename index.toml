@@ -310,7 +310,7 @@ hash = "5ec559846c5aa30d45a80cc06240baac2156e3781f129aa1283d30465dbf37eb"
 
 [[files]]
 file = "config/inventory_tabs.toml"
-hash = "937e6dfa6e34f4298542c6fc5a15100bf5f6855458a15901a2041afb908400a8"
+hash = "7c72f7520d8ddf82d8159c5d1783931fda2e70cb232bc90be6100f60d78cb372"
 
 [[files]]
 file = "config/inventoryprofilesnext/inventoryprofiles.json"
@@ -1395,7 +1395,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi-loot.pw.toml"
-hash = "7086d8b8ca23911fd4f1f7635f659452fa8cb0613b199c86c6a6f49d42be73b1"
+hash = "9bfa234aa692ac832d9ad749e1af4b0b4a75cb0ab82cab333731550683d02715"
 metafile = true
 
 [[files]]
@@ -1905,7 +1905,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "58101d103816435c73a58c84435fa83d016530989b85f6562882fb986a263440"
+hash = "3a6832ee0063d95827ec320659adde602781754cdfdcbac2b61cd824359da5d2"
 metafile = true
 
 [[files]]
@@ -2140,7 +2140,7 @@ metafile = true
 
 [[files]]
 file = "mods/malum.pw.toml"
-hash = "54e0940518e28cdcb41717da9841e31bf2f0c4de6966330cfbbd7ebd880a3634"
+hash = "4b67a2f6018e17aa4b27303686460e4eef420d80e4bc19c09a2a0aabdd5c1eeb"
 metafile = true
 
 [[files]]
@@ -2520,7 +2520,7 @@ metafile = true
 
 [[files]]
 file = "mods/polymorph.pw.toml"
-hash = "7bc4ca797e563b4bbfadfd13550e54d1610d82a155ce4edf35648f9e1daa083b"
+hash = "1a9f702e3df6fdadf1a4f8f8dbddd210ee47e7c1d6d9e8f08757d8873d47864a"
 metafile = true
 
 [[files]]
