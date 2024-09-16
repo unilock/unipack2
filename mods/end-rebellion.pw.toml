@@ -1,0 +1,13 @@
+name = "Endorium (Fabric)"
+filename = "endorium-fabric-1.1.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "712d543d5b22c1e378525e5f9e0a568c79b39297"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5555781
+project-id = 338778
