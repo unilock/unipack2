@@ -1144,7 +1144,7 @@ metafile = true
 
 [[files]]
 file = "mods/colorful-hearts.pw.toml"
-hash = "5336fd4d29a3470b8e4d534ed362947a9b0e58443c0989c10f3bbe958af62e8f"
+hash = "608a4955f38b9ef9965ea8979a54e91c0b9635de9c3673f2f76a9426687ef6a6"
 metafile = true
 
 [[files]]
@@ -1199,7 +1199,7 @@ metafile = true
 
 [[files]]
 file = "mods/connectivity.pw.toml"
-hash = "308030498a282075732310b66eecf419baa2217ce88496ad87818ae21b1d2423"
+hash = "5b65188c1aed8c9393bdd7a66994687c9caa38b91ce3f4c86b0d15d95048045f"
 metafile = true
 
 [[files]]
@@ -1489,7 +1489,7 @@ metafile = true
 
 [[files]]
 file = "mods/explorify.pw.toml"
-hash = "2362f0d0bc9c31ff7bf6a0ddab29cf4122f8c381610c8da5e19fa4b6ab7c1b44"
+hash = "fd38874e163e22c18c1b110918f601a822a065119636a2458f7743679d5f0f7d"
 metafile = true
 
 [[files]]
@@ -1624,7 +1624,7 @@ metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "1dc55abe9485f0a1a80e15d066dc31f93901ba428ba044a91377bbb86443a241"
+hash = "664594104bd0b93689edd0af8d6c4a44102eb7847a717215dec91b4e8c21bc3b"
 metafile = true
 
 [[files]]
@@ -1859,7 +1859,7 @@ metafile = true
 
 [[files]]
 file = "mods/immersive-aircraft.pw.toml"
-hash = "e2d48eecccaea9c43c0ecc4c6676fddef9c2ad78cf4427c4ffe7a44a399d2bf5"
+hash = "02e3eec7c9de2bc4d534f1f6b4c3dd21937531d1c7c1685ba87453bd4553524a"
 metafile = true
 
 [[files]]
@@ -1929,7 +1929,7 @@ metafile = true
 
 [[files]]
 file = "mods/kaffees-dual-ride.pw.toml"
-hash = "aec565d92734e89cff9aae713f93ce8013c0edb9b63546dcb4d960e6cbe74730"
+hash = "8ae11c33ea233e229e07046c9e19285e5a6df172a76ea3205cd144bf31a36cb4"
 metafile = true
 
 [[files]]
@@ -2424,7 +2424,7 @@ metafile = true
 
 [[files]]
 file = "mods/paradise-lost.pw.toml"
-hash = "cb75188f5d38e3c627c733a0cec6607b67ddd7b9a8ef6c65a4b8aa5f8d127f47"
+hash = "7353f81246fc643a2545de0849f2ad29026832051f09b95c5b8fd255243a87cb"
 metafile = true
 
 [[files]]
@@ -3214,7 +3214,7 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
-hash = "56096b6bdb7c538d226a8b7b850d6857fb49e75a6f3263852a8aba2f4a218163"
+hash = "3df97d0eb33b56987803f11b846bfc36441cdc2b31bda2849fe6fa19d03ca88a"
 metafile = true
 
 [[files]]
