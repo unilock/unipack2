@@ -1,0 +1,13 @@
+name = "Magic Bar Lib"
+filename = "magiclib-1.0.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0542e87df54d794af31278637d8c6d15a720704d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5721350
+project-id = 1075641

@@ -357,6 +357,10 @@ file = "config/lootr.json"
 hash = "db140e54acd3b625ffea9307ff1e969fd5884f7d586c43a1ebeb32b9fa0a8413"
 
 [[files]]
+file = "config/magiclib.json"
+hash = "7d0ebee7a6ea5a73a2b6710d2a1f2e24c270498d292128c86fe0d0ef9f0786d5"
+
+[[files]]
 file = "config/magna.json"
 hash = "e65299c1a432f2aae4374bdb01e71d06a6e3fb7350e905e5ba93217fa7178911"
 
@@ -2138,6 +2142,11 @@ hash = "f14660be4c4cbc78a43756aafe528e956851119fcc5023139e82c18f8c520082"
 metafile = true
 
 [[files]]
+file = "mods/magicbarlib.pw.toml"
+hash = "46637f209b874fef656ec4c3fa01ab03922d4770ae180de68604a75881a2fe7c"
+metafile = true
+
+[[files]]
 file = "mods/malum-void-bound.pw.toml"
 hash = "134251f097e4008763139c98d351089871edf086239189e46e53305be0abd4ff"
 metafile = true
@@ -3010,6 +3019,11 @@ metafile = true
 [[files]]
 file = "mods/thaumon.pw.toml"
 hash = "6c9195c2a4252c514c46f93de51cb04f2ac4c464f9c9ba28e916de3c170f5532"
+metafile = true
+
+[[files]]
+file = "mods/the-legend-of-steve.pw.toml"
+hash = "3a8ef1c07ff3cbf56efb688d749dbc9286ec2c3167062bb55ab46f80c27b5fd3"
 metafile = true
 
 [[files]]
