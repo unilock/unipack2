@@ -477,6 +477,10 @@ file = "config/sodium-extra-options.json"
 hash = "487ce30c84eb8bb8dcb54cce83fe26cc2a11d7f9ec06e805a08d473d6d9b3838"
 
 [[files]]
+file = "config/spectre.json5"
+hash = "62a1bc1e171d5ee65a61366ff80262a9aaf745872b531eea91fc08d13ca7ac6f"
+
+[[files]]
 file = "config/spelunker.hjson"
 hash = "d1c9bd705b34898b46acc9ac3d4dcce5c1d9568940d15caddd666354f8cb20e0"
 
@@ -2855,7 +2859,7 @@ metafile = true
 
 [[files]]
 file = "mods/spectre.pw.toml"
-hash = "45d1a959093d397add17cbbf786e9161d47e4e620caf59e1bd23fe51dba0c03e"
+hash = "76a5108fc469e390c39266729cf242740938cb801d96b4b51018558e03a2475e"
 metafile = true
 
 [[files]]

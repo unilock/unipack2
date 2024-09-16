@@ -1,0 +1,22 @@
+{
+	// Determines if Phantoms spawn due to the Player not sleeping
+	"allowInsomnia": true,
+	// Amount of days before Phantoms can start spawning due to insomnia
+	"daysUntilInsomniaTakesAffect": 5,
+	// Determines if Phantoms spawn naturally in the End dimension
+	"allowEndSpawning": false,
+	// Determines if Phantoms spawn naturally in the End dimension
+	"endSpawnWeight": 4,
+	// Determines the minimum group size Phantoms can spawn in the End dimension
+	"minEndSpawnSize": 1,
+	// Determines the maximum group size Phantoms can spawn in the End dimension
+	"maxEndSpawnSize": 2,
+	// Determines how many seconds Pursuing lasts once applied from Gazing
+	"pursuingEffectSeconds": 3,
+	// Determines how many seconds the cooldown for the Unwearied Antique lasts
+	"antiqueCooldown": 15,
+	// Determines how many seconds Strength from Blood Rush lasts
+	"bloodRushStrengthDuration": 15,
+	// Determines how many seconds Strength from Sanguinary lasts
+	"sanguinaryStrengthDuration": 10
+}
