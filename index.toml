@@ -125,6 +125,14 @@ file = "config/cardinal-components-api.properties"
 hash = "27f9628d41f987a7d7c7063ed98cca6e2c9cb5c0ca2e87ffc8830db1b92acc3c"
 
 [[files]]
+file = "config/charm-client.toml"
+hash = "26dae05af6b4a91b63325c1a266c64a20da490c4bdc12957d4eebb1ba754b53c"
+
+[[files]]
+file = "config/charm-common.toml"
+hash = "5c301d499b30fd815bac6ba938e43253eb17c7b526bdc7106cd6385dd4fd6874"
+
+[[files]]
 file = "config/chatpatches.json"
 hash = "83d3220bfc144c8fa3aad1a0b47d92fc95d075fe76deaee8ffd0fb5d6da163ae"
 
@@ -1037,6 +1045,11 @@ metafile = true
 [[files]]
 file = "mods/cccbridge.pw.toml"
 hash = "5e96138dce35e95b6efd048968440332a42c8c6d3bafe384cc303c18f073da31"
+metafile = true
+
+[[files]]
+file = "mods/charm-forked.pw.toml"
+hash = "3d77b2c079232ebcca5ea70491238378ddf534238779085a915b7a3c77dfe413"
 metafile = true
 
 [[files]]
