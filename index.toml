@@ -97,14 +97,6 @@ file = "config/badoptimizations.txt"
 hash = "ac40e3a55aa357f17d6dec7772abaf1f27bb86b69208a0b1d0377d622d1e515a"
 
 [[files]]
-file = "config/bclib/client.json"
-hash = "610b17f05c3c66cb2f9fb38ab42b1c787163489ae66d3513c5b7c73e39203789"
-
-[[files]]
-file = "config/bclib/server.json"
-hash = "2a8b39c4be4a06431050375dc1888941e185dd36319ce876d904debea4ee46ee"
-
-[[files]]
 file = "config/better_log4j_config.xml"
 hash = "1cc9a87239b57fefb56c6edd4197176f9a2cd602f8d2c282ccf646d1ab5aae07"
 
@@ -863,11 +855,6 @@ hash = "3e6db79dda4de15f2ec96e15731f7a30fb396d0a6c4286479734d2f198cfcc4f"
 metafile = true
 
 [[files]]
-file = "mods/bclib.pw.toml"
-hash = "0c6982d793283b27ef35fdc3b57b7b9554fbc162c03ac7431ebbee9b1d5b241c"
-metafile = true
-
-[[files]]
 file = "mods/bedrodium.pw.toml"
 hash = "3d85fff4286a77e96c83752664ae74fc2fd39b4e8c11402993968662fe0d3e8b"
 metafile = true
@@ -920,11 +907,6 @@ metafile = true
 [[files]]
 file = "mods/bettercookedaxolotls.pw.toml"
 hash = "f50460bc7e31c4adff4d9aa7e12dece3b97ed65dc35371d60c780d755c3e2a1d"
-metafile = true
-
-[[files]]
-file = "mods/betterend.pw.toml"
-hash = "4b8ffbe47270effb2da83ff2fba6e5dea0158a515033b61a484a21aae6146a76"
 metafile = true
 
 [[files]]
@@ -3304,7 +3286,7 @@ hash = "af973310a8f91854d1ac4c5990bf34557058967316e22df29804c5328e591bd1"
 
 [[files]]
 file = "resources/assets/unipack/lang/en_us.json"
-hash = "0cb1e9c5f6b279068bbc7d4facf18a6e08dcaa8d81b2ff5db817175c6981cfdc"
+hash = "ade6650e17a8a88be3a0f9dde71cddafcb2ff42a01f206231f070cf2bfb5832c"
 
 [[files]]
 file = "resources/data/abridged/loot_tables/chests/badlands_mining.json"
@@ -3631,10 +3613,6 @@ file = "resources/data/minecraft/tags/items/hoes.json"
 hash = "50da5de58f009247235d7412c5a2f64e9b378296876cb042f8a2f566e4c7263d"
 
 [[files]]
-file = "resources/data/minecraft/worldgen/world_preset/normal.json"
-hash = "2d1dc1c4bd8022ef00e445feedde5ae5d74ed8979f32fc97d6e522a59a3ab38b"
-
-[[files]]
 file = "resources/data/naturescompass/advancements/natures_compass.json"
 hash = "0bf44782a4614faef52dc3d477f0b4947d95f2651e6f28a258a860a6ee3caf61"
 
@@ -3648,7 +3626,7 @@ hash = "7798882c6e0c6d49df9e35e5e23e757bde316148371ba9abaecbb958b57b1cd4"
 
 [[files]]
 file = "resources/data/rightclickharvest/tags/items/high_tier_hoes.json"
-hash = "81f6ab49c58dc3afc5d077ef6771edfff726e49a92b68f1f1b986de1e3cef5a9"
+hash = "66e74682c0be49736c1635d9f0671599c7ede66e69a36f3c81c705354a94c735"
 
 [[files]]
 file = "resources/data/rightclickharvest/tags/items/low_tier_hoes.json"
@@ -3656,7 +3634,7 @@ hash = "08327d6e9b53aaee2d4a35a627a25136757fe46b4a49553d49346871c36fdff9"
 
 [[files]]
 file = "resources/data/rightclickharvest/tags/items/mid_tier_hoes.json"
-hash = "b5dc76f960b626180e780d8d1c17797fbf0b23fa701c737ab4ae3fbf135df8c6"
+hash = "71659cc2d3ba5701875589dfce328f229a82198db9404dcd71bfe55d2f139345"
 
 [[files]]
 file = "resources/data/unipack/advancements/book.json"
@@ -3705,374 +3683,6 @@ hash = "77390f2724d5e4080bbd1ffe02a8363592d5e7572f9d8b69baabd8668bce78f3"
 [[files]]
 file = "resources/data/zenith/enchanting_stats/natura_pylon.json"
 hash = "2b50493592442c973f5c39273a62d674e1eadaf86f8f38960f778f7f5be8c1ee"
-
-[[files]]
-file = "resources/datapacks/separatedleaves/data/affinity/separated_leaves/azalea.json"
-hash = "fa7fd5002cdec435a8a97b2c652d35a8d93cc1d1129597ad1fb3f9e190f2c47b"
-
-[[files]]
-file = "resources/datapacks/separatedleaves/data/arts_and_crafts/separated_leaves/cork.json"
-hash = "51eebc01518aa1721cb219615f7a01dccbd2e24ec5740123cdb05e14052eb8aa"
-
-[[files]]
-file = "resources/datapacks/separatedleaves/data/aurorasdeco/separated_leaves/azalea.json"
-hash = "f6004e346e93c5c2a6be7cb724a91b5602f6a66b3ba42a2ef0cbb23da0015c37"
-
-[[files]]
-file = "resources/datapacks/separatedleaves/data/aurorasdeco/separated_leaves/jacaranda.json"
-hash = "b604540f12d72cc7d5f9c078d3085423dbb818d55267a9c8541f7703f0b95666"
-
-[[files]]
-file = "resources/datapacks/separatedleaves/data/beachparty/separated_leaves/palm.json"
-hash = "a4a338c46ae848746f22f801e43b6d9c8608c2d172cb9e1d70f0d0b5dd201d1e"
-
-[[files]]
-file = "resources/datapacks/separatedleaves/data/beetlebox/separated_leaves/ash.json"
-hash = "84e0fee47fe0ed7087e007a2e38a98eabb228e55dfdf962018da20c8f50a8205"
-
-[[files]]
-file = "resources/datapacks/separatedleaves/data/betterend/separated_leaves/dragon_tree.json"
-hash = "249ba1b07e61cf8fafeb37fba06aa0cb321c65714c7880c43788a9153f6f95c7"
-
-[[files]]
-file = "resources/datapacks/separatedleaves/data/betterend/separated_leaves/helix_tree.json"
-hash = "e6489a874477d696d7b600d661577b83ee17bdb74a2dfa7408da1e65a6b982a6"
-
-[[files]]
-file = "resources/datapacks/separatedleaves/data/betterend/separated_leaves/lacugrove.json"
-hash = "3c63fabfb94e660bb168207c76ad492eeca904187a845e4d1b3d0a218ddd789b"
-
-[[files]]
-file = "resources/datapacks/separatedleaves/data/betterend/separated_leaves/lucernia.json"
-hash = "37590ee6e24701569a5d3587fb0e94900b2d374b3541c12932646cc524e2852c"
-
-[[files]]
-file = "resources/datapacks/separatedleaves/data/betterend/separated_leaves/pythadendron.json"
-hash = "bc3ecd7a9ca36b7a577e280dd5299ea78d1c19a3131f3083d41de00a388424c7"
-
-[[files]]
-file = "resources/datapacks/separatedleaves/data/betterend/separated_leaves/tenanea.json"
-hash = "4abcbaae81ba550501af3363d844916689f4e98c6fe0e23ceb47851b6f98c382"
-
-[[files]]
-file = "resources/datapacks/separatedleaves/data/betternether/separated_leaves/anchor_tree.json"
-hash = "e9860f3a4ec5c23c6a03b7721a0d4d94dab038bd8e45cfea6acb8e985d95bff9"
-
-[[files]]
-file = "resources/datapacks/separatedleaves/data/betternether/separated_leaves/nether_sakura.json"
-hash = "b0d53fa5b56dfedb8c43faac21a6220bcdddd21b97d28315c37c24c9845bc82d"
-
-[[files]]
-file = "resources/datapacks/separatedleaves/data/betternether/separated_leaves/rubeus.json"
-hash = "8597f4a69576099c847e52104276d64086268a1d02f9c0b3c73ea5a25287fe40"
-
-[[files]]
-file = "resources/datapacks/separatedleaves/data/betternether/separated_leaves/willow.json"
-hash = "e5a194d153b6aec508c96f492a1a05ee20173f26c9ec7a5631a8a329f2c02633"
-
-[[files]]
-file = "resources/datapacks/separatedleaves/data/bewitchment/separated_leaves/cypress.json"
-hash = "3c9f1e739d9be94f720dbedae13743244974ab73ea2b2df6c2d08f82a0892aa2"
-
-[[files]]
-file = "resources/datapacks/separatedleaves/data/bewitchment/separated_leaves/dragons_blood.json"
-hash = "f258fa9b92b7ef5e1b1bcaa8088a7b8c4eecb942b9e8240eaa1fe0808bc3520c"
-
-[[files]]
-file = "resources/datapacks/separatedleaves/data/bewitchment/separated_leaves/elder.json"
-hash = "e0fb77a082cfefdf70df2f29e6a970944859c014332d2c58936fa53f108f6fcb"
-
-[[files]]
-file = "resources/datapacks/separatedleaves/data/bewitchment/separated_leaves/juniper.json"
-hash = "59d643b146896e98a7655d5695451fa22aff116162a8e542cda0bc4e7935aed4"
-
-[[files]]
-file = "resources/datapacks/separatedleaves/data/blockus/separated_leaves/legacy.json"
-hash = "75bd20dce0a16bb131ca6421bd533a98247ed96f2f1c1dc85bf21d7f6c4f2fd2"
-
-[[files]]
-file = "resources/datapacks/separatedleaves/data/blockus/separated_leaves/white_oak.json"
-hash = "3ed3afd650fba6b4137975a194973b5c7944e18fc301126ca037cae95130f20b"
-
-[[files]]
-file = "resources/datapacks/separatedleaves/data/bloomingnature/separated_leaves/aspen.json"
-hash = "29ce5bc488f644e6d10245b3d884fb1241aaa2e64ac9188b5748e0a65f075054"
-
-[[files]]
-file = "resources/datapacks/separatedleaves/data/bloomingnature/separated_leaves/baobab.json"
-hash = "db81943f5f8c3d66ed9b09d1f1ab712621fb040a520e0f20374187413345b1d6"
-
-[[files]]
-file = "resources/datapacks/separatedleaves/data/bloomingnature/separated_leaves/chestnut.json"
-hash = "9185287847bbe195d3edef5b19f6c866d3fbbfbf93eb387a3464f9b754ec0cd2"
-
-[[files]]
-file = "resources/datapacks/separatedleaves/data/bloomingnature/separated_leaves/ebony.json"
-hash = "98ac281a03783282c34a9d0f6708a424a193f76921a831a7678079f6841cad50"
-
-[[files]]
-file = "resources/datapacks/separatedleaves/data/bloomingnature/separated_leaves/fir.json"
-hash = "bba92352486b73628b7ee009d792623646326a33cfbd1170aa33823a2c5a2fe8"
-
-[[files]]
-file = "resources/datapacks/separatedleaves/data/bloomingnature/separated_leaves/larch.json"
-hash = "15504c8174e7bbf857a9cca9ec7f20f196108d053ecdad54104ffacbb8f03689"
-
-[[files]]
-file = "resources/datapacks/separatedleaves/data/bloomingnature/separated_leaves/swamp_cypress.json"
-hash = "441daf2b75fcc2591bb881e842e9b0ebf3c2c83e6fed6b3d7c67d30006c550e0"
-
-[[files]]
-file = "resources/datapacks/separatedleaves/data/bloomingnature/separated_leaves/swamp_oak.json"
-hash = "6ca5d336c99f57e09e0c80b0d7482200685b2e77f00f5c0d8accb5d18379e486"
-
-[[files]]
-file = "resources/datapacks/separatedleaves/data/culturaldelights/separated_leaves/avocado.json"
-hash = "9e8c61eae40044c35d3d6341a0896276efc1f3035e4595cfe81a44a9dae7b964"
-
-[[files]]
-file = "resources/datapacks/separatedleaves/data/dimdoors/separated_leaves/driftwood.json"
-hash = "1840c5c8617764a595907bd009874f8d219b658317ae2c2056d9ccb2b0428c3a"
-
-[[files]]
-file = "resources/datapacks/separatedleaves/data/enchanted/separated_leaves/alder.json"
-hash = "12bb87cdcd615abb4e2fc163adccf5cc9780b9503203d19cfc35718709cc778c"
-
-[[files]]
-file = "resources/datapacks/separatedleaves/data/enchanted/separated_leaves/hawthorn.json"
-hash = "387bff1e9aeea51ff119d9b91e168c4cfba3a4b3b4a49b8bdcefae43fb596f5d"
-
-[[files]]
-file = "resources/datapacks/separatedleaves/data/enchanted/separated_leaves/rowan.json"
-hash = "f5170a49062b2dd39006d75305a4a0096738e4d3e49709d591b0d7695804c797"
-
-[[files]]
-file = "resources/datapacks/separatedleaves/data/hibernalherbs/separated_leaves/myqueste.json"
-hash = "bc7a70126ac9d5ca228f02972ef65394925b61bd1cfb63df33bd2e167ab4c9cc"
-
-[[files]]
-file = "resources/datapacks/separatedleaves/data/hotm/separated_leaves/solar_array.json"
-hash = "2dbf71d722461061d28896ab971950581d8795300c379447d719a88fdf42d0f4"
-
-[[files]]
-file = "resources/datapacks/separatedleaves/data/malum/separated_leaves/azure_runewood.json"
-hash = "0ebc76faeec5d85cde8c864c9736c7b1afc587735ae0ded2b233b03e24e74d8f"
-
-[[files]]
-file = "resources/datapacks/separatedleaves/data/malum/separated_leaves/runewood.json"
-hash = "78df54bc442fb48280fa130338f0e6d85c99c647029210325f306f318aea3225"
-
-[[files]]
-file = "resources/datapacks/separatedleaves/data/malum/separated_leaves/soulwood.json"
-hash = "879096b27b13aa3ee8d76da0ecb43a7f3ff54ef7a05551678ab27efcaee04051"
-
-[[files]]
-file = "resources/datapacks/separatedleaves/data/meadow/separated_leaves/pine.json"
-hash = "b0a2456c0aae4cd7aac2c8f4ed4b98555a74add8bcc28b8bb69017c325059e4a"
-
-[[files]]
-file = "resources/datapacks/separatedleaves/data/natures_spirit/separated_leaves/aspen.json"
-hash = "9b5fe43bf4a4eaef666cddae75e722a1b466682c88c98f3c3d13a317112bde0f"
-
-[[files]]
-file = "resources/datapacks/separatedleaves/data/natures_spirit/separated_leaves/blue_wisteria.json"
-hash = "3620673eeb174fe8c41ca1724a8219274cd99c37bf8e48c0ccec3accb1666cec"
-
-[[files]]
-file = "resources/datapacks/separatedleaves/data/natures_spirit/separated_leaves/cedar.json"
-hash = "98b67535a89b2a1ec8840408d30fcd317e8fe3baa99c825866763ba5c97e0ad9"
-
-[[files]]
-file = "resources/datapacks/separatedleaves/data/natures_spirit/separated_leaves/cypress.json"
-hash = "64a0a9defe02bcdb0f6a83e0d28102ef77020c1f08a6be26a4440eef8bcc0615"
-
-[[files]]
-file = "resources/datapacks/separatedleaves/data/natures_spirit/separated_leaves/fir.json"
-hash = "cdec07fffb525110654a44b8adb7873068a86709674155fdecfedb4723dad5fd"
-
-[[files]]
-file = "resources/datapacks/separatedleaves/data/natures_spirit/separated_leaves/ghaf.json"
-hash = "61dbac5383a958a8279965d6d4d100fd5aad61168ebda1263b30f9145a492c5c"
-
-[[files]]
-file = "resources/datapacks/separatedleaves/data/natures_spirit/separated_leaves/joshua.json"
-hash = "1250898b8d1a972c1c7e81499067417a31ff055d61c1c1161e3f1a4699a5180b"
-
-[[files]]
-file = "resources/datapacks/separatedleaves/data/natures_spirit/separated_leaves/larch.json"
-hash = "a171716e23bbc6165868d9aa8ed4a6756dcccb07c569bf8ecdffa6e66ebcacf7"
-
-[[files]]
-file = "resources/datapacks/separatedleaves/data/natures_spirit/separated_leaves/mahogany.json"
-hash = "ee55f9d4ddd409526115ea2729eb8a5e39ed24eda719c00d33ebb166685c9ea7"
-
-[[files]]
-file = "resources/datapacks/separatedleaves/data/natures_spirit/separated_leaves/olive.json"
-hash = "fc39a7daee5d982153bb80ad5612ccd3870d030bd2964e2a549c9509baaf762f"
-
-[[files]]
-file = "resources/datapacks/separatedleaves/data/natures_spirit/separated_leaves/orange_maple.json"
-hash = "7dc7b733fe3f04a0932b0ad7131793c3ba9f26102b087b2cb2304d68b07a369e"
-
-[[files]]
-file = "resources/datapacks/separatedleaves/data/natures_spirit/separated_leaves/palo_verde.json"
-hash = "70d3bd685288da0e0a3045a3fc0e614ebf4dd47fb537b502006f46889c60876e"
-
-[[files]]
-file = "resources/datapacks/separatedleaves/data/natures_spirit/separated_leaves/pink_wisteria.json"
-hash = "cc18c1cc4455a8c42c7fceda4ad8865453780e1c2dcb40ac856dfe0098f4100d"
-
-[[files]]
-file = "resources/datapacks/separatedleaves/data/natures_spirit/separated_leaves/purple_wisteria.json"
-hash = "971c398d42bfd991d61befef94e454897179b88799cfe8dea00c8533eba1a26c"
-
-[[files]]
-file = "resources/datapacks/separatedleaves/data/natures_spirit/separated_leaves/red_maple.json"
-hash = "11d80bee9fc223fc7adcfdfd302b778e45a753a9ff971a3c6bd9ef5cdbe50a67"
-
-[[files]]
-file = "resources/datapacks/separatedleaves/data/natures_spirit/separated_leaves/redwood.json"
-hash = "80876a0e2f0d8ffbf34f9f80c1ce44459a0f10941f85d493d4548680e4b85044"
-
-[[files]]
-file = "resources/datapacks/separatedleaves/data/natures_spirit/separated_leaves/saxaul.json"
-hash = "a2015d3bb7c6f9d2af9f57a6b4dd44b3030b81248b05c38839478c2c82be268e"
-
-[[files]]
-file = "resources/datapacks/separatedleaves/data/natures_spirit/separated_leaves/sugi.json"
-hash = "84854cb5cc81f3652a8243eedcf065419beec9afd762ad4c530b0db8e7943d9a"
-
-[[files]]
-file = "resources/datapacks/separatedleaves/data/natures_spirit/separated_leaves/white_wisteria.json"
-hash = "52bc44a413700d29a4c9059ca8ddd34389f745c3a49211fbe92c22b39f3b8d45"
-
-[[files]]
-file = "resources/datapacks/separatedleaves/data/natures_spirit/separated_leaves/willow.json"
-hash = "18152d73b96eb2ba1b0bb5cf221291b8429f062f2804a234f5af4a267e8cea29"
-
-[[files]]
-file = "resources/datapacks/separatedleaves/data/natures_spirit/separated_leaves/yellow_larch.json"
-hash = "ff9e520163b2a925f1f4457536294ccb0f0357fbd7e8d3216e1639850d0bd071"
-
-[[files]]
-file = "resources/datapacks/separatedleaves/data/natures_spirit/separated_leaves/yellow_maple.json"
-hash = "b840bf5063a4c3c621cdce4c9767cd02fff27ff852bc962173908a840c87247f"
-
-[[files]]
-file = "resources/datapacks/separatedleaves/data/neepmeat/separated_leaves/blood_bubble.json"
-hash = "6594f36238cc41d041f6f67d1df64552eca5f7cc23a3d3b706de9786d1e9a5c3"
-
-[[files]]
-file = "resources/datapacks/separatedleaves/data/sc-goodies/separated_leaves/blue.json"
-hash = "c0cb98d066da4772d2c19e403e33c4a3ff4335d5da01eb3cd4b360d4a23dbb70"
-
-[[files]]
-file = "resources/datapacks/separatedleaves/data/sc-goodies/separated_leaves/maple.json"
-hash = "1b5c138a5f25cb99bd28f221f666ed0aff0738c13fe2e58fffcc33098d8306df"
-
-[[files]]
-file = "resources/datapacks/separatedleaves/data/sc-goodies/separated_leaves/sakura.json"
-hash = "dc8de75f7de95b119ab7559af4d45a6c003251cb5b895e96d6f31b0a789560a1"
-
-[[files]]
-file = "resources/datapacks/separatedleaves/data/tconstruct/separated_leaves/enderslime.json"
-hash = "3b1ec2e46a11de307489723194bdce510a59c0c0a30e76da6e6e0f1da1e2b7f7"
-
-[[files]]
-file = "resources/datapacks/separatedleaves/data/tconstruct/separated_leaves/greenheart.json"
-hash = "8f6c03d78f91e03cb570456eb7c0490a271436d069c05f747b8a12441c8b3de9"
-
-[[files]]
-file = "resources/datapacks/separatedleaves/data/tconstruct/separated_leaves/skyroot.json"
-hash = "5d1b21df80ade70c1cae152f0406f7c74e09d896e76b84f53a26e0673b9cba49"
-
-[[files]]
-file = "resources/datapacks/separatedleaves/data/terrestria/separated_leaves/bryce.json"
-hash = "c3d25281986e9eab0a16b948ec494e60fa0eb3a9e0d2908f4f2e84ed76c78701"
-
-[[files]]
-file = "resources/datapacks/separatedleaves/data/terrestria/separated_leaves/cypress.json"
-hash = "953e0e56bd460bdfc4ec632c09ccf25e86b2da4f9a078f4e1dd780b89e3b8b31"
-
-[[files]]
-file = "resources/datapacks/separatedleaves/data/terrestria/separated_leaves/dark_japanese_maple.json"
-hash = "0cfeba9d4ede2fd6e5a151454456421642aecee79a197830d23931ae5f2efe0e"
-
-[[files]]
-file = "resources/datapacks/separatedleaves/data/terrestria/separated_leaves/hemlock.json"
-hash = "8ab3f9672188d0b049d27d93128e8777828332e2a5fc6a426f5b185720ba5da2"
-
-[[files]]
-file = "resources/datapacks/separatedleaves/data/terrestria/separated_leaves/japanese_maple.json"
-hash = "9d7f2762d0989031054abc2787cf5b767260b2815d52144f098b4d1b16006239"
-
-[[files]]
-file = "resources/datapacks/separatedleaves/data/terrestria/separated_leaves/japanese_maple_shrub.json"
-hash = "4c3cfc95707d12bebe981ff99d06c16f3789f338cc246660b0cc38586f54366d"
-
-[[files]]
-file = "resources/datapacks/separatedleaves/data/terrestria/separated_leaves/jungle_palm.json"
-hash = "66e21c7ac76200ec75c0c4b8147c70f38d0ec483d09a0ca500cc9c0a1a6bbe99"
-
-[[files]]
-file = "resources/datapacks/separatedleaves/data/terrestria/separated_leaves/rainbow_eucalyptus.json"
-hash = "708777c2cccbed534d3dfa225ca443fa34279dbf8d036fcda6f3f10a844efb1d"
-
-[[files]]
-file = "resources/datapacks/separatedleaves/data/terrestria/separated_leaves/redwood.json"
-hash = "6cb231f4ec4105a9bf95cc4b4e38fbacce626db23ea8577ec292cb7a73b44f7f"
-
-[[files]]
-file = "resources/datapacks/separatedleaves/data/terrestria/separated_leaves/rubber.json"
-hash = "5a70ce6623c4b5b2cef14c463ee89ca1a556135f6d096452665074714fd7542b"
-
-[[files]]
-file = "resources/datapacks/separatedleaves/data/terrestria/separated_leaves/sakura.json"
-hash = "9ad954b3e85c5fb3967f8ef61f702dd2aff5d9ebf5fb178f0331c1ec3afdd775"
-
-[[files]]
-file = "resources/datapacks/separatedleaves/data/terrestria/separated_leaves/willow.json"
-hash = "4eb39a6cd7277a76dd57936091c9336073a0fb1862b2ea3fb78803e8a56d996c"
-
-[[files]]
-file = "resources/datapacks/separatedleaves/data/terrestria/separated_leaves/yucca_palm.json"
-hash = "ebfc65ccc1689dd492bdedac8dd5c2de2ce714c577d26c0e8127330ab2bd4ef0"
-
-[[files]]
-file = "resources/datapacks/separatedleaves/data/traverse/separated_leaves/brown_autumnal.json"
-hash = "40b90b6b030bc69e837ccf3cc1a34e44f13d13ad9b091fd1f81fe6523ad2ef5a"
-
-[[files]]
-file = "resources/datapacks/separatedleaves/data/traverse/separated_leaves/fir.json"
-hash = "c69c5a0f8d18fd272ffb9a4d28c42b80124ca40ba92adb0d45cf4f65e177bd66"
-
-[[files]]
-file = "resources/datapacks/separatedleaves/data/traverse/separated_leaves/orange_autumnal.json"
-hash = "5017bd8171496b28498abce96815eeac8cb836918441b474015ddbf76508df78"
-
-[[files]]
-file = "resources/datapacks/separatedleaves/data/traverse/separated_leaves/red_autumnal.json"
-hash = "9eda92f27ed0fb711d6d88b655782b86bb27d3b3b4ecb073a8263c28d47e5b68"
-
-[[files]]
-file = "resources/datapacks/separatedleaves/data/traverse/separated_leaves/yellow_autumnal.json"
-hash = "29a34da697b985869f53de6933d9542dbc5b8595580ce457c0ea877b0a4d4322"
-
-[[files]]
-file = "resources/datapacks/separatedleaves/data/vinery/separated_leaves/apple_tree.json"
-hash = "2515da094803894cd2f99169336f4be53a7de6e1b820606e194f38a90ff1057c"
-
-[[files]]
-file = "resources/datapacks/separatedleaves/data/vinery/separated_leaves/dark_cherry.json"
-hash = "861e64e4ef8b9a1c24c99f15c77f869ccfbceb58fe516f8c8c4538f8a981dfa8"
-
-[[files]]
-file = "resources/datapacks/separatedleaves/data/yttr/separated_leaves/squeeze.json"
-hash = "92a8f6834c210e64cadb1cb572748ffea22c87782c48e3672958c71cd8120cc4"
-
-[[files]]
-file = "resources/datapacks/separatedleaves/pack.mcmeta"
-hash = "11e6adba848d7c273604876b37c72ce42163a9989d7f0c60e017ff4574fa6260"
 
 [[files]]
 file = "resources/datapacks/ttcrc.pw.toml"
