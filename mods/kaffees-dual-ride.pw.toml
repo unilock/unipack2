@@ -1,13 +1,14 @@
 name = "Kaffee's Dual Ride"
 filename = "Kaffee's_Dual_Ride-mc1.20.1-1.1.0.jar"
 side = "both"
+pin = true
 
 [download]
 hash-format = "sha1"
-hash = "e5543b1ec6e7e10ebc49cbdc77729f72c0694e58"
+hash = "a224de9e4d00b651275f6349171c5e7e96dccfe9"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5726480
+file-id = 4829015
 project-id = 683156
