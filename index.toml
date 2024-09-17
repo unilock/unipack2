@@ -1602,11 +1602,6 @@ hash = "5641148e6922cc3e6768726ff5db1d23088fb3969951a67e201ed3cc8183c700"
 metafile = true
 
 [[files]]
-file = "mods/fractionalgui.pw.toml"
-hash = "8b6522af7b575abcba398123d94a9fabb169e5cb66f108f91c7257b13c3878b7"
-metafile = true
-
-[[files]]
 file = "mods/fsit.pw.toml"
 hash = "66530bb1002e48bf8ee684e767d436dcbd7f7670099e0b28c94df82516c641ae"
 metafile = true
