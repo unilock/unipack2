@@ -1442,11 +1442,6 @@ hash = "55bf9f8e6aa71f4d225f4a2b2caf2b6e0ce70cf9998b7c3e47eeb76adbc6ec56"
 metafile = true
 
 [[files]]
-file = "mods/end-rebellion.pw.toml"
-hash = "979338104f837a214271118396f9f5f546f20e66eaac40be6f2cf0d1fd940707"
-metafile = true
-
-[[files]]
 file = "mods/ends-delight.pw.toml"
 hash = "3f42fe078d9e10e970a2aa82d24ece01e11c8e2ccc38cea31d1773decabbbff0"
 metafile = true
