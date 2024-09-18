@@ -2793,7 +2793,7 @@ metafile = true
 
 [[files]]
 file = "mods/shutup.pw.toml"
-hash = "4d81415efbd01a7d85dd40c86fc74cca5e2086657f22548b9d6c2805a4366a8f"
+hash = "58135b0c7b052ac505aad0042fea17f7f4530e1abed7747d2ea18ffde18faa20"
 metafile = true
 
 [[files]]
