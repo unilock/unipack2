@@ -3233,7 +3233,7 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "5fa3a100f874ad3d03b674e867105fc7cc7dcf98b5c1c50d7841a25a0dda4607"
+hash = "6b441b45632bff77027cae853e24fddc4e6192b208a7594cc6ce7bde6e247806"
 metafile = true
 
 [[files]]
@@ -3633,6 +3633,10 @@ hash = "683a37259ececababa5148d740339678f85686489f081e04b8bc73a5b177a17d"
 [[files]]
 file = "resources/data/minecraft/tags/items/hoes.json"
 hash = "50da5de58f009247235d7412c5a2f64e9b378296876cb042f8a2f566e4c7263d"
+
+[[files]]
+file = "resources/data/minecraft/worldgen/structure_set/end_cities.json"
+hash = "328df969b954049ce2a5b200588d72f462252d51f4f053f317c4a1c8377c7283"
 
 [[files]]
 file = "resources/data/naturescompass/advancements/natures_compass.json"

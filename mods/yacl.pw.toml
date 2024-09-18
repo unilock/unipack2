@@ -3,11 +3,6 @@ filename = "YetAnotherConfigLib-3.5.0+1.20.1-fabric.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/1eAoo2KR/versions/gQuF6HNa/YetAnotherConfigLib-3.5.0%2B1.20.1-fabric.jar"
-hash-format = "sha1"
-hash = "48005e145f5423ff9446ac6fe3d1cb122f977a00"
-
-[update]
-[update.modrinth]
-mod-id = "1eAoo2KR"
-version = "gQuF6HNa"
+url = "https://play.fennet.rentals/packwiz/unipack2/manual-jars/client/YetAnotherConfigLib-3.5.0+1.20.1-fabric.jar"
+hash-format = "sha256"
+hash = "256102f6cbea763f81b0ce676b7b8262c389fa473bd02c03bbc198c31dfff7be"
