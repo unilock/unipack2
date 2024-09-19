@@ -3000,11 +3000,6 @@ hash = "35073c4cdb12150f69292b7092918917b458f445e1605dabc8e3e379f439d965"
 metafile = true
 
 [[files]]
-file = "mods/tconjei.pw.toml"
-hash = "eb2a2076b01b2852b59b22521e895a0f90ea3cc2ed6175679a9ad8b88509589d"
-metafile = true
-
-[[files]]
 file = "mods/tdhr.pw.toml"
 hash = "ea6d36c4ff0792ae4af9ebd7532b7e925c88fb2f9c3ddf788edcba184e8bf73f"
 metafile = true
