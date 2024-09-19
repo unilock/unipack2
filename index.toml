@@ -791,7 +791,7 @@ metafile = true
 
 [[files]]
 file = "mods/astrocraft.pw.toml"
-hash = "9b1945053650d53ee7ea6c2cb1aff49c458d980100e58887e768965a954cd92a"
+hash = "7ece4eac7c20eae5a2004987c8ba0556f06512345a78b6512c92526c0eb0e681"
 metafile = true
 
 [[files]]
@@ -1126,7 +1126,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "403c99e6b3c7f03bfc1ef8f0a23c79d9929eb42658be02bd0911c36b0174cf5b"
+hash = "ae11fe7c63207b7257ecb782d421655c6f56adb551b78ad430066edc94bee3b1"
 metafile = true
 
 [[files]]
@@ -1911,7 +1911,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "3a6832ee0063d95827ec320659adde602781754cdfdcbac2b61cd824359da5d2"
+hash = "87e900fe94ae4efd20143a33269726c03e7d87d08ed97aeb7d46e82a503a23f4"
 metafile = true
 
 [[files]]
@@ -2436,7 +2436,7 @@ metafile = true
 
 [[files]]
 file = "mods/particle-core.pw.toml"
-hash = "21d9822b4e408bd8df24d07736ed7eb7ccf9848543cea7e84068ba877acb6a12"
+hash = "f050da6b2b7bd9326447182a8cd4d700ef94e6d61c00637a91320a7dff85508b"
 metafile = true
 
 [[files]]
@@ -2536,7 +2536,7 @@ metafile = true
 
 [[files]]
 file = "mods/polymorph.pw.toml"
-hash = "1a9f702e3df6fdadf1a4f8f8dbddd210ee47e7c1d6d9e8f08757d8873d47864a"
+hash = "2cf17609ff90320826045860ac577f9c4caa2d435c2e648973b97cd34a6d75aa"
 metafile = true
 
 [[files]]
