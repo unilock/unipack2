@@ -635,7 +635,7 @@ metafile = true
 
 [[files]]
 file = "mods/ad-astra-giselle-addon.pw.toml"
-hash = "dcc09861b8c2afccb3f1d8eb3841b8880107cd82fc0cd10e9b3460211d15b530"
+hash = "97d147620f9de7c400d9d09a2481f2a3e83ccf1f66690f45908b7192250dd5e6"
 metafile = true
 
 [[files]]
@@ -785,7 +785,7 @@ metafile = true
 
 [[files]]
 file = "mods/artsandcrafts.pw.toml"
-hash = "263938b75152fe29ddcfb258f9b058d29ffef506587be5f9edb358df75ddb2d8"
+hash = "6ae02e141179a3fcb3d3a63d2226297104f7b9d4bc6d682a05b0a0327f69c37e"
 metafile = true
 
 [[files]]
@@ -955,7 +955,7 @@ metafile = true
 
 [[files]]
 file = "mods/blockus.pw.toml"
-hash = "1fc8e75856c923202a3d610977ed3655d4c0c558bc3cb94dfa1cbfe296f5e4f4"
+hash = "b4b4055638cb25991f2cfe171884a32e2eef5eaa990e3eaba9c72f686c30dd3b"
 metafile = true
 
 [[files]]
@@ -1075,7 +1075,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "56579fdba79f90649bdd0c9e6903360844946a76d331da5b8169778d3d8a2731"
+hash = "7e96d574bdb372e3dbce1da65c40e26a57378358370ac975dadb0332bd669c9b"
 metafile = true
 
 [[files]]
@@ -1170,7 +1170,7 @@ metafile = true
 
 [[files]]
 file = "mods/companion-fabric.pw.toml"
-hash = "972b1754a41bf705bda871745ab268f6b49db4c9059876bf9c750eaa54c1d778"
+hash = "d8fe507a5cc5db4c1596ea332664d9bf036013ef11055cd3cc87bc5006987fd5"
 metafile = true
 
 [[files]]
@@ -1445,7 +1445,7 @@ metafile = true
 
 [[files]]
 file = "mods/enchanted-witchcraft.pw.toml"
-hash = "6dd8106a3a5238a51458d41d7ac5de5ba8a554bf4351285d7e828f4bf3e18821"
+hash = "a85ef94ee05b92b6e9e0e7c27420cf51b9e74bc5e7f43bd2d1c702ee93833265"
 metafile = true
 
 [[files]]
@@ -1785,7 +1785,7 @@ metafile = true
 
 [[files]]
 file = "mods/hexsky.pw.toml"
-hash = "7b515c060e3d8b1d5b4b42b6b555323512b642639e11d65ce099b33dbd169cd8"
+hash = "4dcd37ae78ffd17306aa6d2dfd5eda20ffbf32c218abaaecaeac69b78ff4a8bf"
 metafile = true
 
 [[files]]
@@ -1830,7 +1830,7 @@ metafile = true
 
 [[files]]
 file = "mods/icarus.pw.toml"
-hash = "1e44157fec3994990cb0856170e686d8e86783de66c005bb12a79e1b0b488a76"
+hash = "23865e8dd0b52370d414f48a2ac54fb6b74c1b48c64f1407d9474dd160d9d80d"
 metafile = true
 
 [[files]]
@@ -1915,7 +1915,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "87e900fe94ae4efd20143a33269726c03e7d87d08ed97aeb7d46e82a503a23f4"
+hash = "b32e6cf83a0e099f0992743dd272b5c0e91434fa51101af1ba1a242e4c2e93e6"
 metafile = true
 
 [[files]]
@@ -2485,7 +2485,7 @@ metafile = true
 
 [[files]]
 file = "mods/perfect-birbs.pw.toml"
-hash = "23d00998afb2eb62ad65b3d6e52d9b9f37067353fa7d73d7ef58d716cfbe7de5"
+hash = "6bc5c3705fe404cdc8359f1c1792e722fc83dcef06606d5020dbe065c5c4df17"
 metafile = true
 
 [[files]]

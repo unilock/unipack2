@@ -1,13 +1,13 @@
 name = "Arts & Crafts"
-filename = "arts_and_crafts-fabric-1.20.1-1.1.8.jar"
+filename = "arts_and_crafts-fabric-1.20.1-1.1.9.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "0cf179f8234d3f223f4013c39c20ef4091a74663"
+hash = "76d4456b517e4d14b274a8f483d8c0c2da932143"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5579910
+file-id = 5744047
 project-id = 1034791
