@@ -233,8 +233,12 @@ file = "config/extendedhotbar.toml"
 hash = "d4a0701ae24ce835cfafc8f7e564080bb29892e51eee6272d7d8268beed82216"
 
 [[files]]
+file = "config/fabrication/block_logo.png"
+hash = "a7864b8b6e4dda53f8b3d50e0dc4aabf3111978f1a1ec3a5255456725d38961f"
+
+[[files]]
 file = "config/fabrication/features.ini"
-hash = "38a825c9e6b015b644a5468d15430859d17f0d2b40fadfd548f549e6a001531b"
+hash = "735d644176a166cc51cf0e11e873f46b66e040c3d3b86164c9bb7ea699cbcf20"
 
 [[files]]
 file = "config/fabrichammers.json"
