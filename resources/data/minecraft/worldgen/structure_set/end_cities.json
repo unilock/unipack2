@@ -1,15 +1,15 @@
 {
+	"placement": {
+		"type": "minecraft:random_spread",
+		"salt": 10387313,
+		"separation": 10,
+		"spacing": 16,
+		"spread_type": "triangular"
+	},
 	"structures": [
 		{
 			"structure": "minecraft:end_city",
 			"weight": 1
 		}
-	],
-	"placement": {
-		"type": "minecraft:random_spread",
-		"salt": 10387313,
-		"spread_type": "triangular",
-		"spacing": 6,
-		"separation": 3
-	}
+	]
 }

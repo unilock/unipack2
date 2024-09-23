@@ -3653,7 +3653,7 @@ hash = "50da5de58f009247235d7412c5a2f64e9b378296876cb042f8a2f566e4c7263d"
 
 [[files]]
 file = "resources/data/minecraft/worldgen/structure_set/end_cities.json"
-hash = "328df969b954049ce2a5b200588d72f462252d51f4f053f317c4a1c8377c7283"
+hash = "dcecba79810f0e7704b0533011b1ead1c35690e2cb442b9b78a89173db893e54"
 
 [[files]]
 file = "resources/data/naturescompass/advancements/natures_compass.json"
