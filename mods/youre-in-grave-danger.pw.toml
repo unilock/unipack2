@@ -1,13 +1,13 @@
 name = "You're in Grave Danger"
-filename = "youre-in-grave-danger-fabric-2.0.6.jar"
+filename = "youre-in-grave-danger-fabric-2.0.8.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "1268f078872da0ffe0a0bd88bdbed594f125f772"
+hash = "2eafd05f9e55d6f4c30824dd42b56e3eb5ef550c"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5654550
+file-id = 5749153
 project-id = 544912

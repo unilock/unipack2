@@ -1785,7 +1785,7 @@ metafile = true
 
 [[files]]
 file = "mods/hexsky.pw.toml"
-hash = "4dcd37ae78ffd17306aa6d2dfd5eda20ffbf32c218abaaecaeac69b78ff4a8bf"
+hash = "82b9a3cbe803841e5520dd61a47599a938d4dd7b0b5e36a537965f15b48dd2db"
 metafile = true
 
 [[files]]
@@ -3260,7 +3260,7 @@ metafile = true
 
 [[files]]
 file = "mods/youre-in-grave-danger.pw.toml"
-hash = "f3ac85b2e46c9e91c09e6f86dc6dde87ebf3547ab6f9a3c2890ae10ab9b29248"
+hash = "e3f1edae6182e6b56e7d548fedb6a97f84718cc33a3c26dbe274f720a0c02da7"
 metafile = true
 
 [[files]]
