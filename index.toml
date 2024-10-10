@@ -1789,6 +1789,11 @@ hash = "82b9a3cbe803841e5520dd61a47599a938d4dd7b0b5e36a537965f15b48dd2db"
 metafile = true
 
 [[files]]
+file = "mods/hextweaks.pw.toml"
+hash = "5c3f3068d03d306f79c0168d533423abf9cd6cfb205dcc839ff21c24de872ea8"
+metafile = true
+
+[[files]]
 file = "mods/hibernal-herbs.pw.toml"
 hash = "c91d139c096bb714ec0b6bc181d4930a31dfa502e3ee66ccca2b87777548546a"
 metafile = true
