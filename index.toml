@@ -1770,7 +1770,7 @@ metafile = true
 
 [[files]]
 file = "mods/hex-casting.pw.toml"
-hash = "c31d7f06081b36fdb7fbf20dbf0e907afea792ddea8e597ef9612cd24e86c38a"
+hash = "45476f90993aed3b058fea606a7f8e7c670c1ae2c4f8bac5a2c142e374e7424c"
 metafile = true
 
 [[files]]
@@ -2475,7 +2475,7 @@ metafile = true
 
 [[files]]
 file = "mods/paucal.pw.toml"
-hash = "febc0dd540463bfd6722b553ef10ab1dc39e7e5c873b653a511117f37b4ff74e"
+hash = "f7a3986ed018dbb1f05a6501beaa2131c54be0e4a81a75d88a1280818510bedf"
 metafile = true
 
 [[files]]
