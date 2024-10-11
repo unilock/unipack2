@@ -450,7 +450,7 @@ hash = "960e3c567cc2552453a1f418fdd9fe4b1a7f0604b067f3594356756c3ef327fc"
 
 [[files]]
 file = "config/quilt-loader-overrides.json"
-hash = "71dac3003cb466f7a601b4ec97b7d5fd179bd4df891076cfefc6d2caba7f8440"
+hash = "f1a3dd9c92b50cfd2f1f96aa9dea7a94f7ec9f7b692c487bfdc6a0b77a55f6af"
 
 [[files]]
 file = "config/railways-client.toml"
@@ -2335,7 +2335,7 @@ metafile = true
 
 [[files]]
 file = "mods/nerb.pw.toml"
-hash = "c36411ade3e00267d71d08988e4e61eff53b068b209e936485d3222de8b4261f"
+hash = "bc5a74e00fd355ed0c2b33609b15586612f3288a4faa73c9a2dea52b2d0350be"
 metafile = true
 
 [[files]]
