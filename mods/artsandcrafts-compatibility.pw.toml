@@ -1,13 +1,13 @@
 name = "Arts & Crafts Compatibility"
-filename = "arts_and_crafts_compat-fabric-1.20.1-1.2.1.jar"
+filename = "arts_and_crafts_compat-fabric-1.20.1-1.1.0.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "f15a318f42519a449ee5ac5c6793b2919ebf1261"
+hash = "5098b34cd1ea4d659124f0ec33c499fac3991600"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5777047
+file-id = 5567800
 project-id = 1034792

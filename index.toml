@@ -780,7 +780,7 @@ metafile = true
 
 [[files]]
 file = "mods/artsandcrafts-compatibility.pw.toml"
-hash = "a6e715782a81ead538c06a12ec3d338c0c55fd41be0901d18bd33c6fa0746b95"
+hash = "ccdb9b745c81b687a6fd9019c3bd2a574e91fc30bb7a9e243719811aec3d107a"
 metafile = true
 
 [[files]]
@@ -3030,7 +3030,7 @@ metafile = true
 
 [[files]]
 file = "mods/the-legend-of-steve.pw.toml"
-hash = "866feda5bf21cfe9560fc3ecdfbb464446a4dd969cb871342695ac88036add18"
+hash = "3a8ef1c07ff3cbf56efb688d749dbc9286ec2c3167062bb55ab46f80c27b5fd3"
 metafile = true
 
 [[files]]
