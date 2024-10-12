@@ -1606,7 +1606,7 @@ metafile = true
 
 [[files]]
 file = "mods/fsit.pw.toml"
-hash = "66530bb1002e48bf8ee684e767d436dcbd7f7670099e0b28c94df82516c641ae"
+hash = "93dff1c55c4ad976260d427dd19bbd88ef4aedd713834c9921ebda8079ca234f"
 metafile = true
 
 [[files]]
@@ -2331,7 +2331,7 @@ metafile = true
 
 [[files]]
 file = "mods/nerb.pw.toml"
-hash = "bc5a74e00fd355ed0c2b33609b15586612f3288a4faa73c9a2dea52b2d0350be"
+hash = "2fd94eea780a8370e3628acf8d78b02366e0843896eb6b7ff77e353d593cabe8"
 metafile = true
 
 [[files]]
@@ -2396,7 +2396,7 @@ metafile = true
 
 [[files]]
 file = "mods/on1chest.pw.toml"
-hash = "ad0dea961f9ed50d8b0a9788de6669e3110c914ca1352a55bd5db37922aaa616"
+hash = "6f1b71c6d13a8247eb8a5a09951db54c695d1895629209feb09ef15461dfd993"
 metafile = true
 
 [[files]]
@@ -2966,7 +2966,7 @@ metafile = true
 
 [[files]]
 file = "mods/surveyor.pw.toml"
-hash = "8057ab65e227873389ae3ce246fe3e39bf39213b58c7170bdb6801899ea280ee"
+hash = "0a60a93056efb640a60c504f6f9f70da5dd2f792baca25a954480087a3766d57"
 metafile = true
 
 [[files]]
@@ -3251,7 +3251,7 @@ metafile = true
 
 [[files]]
 file = "mods/youre-in-grave-danger.pw.toml"
-hash = "b9dc65dfc24ebcad6979a3bc89bd1879b09aa1e4a144b1b2f0e9681fd5b74fe7"
+hash = "ed6fb9ed4bdd3d569da410a973c8b72f91b8f149cb2d14aa106a5601765af62c"
 metafile = true
 
 [[files]]

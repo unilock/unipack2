@@ -1,6 +1,7 @@
 name = "Not Enough Recipe Book [NERB]"
 filename = "nerb-1.20.1-0.3-QUILT.jar"
 side = "both"
+pin = true
 
 [download]
 url = "https://cdn.modrinth.com/data/bQh7xzFq/versions/2aSXMkGn/nerb-1.20.1-0.3-QUILT.jar"
