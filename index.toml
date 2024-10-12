@@ -429,12 +429,8 @@ file = "config/paucal.json5"
 hash = "ab2a69df1e5f5e7471b4ea1f9fc7535764ac63980351f62c525ccb6a069e1db9"
 
 [[files]]
-file = "config/pickupnotifier/pickupnotifier-client.toml"
-hash = "7d0c7bdf8cf2445b1b238f299cd4c131e3ef09117ecaa0e19c53420cf4f73eee"
-
-[[files]]
-file = "config/pickupnotifier/pickupnotifier-server.toml"
-hash = "9a1356917c5a70162e4d39562a5d934b282d39218db4f3581a23375ebc365300"
+file = "config/pickupnotifications.toml"
+hash = "5b89b2147f63869482048d85742363b2e5daf2d845c5d6fababcc2a0fa61d588"
 
 [[files]]
 file = "config/player-pronouns.json"
@@ -2499,8 +2495,8 @@ hash = "2287f0d70ea964fdaef93c65cc36dd153ae4bf229963984f174094d3199d7a32"
 metafile = true
 
 [[files]]
-file = "mods/pick-up-notifier.pw.toml"
-hash = "7aa88c3736f441c44c44457e337d0c45eaa4302efd807f5023757ddd44d6de20"
+file = "mods/pickup-notifications.pw.toml"
+hash = "e52f92d34ee7204da1b65ad4f4f4b8222fc0145f30a373b86686dce663aca627"
 metafile = true
 
 [[files]]
@@ -2641,11 +2637,6 @@ metafile = true
 [[files]]
 file = "mods/purpurpacks-re-dye-terracotta.pw.toml"
 hash = "a8c29629cbeffbd92eab35e1dee547bcaf774ca31cfd69008b7c1f70bc1e1a0e"
-metafile = true
-
-[[files]]
-file = "mods/puzzles-lib.pw.toml"
-hash = "34f3e071220deb81fe7bc4d7d005e6caabae32f089f3166a7e903819f4a78166"
 metafile = true
 
 [[files]]
