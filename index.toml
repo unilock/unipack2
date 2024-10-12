@@ -2495,11 +2495,6 @@ hash = "2287f0d70ea964fdaef93c65cc36dd153ae4bf229963984f174094d3199d7a32"
 metafile = true
 
 [[files]]
-file = "mods/pickup-notifications.pw.toml"
-hash = "e52f92d34ee7204da1b65ad4f4f4b8222fc0145f30a373b86686dce663aca627"
-metafile = true
-
-[[files]]
 file = "mods/picohud.pw.toml"
 hash = "33220c4af52df8d054b78309d7312342f401ece753a45d947cec8bafb50204fa"
 metafile = true
