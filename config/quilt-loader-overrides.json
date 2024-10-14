@@ -285,6 +285,21 @@
 					}
 				}
 			]
+		},
+		{
+			"id": "visualjukebox",
+			"depends": [
+				{
+					"replace": {
+						"id": "fabricloader",
+						"versions": ">=0.16.5"
+					},
+					"with": {
+						"id": "fabricloader",
+						"versions": ">=0.16.2"
+					}
+				}
+			]
 		}
 	]
 }
