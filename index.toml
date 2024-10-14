@@ -557,6 +557,10 @@ file = "config/veinmining-server.toml"
 hash = "410580dcccd52a05bb65fe654b4ae653c9261f9b8ac803df744582d37f050d09"
 
 [[files]]
+file = "config/visualjukebox.json"
+hash = "6406456dccb2e4dcdd5e1aa93192985d5d840e9bdb8f6e771fe3a57d714de41d"
+
+[[files]]
 file = "config/waila/waila.json5"
 hash = "b6553a8348954b02cac89886b86a031e983fcfe086ce8d3e2c529e3c047fe0ca"
 
@@ -2665,6 +2669,11 @@ hash = "06390a4bda5fe0ae409908db708656979b5c5863639e058e119c9ee0dc8ab588"
 metafile = true
 
 [[files]]
+file = "mods/rabbit-behavior-fix.pw.toml"
+hash = "8a501b1191ae776c464230051225ad8ad0429bd47092466c4ee24eef3a9158b6"
+metafile = true
+
+[[files]]
 file = "mods/radiant-gear.pw.toml"
 hash = "460207d786f0d8c82c0e2b39e48924f663155e931c82f419453392e030ffc988"
 metafile = true
@@ -3147,6 +3156,11 @@ metafile = true
 [[files]]
 file = "mods/videotape.pw.toml"
 hash = "9551dd0b80f44fd212a0ce14d9c3ffa2c1775468f2b4c94f891385d4806c783d"
+metafile = true
+
+[[files]]
+file = "mods/visual-jukebox.pw.toml"
+hash = "e62b75ec6115b8aecc031c9171e28d6dbad6553e86f070e3a863f23b63a9e1d4"
 metafile = true
 
 [[files]]
