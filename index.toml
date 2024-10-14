@@ -781,7 +781,7 @@ metafile = true
 
 [[files]]
 file = "mods/artsandcrafts.pw.toml"
-hash = "6ae02e141179a3fcb3d3a63d2226297104f7b9d4bc6d682a05b0a0327f69c37e"
+hash = "7057d0931c91b03d6563b6b7d035dcfd425c1d4a1055bb4f5f853cfbbb9457b4"
 metafile = true
 
 [[files]]
@@ -936,7 +936,7 @@ metafile = true
 
 [[files]]
 file = "mods/bewitchment.pw.toml"
-hash = "daf8030dfb7a2c8c335982310e387a4a6825b26b340bbabc904a3895a9eea77a"
+hash = "1e58b3f5919bf8d24fe0207e050553df8d811bf0e0a28a33d83c233c109ac7c0"
 metafile = true
 
 [[files]]
@@ -1626,7 +1626,7 @@ metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "b82e1cb555e69844229db5802b18adb498961a52473ac8d273036faedabf6f2d"
+hash = "d6c7ed8c225e386254551ac86a6333bb1b67f66ebea5e7e62d696a30839642cb"
 metafile = true
 
 [[files]]
@@ -1891,7 +1891,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.pw.toml"
-hash = "804c0a4d962afa7ed6a207bed0ae6dcb9d6ed0215c1b3c01a936421c55618634"
+hash = "e7111fe096a1792a6434b1ec2ee6c01670f64efa8cdad799ca5b525d0c3c2cab"
 metafile = true
 
 [[files]]
@@ -3016,7 +3016,7 @@ metafile = true
 
 [[files]]
 file = "mods/the-legend-of-steve.pw.toml"
-hash = "3a8ef1c07ff3cbf56efb688d749dbc9286ec2c3167062bb55ab46f80c27b5fd3"
+hash = "f8d80933c707b734fc0f775e5eeff36e4950a399315b223c2101ed834fc9e9e5"
 metafile = true
 
 [[files]]
@@ -3046,7 +3046,7 @@ metafile = true
 
 [[files]]
 file = "mods/toms-peripherals.pw.toml"
-hash = "dc45cfa495a12ac9901213dd72bb11f7e0a93d8d31e9c3e77673604600664c6a"
+hash = "0c746fcb31d40ead1f72cd9032616218dc81e77bd97d8387754553222b465849"
 metafile = true
 
 [[files]]

@@ -1,13 +1,13 @@
 name = "The Legend of Steve"
-filename = "zeldacraft-1.0.2.1.jar"
+filename = "zeldacraft-1.0.3.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "ac6ca6f6f014f466606e163acadd89d671e11496"
+hash = "e84e2906df4b33328ee9aff8683226d012f22f5f"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5721358
+file-id = 5809219
 project-id = 1086012
