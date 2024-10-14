@@ -1,13 +1,14 @@
 name = "Icy Incitement"
-filename = "icyincitement-1.2.0+1.20.1.jar"
+filename = "icyincitement-1.2.0.jar"
 side = "both"
+pin = true
 
 [download]
 hash-format = "sha1"
-hash = "0c2c2a776d8ffc9e040be172777cd0f95a8e555f"
+hash = "aa6cb16d1d19361ac3fbc3d2976ad7f0eaedf52e"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5788919
+file-id = 4688420
 project-id = 561319
