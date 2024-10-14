@@ -1,0 +1,8 @@
+name = "Visual Jukebox"
+filename = "visualjukebox-1.0.0+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://play.fennet.rentals/packwiz/unipack2/manual-jars/both/visualjukebox-1.0.0+1.20.1.jar"
+hash-format = "sha256"
+hash = "f6e20d5043152307f1c14c4b5ac81b6b6cda67281e8d36f0ca04bc4ec43cfd4b"
