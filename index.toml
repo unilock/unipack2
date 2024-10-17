@@ -755,7 +755,7 @@ metafile = true
 
 [[files]]
 file = "mods/arcanus-continuum.pw.toml"
-hash = "753fbd03d8858b5abcb15a8d70f8d6cbd8e939f3f07b0d2f0e6c1b746612e0f2"
+hash = "d814bfeb2e7573566bb737717f1efd6170ec700334917d9a105bdcb26af2d33e"
 metafile = true
 
 [[files]]
@@ -780,7 +780,7 @@ metafile = true
 
 [[files]]
 file = "mods/artsandcrafts-compatibility.pw.toml"
-hash = "ccdb9b745c81b687a6fd9019c3bd2a574e91fc30bb7a9e243719811aec3d107a"
+hash = "8dd584fe9975df1397b8b7ff27da10a545611fdd37932e3f07c76d4a4d3f2389"
 metafile = true
 
 [[files]]
@@ -940,7 +940,7 @@ metafile = true
 
 [[files]]
 file = "mods/bewitchment.pw.toml"
-hash = "1e58b3f5919bf8d24fe0207e050553df8d811bf0e0a28a33d83c233c109ac7c0"
+hash = "295ca06f809353de55cfa1d36296e8f7394f03ab4d7b6f42cd7bd20d69f267e2"
 metafile = true
 
 [[files]]
@@ -1610,7 +1610,7 @@ metafile = true
 
 [[files]]
 file = "mods/fsit.pw.toml"
-hash = "93dff1c55c4ad976260d427dd19bbd88ef4aedd713834c9921ebda8079ca234f"
+hash = "25487fb907185fa869556b25745892796b2a3db4e8a29d38265a3674eb968dba"
 metafile = true
 
 [[files]]
@@ -1630,7 +1630,7 @@ metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "d6c7ed8c225e386254551ac86a6333bb1b67f66ebea5e7e62d696a30839642cb"
+hash = "906b1a6ecb0d4d66b1b64d3a6f1db960371b51778991aea5cf87fbff3c36f8f3"
 metafile = true
 
 [[files]]
@@ -1805,7 +1805,7 @@ metafile = true
 
 [[files]]
 file = "mods/hoofprint.pw.toml"
-hash = "af29fe7da6180224b44441d4c7f0bf1a9440a996314b5b061f6f962e182f9ccf"
+hash = "049e4d09e9777cda54112ff44e006b30eb7e872ae1e0a0182bd634d7d98b864e"
 metafile = true
 
 [[files]]
@@ -1960,7 +1960,7 @@ metafile = true
 
 [[files]]
 file = "mods/kiwi-fabric.pw.toml"
-hash = "dd02dd1295b6eee5835cca608975083335c8d41c0462f1d63cc23e5709085b28"
+hash = "b252e71c3db9c44a439d492a4a9ee89a8639a70f86a0199e9d3ed15d4f8b7d86"
 metafile = true
 
 [[files]]
@@ -2970,7 +2970,7 @@ metafile = true
 
 [[files]]
 file = "mods/surveyor.pw.toml"
-hash = "0a60a93056efb640a60c504f6f9f70da5dd2f792baca25a954480087a3766d57"
+hash = "272d6f810e6ab5d2626b7822252558b68ed69237dd3f3906abcae3c347070735"
 metafile = true
 
 [[files]]
@@ -2995,7 +2995,7 @@ metafile = true
 
 [[files]]
 file = "mods/tax-free-levels.pw.toml"
-hash = "35073c4cdb12150f69292b7092918917b458f445e1605dabc8e3e379f439d965"
+hash = "1f67554310531023bd037d953ccb78d3ff932a55e4612de7f50772a767e8eeac"
 metafile = true
 
 [[files]]
@@ -3270,7 +3270,7 @@ metafile = true
 
 [[files]]
 file = "mods/yung-structures-addon-for-loot-integrations.pw.toml"
-hash = "cf85738fc12a017bbac7ba33f54364984aa302c895a6bfd536fb8f236d2b6c0b"
+hash = "f11b06f1bd3defefcdcfb5c62e14a4158d15f78f2389bb8dfea05fb8fc8fc80b"
 metafile = true
 
 [[files]]
