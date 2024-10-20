@@ -3164,11 +3164,6 @@ hash = "9551dd0b80f44fd212a0ce14d9c3ffa2c1775468f2b4c94f891385d4806c783d"
 metafile = true
 
 [[files]]
-file = "mods/visual-jukebox.pw.toml"
-hash = "b60ebdb51dc6caf5b9f89e78073cf3f9f55e63b3bfb5b9589ccdd31b9c982630"
-metafile = true
-
-[[files]]
 file = "mods/visuality.pw.toml"
 hash = "a8ed5a7548de373a19838501e549b6cc8c9c0bfe2d3bda94d84dadf7a03a55bf"
 metafile = true
