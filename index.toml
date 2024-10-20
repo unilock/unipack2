@@ -845,7 +845,7 @@ metafile = true
 
 [[files]]
 file = "mods/bad-wither-no-cookie.pw.toml"
-hash = "b5ab061f078e160c2d6b60b43fa4e35860306f1e7bb5e3323dd3689d4f1a24ba"
+hash = "35b1db6e9b56afde98a76c28461e8d419d3ffafee4567a15aaf6425fdd05ef83"
 metafile = true
 
 [[files]]
@@ -2000,7 +2000,7 @@ metafile = true
 
 [[files]]
 file = "mods/lets-do-bakery-farm-charm-compat.pw.toml"
-hash = "61715e45e10f6b0c37bae20c8dd20d9f281edeb0bb253969e156a5581c3380c3"
+hash = "5f3620cc57eefcbed8d7b202640045b607d128d00b9b0e116464c9b5eea3fcc7"
 metafile = true
 
 [[files]]
@@ -2020,7 +2020,7 @@ metafile = true
 
 [[files]]
 file = "mods/lets-do-camping.pw.toml"
-hash = "7d8ac1efe22609e813247ba9a87c8036c4535aa1b4c5735acb58107082355924"
+hash = "6cc3ea582d8b3fda99bcce84f09ce66e476eaeecf221a4be507f13b8773af309"
 metafile = true
 
 [[files]]
@@ -2030,12 +2030,12 @@ metafile = true
 
 [[files]]
 file = "mods/lets-do-farm-charm.pw.toml"
-hash = "96fd2474a245ca6656d4c01698255e27b6c176194d46e7b5d421321d86531dc4"
+hash = "db0e8eeda36909b50f8be1f4a0b3cfb0e4d10eec2bdcd9b3348ba40a81a6b4fb"
 metafile = true
 
 [[files]]
 file = "mods/lets-do-furniture.pw.toml"
-hash = "539ebda4a1d284e015d15eef3ee80d489dae6c68a1393957e51113e461781727"
+hash = "1cd642513968b48a4812b687f9ac85699fed49b4f4112331c742bc514904bb10"
 metafile = true
 
 [[files]]
@@ -2115,7 +2115,7 @@ metafile = true
 
 [[files]]
 file = "mods/logic-chips.pw.toml"
-hash = "2dc468cbea4a903e9fc4b8df7a7a5210592c49d89e1c4ebdb5788b36068a5d5c"
+hash = "ac84b23ab2258344e09747a66755ec7412249b832531ad465f1996e22127c5d9"
 metafile = true
 
 [[files]]
