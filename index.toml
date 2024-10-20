@@ -834,6 +834,11 @@ hash = "b9a735d5fa8a449c3f177edee653043235a3af096bba1d91ac09d53987b2868a"
 metafile = true
 
 [[files]]
+file = "mods/aviator-dreams.pw.toml"
+hash = "6db346cc677342ca97d344e2d91d7b858aad6c0b3ebdea2df6f53d42a01b7023"
+metafile = true
+
+[[files]]
 file = "mods/axolotl-bucket-fix.pw.toml"
 hash = "3d791706553bb0cb251622b32011ff581d1526c1bb8eb9f9e27b647ab89b7a1a"
 metafile = true

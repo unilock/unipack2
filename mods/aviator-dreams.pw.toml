@@ -1,0 +1,13 @@
+name = "Aviator Dreams"
+filename = "AviatorDreams-1.20.1-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "58351f86fd3bf26562e4796b27a7bd9dc94e921a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5821972
+project-id = 1123736
