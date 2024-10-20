@@ -2115,7 +2115,7 @@ metafile = true
 
 [[files]]
 file = "mods/logic-chips.pw.toml"
-hash = "ac84b23ab2258344e09747a66755ec7412249b832531ad465f1996e22127c5d9"
+hash = "2dc468cbea4a903e9fc4b8df7a7a5210592c49d89e1c4ebdb5788b36068a5d5c"
 metafile = true
 
 [[files]]
