@@ -1,13 +1,13 @@
 name = "Species"
-filename = "species-1.20.1-2.1-fabric.jar"
+filename = "species-1.20.1-2.2-fabric.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/s5d4P01r/versions/jTmcYox7/species-1.20.1-2.1-fabric.jar"
+url = "https://cdn.modrinth.com/data/s5d4P01r/versions/YIP4Q2KO/species-1.20.1-2.2-fabric.jar"
 hash-format = "sha1"
-hash = "44d71d218bb6f4d4f7ab142db140fc6747f9ea4e"
+hash = "2a8787be9406e8baf0a2eede82dd0b42dfdcfdec"
 
 [update]
 [update.modrinth]
 mod-id = "s5d4P01r"
-version = "jTmcYox7"
+version = "YIP4Q2KO"

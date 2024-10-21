@@ -785,7 +785,7 @@ metafile = true
 
 [[files]]
 file = "mods/artsandcrafts.pw.toml"
-hash = "7057d0931c91b03d6563b6b7d035dcfd425c1d4a1055bb4f5f853cfbbb9457b4"
+hash = "38f4cc1f421d0bc0cdddd3e6682b04e89d10c5a1fb1d410fca76303810e68bc1"
 metafile = true
 
 [[files]]
@@ -2875,7 +2875,7 @@ metafile = true
 
 [[files]]
 file = "mods/species.pw.toml"
-hash = "4f73a18aeef2ab6caaa93304bfc6c7d70b078f0450c2db00f6e80e16069ecaa6"
+hash = "f29d578a3e88d8c4520ddc77caf39bf978a6f0658902bb4624872496fc66901c"
 metafile = true
 
 [[files]]
