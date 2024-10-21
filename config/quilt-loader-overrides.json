@@ -287,12 +287,12 @@
 			]
 		},
 		{
-			"id": "visualjukebox",
+			"id": "vsgrapples",
 			"depends": [
 				{
 					"replace": {
 						"id": "fabricloader",
-						"versions": ">=0.16.5"
+						"versions": ">=0.16.7"
 					},
 					"with": {
 						"id": "fabricloader",
