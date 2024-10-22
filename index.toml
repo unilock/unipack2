@@ -1644,7 +1644,7 @@ metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "906b1a6ecb0d4d66b1b64d3a6f1db960371b51778991aea5cf87fbff3c36f8f3"
+hash = "cc203dbdf5f91a4a8ea7799c191e8e08bf2d1d7235f041831885647f3b5594e8"
 metafile = true
 
 [[files]]
@@ -2124,7 +2124,7 @@ metafile = true
 
 [[files]]
 file = "mods/logic-chips.pw.toml"
-hash = "2dc468cbea4a903e9fc4b8df7a7a5210592c49d89e1c4ebdb5788b36068a5d5c"
+hash = "2d72c031d0e0a727705ab48337422f9aead82a1341f1fddd177bea154b48c4eb"
 metafile = true
 
 [[files]]
