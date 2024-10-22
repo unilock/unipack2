@@ -3325,6 +3325,10 @@ file = "resources/assets/hybrid_beta/lang/en_us.json"
 hash = "d032f96c5b3862ff25eea6f0ce6add09708c4418cb3719720636e18fb0141840"
 
 [[files]]
+file = "resources/assets/minecraft/texts/splashes.txt"
+hash = "32d78cd82499b1d24ef241c2bb731df9b8550176d62bb0c3ab71f4cbdb354589"
+
+[[files]]
 file = "resources/assets/minecraft/textures/gui/title/edition.png"
 hash = "a5560c53795f623cfe1a2bcab40c78bbeaaa9f5236a40bbae8d81b87ceb6b761"
 
