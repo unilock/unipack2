@@ -2143,11 +2143,6 @@ hash = "e095b04c2ce52a9a08a8b49f970424ea4490b27438953270e02e3e5bc9e87537"
 metafile = true
 
 [[files]]
-file = "mods/lost-relics.pw.toml"
-hash = "6c361fb87b8578809f9df4c219515835d328594e57532c5b02128deaafc228f8"
-metafile = true
-
-[[files]]
 file = "mods/lovely-snails.pw.toml"
 hash = "b91dbfcb842d642390f47deadd6e6862c9be4ea0551fb4f10d0d7807d9e95c75"
 metafile = true
@@ -3328,6 +3323,14 @@ hash = "e6d39933d8dd6d69f579bf79558540aaf69cb7ee6255a1ec16a9913d82a00e8c"
 [[files]]
 file = "resources/assets/hybrid_beta/lang/en_us.json"
 hash = "d032f96c5b3862ff25eea6f0ce6add09708c4418cb3719720636e18fb0141840"
+
+[[files]]
+file = "resources/assets/minecraft/textures/gui/title/edition.png"
+hash = "a5560c53795f623cfe1a2bcab40c78bbeaaa9f5236a40bbae8d81b87ceb6b761"
+
+[[files]]
+file = "resources/assets/minecraft/textures/gui/title/minecraft.png"
+hash = "5ae5461059c9127c24ee17da4fa34fcb98160d2647c86e68779151eaeb60094a"
 
 [[files]]
 file = "resources/assets/riverredux/lang/en_us.json"
