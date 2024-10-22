@@ -225,6 +225,10 @@ file = "config/enhanced_bes.properties"
 hash = "ab37b961823c1e3ff0e3a9386c358a6882da1031ff5732e49f0a7403860443b4"
 
 [[files]]
+file = "config/estrogen-client.toml"
+hash = "ef39ee1dc695b0a8329918351550a56005376e4ccf480aa13f82d0936c06dcf0"
+
+[[files]]
 file = "config/expandedstorage.json"
 hash = "b71c0df5ce55717a49e35e99a0e7dff25318d7f2bb9ee2e42882d21550498f12"
 
@@ -1471,6 +1475,11 @@ metafile = true
 [[files]]
 file = "mods/enhanced-workbenches.pw.toml"
 hash = "34de7b482f56b71d35148ca8941c55585966889545f182d6953bbfccdb9cc3d5"
+metafile = true
+
+[[files]]
+file = "mods/estrogen.pw.toml"
+hash = "339b176f812bdec68b7a0fb1c00f60325527ef532a02005db363eef991ee4fc8"
 metafile = true
 
 [[files]]
