@@ -3326,7 +3326,7 @@ hash = "d032f96c5b3862ff25eea6f0ce6add09708c4418cb3719720636e18fb0141840"
 
 [[files]]
 file = "resources/assets/minecraft/texts/splashes.txt"
-hash = "32d78cd82499b1d24ef241c2bb731df9b8550176d62bb0c3ab71f4cbdb354589"
+hash = "2de90b19ebb73dc26fe971223e091df15197f40ccf688f6a54b50ff962aec68c"
 
 [[files]]
 file = "resources/assets/minecraft/textures/gui/title/edition.png"
