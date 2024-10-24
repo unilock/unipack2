@@ -1,10 +1,11 @@
 {
-    "replace": false,
+    "replace": true,
     "values": [
         "ae2:certus_quartz_hoe",
         "ae2:fluix_hoe",
         "ae2:nether_quartz_hoe",
         "arcadiandream:makaite_hoe",
+        "minecraft:iron_hoe",
         "mythicmetals:aquarium_hoe",
         "mythicmetals:banglum_hoe",
         "mythicmetals:bronze_hoe",

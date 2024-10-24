@@ -1,9 +1,11 @@
 {
-    "replace": false,
+    "replace": true,
     "values": [
         "amethyst_imbuement:garnet_hoe",
         "botania:elementium_hoe",
         "botania:manasteel_hoe",
+        "minecraft:diamond_hoe",
+        "minecraft:golden_hoe",
         "mythicmetals:carmot_hoe",
         "mythicmetals:durasteel_hoe",
         "mythicmetals:kyber_hoe",

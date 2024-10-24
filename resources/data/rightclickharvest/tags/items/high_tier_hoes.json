@@ -1,8 +1,9 @@
 {
-    "replace": false,
+    "replace": true,
     "values": [
         "arcadiandream:hihiirokane_hoe",
         "conjuring:soul_alloy_scythe",
+        "minecraft:netherite_hoe",
         "modern_industrialization:diesel_chainsaw",
         "mythicmetals:adamantite_hoe",
         "mythicmetals:celestium_hoe",
