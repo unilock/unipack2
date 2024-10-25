@@ -1623,6 +1623,11 @@ hash = "5641148e6922cc3e6768726ff5db1d23088fb3969951a67e201ed3cc8183c700"
 metafile = true
 
 [[files]]
+file = "mods/forkcart.pw.toml"
+hash = "0c0cc54699c7f5abb5acfa3840b67d70505d1fedde6fce3e650214d5d909ddcc"
+metafile = true
+
+[[files]]
 file = "mods/fsit.pw.toml"
 hash = "401de99ce793202b3b16ddd56dc35359bc912b1793ea82c29a1a83dc1e5323d5"
 metafile = true

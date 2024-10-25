@@ -1,0 +1,13 @@
+name = "Forkcart"
+filename = "forkcart-1.20.1-1.1.0-fix2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ll44Jqwj/versions/jDoLhOs1/forkcart-1.20.1-1.1.0-fix2.jar"
+hash-format = "sha1"
+hash = "bb6411b7e8888c5e1d243010ab3570c23a768388"
+
+[update]
+[update.modrinth]
+mod-id = "ll44Jqwj"
+version = "jDoLhOs1"
