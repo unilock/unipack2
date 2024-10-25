@@ -1498,6 +1498,11 @@ hash = "b3aa3212c74a98698f6c9543d37740328f4dd9a93dbb9169cb1a54adae3adec7"
 metafile = true
 
 [[files]]
+file = "mods/exclusions-lib.pw.toml"
+hash = "e72e8a42cf7da14c66328ab231e879b66b7a66c9a5f1c557986a999a44c76f69"
+metafile = true
+
+[[files]]
 file = "mods/excorrelation.pw.toml"
 hash = "b622d3f7ed299bf2996f49057dbdd23e88265cc646b5ee2d6115588dca1718de"
 metafile = true
