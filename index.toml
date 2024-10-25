@@ -799,7 +799,7 @@ metafile = true
 
 [[files]]
 file = "mods/astrocraft.pw.toml"
-hash = "7ece4eac7c20eae5a2004987c8ba0556f06512345a78b6512c92526c0eb0e681"
+hash = "5f0f6456c59cd7777164b8d3c12484dacc752d77c6f16dea74b60b4d397ffbb6"
 metafile = true
 
 [[files]]
@@ -854,7 +854,7 @@ metafile = true
 
 [[files]]
 file = "mods/badoptimizations.pw.toml"
-hash = "626f345799adca2b61b1851c3cf45884dcad1cba803c87186439184ec3866b2c"
+hash = "010e3cbd9a4e0fd0632c20ca5a7c500c80c501fb6633470bbc051d97c2f8ab7b"
 metafile = true
 
 [[files]]
@@ -1084,7 +1084,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "534afeeb1facff2d5146c8789d4c48aaffb7f749b1e0f3763d441a7b460bc5bc"
+hash = "b7ea3cdfa658a23a6d2e3fffec695315ddf64b75f2cdb5b7136210c93836583b"
 metafile = true
 
 [[files]]
@@ -1624,7 +1624,7 @@ metafile = true
 
 [[files]]
 file = "mods/fsit.pw.toml"
-hash = "25487fb907185fa869556b25745892796b2a3db4e8a29d38265a3674eb968dba"
+hash = "401de99ce793202b3b16ddd56dc35359bc912b1793ea82c29a1a83dc1e5323d5"
 metafile = true
 
 [[files]]
@@ -2409,7 +2409,7 @@ metafile = true
 
 [[files]]
 file = "mods/on1chest.pw.toml"
-hash = "6f1b71c6d13a8247eb8a5a09951db54c695d1895629209feb09ef15461dfd993"
+hash = "09f479e45186d81523e9626aff22326f61f9b4032578ef74a6fe213bf8a5410f"
 metafile = true
 
 [[files]]
@@ -2854,7 +2854,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-shadowy-path-blocks.pw.toml"
-hash = "70c0efbdfa18c5fbe7cc613e258d3f42e5ff276cc301c4109bf511898177d49b"
+hash = "ff63c0fcdae06b9fa5800d55f1acd779ead23705b4df33f9faa2b4d62e570997"
 metafile = true
 
 [[files]]
@@ -2889,7 +2889,7 @@ metafile = true
 
 [[files]]
 file = "mods/spectrum.pw.toml"
-hash = "8832f832393964188c49a34bc0a32933070fc64591773452231f6ecaf11d055b"
+hash = "e6e6a835f942108cdff24b13503d1826d3b4897708ca74a75f10289024e33f33"
 metafile = true
 
 [[files]]
