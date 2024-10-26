@@ -3347,10 +3347,6 @@ file = "resources/assets/minecraft/textures/gui/title/minecraft.png"
 hash = "52ab754a47e8f90071c5340484519b164043292e0f128d407fc903fc125684c1"
 
 [[files]]
-file = "resources/assets/neepmeat/lang/en_us.json"
-hash = "2bcf1b1ec55ed302269a621fac98a9b8e6ad87c35cfbb93d942739f68cef6c00"
-
-[[files]]
 file = "resources/assets/riverredux/lang/en_us.json"
 hash = "716d058f0d86aee120e8f3a876538e902e749b4de0b946eae3172b4fb52ee2b7"
 
