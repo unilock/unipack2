@@ -1944,7 +1944,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "399e1194d188b874568385ca6e0684f7cafc28242796ff42b16943fd64956165"
+hash = "ae6221e8fddf2d5edf38908811fcf64d0fff47c19075a238409069195353e7a2"
 metafile = true
 
 [[files]]
@@ -2349,7 +2349,7 @@ metafile = true
 
 [[files]]
 file = "mods/neepmeat.pw.toml"
-hash = "7a9efabe958ad9583e4c3d2fecc73f7402c76d3370311865ed525ed6d74fd90f"
+hash = "eec10c449d96f57aa728df5d89c929e422a82e99ff56e6e332967ecf36f1c469"
 metafile = true
 
 [[files]]
