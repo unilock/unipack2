@@ -1629,7 +1629,7 @@ metafile = true
 
 [[files]]
 file = "mods/fsit.pw.toml"
-hash = "967edb0028c8b4bf15379547cde6a072a79293a3c998b1d73d2c7a1021c1fce6"
+hash = "b898894a7c472cda03c3f97e87611f19d0cf677734b831e909303360f368817e"
 metafile = true
 
 [[files]]
