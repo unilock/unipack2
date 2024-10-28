@@ -789,7 +789,7 @@ metafile = true
 
 [[files]]
 file = "mods/artsandcrafts.pw.toml"
-hash = "38f4cc1f421d0bc0cdddd3e6682b04e89d10c5a1fb1d410fca76303810e68bc1"
+hash = "625f7fe83ae2d473782b1eb5fa7aa60a62bf75708b6fc91f97bea95a0bf937f9"
 metafile = true
 
 [[files]]
@@ -1629,7 +1629,7 @@ metafile = true
 
 [[files]]
 file = "mods/fsit.pw.toml"
-hash = "401de99ce793202b3b16ddd56dc35359bc912b1793ea82c29a1a83dc1e5323d5"
+hash = "967edb0028c8b4bf15379547cde6a072a79293a3c998b1d73d2c7a1021c1fce6"
 metafile = true
 
 [[files]]
@@ -1649,7 +1649,7 @@ metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "cc203dbdf5f91a4a8ea7799c191e8e08bf2d1d7235f041831885647f3b5594e8"
+hash = "3ffc8d2e9bee6cf7be287982ae9373308d404dd331a02a396af30c5514834f96"
 metafile = true
 
 [[files]]
@@ -1994,7 +1994,7 @@ metafile = true
 
 [[files]]
 file = "mods/language-reload.pw.toml"
-hash = "2097ff4c966e014b75e54665b0554f70c55ea68539f46f6ec38f2dbb0482ea0e"
+hash = "03fb7aefd35cde96ffb8598ea72f53a472c7d4b6af564fd6b6693382f175bed4"
 metafile = true
 
 [[files]]
@@ -2704,7 +2704,7 @@ metafile = true
 
 [[files]]
 file = "mods/reacharound.pw.toml"
-hash = "e65b94b18fb834d973b5c61738a3299df2b928d614868f4188cdfaf4c35aceed"
+hash = "ebe816b9845808a4f009cc034f7e2d664d6c9ba74b9cc51a27a99b0256130f3d"
 metafile = true
 
 [[files]]
