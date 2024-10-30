@@ -450,7 +450,7 @@ hash = "960e3c567cc2552453a1f418fdd9fe4b1a7f0604b067f3594356756c3ef327fc"
 
 [[files]]
 file = "config/quilt-loader-overrides.json"
-hash = "d23d4b0101d5151ee5a95bd82d5cd3078be0db27263fc84f23678d729e0e7ec8"
+hash = "50a9a2ca73ae05a185e49ca53b738bf532d46846be5f0d520b6c370214e284e0"
 
 [[files]]
 file = "config/railways-client.toml"
@@ -2843,6 +2843,11 @@ hash = "da1eaa3f9faedee735e38ca64a15d0a7e68faa0e64170316babe4c86297d11f5"
 metafile = true
 
 [[files]]
+file = "mods/slightlybettersplashes.pw.toml"
+hash = "b90bc781686e0702caa44b7ae10ae8b7941baa63c477793f8a183d5fe30f8fda"
+metafile = true
+
+[[files]]
 file = "mods/slimyfloor.pw.toml"
 hash = "8711da85177821867040064ce933184e41359be44ec27139cd57d3f707c15c02"
 metafile = true
@@ -3068,6 +3073,11 @@ hash = "d346ed969a51b62c23e6de3ea44f65f1cebb1dbc4d65051cbf5b4acea609d203"
 metafile = true
 
 [[files]]
+file = "mods/tis-vs.pw.toml"
+hash = "6dafc426fe5c7b5c1a3cfcda09d8dbe84ca8d40e45bc5bd552fd99d0e22b5fd1"
+metafile = true
+
+[[files]]
 file = "mods/toms-peripherals.pw.toml"
 hash = "0c746fcb31d40ead1f72cd9032616218dc81e77bd97d8387754553222b465849"
 metafile = true
@@ -3135,6 +3145,11 @@ metafile = true
 [[files]]
 file = "mods/twigs.pw.toml"
 hash = "7b9d811345bc97947c0eb2eaa90871c1d22c733779797aa582be0afe7377066a"
+metafile = true
+
+[[files]]
+file = "mods/twisted-and-carved.pw.toml"
+hash = "3a5c43a11d333935f5708b85c19bc24e20068882937a46f45c6694fbc958a2a1"
 metafile = true
 
 [[files]]

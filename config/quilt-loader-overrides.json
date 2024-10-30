@@ -122,36 +122,6 @@
 			]
 		},
 		{
-			"id": "jei",
-			"depends": [
-				{
-					"replace": {
-						"id": "fabricloader",
-						"versions": ">=0.16.3"
-					},
-					"with": {
-						"id": "fabricloader",
-						"versions": ">=0.16.2"
-					}
-				}
-			]
-		},
-		{
-			"id": "multilinemastery",
-			"depends": [
-				{
-					"replace": {
-						"id": "fabricloader",
-						"versions": ">=0.16.3"
-					},
-					"with": {
-						"id": "fabricloader",
-						"versions": ">=0.16.2"
-					}
-				}
-			]
-		},
-		{
 			"id": "particle_core",
 			"depends": [
 				{
@@ -281,7 +251,22 @@
 					},
 					"with": {
 						"id": "fabricloader",
-						"versions": ">=0.16.2"
+						"versions": ">=0.16.3"
+					}
+				}
+			]
+		},
+		{
+			"id": "twisted-and-carved",
+			"depends": [
+				{
+					"replace": {
+						"id": "fabricloader",
+						"versions": ">=0.16.7"
+					},
+					"with": {
+						"id": "fabricloader",
+						"versions": ">=0.16.3"
 					}
 				}
 			]
@@ -296,7 +281,7 @@
 					},
 					"with": {
 						"id": "fabricloader",
-						"versions": ">=0.16.2"
+						"versions": ">=0.16.3"
 					}
 				}
 			]

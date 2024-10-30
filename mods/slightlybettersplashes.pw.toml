@@ -1,0 +1,13 @@
+name = "Slightly Better Splashes"
+filename = "slightlybettersplashes-1.2.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/N0WNMHMm/versions/jxkfuA9i/slightlybettersplashes-1.2.0.jar"
+hash-format = "sha1"
+hash = "031a7755d32d68749a9dd0b212d2262d959f706b"
+
+[update]
+[update.modrinth]
+mod-id = "N0WNMHMm"
+version = "jxkfuA9i"
