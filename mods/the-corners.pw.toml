@@ -1,0 +1,8 @@
+name = "The Corners"
+filename = "the_corners-1.2.8.jar"
+side = "both"
+
+[download]
+url = "https://play.fennet.rentals/packwiz/unipack2/manual-jars/both/the_corners-1.2.8.jar"
+hash-format = "sha256"
+hash = "93fccaaf2d54069ad7e5e79f9b9c04eccba59a838672e461f8e1bee8c3971b3f"

@@ -3043,6 +3043,11 @@ hash = "6c9195c2a4252c514c46f93de51cb04f2ac4c464f9c9ba28e916de3c170f5532"
 metafile = true
 
 [[files]]
+file = "mods/the-corners.pw.toml"
+hash = "91f90995615eefc50eb044a87423c8b93c0bf9a897932da8027973199962535e"
+metafile = true
+
+[[files]]
 file = "mods/the-legend-of-steve.pw.toml"
 hash = "f8d80933c707b734fc0f775e5eeff36e4950a399315b223c2101ed834fc9e9e5"
 metafile = true
