@@ -784,7 +784,7 @@ metafile = true
 
 [[files]]
 file = "mods/artsandcrafts-compatibility.pw.toml"
-hash = "b5afb7b4f01c9004a686f8d09b180fedea88f806389b1a9677ccd7318f7bbd71"
+hash = "8dd584fe9975df1397b8b7ff27da10a545611fdd37932e3f07c76d4a4d3f2389"
 metafile = true
 
 [[files]]
