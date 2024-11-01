@@ -98,7 +98,7 @@ hash = "ac40e3a55aa357f17d6dec7772abaf1f27bb86b69208a0b1d0377d622d1e515a"
 
 [[files]]
 file = "config/better_log4j_config.xml"
-hash = "1cc9a87239b57fefb56c6edd4197176f9a2cd602f8d2c282ccf646d1ab5aae07"
+hash = "1b75a93385ae71cd3a760455636e911ef1f64360e817cecfbbe56081ba545373"
 
 [[files]]
 file = "config/betterdungeons-fabric-1_20.toml"

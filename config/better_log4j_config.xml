@@ -64,6 +64,7 @@
 			<Filters>
 				<RegexFilter regex=".*Handling inbound packet.*" onMatch="DENY" onMismatch="NEUTRAL"/>
 				<RegexFilter regex=".*has a mass of 0.0, not creating a ShipObject.*" onMatch="DENY" onMismatch="NEUTRAL"/>
+				<RegexFilter regex=".*received packet of type.*" onMatch="DENY" onMismatch="NEUTRAL"/>
 				<RegexFilter regex=".*Registering id\=\d+ for (LiquidState|SolidStateImpl|VsBlockState).*" onMatch="DENY" onMismatch="NEUTRAL"/>
 				<RegexFilter regex=".*solid box \(\d+ \d+ \d+\) &lt; \(\d+ \d+ \d+\) must not intersect negative box.*" onMatch="DENY" onMismatch="NEUTRAL"/>
 			</Filters>
