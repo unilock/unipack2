@@ -1828,6 +1828,11 @@ hash = "049e4d09e9777cda54112ff44e006b30eb7e872ae1e0a0182bd634d7d98b864e"
 metafile = true
 
 [[files]]
+file = "mods/horizontal-doors.pw.toml"
+hash = "661d54398a17700933547d929326ef62bfa772aab9050f03c1a2f4abad7e4c49"
+metafile = true
+
+[[files]]
 file = "mods/horse-stonks.pw.toml"
 hash = "c163df2a24d23f278ee8591b83bcca71215c3597495b058c75084f5e5d2ca535"
 metafile = true

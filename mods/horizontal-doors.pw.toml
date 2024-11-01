@@ -1,0 +1,13 @@
+name = "Horizontal Doors"
+filename = "Horizontal Doors-fabric-1.20.1-0.1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/R8n8xEes/versions/vGN3HOeg/Horizontal%20Doors-fabric-1.20.1-0.1.1.jar"
+hash-format = "sha1"
+hash = "9917bdfbc3e885333b20c8b011f77b466ae94b6c"
+
+[update]
+[update.modrinth]
+mod-id = "R8n8xEes"
+version = "vGN3HOeg"
