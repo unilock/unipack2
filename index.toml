@@ -1064,7 +1064,7 @@ metafile = true
 
 [[files]]
 file = "mods/cc-vs.pw.toml"
-hash = "90a0fac3fb0c39eb8a79ac31affea5fffc4148875bae72939c08f2fc536465e8"
+hash = "dc7467eebaa8d6c50f15a64fde03d223cc35451542c59ca5537e2977accdcfbc"
 metafile = true
 
 [[files]]
