@@ -1473,6 +1473,11 @@ hash = "665e28f8100d62def756174c4ff6a47ca75baebd8eee52a421a391b8639aad94"
 metafile = true
 
 [[files]]
+file = "mods/enhanced-cats.pw.toml"
+hash = "09e0fbfd09c2f3e2ce54b3a8f0137fc7ebe2d5a647f6dba5598795828eb1463b"
+metafile = true
+
+[[files]]
 file = "mods/enhanced-workbenches.pw.toml"
 hash = "34de7b482f56b71d35148ca8941c55585966889545f182d6953bbfccdb9cc3d5"
 metafile = true
