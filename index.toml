@@ -784,7 +784,7 @@ metafile = true
 
 [[files]]
 file = "mods/artsandcrafts-compatibility.pw.toml"
-hash = "8a5a0e9c1ce1b10192070e361bab1bd5ffe2a0f427c8e2fc49af8d65a5554dee"
+hash = "bc9e3ddfd94927b2a1618d71b0d4f8cc2d4ea5fedc1a7491760ae2a2b26c13f8"
 metafile = true
 
 [[files]]
@@ -1434,7 +1434,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "5b0b9dec84ec37febaf173cd39652dde0a135f23664e1d01f116d35ac9951d67"
+hash = "a9cc3936802a504e1fdcca6e86563d00e58600735a2547e5a95b9e142bdf0803"
 metafile = true
 
 [[files]]
@@ -1454,7 +1454,7 @@ metafile = true
 
 [[files]]
 file = "mods/enchanted-witchcraft.pw.toml"
-hash = "5ea5252d8d39b2ca9c95d9f248b727ee49cf01cda80690198db89b29c7885932"
+hash = "07c1e58286f55878ce6c6d646c11cea94465ef705bd1cb3a024434e645196118"
 metafile = true
 
 [[files]]
