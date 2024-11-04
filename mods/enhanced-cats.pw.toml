@@ -3,11 +3,11 @@ filename = "Enhanced Cats-1.20.1-0.6.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/e2R0wxyL/versions/8fceV0jM/Enhanced%20Cats-1.20.1-0.6.jar"
 hash-format = "sha1"
 hash = "f27796e1d9f1bcb82aeb34df98b6732ad098658f"
-mode = "metadata:curseforge"
 
 [update]
-[update.curseforge]
-file-id = 5786772
-project-id = 1031268
+[update.modrinth]
+mod-id = "e2R0wxyL"
+version = "8fceV0jM"
