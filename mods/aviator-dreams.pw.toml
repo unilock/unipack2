@@ -1,13 +1,13 @@
 name = "Aviator Dreams"
-filename = "AviatorDreams-1.20.1-1.0.0.jar"
+filename = "Aviator Dreams 2.0.1 1.20.1-Fabric.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "58351f86fd3bf26562e4796b27a7bd9dc94e921a"
+hash = "2acfc1031d60d4650e5f369522e178dc53f23cae"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5821972
+file-id = 5906998
 project-id = 1123736

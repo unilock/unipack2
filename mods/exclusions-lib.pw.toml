@@ -1,13 +1,13 @@
 name = "Exclusions Lib"
-filename = "exclusions_lib-0.6.jar"
+filename = "exclusions_lib-1.0.2.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "73a88daa5075c92ae9ca98705cff7621a7195898"
+hash = "a23ab00f2cca03c3812e7f212522be2b0e77d483"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5764807
+file-id = 5898575
 project-id = 1108052
