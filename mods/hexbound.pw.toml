@@ -1,8 +1,8 @@
 name = "Hexbound"
-filename = "hexbound-0.2.0+1.20.1+bc2.jar"
+filename = "hexbound-0.2.0+1.20.1.jar"
 side = "both"
 
 [download]
-url = "https://play.fennet.rentals/packwiz/unipack2/manual-jars/both/hexbound-0.2.0+1.20.1+bc2.jar"
+url = "https://play.fennet.rentals/packwiz/unipack2/manual-jars/both/hexbound-0.2.0+1.20.1.jar"
 hash-format = "sha256"
-hash = "2540f6341988e5a1990838fbdaafd510b4ca8ff0b681ac6c71b346717381c333"
+hash = "2689354e7f062d28ecf17481eeebda3da2b2241571e91602baaa3e1d2b1c9f52"

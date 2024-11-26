@@ -98,7 +98,7 @@ hash = "ac40e3a55aa357f17d6dec7772abaf1f27bb86b69208a0b1d0377d622d1e515a"
 
 [[files]]
 file = "config/better_log4j_config.xml"
-hash = "1b75a93385ae71cd3a760455636e911ef1f64360e817cecfbbe56081ba545373"
+hash = "144c265a20de01c088009d212799929baa4edde0fdf95a9f0944d4923ef16ba1"
 
 [[files]]
 file = "config/betterdungeons-fabric-1_20.toml"
@@ -450,7 +450,7 @@ hash = "960e3c567cc2552453a1f418fdd9fe4b1a7f0604b067f3594356756c3ef327fc"
 
 [[files]]
 file = "config/quilt-loader-overrides.json"
-hash = "50a9a2ca73ae05a185e49ca53b738bf532d46846be5f0d520b6c370214e284e0"
+hash = "3a3b5ce814590b1a7121dda6459d77172d9cf160aec0227546de8e45be492df2"
 
 [[files]]
 file = "config/railways-client.toml"
@@ -1449,7 +1449,7 @@ metafile = true
 
 [[files]]
 file = "mods/enchancement.pw.toml"
-hash = "4091cbd06fc8806b90a28a1e841b7d43620bcbc47395383d78dd0ac37fa8f175"
+hash = "dcb7c297af6b4915465fb402a22dfec080e0b6a7e020cc29bf9b945ddd2d9d42"
 metafile = true
 
 [[files]]
@@ -1794,12 +1794,12 @@ metafile = true
 
 [[files]]
 file = "mods/hexal.pw.toml"
-hash = "5fbecf591673e6f1364e3b4bd18d66772b6f700efde41df925f805467ca22fc6"
+hash = "a7d1d096cfc27cd42bafa32c03cebca777a2d5b7e553bdd272f8cf253f130b92"
 metafile = true
 
 [[files]]
 file = "mods/hexbound.pw.toml"
-hash = "2aa57a0fa68ce2088cb5febe53e4897e364cb0e908ded74fd78ff5125a56a507"
+hash = "ab27683b5bb25b0dce3f17de0dfa7abb4480e92989a898d9f3f348d80555da20"
 metafile = true
 
 [[files]]
@@ -1814,7 +1814,7 @@ metafile = true
 
 [[files]]
 file = "mods/hextweaks.pw.toml"
-hash = "0cd4d3f762d316e43608e6266f92e4a4a4948d9103a6136fb10c760fd0774a1a"
+hash = "5b192b285a6af06bae0a79fc3a0f4ebc4a3e241050e1a4d00c9a1d64cd8199d1"
 metafile = true
 
 [[files]]
@@ -2905,6 +2905,11 @@ metafile = true
 [[files]]
 file = "mods/species.pw.toml"
 hash = "f29d578a3e88d8c4520ddc77caf39bf978a6f0658902bb4624872496fc66901c"
+metafile = true
+
+[[files]]
+file = "mods/spectral-decorations.pw.toml"
+hash = "ae32d47c8c76f4c93318fb82d7e47baed5e785cb4be362d223a89c41ccfb53e4"
 metafile = true
 
 [[files]]

@@ -62,21 +62,6 @@
 			]
 		},
 		{
-			"id": "fsit",
-			"depends": [
-				{
-					"replace": {
-						"id": "fabric-language-kotlin",
-						"versions": ">=1.11.0+kotlin.2.0.0"
-					},
-					"with": {
-						"id": "fabric-language-kotlin",
-						"versions": ">=1.10.10+kotlin.1.9.10"
-					}
-				}
-			]
-		},
-		{
 			"id": "fzzy_config",
 			"depends": [
 				{
@@ -128,21 +113,6 @@
 					"replace": {
 						"id": "fabric-language-kotlin",
 						"versions": ">=1.10.18+kotlin.1.9.22"
-					},
-					"with": {
-						"id": "fabric-language-kotlin",
-						"versions": ">=1.10.10+kotlin.1.9.10"
-					}
-				}
-			]
-		},
-		{
-			"id": "plethora",
-			"depends": [
-				{
-					"replace": {
-						"id": "fabric-language-kotlin",
-						"versions": ">=1.10.19+kotlin.1.9.23"
 					},
 					"with": {
 						"id": "fabric-language-kotlin",
