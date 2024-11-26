@@ -1908,6 +1908,11 @@ hash = "31278d67704a56eb32d93c240e4bfd9822e1ab6047ee14d752953dd0c24dca95"
 metafile = true
 
 [[files]]
+file = "mods/inline.pw.toml"
+hash = "5c8247c5c0adc44060e43116f76ce5f037e2b8f7329527f24214d7116705f8ce"
+metafile = true
+
+[[files]]
 file = "mods/inmis.pw.toml"
 hash = "3b5d812cb326288def7f87a06dddbc4ba987cea771d1708a3680f8201865c0be"
 metafile = true
