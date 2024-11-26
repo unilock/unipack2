@@ -34,7 +34,7 @@ hash = "322a338e6bf4856f839e51891413087cbb0af904ae3ecdd52ef561d0c1063f04"
 
 [[files]]
 file = "config/Spectrum.json5"
-hash = "f2f0f5815431ff06f31a0f5945356d54776fce7ce2b27dc4917e482fc6b8563b"
+hash = "986dd99b4040c612aad49f355a02865882b85952809a77d89deae4c90663f052"
 
 [[files]]
 file = "config/ad_astra_giselle_addon.ver2.jsonc"
@@ -54,7 +54,7 @@ hash = "87f743ed4b41ac3a5f01b104f53c043823ab47c73e26e54b0bb154de8176604d"
 
 [[files]]
 file = "config/agricraft.jsonc"
-hash = "f56c756a363687175b92871ae9cf2b5da333e8f5c629ff05aea9d2c1bf9a6847"
+hash = "6f41f8896c41ff74113764996b4348f881722e1ef0ebb6b10d16eff74da13fd1"
 
 [[files]]
 file = "config/almostunified/unify.json"
@@ -130,7 +130,7 @@ hash = "26dae05af6b4a91b63325c1a266c64a20da490c4bdc12957d4eebb1ba754b53c"
 
 [[files]]
 file = "config/charm-common.toml"
-hash = "5c301d499b30fd815bac6ba938e43253eb17c7b526bdc7106cd6385dd4fd6874"
+hash = "888e73e1cb194ef1b9818d3d6905708be01d04f35c8b94299d839d283c9cf88a"
 
 [[files]]
 file = "config/chatpatches.json"
@@ -162,7 +162,7 @@ hash = "5e52fee3b3f86eb220851bf32290c2557c8610fe6439cd8ae58f83d9cd088cef"
 
 [[files]]
 file = "config/create-client.toml"
-hash = "95626a1d25cf13edaf69c86640b1665a24373fac94dcef16dc23b498fc7e6296"
+hash = "e78502ef681cf28c61b0ed0e2c9e2d24b0b602a5af8d744f8592414ac886d780"
 
 [[files]]
 file = "config/crops-love-rain.toml"
@@ -182,7 +182,7 @@ hash = "e6588cb1e350fad93ceb56194b06f690dc6f52e405ddbe4cfb1a46b080681f2d"
 
 [[files]]
 file = "config/dimdoors-config.json5"
-hash = "1ce56d99578092f484052b30cad2cbf535cf777ba6e773a5e74aea3b5bc89180"
+hash = "332ab1b7104bb402ffaf78abfbeb5596ff22b2d9529d8932e005d01d5e2d889c"
 
 [[files]]
 file = "config/dsurround/dsurround.json"
@@ -226,7 +226,7 @@ hash = "ab37b961823c1e3ff0e3a9386c358a6882da1031ff5732e49f0a7403860443b4"
 
 [[files]]
 file = "config/estrogen-client.toml"
-hash = "ef39ee1dc695b0a8329918351550a56005376e4ccf480aa13f82d0936c06dcf0"
+hash = "3f0776c79080dcc863dfaf263dce11474be8cabf2dcc67bc06c34bcca9730e99"
 
 [[files]]
 file = "config/expandedstorage.json"
@@ -242,7 +242,7 @@ hash = "a7864b8b6e4dda53f8b3d50e0dc4aabf3111978f1a1ec3a5255456725d38961f"
 
 [[files]]
 file = "config/fabrication/features.ini"
-hash = "38a825c9e6b015b644a5468d15430859d17f0d2b40fadfd548f549e6a001531b"
+hash = "a168c0d3103be4eb8353a7e192e6815a7e1baadb116e61766eaedc25cc0de943"
 
 [[files]]
 file = "config/fabrichammers.json"
@@ -262,7 +262,7 @@ hash = "f8abfda5b6bad3daeb79d2628103722b701b2d9eb6f82d74dfe11094ffcef50a"
 
 [[files]]
 file = "config/fast-rtp.json"
-hash = "ab16d0c70ec4d259e5363e41886108611bc3425fefcad0fc96109df2f7dadaf5"
+hash = "4f7c2ede278b9497823d35a0ecf092ffc839b560622aaebb3db098a8c9121bc7"
 
 [[files]]
 file = "config/forgeconfigapiport.toml"
@@ -270,7 +270,7 @@ hash = "ebeeb3ad6a574d20f2fabaffd46b0cd8cebcfa5cdd63efd3c8faeb26162b6388"
 
 [[files]]
 file = "config/fsit.yml"
-hash = "d4663be57126403feca91c3efed7a9b65d2287cf6594a7db21331ba4f658ca52"
+hash = "fbfe2ddf85f1f6e5d3ff35870940544052c759adbc0b4398c77267b094c3d2ea"
 
 [[files]]
 file = "config/fwaystones/config.json5"
@@ -378,7 +378,7 @@ hash = "820a6d6be954e90d7e5ec3a318f7be296aa4df919370467d8bc0139033e83519"
 
 [[files]]
 file = "config/malum-common.toml"
-hash = "a35a6f3fd32eed61e709c30b6c6a93ea5e938b3276b2e66e4313389e7ba0ea30"
+hash = "9c6c137e4cd58a7d1b672f3f8bf9511edf6ecde6a18da2b01fec9f1bf4eb55cb"
 
 [[files]]
 file = "config/mantle-client.toml"
@@ -530,7 +530,7 @@ hash = "bd46e5e9e7f967632da1628b590d06cdf1e99b5c23c209d8be309bbc343f1d75"
 
 [[files]]
 file = "config/tconstruct-common.toml"
-hash = "17d88f0f1fbb67f125015a0a8963dfb4870183ed321ffd0a878846063f452e7d"
+hash = "79592fd4ad16130230f55c3cc34250e2229c0b2b1decf6b38384b422d5f54e40"
 
 [[files]]
 file = "config/terrestria/client.json"
@@ -570,7 +570,7 @@ hash = "b6553a8348954b02cac89886b86a031e983fcfe086ce8d3e2c529e3c047fe0ca"
 
 [[files]]
 file = "config/waila/waila_plugins.json5"
-hash = "e990f48637f5c7fad85d3bd3c32fcf97e1c26afae647e3a74d81cd0757d310c0"
+hash = "3a3a6210a2c9e4b51cf2c5f943d75879e8bf7dfe7916ffc92b3fd4e386cf0f88"
 
 [[files]]
 file = "config/wakes.json"
@@ -586,7 +586,7 @@ hash = "1bc7b02ac1433aee880345390c1ca3a3aabd7be7e5846e05dc2a8aab4fe787c0"
 
 [[files]]
 file = "config/yigd.json"
-hash = "c46dfcaf1ad5ca3cb03a51d1d74c7951fcd0cd51406ef217f85ec8e4635e2db5"
+hash = "6d8d654623418e8aed6910d091e615b325199df79898f16b17c9044415b92a28"
 
 [[files]]
 file = "config/yttr.css"

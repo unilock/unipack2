@@ -73,6 +73,7 @@
       "spawnNbt": "{ArmorItems:[{},{},{},{id:\"minecraft:player_head\",tag:{SkullOwner:{Name:\"${owner.name}\",Id:\"${owner.uuid}\"}},Count:1b}]}"
     },
     "generateOnLastGroundPos": false,
+    "tryGenerateOnGround": false,
     "generationMaxDistance": {
       "x": 5,
       "y": 5,

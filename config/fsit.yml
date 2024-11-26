@@ -1,10 +1,11 @@
+version: 2
 # Whether to use the server-side configuration.
 use_server: false
 sitting:
-  # Controls whether gravity affects seats.
-  apply_gravity: true
-  # Allows sitting even if not standing on a solid block.
-  allow_in_air: true
+  # Controls sitting behaviour. Possible values: nothing, discard (if no block underneath sitting player), gravity.
+  behaviour: "gravity"
+  # Places seat in the center of the block
+  should_center: false
 on_use:
   # Allows to start sitting on specific blocks by interacting with them.
   sitting: true
@@ -16,9 +17,9 @@ on_use:
   check_suffocation: true
   # List of blocks or block types (e.g., "oak_log", "#logs") that are available to sit on by interacting with them.
   blocks:
-  - "#slabs"
-  - "#stairs"
-on_double_sneak:
+  - "#minecraft:slabs"
+  - "#minecraft:stairs"
+on_sneak:
   # Allows to start sitting by double sneaking while looking down.
   sitting: false
   # Allows to start crawling by double sneaking near a one-block gap.

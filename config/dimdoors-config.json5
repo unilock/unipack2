@@ -4,6 +4,7 @@
 		"riftBoundingBoxInCreative": false,
 		"riftCloseSpeed": 0.1,
 		"riftGrowthSpeed": 1.0,
+		"enableRiftDecay": false,
 		"depthSpreadFactor": 20,
 		"endermanSpawnChance": 5.0E-5,
 		"endermanAggressiveChance": 0.0,
@@ -33,8 +34,23 @@
 	},
 	"limbo": {
 		"hardcoreLimbo": true,
-		"limboReturnDistance": 20000,
-		"limboBlocksCorruptingOverworldAmount": 5.0,
+		"limboReturnDistance": 5000,
+		"limboBlocksCorruptingExitWorldAmount": 5.0,
+		"escapeTargetWorld": {
+			"field_25137": {
+				"field_13353": "minecraft",
+				"field_13355": "dimension"
+			},
+			"field_25138": {
+				"field_13353": "minecraft",
+				"field_13355": "overworld"
+			},
+			"quilt$attachments": { },
+			"quilt$builtinAttachmentHolder": null,
+			"quilt$dataAttachmentHolder": null
+		},
+		"escapeTargetWorldYSpawn": 64,
+		"escapeToWorldSpawn": false,
 		"worldsLeadingToLimbo": {
 			"list": [],
 			"blacklist": false
@@ -61,6 +77,7 @@
 	},
 	"decay": {
 		"decaySpreadChance": 1.0,
-		"decayDelay": 40
+		"decayDelay": 40,
+		"decaysIntoAir": true
 	}
 }

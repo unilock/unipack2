@@ -1,4 +1,3 @@
-
 [AerialAffinity]
 	#Aerial Affinity is a boots enchantment that increases mining rate when not on the ground.
 	"AerialAffinity enabled" = true
@@ -403,4 +402,3 @@
 [Woodcutters]
 	#A functional block that adds more efficient recipes for crafting wooden stairs and slabs.
 	"Woodcutters enabled" = false
-
