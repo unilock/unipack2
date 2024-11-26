@@ -1793,11 +1793,6 @@ hash = "2cc1e9463daefe7fa49fa3f0cb057925af6f7d0e2a6d8190281212ad197be629"
 metafile = true
 
 [[files]]
-file = "mods/hex-casting.pw.toml"
-hash = "45476f90993aed3b058fea606a7f8e7c670c1ae2c4f8bac5a2c142e374e7424c"
-metafile = true
-
-[[files]]
 file = "mods/hexal.pw.toml"
 hash = "5fbecf591673e6f1364e3b4bd18d66772b6f700efde41df925f805467ca22fc6"
 metafile = true
@@ -1805,6 +1800,11 @@ metafile = true
 [[files]]
 file = "mods/hexbound.pw.toml"
 hash = "2aa57a0fa68ce2088cb5febe53e4897e364cb0e908ded74fd78ff5125a56a507"
+metafile = true
+
+[[files]]
+file = "mods/hexcasting.pw.toml"
+hash = "6dd9f0425d33c2c8b51a47c3e9f8f42d5339beff98e21911ef0797335ce63f30"
 metafile = true
 
 [[files]]
@@ -2494,7 +2494,7 @@ metafile = true
 
 [[files]]
 file = "mods/paucal.pw.toml"
-hash = "f7a3986ed018dbb1f05a6501beaa2131c54be0e4a81a75d88a1280818510bedf"
+hash = "06e36bd2c7909f3eff22b5ddbf107f0575365f2a50a14e00f497fc7e2cc95f3a"
 metafile = true
 
 [[files]]

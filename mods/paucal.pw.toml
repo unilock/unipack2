@@ -1,8 +1,13 @@
 name = "PAUCAL"
-filename = "paucal-fabric-1.20.1-0.6.0-pre-5.jar"
+filename = "paucal-0.6.0+1.20.1-fabric.jar"
 side = "both"
 
 [download]
-url = "https://maven.blamejared.com/at/petra-k/paucal/paucal-fabric-1.20.1/0.6.0-pre-5/paucal-fabric-1.20.1-0.6.0-pre-5.jar"
-hash-format = "sha256"
-hash = "881535a183b3aee13116181271b55b1c4e1bbf74b8eca4aef6b2a6478c4f0cf8"
+hash-format = "sha1"
+hash = "bd44f55fe67c6743171637a9e57812aae189ec5d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5687006
+project-id = 597824
