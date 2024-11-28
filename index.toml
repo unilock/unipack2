@@ -1223,7 +1223,7 @@ metafile = true
 
 [[files]]
 file = "mods/connectivity.pw.toml"
-hash = "684f4251c27322369a364ad8594859f06e1c7a32423da7d116e457f3d4b93af8"
+hash = "f770bee57284329b17b7c60be240ca01848aca1c908db162477434970f9ecde1"
 metafile = true
 
 [[files]]
@@ -2328,7 +2328,7 @@ metafile = true
 
 [[files]]
 file = "mods/my-nethers-delight-refabricated.pw.toml"
-hash = "01e7c74af73f8e423d411aab6fa651dcbab4b0521a6806de9e605abeb0592c94"
+hash = "e91f5ff3bd27d896eaf7c9a1adec0a918d8fb14dd007a1e7f972449017b73408"
 metafile = true
 
 [[files]]
