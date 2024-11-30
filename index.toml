@@ -454,7 +454,7 @@ hash = "960e3c567cc2552453a1f418fdd9fe4b1a7f0604b067f3594356756c3ef327fc"
 
 [[files]]
 file = "config/quilt-loader-overrides.json"
-hash = "3a3b5ce814590b1a7121dda6459d77172d9cf160aec0227546de8e45be492df2"
+hash = "da6edc4847437dddacbea8f1468987db4dd60500921ad65df2cf65d0fb9d5a5a"
 
 [[files]]
 file = "config/railways-client.toml"
@@ -3028,7 +3028,7 @@ metafile = true
 
 [[files]]
 file = "mods/tamago.pw.toml"
-hash = "8c85745e01321c43f39de96338da1c9dc20843f7890ccb14d36f12236a33716d"
+hash = "f867076ab23e858c3b15cea58a0a91aa23d999da602ecdf2e313c54cd1f93934"
 metafile = true
 
 [[files]]
