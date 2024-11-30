@@ -2588,7 +2588,7 @@ metafile = true
 
 [[files]]
 file = "mods/porting-lib.pw.toml"
-hash = "4bdc52f01c4b791699db9dd88220671e4152cdb5fb2a39dcfff8a3c7272340ff"
+hash = "d06af4ba791766a06837f18928d59fc9e081ca9e4eaae373ce86d33fba2b0781"
 metafile = true
 
 [[files]]
@@ -2923,7 +2923,7 @@ metafile = true
 
 [[files]]
 file = "mods/spectrum.pw.toml"
-hash = "9e871f3bf865f5c9acd48c2e21beb85da8abe3653204a9bd79cb2dafcf2b0352"
+hash = "659d57b5c9c5dcf08728faec38027c1c3b99208014b00d3bdc23023179957135"
 metafile = true
 
 [[files]]
@@ -3083,7 +3083,7 @@ metafile = true
 
 [[files]]
 file = "mods/tidal-towns.pw.toml"
-hash = "dad9af75cac88d62ff6a811cd36217e8cd070324b74cf956780e221b8c5b588a"
+hash = "9afc7aa9f96e76f806891d8ee5d6be77d06a370328323462f689541d0e9c8b02"
 metafile = true
 
 [[files]]
