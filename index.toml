@@ -390,7 +390,7 @@ hash = "8167e5525801979375c1a9fa4e849dd7af40c4dfb56ea83013444326ce70aa99"
 
 [[files]]
 file = "config/modern_industrialization.toml"
-hash = "43e37565d748744ec45140a588fc09e5211b08a52f79c3a7452668adb9ed3284"
+hash = "063ecd4aa4918320420a2942384ee2ce8137b52c2956d458a37a3380c6317ffd"
 
 [[files]]
 file = "config/modernfix-mixins.properties"
