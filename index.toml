@@ -878,7 +878,7 @@ metafile = true
 
 [[files]]
 file = "mods/bank-storage.pw.toml"
-hash = "de7a5bfb53fa8b1009f944d4d7e112d953bee86b129766501a73276290712f6f"
+hash = "67cee892c63fd5f5a2795dda44e2fa9d866dd894f47bfc3d19975a57428f4f26"
 metafile = true
 
 [[files]]
@@ -1263,7 +1263,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-fabric.pw.toml"
-hash = "252878ad67eb85e89d725478bd36a64ce6f84b247c3ac8a1851f3b4f553f11f4"
+hash = "4168fa3f9ea0a286c0865315697ba3e42a771f966d020f0d90c52e2e07eca84c"
 metafile = true
 
 [[files]]
@@ -2588,7 +2588,7 @@ metafile = true
 
 [[files]]
 file = "mods/porting-lib.pw.toml"
-hash = "d06af4ba791766a06837f18928d59fc9e081ca9e4eaae373ce86d33fba2b0781"
+hash = "5619f543561c303640452de7b72e4d9a95f5e187bc6833ec3cd088a71a4e41ef"
 metafile = true
 
 [[files]]
