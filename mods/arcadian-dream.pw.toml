@@ -1,8 +1,8 @@
 name = "Arcadian Dream"
-filename = "arcadiandream-1.20.1-0.1.0.jar"
+filename = "arcadiandream-0.1.0+1.20.1.jar"
 side = "both"
 
 [download]
-url = "https://play.fennet.rentals/packwiz/unipack2/manual-jars/both/arcadiandream-1.20.1-0.1.0.jar"
+url = "https://play.fennet.rentals/packwiz/unipack2/manual-jars/both/arcadiandream-0.1.0+1.20.1.jar"
 hash-format = "sha256"
-hash = "9b35c23fb8cd929df0dc4fd08ae3e703e57e13c8c07d97cd0ae1307c785ca9d4"
+hash = "b1616e0b6031171ab2e1feb3b0f830963b94b94bfec9ed639ce70cf2f56c229b"
