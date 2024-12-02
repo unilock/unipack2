@@ -1812,6 +1812,11 @@ hash = "c6d1b2ce95a91ba5973d60bfac21e7a2767c36a919d1906a01a3cafa3101f894"
 metafile = true
 
 [[files]]
+file = "mods/hexcellular.pw.toml"
+hash = "7c91287eba8c17d94f8f0b959d28773cc3b8b8ae68d88501b2275331ffb7be5c"
+metafile = true
+
+[[files]]
 file = "mods/hexsky.pw.toml"
 hash = "82b9a3cbe803841e5520dd61a47599a938d4dd7b0b5e36a537965f15b48dd2db"
 metafile = true
