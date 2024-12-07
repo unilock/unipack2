@@ -70,7 +70,7 @@
 						"versions": "=0.5.1-f-build.1417+mc1.20.1"
 					},
 					"with": {
-						"id": "fabric-language-kotlin",
+						"id": "create",
 						"versions": ">=0.5.1-j-build.1604+mc1.20.1"
 					}
 				}
