@@ -643,7 +643,7 @@ metafile = true
 
 [[files]]
 file = "mods/ad-astra-giselle-addon.pw.toml"
-hash = "97d147620f9de7c400d9d09a2481f2a3e83ccf1f66690f45908b7192250dd5e6"
+hash = "ab82d4bb0f93fb77a65664b4d1864c309d225a35ca1d985d04dd5e41594d734d"
 metafile = true
 
 [[files]]
@@ -763,7 +763,7 @@ metafile = true
 
 [[files]]
 file = "mods/arcanus-continuum.pw.toml"
-hash = "d814bfeb2e7573566bb737717f1efd6170ec700334917d9a105bdcb26af2d33e"
+hash = "bec9efb7ba7519dcd0e198ddc490d0e630fb10923825cd6d1640b633aa430c1f"
 metafile = true
 
 [[files]]
@@ -853,12 +853,12 @@ metafile = true
 
 [[files]]
 file = "mods/bad-wither-no-cookie.pw.toml"
-hash = "35b1db6e9b56afde98a76c28461e8d419d3ffafee4567a15aaf6425fdd05ef83"
+hash = "545fefbb036d68fb42cd96a077d42461abbf935cb71a096cee9454fba4030339"
 metafile = true
 
 [[files]]
 file = "mods/badoptimizations.pw.toml"
-hash = "010e3cbd9a4e0fd0632c20ca5a7c500c80c501fb6633470bbc051d97c2f8ab7b"
+hash = "e12844cd27da11fe8c69482d16e26f672a31f49018beb773c8ea4c34a55ad70a"
 metafile = true
 
 [[files]]
@@ -948,7 +948,7 @@ metafile = true
 
 [[files]]
 file = "mods/bettersmithingtable.pw.toml"
-hash = "483ad0edd5f3be9e84b8925ba69ad8052d966bfdc3c23cc8c13a3b8f9770dd84"
+hash = "d8209fc9131408dbc00cb8a6efc654054a936339350927933bb4cfdf381a2f7f"
 metafile = true
 
 [[files]]
@@ -1263,7 +1263,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-fabric.pw.toml"
-hash = "4168fa3f9ea0a286c0865315697ba3e42a771f966d020f0d90c52e2e07eca84c"
+hash = "ada64c3513b465ad4f91207c443809c995e5209dfe7f18ddab0285ff831b72d0"
 metafile = true
 
 [[files]]
@@ -1583,7 +1583,7 @@ metafile = true
 
 [[files]]
 file = "mods/farmers-delight-refabricated.pw.toml"
-hash = "921692165d02804b0cc0aea4f01f124c2a64e27dd870c7429905126dd2ba4f48"
+hash = "f3585706ab74e5551376ef97b0f17cc19a0ae192dbeb62649bc78ef3edf830e7"
 metafile = true
 
 [[files]]
@@ -1778,7 +1778,7 @@ metafile = true
 
 [[files]]
 file = "mods/hephaestus.pw.toml"
-hash = "a956c6e7dea778d088b0059ba7019c139b9477d80bab38a22fa00e4b984a94af"
+hash = "da53b078e3d222c72a3dc7f065cca1cad9772473a6be401f4e7098c0e7da6456"
 metafile = true
 
 [[files]]
@@ -2333,7 +2333,7 @@ metafile = true
 
 [[files]]
 file = "mods/my-nethers-delight-refabricated.pw.toml"
-hash = "e91f5ff3bd27d896eaf7c9a1adec0a918d8fb14dd007a1e7f972449017b73408"
+hash = "7313dce2cadfdf55067c64948e511901683ce0fd900d7ef4ea85eb462a441d2f"
 metafile = true
 
 [[files]]
@@ -2363,12 +2363,12 @@ metafile = true
 
 [[files]]
 file = "mods/nbt-autocomplete.pw.toml"
-hash = "28478f4976d30c93a71d6ca5672319793327507e6f90bd39b0c949c3b8a7b94c"
+hash = "3932614f37805e4e60e071dcfeac1953694cb917fe1c4880322ceae319dbf5e7"
 metafile = true
 
 [[files]]
 file = "mods/neepmeat.pw.toml"
-hash = "ae56c938e1a5b169064945d797bb77fc43a6dfab94862f720c9cde63d8e423ef"
+hash = "a039f7b6cfc0e2dba20ad1bcbd9a9546174f6309377d60c596726fa1a0214cb7"
 metafile = true
 
 [[files]]
