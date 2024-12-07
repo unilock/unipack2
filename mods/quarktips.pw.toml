@@ -1,8 +1,8 @@
 name = "QuarkTips"
-filename = "quarktips-2.1.0+1.20.1+fabric.jar"
+filename = "quarktips-2.2.0+1.20.1+fabric.jar"
 side = "client"
 
 [download]
-url = "https://play.fennet.rentals/packwiz/unipack2/manual-jars/client/quarktips-2.1.0+1.20.1+fabric.jar"
+url = "https://play.fennet.rentals/packwiz/unipack2/manual-jars/client/quarktips-2.2.0+1.20.1+fabric.jar"
 hash-format = "sha256"
-hash = "adf7755362dba892ad8aaa7961765dd7d03cdf42105c95a5aa217e5d244438cb"
+hash = "3ab4c390289eb1d02011c218df797ba101cbc3d86ce341cd79d3f4ac4aec8c4e"
