@@ -253,6 +253,21 @@
 			]
 		},
 		{
+			"id": "tconstruct",
+			"depends": [
+				{
+					"replace": {
+						"id": "fabricloader",
+						"versions": ">=0.16.9"
+					},
+					"with": {
+						"id": "fabricloader",
+						"versions": ">=0.16.3"
+					}
+				}
+			]
+		},
+		{
 			"id": "twisted-and-carved",
 			"depends": [
 				{
