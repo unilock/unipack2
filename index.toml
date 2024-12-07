@@ -2882,11 +2882,6 @@ hash = "aedb311fc1b55ad67fd6d9b425b09ebf8b7638367b8036f87f6bf759edd948a3"
 metafile = true
 
 [[files]]
-file = "mods/snow-real-magic-fabric.pw.toml"
-hash = "b48c891653174a9f80e1763f15f23a42e0349a8c0b444be446d4cd63010c630c"
-metafile = true
-
-[[files]]
 file = "mods/sodium-shadowy-path-blocks.pw.toml"
 hash = "ff63c0fcdae06b9fa5800d55f1acd779ead23705b4df33f9faa2b4d62e570997"
 metafile = true
