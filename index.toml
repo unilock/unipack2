@@ -174,7 +174,7 @@ hash = "0c05c9a799b710d289e91d7d9ee10c4610058c3bb44db94cf4fdeeab58efa1fd"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
-hash = "5d6000c21fe80c7517e3dbe615953714ec52ab06faed34208a7e0d954ce89d65"
+hash = "50620f9832093ece3a82ccd24f711d0780bbadba8966bbd2963ec8bfdacee37a"
 
 [[files]]
 file = "config/defaultoptions/servers.dat"
@@ -948,7 +948,7 @@ metafile = true
 
 [[files]]
 file = "mods/bettersmithingtable.pw.toml"
-hash = "d8209fc9131408dbc00cb8a6efc654054a936339350927933bb4cfdf381a2f7f"
+hash = "89ebe79572641f6b11272356585f73e2a27d0d909521f6e30693427063f7f61e"
 metafile = true
 
 [[files]]
@@ -2088,12 +2088,12 @@ metafile = true
 
 [[files]]
 file = "mods/lets-do-nethervinery.pw.toml"
-hash = "70b73f6801a96debd84d0c26eb88930c86772aadcbd9d5b758f2fd5e04b79d74"
+hash = "559fa093a4b6b0c3478a1a7ab8ad701e782474c26fdb47bd59b42a478af79843"
 metafile = true
 
 [[files]]
 file = "mods/lets-do-vinery.pw.toml"
-hash = "9e8e9d062564de809f9136445585de3b592a9413269033d699773ee70927d948"
+hash = "17ff04d35b3932a551305273bb595bf900bd2c01a9770d471373044ee75083d8"
 metafile = true
 
 [[files]]
