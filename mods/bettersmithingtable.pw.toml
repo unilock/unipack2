@@ -1,13 +1,13 @@
 name = "Better Smithing UI"
-filename = "BetterSmithingTable-1.1.0-Fabric-1.20.jar"
+filename = "better_smithing_ui-fabric-1.20+2.0.0.jar"
 side = "client"
 
 [download]
 hash-format = "sha1"
-hash = "36f88a96bd222d171be481f7f185e0f7274419cb"
+hash = "d5f8e6ace4ac8d3d50b6c401d0ff7755a0cfe680"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4676755
+file-id = 5972626
 project-id = 875744
