@@ -47,6 +47,21 @@
 			]
 		},
 		{
+			"id": "better_smithing_ui",
+			"depends": [
+				{
+					"replace": {
+						"id": "fabricloader",
+						"versions": ">=0.16.9"
+					},
+					"with": {
+						"id": "fabricloader",
+						"versions": ">=0.16.7"
+					}
+				}
+			]
+		},
+		{
 			"id": "complexhex",
 			"depends": [
 				{
@@ -223,21 +238,6 @@
 			]
 		},
 		{
-			"id": "tankstorage",
-			"depends": [
-				{
-					"replace": {
-						"id": "fabricloader",
-						"versions": ">=0.16.5"
-					},
-					"with": {
-						"id": "fabricloader",
-						"versions": ">=0.16.3"
-					}
-				}
-			]
-		},
-		{
 			"id": "tconstruct",
 			"depends": [
 				{
@@ -247,37 +247,7 @@
 					},
 					"with": {
 						"id": "fabricloader",
-						"versions": ">=0.16.3"
-					}
-				}
-			]
-		},
-		{
-			"id": "twisted-and-carved",
-			"depends": [
-				{
-					"replace": {
-						"id": "fabricloader",
 						"versions": ">=0.16.7"
-					},
-					"with": {
-						"id": "fabricloader",
-						"versions": ">=0.16.3"
-					}
-				}
-			]
-		},
-		{
-			"id": "vsgrapples",
-			"depends": [
-				{
-					"replace": {
-						"id": "fabricloader",
-						"versions": ">=0.16.7"
-					},
-					"with": {
-						"id": "fabricloader",
-						"versions": ">=0.16.3"
 					}
 				}
 			]
