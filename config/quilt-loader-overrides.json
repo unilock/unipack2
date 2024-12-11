@@ -32,6 +32,21 @@
 			]
 		},
 		{
+			"id": "arsenal",
+			"depends": [
+				{
+					"replace": {
+						"id": "fabricloader",
+						"versions": ">=0.16.9"
+					},
+					"with": {
+						"id": "fabricloader",
+						"versions": ">=0.16.7"
+					}
+				}
+			]
+		},
+		{
 			"id": "astrocompat",
 			"depends": [
 				{
@@ -132,6 +147,21 @@
 					"with": {
 						"id": "fabric-language-kotlin",
 						"versions": ">=1.10.10+kotlin.1.9.10"
+					}
+				}
+			]
+		},
+		{
+			"id": "ratatouille",
+			"depends": [
+				{
+					"replace": {
+						"id": "fabricloader",
+						"versions": ">=0.16.9"
+					},
+					"with": {
+						"id": "fabricloader",
+						"versions": ">=0.16.7"
 					}
 				}
 			]

@@ -454,7 +454,7 @@ hash = "74e0fe6073f8bc65ae8f9de8fa5314c4a8b4641a3a5a317cf697cc4497e1e9b4"
 
 [[files]]
 file = "config/quilt-loader-overrides.json"
-hash = "5ff8754b8f3c4645175456c846a28055669c44260d1a8b0ab68119c4d7ad1563"
+hash = "a6887a8c33675e64d6c87df9843bf9bd251a343cb6abf9f6b6af167c84be8830"
 
 [[files]]
 file = "config/railways-client.toml"
@@ -779,6 +779,11 @@ metafile = true
 [[files]]
 file = "mods/arcpocalypse.pw.toml"
 hash = "9fdcddf9d57a776983ce72201358fa0475fc03f3242479891a11a70a2a8c924f"
+metafile = true
+
+[[files]]
+file = "mods/arsenal.pw.toml"
+hash = "bb5559905ce5c9a911f50ac5252606451bcf112d726b3e5fbb3cf264604deb08"
 metafile = true
 
 [[files]]
@@ -1264,6 +1269,11 @@ metafile = true
 [[files]]
 file = "mods/create-fabric.pw.toml"
 hash = "ada64c3513b465ad4f91207c443809c995e5209dfe7f18ddab0285ff831b72d0"
+metafile = true
+
+[[files]]
+file = "mods/create-steam-n-rails.pw.toml"
+hash = "210a2ac7359605a83b8601e29fb8a16ea15420db1b2f70ae068941d12daf9f50"
 metafile = true
 
 [[files]]
@@ -1914,6 +1924,11 @@ metafile = true
 [[files]]
 file = "mods/indium.pw.toml"
 hash = "31278d67704a56eb32d93c240e4bfd9822e1ab6047ee14d752953dd0c24dca95"
+metafile = true
+
+[[files]]
+file = "mods/industrialization-de-astra.pw.toml"
+hash = "00fdb9ea0fd75ab26e6174691a2634a67f5a64dac69be9390aae980aca0fbc8b"
 metafile = true
 
 [[files]]
@@ -2719,6 +2734,11 @@ metafile = true
 [[files]]
 file = "mods/ranged-weapon-api.pw.toml"
 hash = "8a15fb81964fb21577ed2e81c6075489d63024dba1ef357ae5464865bae8052e"
+metafile = true
+
+[[files]]
+file = "mods/ratatouille.pw.toml"
+hash = "db7c47fac84cfc274fcb3ca5d86c2fa974dff11f81c6d7619d69cab59bf6fc99"
 metafile = true
 
 [[files]]
