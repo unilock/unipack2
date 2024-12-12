@@ -957,11 +957,6 @@ hash = "295ca06f809353de55cfa1d36296e8f7394f03ab4d7b6f42cd7bd20d69f267e2"
 metafile = true
 
 [[files]]
-file = "mods/bitter-brews.pw.toml"
-hash = "cff1f927ad4227bdf652629951b123d63e9df66271359a5695009b0d75f581c9"
-metafile = true
-
-[[files]]
 file = "mods/blahaj-fabric.pw.toml"
 hash = "3be4d8184379525c27fee02066e56149bc701189a4b8b4c5ec5deff189f1422d"
 metafile = true
@@ -3094,11 +3089,6 @@ metafile = true
 [[files]]
 file = "mods/tidal-towns.pw.toml"
 hash = "9afc7aa9f96e76f806891d8ee5d6be77d06a370328323462f689541d0e9c8b02"
-metafile = true
-
-[[files]]
-file = "mods/tipsylib.pw.toml"
-hash = "2f9bd5ce1c90bb7bb385934ff2956757c8ee598c94f5f70c22b5a549e4ed80de"
 metafile = true
 
 [[files]]
