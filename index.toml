@@ -514,7 +514,7 @@ hash = "fbaeff575797f2cb30fb6364a432f222fc8aa466962be159d676fcc344f24eed"
 
 [[files]]
 file = "config/styled-chat.json"
-hash = "9249e88b12c640b4f365762ff2adddec3f303d6025dd1d5ffd48a8b24f2814dc"
+hash = "e9674814415c205370aed9627cb09c0eb3bf340a92e9475cb8563e48482668aa"
 
 [[files]]
 file = "config/styled-nicknames.json"
@@ -1458,7 +1458,7 @@ metafile = true
 
 [[files]]
 file = "mods/emojiless.pw.toml"
-hash = "f372edd5be96db4dd70f5ece5039afb8b66f032e60a1284539d9945eb3d5324c"
+hash = "abf5a8b9241b322583f9e6c8b7562a413e79c8fb79d2409180b33109366825df"
 metafile = true
 
 [[files]]
@@ -3827,82 +3827,82 @@ metafile = true
 
 [[files]]
 file = "resources/resourcepacks/twemoji.zip"
-hash = "b7a6c85e5aefd7895ae40d92547f0525b170c9b59da1fd6a6281266a77791e28"
+hash = "3ace0c66a53ef5a39b0adda760fbf38b022577dbf3074603b15943e2843c7565"
 
 [[files]]
-file = "resources/resourcepacks/uniemoji/assets/emojis/blobfox.png"
+file = "resources/resourcepacks/uniemoji/assets/uniemoji/emojis/blobfox.png"
 hash = "e48d2e3a8113ad9abf80fb27b4bc80729aafb32b2be957fcecaff8beaae40930"
 
 [[files]]
-file = "resources/resourcepacks/uniemoji/assets/emojis/bshock.png"
+file = "resources/resourcepacks/uniemoji/assets/uniemoji/emojis/bshock.png"
 hash = "8fa458bf27f9cf6cc36ae4126860bafa33d5b78e79db936226478c2770efeb11"
 
 [[files]]
-file = "resources/resourcepacks/uniemoji/assets/emojis/cuteheart.png"
+file = "resources/resourcepacks/uniemoji/assets/uniemoji/emojis/cuteheart.png"
 hash = "91e39f20c20072b1cf4e26d7a292c2702d326fbf92953301b888fc98fa66f40c"
 
 [[files]]
-file = "resources/resourcepacks/uniemoji/assets/emojis/doe.png"
+file = "resources/resourcepacks/uniemoji/assets/uniemoji/emojis/doe.png"
 hash = "1da3f420141c49a35b113b7f1cdc90aa60cb23713bd93d9017e7caf7f21a4dfc"
 
 [[files]]
-file = "resources/resourcepacks/uniemoji/assets/emojis/dwm.png"
+file = "resources/resourcepacks/uniemoji/assets/uniemoji/emojis/dwm.png"
 hash = "6946dbc6c0d5089c209e7f3d745751c2528188e92f68ad28c5bf8b4681890289"
 
 [[files]]
-file = "resources/resourcepacks/uniemoji/assets/emojis/lyra.png"
+file = "resources/resourcepacks/uniemoji/assets/uniemoji/emojis/lyra.png"
 hash = "9ddf17399dd65c57bd2d1f2c7081e2dc95b208bf422a850ae25f741639c7740d"
 
 [[files]]
-file = "resources/resourcepacks/uniemoji/assets/emojis/mommy.png"
+file = "resources/resourcepacks/uniemoji/assets/uniemoji/emojis/mommy.png"
 hash = "f7d3bf2098f733e7680a69c3a8cc85df64e7a0d01d1137f00b187724e0636f07"
 
 [[files]]
-file = "resources/resourcepacks/uniemoji/assets/emojis/rshock.png"
+file = "resources/resourcepacks/uniemoji/assets/uniemoji/emojis/rshock.png"
 hash = "729d5cc5ed3b58394012af98d89613c0a2e992f177b3cda82b8cdbcfbb0a9a6b"
 
 [[files]]
-file = "resources/resourcepacks/uniemoji/assets/emojis/rshrug.png"
+file = "resources/resourcepacks/uniemoji/assets/uniemoji/emojis/rshrug.png"
 hash = "cbb534cf4775b9ea8787e1cb77213ad8ce1f05afa14c0eb3b7cab495accc62f1"
 
 [[files]]
-file = "resources/resourcepacks/uniemoji/assets/emojis/rthink.png"
+file = "resources/resourcepacks/uniemoji/assets/uniemoji/emojis/rthink.png"
 hash = "a6fe9b4772fa4103fa2419bce5278a49deff96aee2e80d070defefaf5903ef76"
 
 [[files]]
-file = "resources/resourcepacks/uniemoji/assets/emojis/shimmer.png"
+file = "resources/resourcepacks/uniemoji/assets/uniemoji/emojis/shimmer.png"
 hash = "146254e4706da7d2be892c3307318456eec86bf47e46090a74c789ac452f9b4d"
 
 [[files]]
-file = "resources/resourcepacks/uniemoji/assets/emojis/smugly.png"
+file = "resources/resourcepacks/uniemoji/assets/uniemoji/emojis/smugly.png"
 hash = "7cae029d59daaac16c4f3623e67cb562c189dcd79b15cbdc0b59579d82126be8"
 
 [[files]]
-file = "resources/resourcepacks/uniemoji/assets/emojis/smuglyverse.png"
+file = "resources/resourcepacks/uniemoji/assets/uniemoji/emojis/smuglyverse.png"
 hash = "d47cb80036f4d8da063204b24803d9159075f6e1e583d9e88395645ce7d3f470"
 
 [[files]]
-file = "resources/resourcepacks/uniemoji/assets/emojis/squintyjack.png"
+file = "resources/resourcepacks/uniemoji/assets/uniemoji/emojis/squintyjack.png"
 hash = "5f26d823a628af3db714a09e553ff9be1b39350a5c2258ba083d465c04511a39"
 
 [[files]]
-file = "resources/resourcepacks/uniemoji/assets/emojis/this.png"
+file = "resources/resourcepacks/uniemoji/assets/uniemoji/emojis/this.png"
 hash = "6046f91432b0f6896958453cd2fec2590bb58339577784368b1f5bfebff46b56"
 
 [[files]]
-file = "resources/resourcepacks/uniemoji/assets/emojis/timeswuuh.png"
+file = "resources/resourcepacks/uniemoji/assets/uniemoji/emojis/timeswuuh.png"
 hash = "5ef350d400994b282366d6cb1807853194d918450feda9700ad6982dca2c8b33"
 
 [[files]]
-file = "resources/resourcepacks/uniemoji/assets/emojis/truegun.png"
+file = "resources/resourcepacks/uniemoji/assets/uniemoji/emojis/truegun.png"
 hash = "a34142b2100ad35781d2431cb629c60ac7618887cbe97665d07f005de9fabb87"
 
 [[files]]
-file = "resources/resourcepacks/uniemoji/assets/emojis/winona.png"
+file = "resources/resourcepacks/uniemoji/assets/uniemoji/emojis/winona.png"
 hash = "1fce2ae3f606a073f396659b57188a306f76cd9fc9ccb2e82dfc939498685339"
 
 [[files]]
-file = "resources/resourcepacks/uniemoji/assets/emojis/wuuh.png"
+file = "resources/resourcepacks/uniemoji/assets/uniemoji/emojis/wuuh.png"
 hash = "6227d26100b2179bbc937894441c6ce5cb5e91b40a4681284dcc63996f41de99"
 
 [[files]]
