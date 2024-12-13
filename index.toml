@@ -546,7 +546,7 @@ hash = "6712dc60ffe7e10d89c20e4048563f6e12917c5fd681afc98c35b35245cda611"
 
 [[files]]
 file = "config/tooltiptooltips/config.toml"
-hash = "41aefc0fad861b97299e1a164a8b792f8744cf02205e1ba38814e5c5431c4879"
+hash = "b52763a72c71254134c75109682a2a7cf5bc7012718a53bc291b2db2b1df32a4"
 
 [[files]]
 file = "config/trashslot-common.toml"
@@ -3123,7 +3123,7 @@ metafile = true
 
 [[files]]
 file = "mods/tooltip-tool-tips.pw.toml"
-hash = "2712a11d19090ad2fb31660b7b48bb32ea18f09fc39b7ecb2cec109e2cfc2990"
+hash = "4a014a8d7350651419e10a31cd28901223a28d36c35845af4b0a8bae648e0ec9"
 metafile = true
 
 [[files]]

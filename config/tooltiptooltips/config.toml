@@ -1,29 +1,26 @@
-# Whether to always show the information provided by Tooltip Tool Tips
-# instead of requiring SHIFT to be held
-# default: false
-always_show = false
+# Don't change this! Version used to track needed updates.
+version = 0
 
 # Options that apply to armor, tools, and weapons
-[armor_tools]
-	# Whether to show the item's (current/max) durability
-	# default: true
-	durability = false
-	# Whether to show the item's enchantability
-	# default: true
-	enchantability = true
-# Options that apply to tools
+
+[armorTools]
+# Whether to show the item's (current/max) durability
+durability = "ALWAYS"
+# Whether to show the item's enchantability
+enchantability = "TRUE"
+
+# Options that apply to tools and weapons
+
 [tools]
-	# Whether to show the tool's harvest level
-	# default: true
-	harvest_level = true
-	# Whether to show the tool's harvest speed
-	# default: true
-	harvest_speed = true
+# Whether to show the tool's harvest level
+harvestLevel = "TRUE"
+# Whether to show the tool's harvest speed
+harvestSpeed = "TRUE"
+
 # Options that apply to food
+
 [food]
-	# Whether to show the amount of hunger the food restores
-	# default: true
-	hunger = false
-	# Whether to show the amount of saturation the food restores
-	# default: true
-	saturation = false
+# Whether to show the amount of hunger the food restores
+hunger = "FALSE"
+# Whether to show the amount of saturation the food restores
+saturation = "FALSE"
