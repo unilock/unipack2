@@ -1218,7 +1218,7 @@ metafile = true
 
 [[files]]
 file = "mods/connectivity.pw.toml"
-hash = "f770bee57284329b17b7c60be240ca01848aca1c908db162477434970f9ecde1"
+hash = "1552ffbe9ef9cd182f847784a9f1038c8e53c0bd0a4c672b3aa3dd06ec49283e"
 metafile = true
 
 [[files]]
@@ -2103,12 +2103,12 @@ metafile = true
 
 [[files]]
 file = "mods/lets-do-nethervinery.pw.toml"
-hash = "559fa093a4b6b0c3478a1a7ab8ad701e782474c26fdb47bd59b42a478af79843"
+hash = "c398fe1012e7cf2c6dfab2fa383d69f053cbd890d2a3ea6345832c9e7abcfdf2"
 metafile = true
 
 [[files]]
 file = "mods/lets-do-vinery.pw.toml"
-hash = "17ff04d35b3932a551305273bb595bf900bd2c01a9770d471373044ee75083d8"
+hash = "c704135b1b184d76059091ed1a1ca8a75bce0a5b4edbbb52ba030930fd1adcef"
 metafile = true
 
 [[files]]
@@ -2313,7 +2313,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "b42f2880c2890b2376b229ab2ad1738ab30aab14bbe2113cd3e768c0f93714c1"
+hash = "9d3efa99729c1fc119636c4d3328abbe60898f8b575ed44fef31848c91b1b718"
 metafile = true
 
 [[files]]
@@ -3183,7 +3183,7 @@ metafile = true
 
 [[files]]
 file = "mods/twisted-and-carved.pw.toml"
-hash = "3a5c43a11d333935f5708b85c19bc24e20068882937a46f45c6694fbc958a2a1"
+hash = "1f2abd37d1261f58c0549f9e4f2520833f036691f6bd4b96fa3319770e91f586"
 metafile = true
 
 [[files]]

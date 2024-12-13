@@ -1,13 +1,13 @@
 name = "Twisted And Carved"
-filename = "twisted-and-carved-1.0.0.jar"
+filename = "twisted-and-carved-1.0.2_1.20.1b.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/MWpRjnYD/versions/XIsS1PRu/twisted-and-carved-1.0.0.jar"
-hash-format = "sha1"
-hash = "6788a0c1ce68e0138af401d02f9da588423940f9"
+url = "https://cdn.modrinth.com/data/MWpRjnYD/versions/ztSqzySv/twisted-and-carved-1.0.2_1.20.1b.jar"
+hash-format = "sha512"
+hash = "75c6bd09683e8be73ca5f8a5dbca6f2048982b4f3bf795a1cb47d3620160f52fbd0457c1cfc7be0b558ff1025ba03a3d255aec4b9722f5560d89201c835d8d58"
 
 [update]
 [update.modrinth]
 mod-id = "MWpRjnYD"
-version = "XIsS1PRu"
+version = "ztSqzySv"
