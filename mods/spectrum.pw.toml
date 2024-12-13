@@ -1,8 +1,13 @@
 name = "Spectrum"
-filename = "spectrum-1.8.1.jar"
+filename = "spectrum-1.8.3.jar"
 side = "both"
 
 [download]
-url = "https://play.fennet.rentals/packwiz/unipack2/manual-jars/both/spectrum-1.8.1.jar"
-hash-format = "sha256"
-hash = "759a54b22e9e859fc4a74a3425767b00a7de3cbfce5a08acc275bf5e8b7d86e8"
+url = "https://cdn.modrinth.com/data/3rc31Hgo/versions/uaqSt7Ze/spectrum-1.8.3.jar"
+hash-format = "sha512"
+hash = "3905ac5dd34455cb5d0a5e1e6cf8dc642eebef9bb3708612212f5faa97f2342f161359f335d20c8775d0abdfb09f81cea42165c7712bffaaa7610549eba0bbb9"
+
+[update]
+[update.modrinth]
+mod-id = "3rc31Hgo"
+version = "uaqSt7Ze"
