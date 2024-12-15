@@ -798,12 +798,12 @@ metafile = true
 
 [[files]]
 file = "mods/artsandcrafts.pw.toml"
-hash = "625f7fe83ae2d473782b1eb5fa7aa60a62bf75708b6fc91f97bea95a0bf937f9"
+hash = "092eba1c674319bf6e0ea14d23f09bc292c2ea847df5b307d95f3b5dd9e768ba"
 metafile = true
 
 [[files]]
 file = "mods/astrocompat.pw.toml"
-hash = "c47f0b75a9d72538812381243f456bdff9b9467b89863beaf318ad8c8dda317a"
+hash = "3c5c97e819ec7d1bce4a87decb0b31196da9f354d5307dfe3b1b95d396b82911"
 metafile = true
 
 [[files]]
@@ -1268,7 +1268,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-railways-navigator.pw.toml"
-hash = "54036f05181f4797881f9e74f994be9a989dafa1685bfe52886ac4f9a8210d06"
+hash = "e2adbf3464c6dabd2f68ed485e2e57d442b7acf4ddef6d34588274e54b20b1a0"
 metafile = true
 
 [[files]]
@@ -1473,7 +1473,7 @@ metafile = true
 
 [[files]]
 file = "mods/enchanted-witchcraft.pw.toml"
-hash = "1df9c8bf57a084f0811fa64cde7ea9b547970ff9a1a0f518426ef79a29c04e70"
+hash = "3eefc071c3b386762a66a7cd698e32f81a6471c70dddb3694ac669e466c127cc"
 metafile = true
 
 [[files]]
@@ -2093,7 +2093,7 @@ metafile = true
 
 [[files]]
 file = "mods/lets-do-furniture.pw.toml"
-hash = "1cd642513968b48a4812b687f9ac85699fed49b4f4112331c742bc514904bb10"
+hash = "2316776adffde301010ba8f076775c858045d0a8b977b0a1d182675374d01d2f"
 metafile = true
 
 [[files]]
@@ -2113,7 +2113,7 @@ metafile = true
 
 [[files]]
 file = "mods/lets-do-vinery.pw.toml"
-hash = "c704135b1b184d76059091ed1a1ca8a75bce0a5b4edbbb52ba030930fd1adcef"
+hash = "3e2afde2d170fc18d3d2429f20b1bd018bb81ad7e6822e33fcb6df9c15800004"
 metafile = true
 
 [[files]]
@@ -2388,7 +2388,7 @@ metafile = true
 
 [[files]]
 file = "mods/neepmeat.pw.toml"
-hash = "8cceb0e9591da8d358282517c352b2159a265fec5c9fb2d16e34b800e13f689c"
+hash = "e7cbf12e8301d9b9181734e019d4dd2514f7d53adc08837469aa8078fad161cd"
 metafile = true
 
 [[files]]
@@ -3223,7 +3223,7 @@ metafile = true
 
 [[files]]
 file = "mods/videotape.pw.toml"
-hash = "9551dd0b80f44fd212a0ce14d9c3ffa2c1775468f2b4c94f891385d4806c783d"
+hash = "3781e665000ae05273ffb0072ab83b5d5342ad0e3caf720036b9b47144bbdfac"
 metafile = true
 
 [[files]]

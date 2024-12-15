@@ -1,13 +1,13 @@
 name = "Astrocraft: Ad Astra Compat"
-filename = "astrocompat-1.1.jar"
+filename = "astrocompat-1.2.5.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/ekQnvYYr/versions/TE2t4XmK/astrocompat-1.1.jar"
-hash-format = "sha1"
-hash = "691e480bea130bd66d5af7b03879bfb84eb2832e"
+url = "https://cdn.modrinth.com/data/ekQnvYYr/versions/FoTE0iLj/astrocompat-1.2.5.jar"
+hash-format = "sha512"
+hash = "631c437844bd7d93a0a7964927b2336cf47762f3eeb912b99b39e5221a7e513c27ba61a7dde5c75d2af8848304cb797c8c1dab1f92b8a8b0b31d15e4d6e57fa2"
 
 [update]
 [update.modrinth]
 mod-id = "ekQnvYYr"
-version = "TE2t4XmK"
+version = "FoTE0iLj"
