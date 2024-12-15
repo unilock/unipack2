@@ -3123,7 +3123,7 @@ metafile = true
 
 [[files]]
 file = "mods/tooltip-tool-tips.pw.toml"
-hash = "4a014a8d7350651419e10a31cd28901223a28d36c35845af4b0a8bae648e0ec9"
+hash = "a2abd5084baafecac4e1fc33fa9033597f589d2a17c43a9d66817f48e74038cf"
 metafile = true
 
 [[files]]
