@@ -2588,7 +2588,7 @@ metafile = true
 
 [[files]]
 file = "mods/polymorph.pw.toml"
-hash = "2cf17609ff90320826045860ac577f9c4caa2d435c2e648973b97cd34a6d75aa"
+hash = "942b80289279a969c566c2ee2d03b4a7d3b90c9569780e08375c6618d4645446"
 metafile = true
 
 [[files]]
