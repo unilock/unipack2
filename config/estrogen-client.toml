@@ -99,4 +99,4 @@
 	yOffset = 0
 	#.
 	#Custom Splashes on the main menu! Requires resource reload
-	estrogenSplashes = true
+	estrogenSplashes = false

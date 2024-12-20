@@ -113,6 +113,10 @@ file = "config/boring_default_game_rules/config.json"
 hash = "5369069b86e833cabcf856cd4aa680ac04f1faa094a22c6b5fbcae9e3035321d"
 
 [[files]]
+file = "config/botania-client.json5"
+hash = "971b9c2deb9ebce827fb689f664dd117c68cc620c1374090bf00e4cd47f27c71"
+
+[[files]]
 file = "config/bwncr.toml"
 hash = "719ac523430d387933b2d284d2b9148ffea47d9826c23a97f7505ea02a006158"
 
@@ -226,7 +230,7 @@ hash = "ab37b961823c1e3ff0e3a9386c358a6882da1031ff5732e49f0a7403860443b4"
 
 [[files]]
 file = "config/estrogen-client.toml"
-hash = "3f0776c79080dcc863dfaf263dce11474be8cabf2dcc67bc06c34bcca9730e99"
+hash = "9edd691eff76aa42b7cd8bcc01d86fc123be0c88d8dafc66a59ab94290a4ecbb"
 
 [[files]]
 file = "config/expandedstorage.json"
