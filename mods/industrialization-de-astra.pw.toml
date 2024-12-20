@@ -1,13 +1,13 @@
 name = "MT Industrialization de Astra"
-filename = "industrialization_de_astra-1.0.4.jar"
+filename = "industrialization_de_astra-1.0.8.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/zIrI5Bgu/versions/ZjMHZlrJ/industrialization_de_astra-1.0.4.jar"
+url = "https://cdn.modrinth.com/data/zIrI5Bgu/versions/cyg1Q2Y1/industrialization_de_astra-1.0.8.jar"
 hash-format = "sha512"
-hash = "c34ecb5a4de95398d86a51eb6f3c87ab1a9fec875a0cd0addf5d0442a6a006c9f789542ac3842684c892220296cef8a9c9d77916c0e3a15801e1025fdc1ca99b"
+hash = "bb9a7f173b2080a7d7932d0febef8e71cb1dd9b4964933f5400f13b12dfb506e15658e3a74973b393ffda364846b217859a50ef9a7e15c61d179ac4ede804143"
 
 [update]
 [update.modrinth]
 mod-id = "zIrI5Bgu"
-version = "ZjMHZlrJ"
+version = "cyg1Q2Y1"

@@ -763,7 +763,7 @@ metafile = true
 
 [[files]]
 file = "mods/arcanus-continuum.pw.toml"
-hash = "443b4d4dc93748229e7ad12782ebc4006128d747ec94ad036cac6fffae1c7f5b"
+hash = "2361c4a6e3849a4c4ef7408f1332a4d284774365b6460030b572ace8f54d9ec3"
 metafile = true
 
 [[files]]
@@ -1928,7 +1928,7 @@ metafile = true
 
 [[files]]
 file = "mods/industrialization-de-astra.pw.toml"
-hash = "00fdb9ea0fd75ab26e6174691a2634a67f5a64dac69be9390aae980aca0fbc8b"
+hash = "fd84fad71caca8b77c37d3d5a93c3742c96aa0eebdd5c382954bfbc0c78b3a42"
 metafile = true
 
 [[files]]
@@ -2793,7 +2793,7 @@ metafile = true
 
 [[files]]
 file = "mods/ribbits.pw.toml"
-hash = "4e1b494514ac2864e0e4e3a1b2849e8b290ecc0e31e25d601d3d850a5123fa0d"
+hash = "8d527681110163ee9d809e811dc875f032c1ad04d16deba298a60297e56e2ea7"
 metafile = true
 
 [[files]]
