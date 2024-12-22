@@ -2286,11 +2286,6 @@ hash = "50149a97b2d959bfac8e1c377fdab49fc52f1439d004b1ac1c26a3a7f790e044"
 metafile = true
 
 [[files]]
-file = "mods/milk_plus.pw.toml"
-hash = "6e4ba32c6ea4a4aa6a73282030a27c773faf7bb3b3fd970ed98534392310d2a5"
-metafile = true
-
-[[files]]
 file = "mods/mixintrace.pw.toml"
 hash = "f8c57b83b826e6447a6a97f88f0fab03bb76caebc8272b74f3b890c6b5821d5d"
 metafile = true
@@ -2996,8 +2991,8 @@ hash = "c4d2d7e70e294b1eab7fc821f39b1e4b7466f1dd15d15533b89c8fa34e3f35e4"
 metafile = true
 
 [[files]]
-file = "mods/structure-essentials-forge-fabric.pw.toml"
-hash = "389018cbf6ef50e2b68f52253ed6167e9516ee218827bab87d197fec816f4ec5"
+file = "mods/structure-layout-optimizer.pw.toml"
+hash = "470ed2c8993e1f4d583cbf2a540f2d177562a379d0b7aa2373499ddde0c27bb3"
 metafile = true
 
 [[files]]
