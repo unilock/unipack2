@@ -1,13 +1,13 @@
 name = "Enchanted: Witchcraft"
-filename = "enchanted-fabric-1.20.1-3.1.2.jar"
+filename = "enchanted-fabric-1.20.1-3.1.3.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/HsbpdVo9/versions/GV2wh437/enchanted-fabric-1.20.1-3.1.2.jar"
+url = "https://cdn.modrinth.com/data/HsbpdVo9/versions/LHPczQdy/enchanted-fabric-1.20.1-3.1.3.jar"
 hash-format = "sha512"
-hash = "1bad999d950fbc8443f5b4005a91e56aa0dd8bae8dd4750daf60fc6fbd86d49e048d2a1657023692a9f1cff61573d00af1d73744644ae8abad283bfb6108bbc9"
+hash = "c457091aecb67cc9abeeff4b8b6a13b0fe2ef77d4ea4a59d8bcf03cefed5302217908848528dd21eed7c731a8fa0061f2fa87a8d383cd4e467d169c0bd1c6948"
 
 [update]
 [update.modrinth]
 mod-id = "HsbpdVo9"
-version = "GV2wh437"
+version = "LHPczQdy"

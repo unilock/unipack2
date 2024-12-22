@@ -1472,7 +1472,7 @@ metafile = true
 
 [[files]]
 file = "mods/enchanted-witchcraft.pw.toml"
-hash = "3eefc071c3b386762a66a7cd698e32f81a6471c70dddb3694ac669e466c127cc"
+hash = "66bf3593a45a0fa64134be643f039e0e375e2e9743dfcf44c96194ac253d4654"
 metafile = true
 
 [[files]]
@@ -2927,7 +2927,7 @@ metafile = true
 
 [[files]]
 file = "mods/sparkweave.pw.toml"
-hash = "7f79b5b72fbb01e97b6a2eb8e3371234988f491a3ca2cb9210a455b3e7dbf185"
+hash = "58db5ab5da8397f17b0dc09f9c2be95d15b98b156d2d29a2d91dd0f8e9644f46"
 metafile = true
 
 [[files]]
