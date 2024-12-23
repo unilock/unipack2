@@ -3418,6 +3418,10 @@ file = "resources/data/apathy/tags/entity_types/bosses.json"
 hash = "22923efccc0bf7f9165992b397b0c05b73b22a79660e5ff2587178811f9d9e1c"
 
 [[files]]
+file = "resources/data/arcadiandream/tags/mob_effect/unremovable_by_immortality.json"
+hash = "f2eb3ec3426ec5acad9183387e2ea71951cfd1fe31267023373af0d2a31f6339"
+
+[[files]]
 file = "resources/data/arcanuscontinuum/advancements/arcane/wizard_level_1.json"
 hash = "554ee2ef3b4508bec708ec74d2e652659fb3f19fa2eb1a4a88210c432073fad2"
 
