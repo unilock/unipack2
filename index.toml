@@ -752,7 +752,7 @@ metafile = true
 
 [[files]]
 file = "mods/applied-energistics-2.pw.toml"
-hash = "59691703efc9754352ca8bdfcd8721400fc9d54d5bc23c30edd0e57e02cf1322"
+hash = "1ca590fa4bf013574a815006624e6d31f85747d241089d4b6c3d3140e8edc4bd"
 metafile = true
 
 [[files]]
@@ -2472,7 +2472,7 @@ metafile = true
 
 [[files]]
 file = "mods/packages.pw.toml"
-hash = "21fde8b12697f1a58de50f5b0c6c1db0df16c3c1c8f3240f5e4bf46744f1927f"
+hash = "e51b2bf80a39cc4531e2bbe37e3ec480742f4b09c91476616d0f88030babb6ff"
 metafile = true
 
 [[files]]
