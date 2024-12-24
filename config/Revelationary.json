@@ -1,6 +1,7 @@
 {
   "PreventMiningOfUnrevealedBlocks": false,
   "UseTargetBlockOrItemNameInsteadOfScatter": true,
+  "HideCloakedEntriesFromRecipeViewers": false,
   "NameForUnrevealedBlocks": "",
   "NameForUnrevealedItems": ""
 }

@@ -26,7 +26,7 @@ hash = "1fcb351365535b424696a5051c6b5d1135fc83a3623a88f5d17fdbded4c064a0"
 
 [[files]]
 file = "config/Revelationary.json"
-hash = "b8e0a40c4a8eff307d72062c8736bb3c4fe7dd9613b58b35fcc42890c5ef0828"
+hash = "fe0b9ee7dd262b0ebd5c0885107df81756ba9304cbec9f7992d36320d6fc07ef"
 
 [[files]]
 file = "config/SkipTransitions.properties"
@@ -34,7 +34,7 @@ hash = "322a338e6bf4856f839e51891413087cbb0af904ae3ecdd52ef561d0c1063f04"
 
 [[files]]
 file = "config/Spectrum.json5"
-hash = "986dd99b4040c612aad49f355a02865882b85952809a77d89deae4c90663f052"
+hash = "4ac52e3fe6c2d7ca91f1932f330b0a6381f2d8f62dc742c7b457c170f555e04f"
 
 [[files]]
 file = "config/ad_astra_giselle_addon.ver2.jsonc"
@@ -90,15 +90,15 @@ hash = "90834945951d980644cb37adf4458d78d64273f50bb04b4a5e9d234abf0a1221"
 
 [[files]]
 file = "config/astrocraft.json"
-hash = "6f906a17701b8013c7c510b6f4e445a86ff24eb42c2f8ac51fc3f1b8e17ae185"
+hash = "f678a5fc43238b1f7b3fd53a9dea5f2fdb2d67b35ffc4fff45c63d91450b41e8"
 
 [[files]]
 file = "config/badoptimizations.txt"
-hash = "ac40e3a55aa357f17d6dec7772abaf1f27bb86b69208a0b1d0377d622d1e515a"
+hash = "3297268a9e5e925977a967d71a9ffec44eb8180a415d96a01eb664dffb4fe7df"
 
 [[files]]
 file = "config/better_log4j_config.xml"
-hash = "144c265a20de01c088009d212799929baa4edde0fdf95a9f0944d4923ef16ba1"
+hash = "6e8e1a55b5db3ec1b0526abfb8bfc3bb2a620b17ac668a41f655b0c2507b2964"
 
 [[files]]
 file = "config/betterdungeons-fabric-1_20.toml"
@@ -3327,7 +3327,7 @@ metafile = true
 
 [[files]]
 file = "mods/yttr.pw.toml"
-hash = "3c79d7e7430e59da5aa7b53e95b232543935f59bc2f25a2b0d89fc540fdd142a"
+hash = "f5829e6670a0fe1cef3bf32d84422ac8ad04baa7918277ac11f7828a402f37b2"
 metafile = true
 
 [[files]]

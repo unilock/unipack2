@@ -14,7 +14,7 @@
 	"ExtraDarkDimension": false,
 	// Adjusts the general brightness of the dimension (an increase of 1 is a lot, for reference)
 	"DimensionBrightnessMod": 1.0,
-	// Mod Integration Packs to not load (in case of mod compat errors)
+	// Mod Integration Packs to not load (in case of mod compat errors). Put the mod id of the mod with integration pack conflict here
 	"IntegrationPacksToSkipLoading": [],
 	// Add some advanced tooltips to items, like if Sculk Shriekers are able to summon the Warden
 	"AddItemTooltips": true,
@@ -30,8 +30,8 @@
 	   Those blocks do not gate progression, so it is not that drastic not finding any right away.
 	   Better to let players stumble about them organically instead of forcing it.
 	*/
-	"EndermanHoldingEnderTreasureChance": 0.1,
-	"EndermanHoldingEnderTreasureInEndChance": 0.0075,
+	"EndermanHoldingEnderTreasureChance": 0.10000000149011612,
+	"EndermanHoldingEnderTreasureInEndChance": 0.007499999832361937,
 	// Worlds where shooting stars spawn for players. Shooting Stars will only spawn for players with sufficient progress in the mod
 	"ShootingStarWorlds": [
 		"minecraft:overworld",
@@ -45,7 +45,7 @@
 		"paradise_lost:paradise_lost"
 	],
 	// Chance for a lightning strike to spawn a Storm Stone
-	"StormStonesChance": 0.4,
+	"StormStonesChance": 0.4000000059604645,
 	/* Enables quitoxic reed tag-based spawning.
 	   By default, the reeds spawn in any biome that is
 	   wet, hot, and not an ocean.
@@ -56,7 +56,7 @@
 	   By default, there is a 0.0075 ^= 0.75 % chance at each of those check times. Making it ~1 shooting star spawn
 	   per night per player that unlocked the required progression.
 	*/
-	"ShootingStarChance": 0.0075,
+	"ShootingStarChance": 0.007499999832361937,
 	/* The time in ticks it takes a Pigment Pedestal to craft a vanilla Crafting Table recipe without upgrades
 	   Setting this to <=0 will make the Pedestal not able to be used for crafting Crafting Table recipes.
 	*/
@@ -132,9 +132,9 @@
 	// Flat additional damage dealt with each level of the First Strike enchantment
 	"FirstStrikeDamagePerLevel": 2.0,
 	// The percentile a mobs armor/hand stacks are being dropped when hit with a Disarming enchanted weapon per the enchantments level
-	"DisarmingChancePerLevelMobs": 0.01,
+	"DisarmingChancePerLevelMobs": 0.009999999776482582,
 	// If > 0 the Disarming Enchantment is able to remove armor and hand tools from a hit player. Should be a far smaller chance than for mobs
-	"DisarmingChancePerLevelPlayers": 0.001,
+	"DisarmingChancePerLevelPlayers": 0.0010000000474974513,
 	// The % attack speed boost each level of Tight Grip gives to a tool
 	"TightGripAttackSpeedBonusPercentPerLevel": 0.0625,
 	// The duration a glow ink sac gives night vision when wearing a glow vision helmet in seconds
@@ -150,15 +150,15 @@
 	"GemstoneArmorWeaknessAmplifier": 1,
 	"GemstoneArmorSlownessAmplifier": 1,
 	"GemstoneArmorAbsorptionAmplifier": 0,
-	"GemstoneArmorResistanceAmplifier": 1,
-	"GemstoneArmorRegenerationAmplifier": 1,
-	"GemstoneArmorSpeedAmplifier": 2,
+	"GemstoneArmorResistanceAmplifier": 0,
+	"GemstoneArmorRegenerationAmplifier": 0,
+	"GemstoneArmorSpeedAmplifier": 1,
 	"BedrockArmorHelmetProtection": 5,
 	"BedrockArmorLeggingsProtection": 9,
 	"BedrockArmorChestplateProtection": 13,
 	"BedrockArmorBootsProtection": 5,
 	"BedrockArmorToughness": 3.0,
-	"BedrockArmorKnockbackResistance": 0.3,
+	"BedrockArmorKnockbackResistance": 0.30000001192092896,
 	"MaxLevelForEffectsInLesserPotionPendant": 3,
 	"MaxLevelForEffectsInGreaterPotionPendant": 1,
 	/* True will prevent the spread of Decay blocks in claims.
@@ -170,7 +170,7 @@
 	/* By Default, Roughly Enough Items will show a 'recipe not unlocked yet' screen for not yet unlocked recipes.
 	   Setting this value to false will instead not show this screen, showing no recipes whatsoever, until unlocked
 	*/
-	"REIListsRecipesAsNotUnlocked": false,
+	"REIListsRecipesAsNotUnlocked": true,
 	/* If the player has Azure Dike Charges: Where should they be rendered on the screen. Default: Over the food bar
 	   Only touch those values if you have other mods that render GUI overlays!
 	*/
