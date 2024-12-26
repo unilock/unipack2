@@ -1,13 +1,13 @@
 name = "TIS-VS"
-filename = "tisvs-1.20.1-fabric-0.0.1.jar"
+filename = "tisvs-1.20.1-fabric-0.1.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "56c20fece72b0ddd32ee0b6b7df4e7ed5669a5f0"
+hash = "95a36ed8741059ac29e9457bbfd066a277872fab"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5849044
+file-id = 6020218
 project-id = 1128816

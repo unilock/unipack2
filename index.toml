@@ -1072,7 +1072,7 @@ metafile = true
 
 [[files]]
 file = "mods/cc-vs.pw.toml"
-hash = "dc7467eebaa8d6c50f15a64fde03d223cc35451542c59ca5537e2977accdcfbc"
+hash = "16126e945b406111fe150dce04a9eac59b84d0f762ea0c13e69d2fca88638f3f"
 metafile = true
 
 [[files]]
@@ -1227,7 +1227,7 @@ metafile = true
 
 [[files]]
 file = "mods/connectivity.pw.toml"
-hash = "1552ffbe9ef9cd182f847784a9f1038c8e53c0bd0a4c672b3aa3dd06ec49283e"
+hash = "b4d8488356c85c80def434b88d26e64f75c090e0a542bc8a597e8962a2f92477"
 metafile = true
 
 [[files]]
@@ -1357,7 +1357,7 @@ metafile = true
 
 [[files]]
 file = "mods/dimensionaldoors.pw.toml"
-hash = "ec9aacd70ddf41a22851e04eae99454183300b5cae34859f498f7eb8cf5fddb1"
+hash = "6bb8177135aed2357ec9a56104e621f84112f29b9dcee786fb79f0f19169ebd6"
 metafile = true
 
 [[files]]
@@ -2417,7 +2417,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "f03e6e9ed18e510f7ee6671a984cbdda3fabf1f5e037163f76264e8f0cbb5198"
+hash = "8ada718700562cd7d463a2677113b44ee7436be093f97579638b06411a8376a2"
 metafile = true
 
 [[files]]
@@ -2477,7 +2477,7 @@ metafile = true
 
 [[files]]
 file = "mods/packet-fixer.pw.toml"
-hash = "ef1f961c71b08f2a948299a9a5156aaf4b1628897838aff10c18458c46dc4350"
+hash = "cfad168ce51851bd8401b0e16465d5cc735b701e900e970af193d36e2ae98541"
 metafile = true
 
 [[files]]
@@ -2932,7 +2932,7 @@ metafile = true
 
 [[files]]
 file = "mods/spectral-decorations.pw.toml"
-hash = "ae32d47c8c76f4c93318fb82d7e47baed5e785cb4be362d223a89c41ccfb53e4"
+hash = "b5bacc033bf61a53a4d2095923a603ad99df709cc79e270228d9655151816cd4"
 metafile = true
 
 [[files]]
@@ -3112,7 +3112,7 @@ metafile = true
 
 [[files]]
 file = "mods/tis-vs.pw.toml"
-hash = "6dafc426fe5c7b5c1a3cfcda09d8dbe84ca8d40e45bc5bd552fd99d0e22b5fd1"
+hash = "119b0ad7c51db96c006cfcd35057c4bfe188ae2f4833b864d5636e22bdc1d29c"
 metafile = true
 
 [[files]]
@@ -3227,7 +3227,7 @@ metafile = true
 
 [[files]]
 file = "mods/videotape.pw.toml"
-hash = "3781e665000ae05273ffb0072ab83b5d5342ad0e3caf720036b9b47144bbdfac"
+hash = "61df89782c77288b8eb78f921693b828a560dabcdc424ec70490653ef9efd524"
 metafile = true
 
 [[files]]
