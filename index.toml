@@ -1706,11 +1706,6 @@ hash = "f56d0a9145dd747e3f26467c5126eece621bcaa613ed2fc23db64ca959fa26fd"
 metafile = true
 
 [[files]]
-file = "mods/glass-armor.pw.toml"
-hash = "7d96e5390b84e0f484a6de91180c330634833f826856dee0930cfc5318f3edd0"
-metafile = true
-
-[[files]]
 file = "mods/glass-breaker.pw.toml"
 hash = "2fcef0c7ef46e2a4e51fe1fa9d6660d9f996b8304e0ae0caec02670703032304"
 metafile = true
@@ -3211,6 +3206,11 @@ hash = "aed1ff0d9583d0d0d2424f9885f3823be1730f469ec5056d98a3f63e74cbe017"
 metafile = true
 
 [[files]]
+file = "mods/vanityslots.pw.toml"
+hash = "be787be72a65f5e9e3abb71d8e1af17aad00d596f6430e47008b21683fcc6e7a"
+metafile = true
+
+[[files]]
 file = "mods/variant-furnaces.pw.toml"
 hash = "90852635b552fe580e0ff7498c89891dee88ac3f8d4ff5575aad591bcc3b502b"
 metafile = true
@@ -3772,22 +3772,6 @@ hash = "6b97ae78f075015975695febf6917696bfb912cf4a18c833ea9542928ac502a7"
 [[files]]
 file = "resources/data/unipack/recipes/book.json"
 hash = "4f92b1749ad405aece90dd496934f1aad1c6a6798da18338b4c7e94372eaa4d2"
-
-[[files]]
-file = "resources/data/unipack/recipes/glass_boots.json"
-hash = "4365defe284b5ba3f5eb0ae5090791d3063d2563b347f5c73579592449481860"
-
-[[files]]
-file = "resources/data/unipack/recipes/glass_chestplate.json"
-hash = "9b83e398bd74178653ed15a7816cfdf8894d2408e7c2213137a093bc1fcb4cab"
-
-[[files]]
-file = "resources/data/unipack/recipes/glass_helmet.json"
-hash = "40109d7f658ea2452e40416680cbd9d0366f21df926f8d6f0a1a79deb478974f"
-
-[[files]]
-file = "resources/data/unipack/recipes/glass_leggings.json"
-hash = "bf345d974685f31381cebb5c6b31530bdb9e7724c180458e77a220ae679ed208"
 
 [[files]]
 file = "resources/data/unipack/recipes/ultimate_chunk_loader.json"
