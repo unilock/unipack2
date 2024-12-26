@@ -1816,6 +1816,11 @@ hash = "ab27683b5bb25b0dce3f17de0dfa7abb4480e92989a898d9f3f348d80555da20"
 metafile = true
 
 [[files]]
+file = "mods/hexcassettes.pw.toml"
+hash = "65019cc13c0e36640360dee464e748966b210173f72f4c30f7ddcd2fc25003f5"
+metafile = true
+
+[[files]]
 file = "mods/hexcasting.pw.toml"
 hash = "c6d1b2ce95a91ba5973d60bfac21e7a2767c36a919d1906a01a3cafa3101f894"
 metafile = true
