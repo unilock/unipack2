@@ -1072,7 +1072,7 @@ metafile = true
 
 [[files]]
 file = "mods/cc-vs.pw.toml"
-hash = "16126e945b406111fe150dce04a9eac59b84d0f762ea0c13e69d2fca88638f3f"
+hash = "765b2e05c8ad0c7f73624f06bf256d857f938d39ad4a286ff1c8dbe664541960"
 metafile = true
 
 [[files]]
@@ -2312,7 +2312,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "9d3efa99729c1fc119636c4d3328abbe60898f8b575ed44fef31848c91b1b718"
+hash = "ece1c73bdc292cc91416eda1c7b878dc1613e9fe7ee76b52a5994011225e2aaa"
 metafile = true
 
 [[files]]
@@ -3112,7 +3112,7 @@ metafile = true
 
 [[files]]
 file = "mods/tis-vs.pw.toml"
-hash = "119b0ad7c51db96c006cfcd35057c4bfe188ae2f4833b864d5636e22bdc1d29c"
+hash = "8a5c7db1ba9b2ce4a8a4eea8404884b97ad2ff17a3846d54422dca5742ff2d5d"
 metafile = true
 
 [[files]]
