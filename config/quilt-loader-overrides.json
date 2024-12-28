@@ -32,6 +32,21 @@
 			]
 		},
 		{
+			"id": "armaments",
+			"depends": [
+				{
+					"replace": {
+						"id": "fabricloader",
+						"versions": ">=0.16.9"
+					},
+					"with": {
+						"id": "fabricloader",
+						"versions": ">=0.16.7"
+					}
+				}
+			]
+		},
+		{
 			"id": "arsenal",
 			"depends": [
 				{
