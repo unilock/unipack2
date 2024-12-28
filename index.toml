@@ -549,6 +549,10 @@ file = "config/the_corners.json"
 hash = "6712dc60ffe7e10d89c20e4048563f6e12917c5fd681afc98c35b35245cda611"
 
 [[files]]
+file = "config/too_many_trinkets/config.toml"
+hash = "6370be444da423f8e7c2f32c2f5cfb2e0723162c60d33c26806758271e236202"
+
+[[files]]
 file = "config/tooltiptooltips/config.toml"
 hash = "b52763a72c71254134c75109682a2a7cf5bc7012718a53bc291b2db2b1df32a4"
 
@@ -2823,11 +2827,6 @@ metafile = true
 [[files]]
 file = "mods/scooters.pw.toml"
 hash = "994406c485e14a3a01897c45e9b8493d35cb04ce2210fc07a897a23c967afa36"
-metafile = true
-
-[[files]]
-file = "mods/scout.pw.toml"
-hash = "7dce9c1f8d25054c70cce6b859602a8b777421d031a86c6885a96304024588c1"
 metafile = true
 
 [[files]]

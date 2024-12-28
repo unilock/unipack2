@@ -1,0 +1,6 @@
+# The number to multiply the number of each trinket slot by
+# default: 2
+multiplier = 2
+# List of slots to ignore, specified by their "icon" value
+icons = ["trinkets:gui/slots/back", "vanityslots:gui/empty_trinket_slot_head_vanity", "vanityslots:gui/empty_trinket_slot_chest_vanity", "vanityslots:gui/empty_trinket_slot_legs_vanity", "vanityslots:gui/empty_trinket_slot_feet_vanity"]
+
