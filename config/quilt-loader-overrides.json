@@ -47,21 +47,6 @@
 			]
 		},
 		{
-			"id": "astrocompat",
-			"depends": [
-				{
-					"replace": {
-						"id": "ad_astra",
-						"versions": "=1.15.5"
-					},
-					"with": {
-						"id": "ad_astra",
-						"versions": ">=1.15.5"
-					}
-				}
-			]
-		},
-		{
 			"id": "better_smithing_ui",
 			"depends": [
 				{

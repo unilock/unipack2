@@ -98,7 +98,7 @@ hash = "3297268a9e5e925977a967d71a9ffec44eb8180a415d96a01eb664dffb4fe7df"
 
 [[files]]
 file = "config/better_log4j_config.xml"
-hash = "6e8e1a55b5db3ec1b0526abfb8bfc3bb2a620b17ac668a41f655b0c2507b2964"
+hash = "966c597ef7237476e8f9599d1308df1c765235a6743a40202829820126cff103"
 
 [[files]]
 file = "config/betterdungeons-fabric-1_20.toml"
@@ -458,7 +458,7 @@ hash = "74e0fe6073f8bc65ae8f9de8fa5314c4a8b4641a3a5a317cf697cc4497e1e9b4"
 
 [[files]]
 file = "config/quilt-loader-overrides.json"
-hash = "a6cb9aa636c707915235d36fe68e09d498ca3bc8e5b22b8d239ee1809b2e6669"
+hash = "0326645e8815b8118149db13b6934ca1c2f848ffedf8e8e6d626337e618e50f6"
 
 [[files]]
 file = "config/railways-client.toml"
@@ -1071,11 +1071,6 @@ hash = "add98aca0d451e23f27f529f0f83139dddf96e2979d1187817d928aff4f1828a"
 metafile = true
 
 [[files]]
-file = "mods/cc-vs.pw.toml"
-hash = "765b2e05c8ad0c7f73624f06bf256d857f938d39ad4a286ff1c8dbe664541960"
-metafile = true
-
-[[files]]
 file = "mods/cccbridge.pw.toml"
 hash = "5e96138dce35e95b6efd048968440332a42c8c6d3bafe384cc303c18f073da31"
 metafile = true
@@ -1511,11 +1506,6 @@ hash = "55a4537d46958dadd9cfb7999fcc076cdaf600f1aa8f283b7c4550307ff488b6"
 metafile = true
 
 [[files]]
-file = "mods/eureka-ships.pw.toml"
-hash = "616330455807730dff4ecf364a57d4b6282ec214af82e8d5a49be4e686408c6e"
-metafile = true
-
-[[files]]
 file = "mods/ex-pattern-provider.pw.toml"
 hash = "b3aa3212c74a98698f6c9543d37740328f4dd9a93dbb9169cb1a54adae3adec7"
 metafile = true
@@ -1828,11 +1818,6 @@ metafile = true
 [[files]]
 file = "mods/hexcellular.pw.toml"
 hash = "7c91287eba8c17d94f8f0b959d28773cc3b8b8ae68d88501b2275331ffb7be5c"
-metafile = true
-
-[[files]]
-file = "mods/hexsky.pw.toml"
-hash = "82b9a3cbe803841e5520dd61a47599a938d4dd7b0b5e36a537965f15b48dd2db"
 metafile = true
 
 [[files]]
@@ -3111,11 +3096,6 @@ hash = "d346ed969a51b62c23e6de3ea44f65f1cebb1dbc4d65051cbf5b4acea609d203"
 metafile = true
 
 [[files]]
-file = "mods/tis-vs.pw.toml"
-hash = "8a5c7db1ba9b2ce4a8a4eea8404884b97ad2ff17a3846d54422dca5742ff2d5d"
-metafile = true
-
-[[files]]
 file = "mods/toms-peripherals.pw.toml"
 hash = "0c746fcb31d40ead1f72cd9032616218dc81e77bd97d8387754553222b465849"
 metafile = true
@@ -3201,11 +3181,6 @@ hash = "f78e705e6cbb9660bd13d60784ff37f296f21c8ca7a3a8433e3c796f59341cc8"
 metafile = true
 
 [[files]]
-file = "mods/valkyrien-skies.pw.toml"
-hash = "b2201491a26e4c814e48c9bace0b4850cac23e950a843e413d8be2240127dc0f"
-metafile = true
-
-[[files]]
 file = "mods/vanillaparts.pw.toml"
 hash = "aed1ff0d9583d0d0d2424f9885f3823be1730f469ec5056d98a3f63e74cbe017"
 metafile = true
@@ -3238,11 +3213,6 @@ metafile = true
 [[files]]
 file = "mods/volume-fix.pw.toml"
 hash = "1b79367022b6b1c458fa1be25ba2c9d379426845a43aa581957a5d9d3381a83e"
-metafile = true
-
-[[files]]
-file = "mods/vs-grapples.pw.toml"
-hash = "6464cd2577142d70266dd388d22fd9a0e18a59d8ba351a61bfe6af1877ac3d7c"
 metafile = true
 
 [[files]]
