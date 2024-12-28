@@ -787,7 +787,7 @@ metafile = true
 
 [[files]]
 file = "mods/armaments.pw.toml"
-hash = "948337c5a798268037c4290c5c0ab3ea19e232ee783b3aee490a76d0ac8eb2d2"
+hash = "480be9c0e3b8734dcde7d9c5c3899ced5d2ea000b826004cdbd0d27e59379080"
 metafile = true
 
 [[files]]
@@ -1687,7 +1687,7 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.pw.toml"
-hash = "bd0c76f438f67e2611fa8458ab153be304acfb4aaed4acebd0dcdfbbb74f1388"
+hash = "0e99c9b4a524d9cb74553f7b3ed331081031fef9d3c0c437f3734fbd9a350a2d"
 metafile = true
 
 [[files]]
@@ -2977,7 +2977,7 @@ metafile = true
 
 [[files]]
 file = "mods/structure-layout-optimizer.pw.toml"
-hash = "470ed2c8993e1f4d583cbf2a540f2d177562a379d0b7aa2373499ddde0c27bb3"
+hash = "f4cbc45522e82171891fc0882d5d8e73863fc6b78d59db14e67e712384351217"
 metafile = true
 
 [[files]]
