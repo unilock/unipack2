@@ -1,8 +1,8 @@
 name = "Tooltip Tool Tips"
-filename = "tooltip-tool-tips-2.1.0+1.20.1+fabric.jar"
+filename = "tooltip-tool-tips-2.1.1+1.20.1+fabric.jar"
 side = "client"
 
 [download]
-url = "https://play.fennet.rentals/packwiz/unipack2/manual-jars/client/tooltip-tool-tips-2.1.0+1.20.1+fabric.jar"
+url = "https://play.fennet.rentals/packwiz/unipack2/manual-jars/client/tooltip-tool-tips-2.1.1+1.20.1+fabric.jar"
 hash-format = "sha256"
-hash = "ff36980e7efa3ebbe0c2dd907b937268b7a273ebe6f939850d08876b547c6146"
+hash = "958b2de160c4f3d736e6c7c1d3ae32c7d7192e809606264a494362da199c6cb0"
