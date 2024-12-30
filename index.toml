@@ -3301,7 +3301,7 @@ metafile = true
 
 [[files]]
 file = "mods/yttr.pw.toml"
-hash = "f5829e6670a0fe1cef3bf32d84422ac8ad04baa7918277ac11f7828a402f37b2"
+hash = "36ebd0fdac35b9cf43a3cbac1e142d6b9983af54eca9b9a8211046a75f4e8887"
 metafile = true
 
 [[files]]
