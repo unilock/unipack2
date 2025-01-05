@@ -32,51 +32,6 @@
 			]
 		},
 		{
-			"id": "armaments",
-			"depends": [
-				{
-					"replace": {
-						"id": "fabricloader",
-						"versions": ">=0.16.9"
-					},
-					"with": {
-						"id": "fabricloader",
-						"versions": ">=0.16.7"
-					}
-				}
-			]
-		},
-		{
-			"id": "arsenal",
-			"depends": [
-				{
-					"replace": {
-						"id": "fabricloader",
-						"versions": ">=0.16.9"
-					},
-					"with": {
-						"id": "fabricloader",
-						"versions": ">=0.16.7"
-					}
-				}
-			]
-		},
-		{
-			"id": "better_smithing_ui",
-			"depends": [
-				{
-					"replace": {
-						"id": "fabricloader",
-						"versions": ">=0.16.9"
-					},
-					"with": {
-						"id": "fabricloader",
-						"versions": ">=0.16.7"
-					}
-				}
-			]
-		},
-		{
 			"id": "complexhex",
 			"depends": [
 				{
@@ -152,21 +107,6 @@
 			]
 		},
 		{
-			"id": "ratatouille",
-			"depends": [
-				{
-					"replace": {
-						"id": "fabricloader",
-						"versions": ">=0.16.9"
-					},
-					"with": {
-						"id": "fabricloader",
-						"versions": ">=0.16.7"
-					}
-				}
-			]
-		},
-		{
 			"id": "sc-goodies",
 			"depends": [
 				{
@@ -227,21 +167,6 @@
 			]
 		},
 		{
-			"id": "sparkweave",
-			"depends": [
-				{
-					"replace": {
-						"id": "fabricloader",
-						"versions": ">=0.16.9"
-					},
-					"with": {
-						"id": "fabricloader",
-						"versions": ">=0.16.7"
-					}
-				}
-			]
-		},
-		{
 			"id": "spectrum",
 			"breaks": [
 				{
@@ -268,21 +193,6 @@
 			]
 		},
 		{
-			"id": "structure_layout_optimizer",
-			"depends": [
-				{
-					"replace": {
-						"id": "fabricloader",
-						"versions": ">=0.16.9"
-					},
-					"with": {
-						"id": "fabricloader",
-						"versions": ">=0.16.7"
-					}
-				}
-			]
-		},
-		{
 			"id": "symbols_n_stuff",
 			"depends": [
 				{
@@ -293,21 +203,6 @@
 					"with": {
 						"id": "fabric-language-kotlin",
 						"versions": ">=1.10.10+kotlin.1.9.10"
-					}
-				}
-			]
-		},
-		{
-			"id": "tconstruct",
-			"depends": [
-				{
-					"replace": {
-						"id": "fabricloader",
-						"versions": ">=0.16.9"
-					},
-					"with": {
-						"id": "fabricloader",
-						"versions": ">=0.16.7"
 					}
 				}
 			]
