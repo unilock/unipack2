@@ -1,13 +1,13 @@
 name = "Arcanus: Continuum"
-filename = "arcanus-continuum-0.110.2.jar"
+filename = "Arcanus-Continuum-Fabric-0.111.0.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "3dad9c5659e044fbea791955224cc847557426f2"
+hash = "5ef136fe93327899e5655b17edd1b2dda075fb7f"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6007907
+file-id = 6043848
 project-id = 905345

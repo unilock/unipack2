@@ -1,13 +1,13 @@
 name = "Jukeboxfix"
-filename = "Jukeboxfix-1.0.0.jar"
+filename = "Jukeboxfix-1.0.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "a6ab1754cf215748af49ae5118657414c4ece02a"
+hash = "87f0d5bb4e93376c496e90d57d30d40830ab6064"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5061039
+file-id = 6052470
 project-id = 967091

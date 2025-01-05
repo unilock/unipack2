@@ -1,13 +1,13 @@
 name = "Armaments"
-filename = "Armaments-1.3.jar"
+filename = "Armaments-1.3.2.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "1cd3dc3950d48ee29d255e668086adb484ad6507"
+hash = "908d4f0209b73e1a7b38dfdfdccabeb82af021ee"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6029561
+file-id = 6033091
 project-id = 1016786
