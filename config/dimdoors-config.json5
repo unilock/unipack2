@@ -1,83 +1,81 @@
 {
-	"general": {
-		"teleportOffset": 0.0,
-		"riftBoundingBoxInCreative": false,
-		"riftCloseSpeed": 0.1,
-		"riftGrowthSpeed": 1.0,
-		"enableRiftDecay": false,
-		"depthSpreadFactor": 20,
-		"endermanSpawnChance": 5.0E-5,
-		"endermanAggressiveChance": 0.0,
-		"enableDebugMessages": false
-	},
-	"pockets": {
-		"pocketGridSize": 32,
-		"maxPocketSize": 15,
-		"privatePocketSize": 2,
-		"publicPocketSize": 1,
-		"defaultWeightEquation": "5",
-		"fallbackWeight": 5,
-		"asyncWorldEditPocketLoading": true,
-		"canUseRiftSignatureInPrivatePockets": true
-	},
-	"world": {
-		"clusterGenChance": 20000.0,
-		"clusterDimBlacklist": [],
-		"gatewayDimBlacklist": []
-	},
-	"dungeons": {
-		"maxDungeonDepth": 50
-	},
-	"monoliths": {
-		"dangerousLimboMonoliths": false,
-		"monolithTeleportation": true
-	},
-	"limbo": {
-		"hardcoreLimbo": true,
-		"limboReturnDistance": 5000,
-		"limboBlocksCorruptingExitWorldAmount": 5.0,
-		"escapeTargetWorld": {
-			"field_25137": {
-				"field_13353": "minecraft",
-				"field_13355": "dimension"
-			},
-			"field_25138": {
-				"field_13353": "minecraft",
-				"field_13355": "overworld"
-			},
-			"quilt$attachments": { },
-			"quilt$builtinAttachmentHolder": null,
-			"quilt$dataAttachmentHolder": null
-		},
-		"escapeTargetWorldYSpawn": 64,
-		"escapeToWorldSpawn": false,
-		"worldsLeadingToLimbo": {
-			"list": [],
-			"blacklist": false
-		}
-	},
-	"graphics": {
-		"showRiftCore": true,
-		"highlightRiftCoreFor": -1,
-		"riftSize": 1.0,
-		"riftJitter": 1.0
-	},
-	"doors": {
-		"closeDoorBehind": true,
-		"doorList": {
-			"mode": "ENABLE",
-			"doors": [
-				"dimdoors:quartz_door",
-				"dimdoors:gold_door",
-				"minecraft:iron_door",
-				"minecraft:oak_door"
-			]
-		},
-		"placeRiftsInCreativeMode": false
-	},
-	"decay": {
-		"decaySpreadChance": 1.0,
-		"decayDelay": 40,
-		"decaysIntoAir": true
-	}
+  "general": {
+    "teleportOffset": 0.0,
+    "riftBoundingBoxInCreative": false,
+    "riftCloseSpeed": 0.1,
+    "riftGrowthSpeed": 1.0,
+    "enableRiftDecay": true,
+    "depthSpreadFactor": 20,
+    "endermanSpawnChance": 5.0E-5,
+    "endermanAggressiveChance": 0.0,
+    "enableDebugMessages": false
+  },
+  "pockets": {
+    "pocketGridSize": 32,
+    "maxPocketSize": 15,
+    "privatePocketSize": 2,
+    "publicPocketSize": 1,
+    "defaultWeightEquation": "5",
+    "fallbackWeight": 5,
+    "asyncWorldEditPocketLoading": true,
+    "canUseRiftSignatureInPrivatePockets": true
+  },
+  "world": {
+    "clusterGenChance": 20000.0,
+    "clusterDimBlacklist": [],
+    "gatewayDimBlacklist": []
+  },
+  "dungeons": {
+    "maxDungeonDepth": 50
+  },
+  "monoliths": {
+    "dangerousLimboMonoliths": false,
+    "monolithTeleportation": true
+  },
+  "limbo": {
+    "worldsLeadingToLimbo": {
+      "list": [],
+      "blacklist": false
+    },
+    "hardcoreLimbo": true,
+    "limboReturnDistance": 100,
+    "limboBlocksCorruptingExitWorldAmount": 5.0,
+    "escapeTargetWorld": "minecraft:overworld",
+    "escapeTargetWorldYSpawn": 64,
+    "escapeToWorldSpawn": false
+  },
+  "graphics": {
+    "showRiftCore": false,
+    "highlightRiftCoreFor": 15000,
+    "riftSize": 1.0,
+    "riftJitter": 1.0
+  },
+  "doors": {
+    "closeDoorBehind": true,
+    "doorList": {
+      "mode": "ENABLE",
+      "doors": [
+        "dimdoors:quartz_door",
+        "minecraft:birch_door",
+        "minecraft:cherry_door",
+        "minecraft:bamboo_door",
+        "minecraft:spruce_door",
+        "minecraft:dark_oak_door",
+        "minecraft:jungle_door",
+        "minecraft:mangrove_door",
+        "minecraft:warped_door",
+        "dimdoors:gold_door",
+        "minecraft:iron_door",
+        "minecraft:oak_door",
+        "minecraft:crimson_door",
+        "minecraft:acacia_door"
+      ]
+    },
+    "placeRiftsInCreativeMode": true
+  },
+  "decay": {
+    "decaySpreadChance": 1.0,
+    "decayDelay": 40,
+    "decaysIntoAir": true
+  }
 }

@@ -186,7 +186,7 @@ hash = "e6588cb1e350fad93ceb56194b06f690dc6f52e405ddbe4cfb1a46b080681f2d"
 
 [[files]]
 file = "config/dimdoors-config.json5"
-hash = "332ab1b7104bb402ffaf78abfbeb5596ff22b2d9529d8932e005d01d5e2d889c"
+hash = "d597456fe723ba445e002b4b068165b5efba7ac7324ec5cabbd7ea1da9e4f824"
 
 [[files]]
 file = "config/dsurround/dsurround.json"
