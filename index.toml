@@ -2035,6 +2035,11 @@ hash = "505b2a92d050a7debdf7d72938d673fb8ab4c3ebfdb1714573a03ae02b5a0897"
 metafile = true
 
 [[files]]
+file = "mods/lets-do-addon-compat.pw.toml"
+hash = "217fb451a167f3c00c47b14f2a40bc192afabe12aaad5c34f79e47641155a45e"
+metafile = true
+
+[[files]]
 file = "mods/lets-do-addon-fluids.pw.toml"
 hash = "58a97f15605078b0ac22ae6443580fb3dc35713759ff85781ce8e4ebfae2f9b5"
 metafile = true
@@ -2072,6 +2077,11 @@ metafile = true
 [[files]]
 file = "mods/lets-do-candlelight-farm-charm-compat.pw.toml"
 hash = "1cb6418b7e476f6bc5b5700d4542ffe8320c823d269779ddd4b169ae38cc6754"
+metafile = true
+
+[[files]]
+file = "mods/lets-do-emi-compat.pw.toml"
+hash = "43a81e282470c465100b6931330ddb1caf89925b825727ec19b97f219cf02a7b"
 metafile = true
 
 [[files]]
