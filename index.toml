@@ -421,10 +421,6 @@ file = "config/nox.json"
 hash = "914aaf25189c284d9116652e0abf677810538751e063abb10ae9fcbf90164c50"
 
 [[files]]
-file = "config/ok_zoomer/config.toml"
-hash = "2855b32e7918b6df8f108e9ce759e935c40a147ebbb3a6beb0c2d68bf4bfb06d"
-
-[[files]]
 file = "config/overloadedarmorbar.json"
 hash = "3c37728c238cc94701dd21dcb01f28247fcfd55b2b8e3298d90db72c292f6167"
 
@@ -2440,11 +2436,6 @@ hash = "0c6d49a51e64539436dfb0afae27d734f07bad1512fb7335343f9c022b90281f"
 metafile = true
 
 [[files]]
-file = "mods/ok-zoomer.pw.toml"
-hash = "aa38b3f5cebe7319db50832bea2610906dc39e2bbaf35eac591ebf2556127c4d"
-metafile = true
-
-[[files]]
 file = "mods/on-soul-fire.pw.toml"
 hash = "654e006236c269a2a4c5ff859a530828dd26821fa1861d28d81e7a4965767d2e"
 metafile = true
@@ -3342,6 +3333,11 @@ metafile = true
 [[files]]
 file = "mods/yungs-menu-tweaks-fabric.pw.toml"
 hash = "6c599300ab4227fac15619a55fbcd3d36955cf142be09f94d8c384010f791172"
+metafile = true
+
+[[files]]
+file = "mods/zume.pw.toml"
+hash = "b242b6de5a59d1f480d2af1cdee0c91cdce35f3d364496896de71445d0907dcc"
 metafile = true
 
 [[files]]
