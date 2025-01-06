@@ -1626,6 +1626,11 @@ hash = "28f53f38c111e3d6aa7f6854fa976a1456f4094dc504a929a6d4bf1f9f8cc30a"
 metafile = true
 
 [[files]]
+file = "mods/finer-peripherals.pw.toml"
+hash = "8d7f75549df0be56f22b9c79b86e2de6b6472de71c823ebb42a9cc1f02850a4e"
+metafile = true
+
+[[files]]
 file = "mods/fixbookgui.pw.toml"
 hash = "86598ff89ae6a3d09de284c8c147967666b607050cfb0631ed7e26b67f2b80d9"
 metafile = true
