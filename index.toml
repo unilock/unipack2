@@ -2441,7 +2441,7 @@ metafile = true
 
 [[files]]
 file = "mods/ok-zoomer.pw.toml"
-hash = "278a5b1956417a4f07f0c50b29297e1b088b99b641960c103b72efb501fa1030"
+hash = "aa38b3f5cebe7319db50832bea2610906dc39e2bbaf35eac591ebf2556127c4d"
 metafile = true
 
 [[files]]
@@ -2916,7 +2916,7 @@ metafile = true
 
 [[files]]
 file = "mods/sparkweave.pw.toml"
-hash = "58db5ab5da8397f17b0dc09f9c2be95d15b98b156d2d29a2d91dd0f8e9644f46"
+hash = "e956a2bc6c8e8b1509722a40ab04b4d795ef76fc5b2eeec3074304a0a761c56d"
 metafile = true
 
 [[files]]
