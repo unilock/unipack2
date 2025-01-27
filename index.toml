@@ -3672,11 +3672,11 @@ hash = "82fd44d785ce9012c05aba9eae08cf7349e98f7193deafbc90a290481df7c0d1"
 
 [[files]]
 file = "resources/data/c/tags/blocks/brookite_ores.json"
-hash = "7d50174482a26acb8f6f59e2e3a183c4d9b1899e3eb9361e8203a39f12328169"
+hash = "1b1e4842cf01a1ab95bf599239fdd190c1cfb84b1cb0bc3a96c192c14043bb9e"
 
 [[files]]
 file = "resources/data/c/tags/blocks/gadolinite_ores.json"
-hash = "bb4978e249555f4943069acdf915adf00c380d45c1166f31dec0397cf9549543"
+hash = "a4ff0efccf11b8f896cc077a0debe3a964e65ead39d426f8b58a2018da5ebb99"
 
 [[files]]
 file = "resources/data/c/tags/items/hidden_from_recipe_viewers.json"
