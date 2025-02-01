@@ -2121,11 +2121,6 @@ hash = "a0cd7ad519e4e481a8929e13585aec161041b9be2f8de1e79a820331ba5eb6a7"
 metafile = true
 
 [[files]]
-file = "mods/lib39.pw.toml"
-hash = "a23f160f54ed73993d26f990b4f98827b7587883409f458bfca437688aed5daf"
-metafile = true
-
-[[files]]
 file = "mods/libertys-villagers.pw.toml"
 hash = "c561b6f576cd6de311b7394340473b26faa5d47cde51f60c756396142d61f907"
 metafile = true
@@ -3307,7 +3302,7 @@ metafile = true
 
 [[files]]
 file = "mods/yttr.pw.toml"
-hash = "36ebd0fdac35b9cf43a3cbac1e142d6b9983af54eca9b9a8211046a75f4e8887"
+hash = "6375a6722a448ae6e20369a8a29108c32adc49f108e601df67ba3b4c4d916576"
 metafile = true
 
 [[files]]
