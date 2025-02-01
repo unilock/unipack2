@@ -1667,7 +1667,7 @@ metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "9de3e4c33439e73f683230d1696b8b9704dca23232f7cd2b468bfc81d92ecf40"
+hash = "db3ebfc672da63725028dddc1a2816def0a97c708da1b937f64aafa7b2faff07"
 metafile = true
 
 [[files]]
@@ -3163,11 +3163,6 @@ metafile = true
 [[files]]
 file = "mods/twigs.pw.toml"
 hash = "7b9d811345bc97947c0eb2eaa90871c1d22c733779797aa582be0afe7377066a"
-metafile = true
-
-[[files]]
-file = "mods/twisted-and-carved.pw.toml"
-hash = "8c7e32c0de3d3a9e81a15afcb17670e7cc178587d459bb0d3441bf989ac806ff"
 metafile = true
 
 [[files]]
