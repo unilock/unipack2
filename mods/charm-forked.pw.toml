@@ -1,13 +1,13 @@
 name = "Charm Forked"
-filename = "charm-fabric-1.20.1-forked-6.0.23.jar"
+filename = "charm-fabric-1.20.1-forked-6.0.24.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "fda72906e77869f080f5e2d11efa8781734f1a66"
+hash = "2f56ba07b22a96276526ee1bd535073146f96e4b"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5937488
+file-id = 6492694
 project-id = 1016482

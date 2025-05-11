@@ -1,13 +1,13 @@
 name = "Inline"
-filename = "inline-fabric-1.20.1-1.0.2.jar"
+filename = "inline-fabric-1.20.1-1.2.0.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "3b89c793b1d91a4adbe5ae73f255a19cb6a6d490"
+hash = "031a349d657b678f28e946c24436591a34e3b3af"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5937019
+file-id = 6475152
 project-id = 971167

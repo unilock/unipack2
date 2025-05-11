@@ -1,13 +1,13 @@
 name = "UnlimitedPeripheralWorks"
-filename = "peripheralworks-fabric-1.20.1-1.4.4.jar"
+filename = "peripheralworks-fabric-1.20.1-1.5.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "947380bc2e70c15f1e44415fe05b82e61fee9102"
+hash = "c20eb4aab3f7ab91838e8794cf794bfa706cc8c9"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5647709
+file-id = 6322058
 project-id = 621851

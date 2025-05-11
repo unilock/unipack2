@@ -1,13 +1,13 @@
 name = "Enhanced Cats"
-filename = "Enhanced Cats-1.20.1-0.6.jar"
+filename = "Enhanced Cats-1.20.1-1.20.3-0.8.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/e2R0wxyL/versions/8fceV0jM/Enhanced%20Cats-1.20.1-0.6.jar"
-hash-format = "sha1"
-hash = "f27796e1d9f1bcb82aeb34df98b6732ad098658f"
+url = "https://cdn.modrinth.com/data/e2R0wxyL/versions/ncT5cftQ/Enhanced%20Cats-1.20.1-1.20.3-0.8.jar"
+hash-format = "sha512"
+hash = "1fba8cddd93a57c40b69830f719998ae553014c249d06d29f3f9798af65671184f46befab1f697380ad6336fc2549c70e2246f6bbd3977e01609a88de8f99eb3"
 
 [update]
 [update.modrinth]
 mod-id = "e2R0wxyL"
-version = "8fceV0jM"
+version = "ncT5cftQ"

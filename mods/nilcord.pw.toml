@@ -1,13 +1,13 @@
 name = "Nilcord"
-filename = "nilcord-2.3.1+1.20.1+fabric.jar"
+filename = "nilcord-2.4.2+1.20.1+fabric.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/W4HQBVeF/versions/ZpW2EwNw/nilcord-2.3.1%2B1.20.1%2Bfabric.jar"
-hash-format = "sha1"
-hash = "fb5d12799612842d5f1280dec42d18baf07b141e"
+url = "https://cdn.modrinth.com/data/W4HQBVeF/versions/8pvjTk54/nilcord-2.4.2%2B1.20.1%2Bfabric.jar"
+hash-format = "sha512"
+hash = "a725b8267e2c4cd8453fae070b4737f9c87eecb5157381895bfd25c4dd77b2d17a03ace5dc6d90ef3d303ba20bf085c817bf7d7a175d593810bdea5ba56658b2"
 
 [update]
 [update.modrinth]
 mod-id = "W4HQBVeF"
-version = "ZpW2EwNw"
+version = "8pvjTk54"

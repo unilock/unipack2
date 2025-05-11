@@ -3,11 +3,11 @@ filename = "ECCGC.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/mELJLer7/versions/cPYrmcKE/ECCGC.zip"
-hash-format = "sha1"
-hash = "797c09eb9394abb0e58d61dbbf724384755071aa"
+url = "https://cdn.modrinth.com/data/mELJLer7/versions/JJSC8WBJ/ECCGC.zip"
+hash-format = "sha512"
+hash = "7bb7269526851dd547a488f85685448269902957ec11f7919521706f9ddd54b1f47aeb5c9c5cf0c8ceee7578aef8534b32e821dea6256c256985e65f85d760c6"
 
 [update]
 [update.modrinth]
 mod-id = "mELJLer7"
-version = "cPYrmcKE"
+version = "JJSC8WBJ"

@@ -1,13 +1,13 @@
 name = "Almost Unified"
-filename = "almostunified-fabric-1.20.1-0.9.4.jar"
+filename = "almostunified-fabric-1.20.1-0.9.5.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "0b80c820186244667e9f3f326ad864355cc1407b"
+hash = "f1fda5c9157594b7ea25d402dff22b3013c5a2d5"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5517425
+file-id = 6471162
 project-id = 633823

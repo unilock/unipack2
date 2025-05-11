@@ -1,13 +1,13 @@
 name = "Sparkweave Engine"
-filename = "sparkweave-0.7.0.jar"
+filename = "sparkweave-0.8.8.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "6ed62d4fa8e1d6ce03af7ddd5610529a1d717300"
+hash = "029324adaa2376c3dcba0d96d814a49b696ecfae"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6084706
+file-id = 6161137
 project-id = 911456

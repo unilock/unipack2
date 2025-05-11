@@ -1,13 +1,13 @@
 name = "JLine for Dedicated Server"
-filename = "jline4mcdsrv-0.6.2.jar"
+filename = "jline4mcdsrv-0.6.3.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/9mnPo3ZV/versions/nWFBSxng/jline4mcdsrv-0.6.2.jar"
-hash-format = "sha1"
-hash = "f1cf7877f070bf74200ce8448036f97cfbfefdf3"
+url = "https://cdn.modrinth.com/data/9mnPo3ZV/versions/QYNpu9bc/jline4mcdsrv-0.6.3.jar"
+hash-format = "sha512"
+hash = "5f3a02ac0356c880ac9a993679fc41dc6b1cb91af53b2566b8f207e755dbc161b62150aac9ee9a0b436d6e15e4bb882db6db2e0dcddae5384c147c98888f3aa9"
 
 [update]
 [update.modrinth]
 mod-id = "9mnPo3ZV"
-version = "nWFBSxng"
+version = "QYNpu9bc"

@@ -1,13 +1,13 @@
 name = "[Let's Do] HerbalBrews"
-filename = "letsdo-herbalbrews-fabric-1.0.10.jar"
+filename = "letsdo-herbalbrews-fabric-1.0.12.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "c05a69f194497fdc40a0e77301f7ed53f3f8e6d1"
+hash = "9776b9cd5c06dd76fc7d4b75de971eec9d84bb26"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6099792
+file-id = 6458888
 project-id = 951221

@@ -1,13 +1,13 @@
 name = "Affinity"
-filename = "affinity-0.1.1+1.20.jar"
+filename = "affinity-0.1.8+1.20.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "09d5612d41c92b7d42ca65529b9137cbaed12d14"
+hash = "2979313755241425cb0627f1b6b0160731de3713"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5646665
+file-id = 6171045
 project-id = 938918
