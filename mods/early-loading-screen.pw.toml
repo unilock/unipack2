@@ -3,6 +3,6 @@ filename = "earlyloadingscreen-mc1.20.1-0.1.6-all.jar"
 side = "client"
 
 [download]
-url = "https://play.fennet.rentals/packwiz/unipack2/manual-jars/client/earlyloadingscreen-mc1.20.1-0.1.6-all.jar"
+url = "https://play.fennet.rentals/packwiz/unipack2-finale/manual-jars/client/earlyloadingscreen-mc1.20.1-0.1.6-all.jar"
 hash-format = "sha256"
 hash = "1c9219c3dd40beb64153efe172d07165854203539b2a83c1a17a18e07d5c72e8"

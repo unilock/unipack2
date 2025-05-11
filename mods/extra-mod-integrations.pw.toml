@@ -3,6 +3,6 @@ filename = "extra-mod-integrations-0.4.99+1.20.1.local.jar"
 side = "client"
 
 [download]
-url = "https://play.fennet.rentals/packwiz/unipack2/manual-jars/client/extra-mod-integrations-0.4.99+1.20.1.local.jar"
+url = "https://play.fennet.rentals/packwiz/unipack2-finale/manual-jars/client/extra-mod-integrations-0.4.99+1.20.1.local.jar"
 hash-format = "sha256"
 hash = "cdb3a2a352c03ec09f43c8f7bff2f48803a3c952ccdd66851f4ed757ed6c08cc"

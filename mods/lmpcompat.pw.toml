@@ -3,6 +3,6 @@ filename = "lmp-compat-0.3.0+1.20.1.jar"
 side = "both"
 
 [download]
-url = "https://play.fennet.rentals/packwiz/unipack2/manual-jars/both/lmp-compat-0.3.0+1.20.1.jar"
+url = "https://play.fennet.rentals/packwiz/unipack2-finale/manual-jars/both/lmp-compat-0.3.0+1.20.1.jar"
 hash-format = "sha256"
 hash = "ab332fb507b174b4ec4ea11e480110ceebca1dcaac56f2e4dfbefb4fa75ee854"

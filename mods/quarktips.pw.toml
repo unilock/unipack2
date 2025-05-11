@@ -3,6 +3,6 @@ filename = "quarktips-2.2.0+1.20.1+fabric.jar"
 side = "client"
 
 [download]
-url = "https://play.fennet.rentals/packwiz/unipack2/manual-jars/client/quarktips-2.2.0+1.20.1+fabric.jar"
+url = "https://play.fennet.rentals/packwiz/unipack2-finale/manual-jars/client/quarktips-2.2.0+1.20.1+fabric.jar"
 hash-format = "sha256"
 hash = "3ab4c390289eb1d02011c218df797ba101cbc3d86ce341cd79d3f4ac4aec8c4e"

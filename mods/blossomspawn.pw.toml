@@ -3,6 +3,6 @@ filename = "blossom-spawn-1.0.0+1.20.1+fabric.jar"
 side = "both"
 
 [download]
-url = "https://play.fennet.rentals/packwiz/unipack2/manual-jars/both/blossom-spawn-1.0.0+1.20.1+fabric.jar"
+url = "https://play.fennet.rentals/packwiz/unipack2-finale/manual-jars/both/blossom-spawn-1.0.0+1.20.1+fabric.jar"
 hash-format = "sha256"
 hash = "c33f0101d6fc6c0e866f8ce1e8e88255ca491a958543557221aea82dc65f2329"

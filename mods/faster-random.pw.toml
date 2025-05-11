@@ -3,6 +3,6 @@ filename = "fasterrandom-3.0.4.jar"
 side = "server"
 
 [download]
-url = "https://play.fennet.rentals/packwiz/unipack2/manual-jars/server/fasterrandom-3.0.4.jar"
+url = "https://play.fennet.rentals/packwiz/unipack2-finale/manual-jars/server/fasterrandom-3.0.4.jar"
 hash-format = "sha256"
 hash = "507b7fb9aa613010fe7b56e661358cc104fba0a3988145ffbe93ff78dc2ce217"

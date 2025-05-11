@@ -3,6 +3,6 @@ filename = "inspecio-1.8.1+1.20.1.jar"
 side = "client"
 
 [download]
-url = "https://play.fennet.rentals/packwiz/unipack2/manual-jars/client/inspecio-1.8.1+1.20.1.jar"
+url = "https://play.fennet.rentals/packwiz/unipack2-finale/manual-jars/client/inspecio-1.8.1+1.20.1.jar"
 hash-format = "sha256"
 hash = "7eec3abba84a829769ad70d4a3d03693df32d580bfaf33fe45fd814a916632d2"

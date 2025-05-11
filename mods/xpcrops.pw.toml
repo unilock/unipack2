@@ -3,6 +3,6 @@ filename = "xpcrops-2.0.0+1.20.1.jar"
 side = "both"
 
 [download]
-url = "https://play.fennet.rentals/packwiz/unipack2/manual-jars/both/xpcrops-2.0.0+1.20.1.jar"
+url = "https://play.fennet.rentals/packwiz/unipack2-finale/manual-jars/both/xpcrops-2.0.0+1.20.1.jar"
 hash-format = "sha256"
 hash = "014966d4ac636ff0873cd30aa857700c63558433b58c98f7e92c5e9a143a0f8e"

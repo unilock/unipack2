@@ -3,6 +3,6 @@ filename = "go-fish-1.6.3+1.20.1.jar"
 side = "both"
 
 [download]
-url = "https://play.fennet.rentals/packwiz/unipack2/manual-jars/both/go-fish-1.6.3+1.20.1.jar"
+url = "https://play.fennet.rentals/packwiz/unipack2-finale/manual-jars/both/go-fish-1.6.3+1.20.1.jar"
 hash-format = "sha256"
 hash = "ed7657961469237036fd75c48980e852064a9d37b346c0a542cf38c27dccda12"

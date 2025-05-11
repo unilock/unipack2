@@ -3,6 +3,6 @@ filename = "YetAnotherConfigLib-3.5.0+1.20.1-fabric.jar"
 side = "client"
 
 [download]
-url = "https://play.fennet.rentals/packwiz/unipack2/manual-jars/client/YetAnotherConfigLib-3.5.0+1.20.1-fabric.jar"
+url = "https://play.fennet.rentals/packwiz/unipack2-finale/manual-jars/client/YetAnotherConfigLib-3.5.0+1.20.1-fabric.jar"
 hash-format = "sha256"
 hash = "256102f6cbea763f81b0ce676b7b8262c389fa473bd02c03bbc198c31dfff7be"

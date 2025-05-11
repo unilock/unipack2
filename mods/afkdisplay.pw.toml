@@ -3,6 +3,6 @@ filename = "afkdisplay-2.0.0+1.20.1+fabric.jar"
 side = "server"
 
 [download]
-url = "https://play.fennet.rentals/packwiz/unipack2/manual-jars/server/afkdisplay-2.0.0+1.20.1+fabric.jar"
+url = "https://play.fennet.rentals/packwiz/unipack2-finale/manual-jars/server/afkdisplay-2.0.0+1.20.1+fabric.jar"
 hash-format = "sha256"
 hash = "9f76146566d812fbee845f376e9c0aedc6e6fbcf37af89a0c7e67cc57fdf0ddf"

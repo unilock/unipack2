@@ -3,6 +3,6 @@ filename = "tamago-1.2.1+1.20.1.jar"
 side = "both"
 
 [download]
-url = "https://play.fennet.rentals/packwiz/unipack2/manual-jars/both/tamago-1.2.1+1.20.1.jar"
+url = "https://play.fennet.rentals/packwiz/unipack2-finale/manual-jars/both/tamago-1.2.1+1.20.1.jar"
 hash-format = "sha256"
 hash = "fc261ee660ec547261f318c3e2953b298dc2ee27fa967ca08267a208ac8502e1"

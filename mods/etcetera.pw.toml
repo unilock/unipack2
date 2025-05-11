@@ -3,6 +3,6 @@ filename = "etcetera-1.1.2-fabric.jar"
 side = "both"
 
 [download]
-url = "https://play.fennet.rentals/packwiz/unipack2/manual-jars/both/etcetera-1.1.2-fabric.jar"
+url = "https://play.fennet.rentals/packwiz/unipack2-finale/manual-jars/both/etcetera-1.1.2-fabric.jar"
 hash-format = "sha256"
 hash = "bb66f414f4d664246cfb3fb446d3033b8d2dc75660a7a1a871e1269e25b3a396"

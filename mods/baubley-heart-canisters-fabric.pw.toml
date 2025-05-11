@@ -3,6 +3,6 @@ filename = "bhc-1.1.0+1.20.jar"
 side = "both"
 
 [download]
-url = "https://play.fennet.rentals/packwiz/unipack2/manual-jars/both/bhc-1.1.0+1.20.jar"
+url = "https://play.fennet.rentals/packwiz/unipack2-finale/manual-jars/both/bhc-1.1.0+1.20.jar"
 hash-format = "sha256"
 hash = "591c1ae691dbd97e820ec9fa692d0ecf74b886315e18515c091db83a1709a739"
