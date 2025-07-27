@@ -25,6 +25,6 @@ on_sneak:
   # Allows to start crawling by double sneaking near a one-block gap.
   crawling: false
   # The minimum angle must be looking down (in degrees) with double sneak.
-  min_pitch: 66.6
+  min_pitch: 60.0
   # The window between sneaks to sit down (in milliseconds).
   delay: 600

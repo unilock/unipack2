@@ -20,7 +20,6 @@
 		#Amount of durability restored by a repair kit in terms of ingots. Does not affect the cost to create the kit, that is controlled by JSON.
 		#Range: 0.0 ~ 32767.0
 		repairKitAmount = 2.0
-
 #Options related to recipes, limited options as a datapack allows most recipes to be modified
 [recipes]
 	#Makes wither skeletons drop necrotic bones
@@ -47,7 +46,7 @@
 		drowned = true
 		spider = true
 		enderman = true
-
+	[recipes.ore_rates]
 		#Ore rates when melting in the foundry
 		[recipes.ore_rates.foundry]
 			#Number of nuggets produced per metal ore unit melted. 9 nuggets would give 1 ingot
@@ -56,7 +55,6 @@
 			#Number of gem shards produced per gem ore unit melted. 4 gem shards would give 1 gem
 			#Range: 1 ~ 20
 			shardsPerGem = 4
-
 		#Byprouct rates when melting in the foundry
 		[recipes.ore_rates.foundry_byproduct]
 			#Number of nuggets produced per metal ore unit melted. 9 nuggets would give 1 ingot
@@ -65,7 +63,6 @@
 			#Number of gem shards produced per gem ore unit melted. 4 gem shards would give 1 gem
 			#Range: 1 ~ 20
 			shardsPerGem = 4
-
 		#Ore rates when melting in the smeltery
 		[recipes.ore_rates.smeltery]
 			#Number of nuggets produced per metal ore unit melted. 9 nuggets would give 1 ingot
@@ -74,7 +71,6 @@
 			#Number of gem shards produced per gem ore unit melted. 4 gem shards would give 1 gem
 			#Range: 1 ~ 20
 			shardsPerGem = 8
-
 		#Ore rates when melting in the melter
 		[recipes.ore_rates.melter]
 			#Number of nuggets produced per metal ore unit melted. 9 nuggets would give 1 ingot
@@ -83,7 +79,6 @@
 			#Number of gem shards produced per gem ore unit melted. 4 gem shards would give 1 gem
 			#Range: 1 ~ 20
 			shardsPerGem = 8
-
 #Options related to loot table injections. Note some of the changes are done via global loot managers, these only control injecting loot into loot pools
 #If your modpack makes extensive loot table changes, many of these may be automatically disabled. You can also manually set up tables for more control.
 [loot]
@@ -98,7 +93,6 @@
 	#For comparison, vanilla wooden axes and pickaxes have a weight of 3, and stone axes/pickaxes have a weight of 1
 	#Range: 0 ~ 25
 	tinker_tool_bonus_chest = 2
-
 #Everything to do with world generation
 [worldgen]
 	#Generate Cobalt
@@ -118,7 +112,6 @@
 		forceRecipes = false
 		#If true, enderslime geodes generate as additional islands in the end
 		ender = true
-
 #Features to use in debugging gameplay and mechanics, generally should not be enabled in packs
 [debug]
 	#If true, forces integration materials to be enabled, even if the relevant metal is missing. Useful for testing material balance.

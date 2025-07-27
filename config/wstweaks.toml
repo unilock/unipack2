@@ -27,3 +27,4 @@ blades_attack_damage = 11.0
 # range: -4096.0 - 4096.0
 # default: -2.0
 blades_attack_speed = -2.0
+

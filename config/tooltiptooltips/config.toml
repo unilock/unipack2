@@ -1,5 +1,10 @@
 # Don't change this! Version used to track needed updates.
 version = 0
+# Config values can be one of the following:
+# - \"FALSE\" (never show)
+# - \"TRUE\" (show when holding shift)
+# - \"ALWAYS\" (always show)
+nothing = false
 
 # Options that apply to armor, tools, and weapons
 

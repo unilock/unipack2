@@ -1,6 +1,7 @@
 {
   "restrictive_scrolling": true,
   "container_type": "expandedstorage:scrollable",
-  "prefer_bigger_screens": true,
+  "prefer_smaller_screens": true,
+  "fit_vanilla_constraints": false,
   "config_version": 0
 }

@@ -2,171 +2,6 @@
 	"schema_version": 1,
 	"overrides": [
 		{
-			"id": "amethyst_core",
-			"depends": [
-				{
-					"replace": {
-						"id": "fabric-language-kotlin",
-						"versions": ">=1.10.18+kotlin.1.9.22"
-					},
-					"with": {
-						"id": "fabric-language-kotlin",
-						"versions": ">=1.10.10+kotlin.1.9.10"
-					}
-				}
-			]
-		},
-		{
-			"id": "amethyst_imbuement",
-			"depends": [
-				{
-					"replace": {
-						"id": "fabric-language-kotlin",
-						"versions": ">=1.10.18+kotlin.1.9.22"
-					},
-					"with": {
-						"id": "fabric-language-kotlin",
-						"versions": ">=1.10.10+kotlin.1.9.10"
-					}
-				}
-			]
-		},
-		{
-			"id": "complexhex",
-			"depends": [
-				{
-					"replace": {
-						"id": "fabric-language-kotlin",
-						"versions": ">=1.10.20+kotlin.1.9.24"
-					},
-					"with": {
-						"id": "fabric-language-kotlin",
-						"versions": ">=1.10.10+kotlin.1.9.10"
-					}
-				}
-			]
-		},
-		{
-			"id": "fzzy_config",
-			"depends": [
-				{
-					"replace": {
-						"id": "fabric-language-kotlin",
-						"versions": ">=1.10.18+kotlin.1.9.22"
-					},
-					"with": {
-						"id": "fabric-language-kotlin",
-						"versions": ">=1.10.10+kotlin.1.9.10"
-					}
-				}
-			]
-		},
-		{
-			"id": "gearifiers",
-			"depends": [
-				{
-					"replace": {
-						"id": "fabric-language-kotlin",
-						"versions": ">=1.10.18+kotlin.1.9.22"
-					},
-					"with": {
-						"id": "fabric-language-kotlin",
-						"versions": ">=1.10.10+kotlin.1.9.10"
-					}
-				}
-			]
-		},
-		{
-			"id": "imbued_gear",
-			"depends": [
-				{
-					"replace": {
-						"id": "fabric-language-kotlin",
-						"versions": ">=1.10.18+kotlin.1.9.22"
-					},
-					"with": {
-						"id": "fabric-language-kotlin",
-						"versions": ">=1.10.10+kotlin.1.9.10"
-					}
-				}
-			]
-		},
-		{
-			"id": "particle_core",
-			"depends": [
-				{
-					"replace": {
-						"id": "fabric-language-kotlin",
-						"versions": ">=1.10.18+kotlin.1.9.22"
-					},
-					"with": {
-						"id": "fabric-language-kotlin",
-						"versions": ">=1.10.10+kotlin.1.9.10"
-					}
-				}
-			]
-		},
-		{
-			"id": "sc-goodies",
-			"depends": [
-				{
-					"replace": {
-						"id": "fabric-language-kotlin",
-						"versions": ">=1.10.19+kotlin.1.9.23"
-					},
-					"with": {
-						"id": "fabric-language-kotlin",
-						"versions": ">=1.10.10+kotlin.1.9.10"
-					}
-				}
-			]
-		},
-		{
-			"id": "sc-library",
-			"depends": [
-				{
-					"replace": {
-						"id": "fabric-language-kotlin",
-						"versions": ">=1.10.19+kotlin.1.9.23"
-					},
-					"with": {
-						"id": "fabric-language-kotlin",
-						"versions": ">=1.10.10+kotlin.1.9.10"
-					}
-				}
-			]
-		},
-		{
-			"id": "sc-peripherals",
-			"depends": [
-				{
-					"replace": {
-						"id": "fabric-language-kotlin",
-						"versions": ">=1.10.19+kotlin.1.9.23"
-					},
-					"with": {
-						"id": "fabric-language-kotlin",
-						"versions": ">=1.10.10+kotlin.1.9.10"
-					}
-				}
-			]
-		},
-		{
-			"id": "sc-text",
-			"depends": [
-				{
-					"replace": {
-						"id": "fabric-language-kotlin",
-						"versions": ">=1.10.19+kotlin.1.9.23"
-					},
-					"with": {
-						"id": "fabric-language-kotlin",
-						"versions": ">=1.10.10+kotlin.1.9.10"
-					}
-				}
-			]
-		},
-		{
 			"id": "spectrum",
 			"breaks": [
 				{
@@ -178,31 +13,31 @@
 			]
 		},
 		{
-			"id": "specutils",
+			"id": "hexstruction",
 			"depends": [
 				{
 					"replace": {
-						"id": "fabric-language-kotlin",
-						"versions": ">=1.10.17+kotlin.1.9.22"
+						"id": "fabricloader",
+						"versions": ">=0.16.13"
 					},
 					"with": {
-						"id": "fabric-language-kotlin",
-						"versions": ">=1.10.10+kotlin.1.9.10"
+						"id": "fabricloader",
+						"versions": ">=0.16.10"
 					}
 				}
 			]
 		},
 		{
-			"id": "symbols_n_stuff",
+			"id": "mcqoy",
 			"depends": [
 				{
 					"replace": {
-						"id": "fabric-language-kotlin",
-						"versions": ">=1.10.18+kotlin.1.9.22"
+						"id": "fabricloader",
+						"versions": ">=0.16.14"
 					},
 					"with": {
-						"id": "fabric-language-kotlin",
-						"versions": ">=1.10.10+kotlin.1.9.10"
+						"id": "fabricloader",
+						"versions": ">=0.16.10"
 					}
 				}
 			]

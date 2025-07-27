@@ -4,7 +4,7 @@
   "render2d": true,
   "render3d": false,
   "axis": 0,
-  "indicator2DStyle": 1,
+  "indicator2DStyle": 0,
   "indicator3DStyle": 0,
   "indicatorVertical": "|   |",
   "indicatorHorizontal": "{   }",

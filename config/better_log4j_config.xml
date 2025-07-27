@@ -4,6 +4,11 @@
 	<Appenders>
 		<!-- System Out -->
 		<Console name="SysOut" target="SYSTEM_OUT">
+			<!-- Hide garbage -->
+			<Filters>
+				<RegexFilter regex=".*Registering id\=\d+ for (LiquidState|SolidStateImpl|VsBlockState).*" onMatch="DENY" onMismatch="NEUTRAL"/>
+			</Filters>
+
 			<PatternLayout>
 				<LoggerNamePatternSelector defaultPattern="%style{[%d{HH:mm:ss}]}{blue} %highlight{[%t/%level]}{FATAL=red, ERROR=red, WARN=yellow, INFO=green, DEBUG=green, TRACE=blue} %style{(%logger{1})}{cyan} %highlight{%msg%n}{FATAL=red, ERROR=red, WARN=normal, INFO=normal, DEBUG=normal, TRACE=normal}" disableAnsi="${sys:fabric.log.disableAnsi:-true}">
 					<!-- Don't show the logger name for minecraft classes -->
@@ -14,6 +19,11 @@
 
 		<!-- Server GUI -->
 		<Queue name="ServerGuiConsole" ignoreExceptions="true">
+			<!-- Filtering -->
+			<Filters>
+				<RegexFilter regex=".*Registering id\=\d+ for (LiquidState|SolidStateImpl|VsBlockState).*" onMatch="DENY" onMismatch="NEUTRAL"/>
+			</Filters>
+
 			<PatternLayout>
 				<LoggerNamePatternSelector defaultPattern="[%d{HH:mm:ss} %level] (%logger{1}) %msg{nolookups}%n">
 					<!-- Don't show the logger name for minecraft classes -->
@@ -24,6 +34,11 @@
 
 		<!-- latest.log -->
 		<RollingRandomAccessFile name="LatestFile" fileName="logs/latest.log" filePattern="logs/%d{yyyy-MM-dd}-%i.log.gz">
+			<!-- Filtering -->
+			<Filters>
+				<RegexFilter regex=".*Registering id\=\d+ for (LiquidState|SolidStateImpl|VsBlockState).*" onMatch="DENY" onMismatch="NEUTRAL"/>
+			</Filters>
+
 			<PatternLayout>
 				<LoggerNamePatternSelector defaultPattern="[%d{HH:mm:ss}] [%t/%level] (%logger{1}) %msg{nolookups}%n">
 					<!-- Don't show the logger name for minecraft classes -->
@@ -39,10 +54,11 @@
 
 		<!-- debug.log -->
 		<RollingRandomAccessFile name="DebugFile" fileName="logs/debug.log" filePattern="logs/debug-%i.log.gz">
-			<!-- Hide garbage -->
+			<!-- Filtering -->
 			<Filters>
 				<RegexFilter regex=".*Handling inbound packet.*" onMatch="DENY" onMismatch="NEUTRAL"/>
 				<RegexFilter regex=".*received packet of type.*" onMatch="DENY" onMismatch="NEUTRAL"/>
+				<RegexFilter regex=".*Registering id\=\d+ for (LiquidState|SolidStateImpl|VsBlockState).*" onMatch="DENY" onMismatch="NEUTRAL"/>
 			</Filters>
 
 			<PatternLayout>

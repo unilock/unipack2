@@ -1,0 +1,4 @@
+# Whether Watering Cans should only attempt to grow blocks that can accept bonemeal
+# default: true
+fertilizable = false
+

@@ -31,16 +31,10 @@
         "enable_profiles": {
             "value": false
         },
-        "enable_auto_refill": {
-            "main": {
-                "keys": "Y"
-            }
-        },
         "villager_trading_enable": {
             "value": false
         },
         "enable_updates_check": false,
-        "sort_at_cursor": false,
         "first_run": false
     },
     "GuiSettings": {
@@ -53,8 +47,10 @@
         "enable_profiles_ui": {
             "value": false
         },
+        "show_fast_rename_checkbox": {
+            "value": false
+        },
         "continuous_crafting_checkbox_value": "UNCHECKED",
-        "continuous_crafting_saved_value": false,
         "show_sort_in_columns_button": {
             "value": false
         },
@@ -67,35 +63,39 @@
         "show_button_tooltips": false
     },
     "LockedSlotsSettings": {
+        "locked_slots_allow_pickup_into_empty": {
+            "value": true
+        },
         "show_locked_slots_background": {
             "value": false
         },
         "show_locked_slots_bg_color": "#00000000",
-        "show_locked_slots_hotbar_color": "#00000000",
-        "locked_slots_foreground_style": 3
+        "show_locked_slots_hotbar_color": "#00000000"
     },
     "AutoRefillSettings": {
         "auto_refill_prefer_smaller_stacks": true,
         "refill_armor": {
             "value": false
         },
+        "auto_refill_temp_disable_refill_for_tools": {
+            "main": {
+                "keys": ""
+            }
+        },
         "auto_refill_match_any_food": true,
         "allow_break_for_non_enchanted": {
             "value": true
         },
-        "number_of_notifications": 2,
-        "visual_replace_success_notification": {
+        "audio_durability_notification": {
             "value": false
         },
         "audio_replace_success_notification": {
             "value": false
         },
-        "visual_replace_failed_notification": {
-            "value": false
-        },
         "audio_replace_failed_notification": {
             "value": false
-        }
+        },
+        "type_visual_replace_failed_notification": "HOTBAR"
     },
     "ScrollSettings": {
         "scroll_full_stack": {
@@ -210,11 +210,6 @@
             }
         },
         "do_local_trade": {
-            "main": {
-                "keys": ""
-            }
-        },
-        "copy_item_id": {
             "main": {
                 "keys": ""
             }

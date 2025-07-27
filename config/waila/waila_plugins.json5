@@ -312,6 +312,9 @@
     // Sort by Count
     // Default value: [true]
     "item.sort_by_count": true,
+    // Grid Mode Scale
+    // Default value: [1.0]
+    "item.grid_mode_scale": 1.0,
     // Item Contents Blacklist
     // Custom config, open the following file
     // ./extra/item_blacklist.json5

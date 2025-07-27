@@ -7,8 +7,11 @@
       "usePercentRange": true,
       "lossRangeFrom": 0,
       "lossRangeTo": 100,
+      "weightedSelection": true,
+      "lossDropRule": "DESTROY",
       "percentChanceOfLoss": 50,
-      "canLoseSoulbound": false
+      "canLoseSoulbound": false,
+      "includeModdedInventories": true
     },
     "vanishingEnchantments": [
       "minecraft:vanishing_curse"
@@ -33,6 +36,7 @@
     "informGraveLocation": true,
     "requireItem": false,
     "requiredItem": "yigd:grave",
+    "requiredItemCount": 1,
     "requireShovelToLoot": false,
     "retrieveMethods": {
       "onClick": true,
@@ -48,7 +52,7 @@
     "claimPriority": "GRAVE",
     "graveRobbing": {
       "enabled": false,
-      "onlyMurderer": false,
+      "killerSkipWaitTime": false,
       "afterTime": 1,
       "timeUnit": "HOURS",
       "robPriority": "INVENTORY",
@@ -70,7 +74,7 @@
     "randomSpawn": {
       "percentSpawnChance": 0,
       "spawnEntity": "minecraft:zombie",
-      "spawnNbt": "{ArmorItems:[{},{},{},{id:\"minecraft:player_head\",tag:{SkullOwner:{Name:\"${owner.name}\",Id:\"${owner.uuid}\"}},Count:1b}]}"
+      "spawnNbt": "{ArmorItems:[{},{},{},{id:\"minecraft:player_head\",tag:{SkullOwner:\"${owner.name}\"},Count:1b}]}"
     },
     "generateOnLastGroundPos": false,
     "tryGenerateOnGround": false,
@@ -111,7 +115,8 @@
           "value": "minecraft:dirt"
         }
       ],
-      "generateOnProtectedLand": false
+      "generateOnProtectedLand": false,
+      "generateInOwnClaim": true
     },
     "sellOutOfflinePeople": false,
     "maxBackupsPerPerson": 10,
@@ -119,15 +124,18 @@
   },
   "respawnConfig": {
     "respawnEffects": [],
-    "respawnHealth": 20,
+    "respawnHealth": -1,
     "resetHunger": true,
-    "respawnHunger": 20,
+    "respawnHunger": -1,
     "resetSaturation": true,
-    "respawnSaturation": 20.0,
-    "extraItemDrops": []
+    "respawnSaturation": -1.0,
+    "extraItemDrops": [],
+    "treatBindingCurse": true
   },
   "compatConfig": {
+    "enableProtectionApiCompat": true,
     "standardDropRuleInClaim": "PUT_IN_GRAVE",
+    "standardDropRuleInOwnClaim": "PUT_IN_GRAVE",
     "enableAccessoriesCompat": true,
     "defaultAccessoriesDropRule": "PUT_IN_GRAVE",
     "enableInventorioCompat": true,
@@ -195,7 +203,9 @@
       "rebindable": false,
       "receiveOnRespawn": false,
       "clickFunction": "VIEW_CONTENTS",
-      "consumeOnUse": false
+      "consumeOnUse": false,
+      "useTime": 0,
+      "useCooldown": 0
     },
     "graveCompass": {
       "receiveOnRespawn": false,
