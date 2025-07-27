@@ -1,13 +1,13 @@
 name = "Event Wrapper"
-filename = "eventwrapper-fabric-1.20.1-1.0.0-SNAPSHOT.jar"
+filename = "eventwrapper-fabric-1.20.1-1.1.3.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "b30d8297dc244967a935f9c1382646e9517ed565"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/k7JPYdTv/versions/alJAujJV/eventwrapper-fabric-1.20.1-1.1.3.jar"
+hash-format = "sha512"
+hash = "844768b2a41bf498bcb07caab9d8b9645dc19643ccc3e4e5b487a56a2abdc2bf620658a3fe228b72999d6b693e6751d2169e585c54b6db29f2825a49719cc8a7"
 
 [update]
-[update.curseforge]
-file-id = 6499634
-project-id = 1256971
+[update.modrinth]
+mod-id = "k7JPYdTv"
+version = "alJAujJV"

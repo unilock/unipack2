@@ -1,13 +1,13 @@
 name = "Koala Lib"
-filename = "koalalib-1.2.2.jar"
+filename = "magiclib-1.0.4.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "31adc8e467c60dd437828c4a4c850fd3075fb0df"
+hash = "bd1b76e831a4fdfa88cc8c4e0031436addfa3f66"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6790869
+file-id = 6254421
 project-id = 1075641

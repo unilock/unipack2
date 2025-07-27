@@ -13,22 +13,7 @@
 			]
 		},
 		{
-			"id": "hexstruction",
-			"depends": [
-				{
-					"replace": {
-						"id": "fabricloader",
-						"versions": ">=0.16.13"
-					},
-					"with": {
-						"id": "fabricloader",
-						"versions": ">=0.16.10"
-					}
-				}
-			]
-		},
-		{
-			"id": "mcqoy",
+			"id": "slate_work",
 			"depends": [
 				{
 					"replace": {

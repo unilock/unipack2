@@ -466,7 +466,7 @@ hash = "dd70b6b451e8510faf38a6cdc82eed6efd657aba0379abce1b7da20b857890ca"
 
 [[files]]
 file = "config/quilt-loader-overrides.json"
-hash = "beab4c5349bb9dfdb88ab451afce1d856ee826e76899a0222f1e3eae406dc35d"
+hash = "cd5502c1c2f29b6e92b8ddfac8bf6fa4b04a17bbeaae9209552f7315a82a5742"
 
 [[files]]
 file = "config/railways-client.toml"
@@ -1093,7 +1093,7 @@ metafile = true
 
 [[files]]
 file = "mods/cc-tweaked.pw.toml"
-hash = "add98aca0d451e23f27f529f0f83139dddf96e2979d1187817d928aff4f1828a"
+hash = "4cd181924c100d861938395434fd5c5cbb9ffbc3c423f9812e0bb7fcd43e472b"
 metafile = true
 
 [[files]]
@@ -1314,6 +1314,11 @@ metafile = true
 [[files]]
 file = "mods/crops-love-rain.pw.toml"
 hash = "13f1580427f5255b261446351e24ee1865adf71a6c846b7b027c321dd787d3cd"
+metafile = true
+
+[[files]]
+file = "mods/cryonicconfig.pw.toml"
+hash = "85e95b32e4cc52e7297b02aa41e98f97e467fc59180ce355f71c87e8aa2b770b"
 metafile = true
 
 [[files]]
@@ -1548,7 +1553,7 @@ metafile = true
 
 [[files]]
 file = "mods/event-wrapper.pw.toml"
-hash = "0780e5a9f03bd096f47aa7625de97b3493ebfac7022f030ddda9d98f39ace888"
+hash = "19fa73fe1b74f6b62a1f8953577d31d5b2328679539e00e11b5d81e9a8955234"
 metafile = true
 
 [[files]]
@@ -1748,7 +1753,7 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.pw.toml"
-hash = "c41001273c481e5231035846e7c4be33ec428078e973ae6211ae72207cd0de0a"
+hash = "956ce6abf28a447b1ab99aae9c7490151e8ea9d792528314735753b2789b46ce"
 metafile = true
 
 [[files]]
@@ -2112,6 +2117,11 @@ hash = "4d9830deea2ea36c4fdd9aa4776b1510e21e2d926bfc57888e715baeaeec99b2"
 metafile = true
 
 [[files]]
+file = "mods/jinxedlib.pw.toml"
+hash = "44e1f5b41d3fb5c92510b5546461550ebf74f5ff901ae0b01f2adcf4c39cc182"
+metafile = true
+
+[[files]]
 file = "mods/jline4mcdsrv.pw.toml"
 hash = "e83779f8756fbcc004ec9813a821cf4cd5b1d58f6567d29e830f7a1b31e94fb9"
 metafile = true
@@ -2154,6 +2164,11 @@ metafile = true
 [[files]]
 file = "mods/kiwi-fabric.pw.toml"
 hash = "aa5ada49d673a1903317f58836299f9687a91770c71bbfed3e6cc892d7df03c7"
+metafile = true
+
+[[files]]
+file = "mods/koalalib.pw.toml"
+hash = "f0ffffc1aaa526be7560daec96470afb56e4caff924c81967a84c68f051f2d29"
 metafile = true
 
 [[files]]
@@ -2302,6 +2317,11 @@ hash = "a08a445002542d96a8481654c3f4b5e2d3c064f77b477aeaa3a1d1c3cd396ca8"
 metafile = true
 
 [[files]]
+file = "mods/lithostitched.pw.toml"
+hash = "cf2edd36468834419c61a577760c89ba7b582039c6191bd9b24e25d371dd3a8e"
+metafile = true
+
+[[files]]
 file = "mods/lmft.pw.toml"
 hash = "662512cd3986e81c6cfd75816e9c968f66a2bf60001f82cb27a68c9ef5919c90"
 metafile = true
@@ -2349,11 +2369,6 @@ metafile = true
 [[files]]
 file = "mods/macos-input-fixes.pw.toml"
 hash = "9ee0b8168ea73736c44cf47d2c55b781759395eb41f30f95f9f8d1d30645a4ed"
-metafile = true
-
-[[files]]
-file = "mods/magicbarlib.pw.toml"
-hash = "629377d0d59d63672237ae3f3a98161dec5c70c854078e9f06ffe2807f2c9440"
 metafile = true
 
 [[files]]
@@ -2672,8 +2687,8 @@ hash = "9991cc47e52eae20f27872e9a4988ad7da7f5164faaecb5ce74ae3229557d435"
 metafile = true
 
 [[files]]
-file = "mods/patchouli.pw.toml"
-hash = "3c2fe6485d980a094a5094263d9d54dd59bd4cfd37439109be561894342a82f8"
+file = "mods/patchouli-fabric.pw.toml"
+hash = "bb0398103eccb3b7bb136776e68e7eda242c25d4d9864d4551d18beca58bc913"
 metafile = true
 
 [[files]]
@@ -2704,11 +2719,6 @@ metafile = true
 [[files]]
 file = "mods/perfectly-packed.pw.toml"
 hash = "42fb5c9ca1d7a719e48aab3ee7006d58c4fd4ae892476d3b7a3b809937162f5d"
-metafile = true
-
-[[files]]
-file = "mods/peripheralium.pw.toml"
-hash = "2287f0d70ea964fdaef93c65cc36dd153ae4bf229963984f174094d3199d7a32"
 metafile = true
 
 [[files]]
