@@ -697,11 +697,6 @@ hash = "d1d63bdeb776cd8ca59800a3a6216255415fec2439228c409bd58043814a8bea"
 metafile = true
 
 [[files]]
-file = "mods/affectionate.pw.toml"
-hash = "3d5e29b2ecbc3ebe4ed4e9b5c1d731e760556bab29a293be8972ef134d3a3b72"
-metafile = true
-
-[[files]]
 file = "mods/affinity.pw.toml"
 hash = "27545bc9526c5ce9a68b2524c41f6a51ea4be1b3778f08265afd1c35f42fd7a8"
 metafile = true
@@ -1079,11 +1074,6 @@ metafile = true
 [[files]]
 file = "mods/caffeinated.pw.toml"
 hash = "f897e24727f68b1b00d2606b6fcc1e5fe134d62cc47e4ef874494aa465ea7f5a"
-metafile = true
-
-[[files]]
-file = "mods/canary-safety.pw.toml"
-hash = "fe2380b7a797f6c7f5b9932d9648929f90bb69437ec3af8a8f9427ea5aaf9929"
 metafile = true
 
 [[files]]
@@ -1552,11 +1542,6 @@ hash = "4d31d64f0dcf5a35257fa83a6036b4413cbcc89a3876f92132d8821e859b3bab"
 metafile = true
 
 [[files]]
-file = "mods/event-wrapper.pw.toml"
-hash = "19fa73fe1b74f6b62a1f8953577d31d5b2328679539e00e11b5d81e9a8955234"
-metafile = true
-
-[[files]]
 file = "mods/ex-pattern-provider.pw.toml"
 hash = "b3aa3212c74a98698f6c9543d37740328f4dd9a93dbb9169cb1a54adae3adec7"
 metafile = true
@@ -1599,11 +1584,6 @@ metafile = true
 [[files]]
 file = "mods/extra-mod-integrations.pw.toml"
 hash = "5127f999e9da29364f4afa052313e5a368cea1d294bdcc9363582b99a22d0171"
-metafile = true
-
-[[files]]
-file = "mods/extrabotany-reburn.pw.toml"
-hash = "44a86aa543bf1264e846cfd1c1bb464937a2c17f346eb1b901454d12e6d2661c"
 metafile = true
 
 [[files]]
@@ -1874,11 +1854,6 @@ metafile = true
 [[files]]
 file = "mods/hexal.pw.toml"
 hash = "a10427fa2e747910ac05c2fb4a43f703a441256a391a53c9bcc235cf68d818c3"
-metafile = true
-
-[[files]]
-file = "mods/hexbound.pw.toml"
-hash = "0a4acb229549005577cfd198ec89f92e425e20ae02fc4559bed364bfde780643"
 metafile = true
 
 [[files]]
@@ -2412,11 +2387,6 @@ hash = "bcb1c56f64331f7d667532de872b0856dd7aa0005aa3722c21b3d1b466cff43b"
 metafile = true
 
 [[files]]
-file = "mods/mcqoy.pw.toml"
-hash = "4cc49a06c7ca26f62c3b3f48ec133b5fb024bdfa840d8d345036abec398834f6"
-metafile = true
-
-[[files]]
 file = "mods/meal-api-addon.pw.toml"
 hash = "926630434babee59c6da9981b7a215f8d11d7e66af0f50fbf57a4c6c500853a4"
 metafile = true
@@ -2538,12 +2508,12 @@ metafile = true
 
 [[files]]
 file = "mods/natures-delight.pw.toml"
-hash = "e34b86522781f358ad55fdab2bda4ea5a5e2499bc15c3465322be128727d72f3"
+hash = "ab41952e36fed4446d60ebc26fd0b544a95f9bd4292b7ed651569f98f8695682"
 metafile = true
 
 [[files]]
 file = "mods/natures-spirit.pw.toml"
-hash = "4b8d3024f7dd00a544fafef1ac02eb066332d0f71b179ef953ed39f0fe6779f2"
+hash = "fe202a29ac86aa0e028c0ba054be16e0c080f99411a9962f5e0a49fd4b2f8326"
 metafile = true
 
 [[files]]
@@ -3488,7 +3458,7 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "8305bf17272f0c579b0930b751c12089de9fb157dbdb5c080836ce3daad310b5"
+hash = "cb6eaab063f2ab865fc1b6d5fb89e08f422960d0639196b4a9cf91e383804bc4"
 metafile = true
 
 [[files]]
