@@ -1,0 +1,8 @@
+name = "Efhexs"
+filename = "efhexs-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://play.fennet.rentals/packwiz/unipack2-finale/manual-jars/both/efhexs-1.0.0.jar"
+hash-format = "sha512"
+hash = "b0bdb7fbe9a41dbe09581d3dd9999d645db11fbba485446bdfc985a98e3988c4be16788a23231aa7217077e2a85083262f461dc3c09cf367d91c4e33b6b390df"

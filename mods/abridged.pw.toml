@@ -1,13 +1,13 @@
 name = "Abridged"
-filename = "abridged-fabric-1.20.x-1.1.1.jar"
+filename = "abridged-2.0.0-fabric-1.20.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "fd5918ec0334f277719036a3436edb2269c627a1"
+hash = "20ea9c4d93f2003001802cab54b3525c38263fde"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4985757
+file-id = 6743541
 project-id = 948999

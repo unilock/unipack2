@@ -4,5 +4,5 @@ side = "both"
 
 [download]
 url = "https://play.fennet.rentals/packwiz/unipack2-finale/manual-jars/both/fuelgoeswhere-1.0.0+1.20.1.jar"
-hash-format = "sha256"
-hash = "5061f9d67677c709779da0483b8928603ca525f3eef7f6107b6e4fcfe834d116"
+hash-format = "sha512"
+hash = "6b45964fba22f3934e0844ba588f46c3a716a98f0df8631424ea365c6cd37d69328fba1c3b21717063073898fd9e6eee910efd44380cb32454c89cbfe780f3e9"

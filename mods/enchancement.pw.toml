@@ -4,5 +4,5 @@ side = "both"
 
 [download]
 url = "https://play.fennet.rentals/packwiz/unipack2-finale/manual-jars/both/enchancement-1.20-26.jar"
-hash-format = "sha256"
-hash = "f7ff54986f69a48c6dc7a8882075d55f174269b624a3955fa518c54a1c4f419c"
+hash-format = "sha512"
+hash = "488d701cc2ef7a76a74d710c8347ae019f20f8ce47731a656ef7dd9c7e9d66b4d656a3e47922f0a863e3cc056bded37e23bbe5bd04a9d48d1b9f8a78042e18fb"

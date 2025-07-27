@@ -10,6 +10,6 @@ hash = "4023ed1fae0d5ed845e72ea5f3c280e26f7fce20df44b569a6610e1b938de9ee"
 [update]
 [update.github]
 branch = "main"
-regex = "^moreiotas-fabric-.+(?<!-javadoc|-sources)\\.jar$"
+regex = "^moreiotas-fabric-.*-\\d+\\.jar$"
 slug = "Talia-12/MoreIotas"
 tag = "0.1.0-5"

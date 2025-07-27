@@ -1,0 +1,13 @@
+name = "Hexthingy"
+filename = "hexthingy-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/V8CtcUdE/versions/JBl5qpJu/hexthingy-1.0.1.jar"
+hash-format = "sha512"
+hash = "563da066ca352884c78d6a6ab101fa8b08f18055f954ab9793f5c9fd343dc179d3d0fed46d33a6297ae6a160291ed906f55d85a190874b6f7094e721522ca583"
+
+[update]
+[update.modrinth]
+mod-id = "V8CtcUdE"
+version = "JBl5qpJu"

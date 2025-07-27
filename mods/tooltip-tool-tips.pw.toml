@@ -4,5 +4,5 @@ side = "client"
 
 [download]
 url = "https://play.fennet.rentals/packwiz/unipack2-finale/manual-jars/client/tooltip-tool-tips-2.1.1+1.20.1+fabric.jar"
-hash-format = "sha256"
-hash = "958b2de160c4f3d736e6c7c1d3ae32c7d7192e809606264a494362da199c6cb0"
+hash-format = "sha512"
+hash = "aee651f8460acd35bb99391a5227d9c42f9e9a66067e5f02f1eb7f07c70e843a3f5aa87447667c2cc524e2b523d2cb48b8f1961bbb3829a73e48642e8fd8069d"

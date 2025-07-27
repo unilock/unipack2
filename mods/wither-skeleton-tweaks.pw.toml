@@ -4,5 +4,5 @@ side = "both"
 
 [download]
 url = "https://play.fennet.rentals/packwiz/unipack2-finale/manual-jars/both/WitherSkeletonTweaks-9.1.0+1.20.1+fabric.jar"
-hash-format = "sha256"
-hash = "1dd16d472b7a32daa6c3e410479979fc246bf931479b533f5a3ba26dd2e618cb"
+hash-format = "sha512"
+hash = "c44f909d409c7d448d62aac309beec11fceae2583df02ba5e359e17e64aa54e3f8238ce1d1b82d757311f3bfd7cb050564a2958924b6c3d7cadf253d9c2517d8"

@@ -4,5 +4,5 @@ side = "both"
 
 [download]
 url = "https://play.fennet.rentals/packwiz/unipack2-finale/manual-jars/both/altendings-0.1.0+1.20.1.jar"
-hash-format = "sha256"
-hash = "c70f9caca0ad73fe904e43a6194738c5650436ffaf5d11ed56a453e6704bb048"
+hash-format = "sha512"
+hash = "5943b31e7036e676dd393e19ba417e7b309471b84b768393cb1598bab9baa2214690c3f12816d80c6a50b2536dc35f114340891ea838c13f528ef0e567786e4b"

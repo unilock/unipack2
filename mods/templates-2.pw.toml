@@ -3,11 +3,11 @@ filename = "templates-mod-2.3.2+1.20.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/cL15qXuP/versions/9RWFAKhB/templates-mod-2.3.2%2B1.20.1.jar"
-hash-format = "sha512"
-hash = "bd13bdbcb4c72f92b7b694df35d072883c83b297bebaceb7091c760706ecbb44044efb0665768e6641ac0a80ceedee7ab80ce1a76118b2c51b662185fc3fa64e"
+hash-format = "sha1"
+hash = "fda0636e4c6bed05400392bf99b12370772bbfef"
+mode = "metadata:curseforge"
 
 [update]
-[update.modrinth]
-mod-id = "cL15qXuP"
-version = "9RWFAKhB"
+[update.curseforge]
+file-id = 6278333
+project-id = 1208338

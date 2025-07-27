@@ -4,5 +4,5 @@ side = "both"
 
 [download]
 url = "https://play.fennet.rentals/packwiz/unipack2-finale/manual-jars/both/excorrelation-1.1.52.jar"
-hash-format = "sha256"
-hash = "443dfd75f335ff85b4bea9f95a85bd9fc5070570c0f5157e5862e54b5ffd79b2"
+hash-format = "sha512"
+hash = "46b9fce365cd35ae40a40365134fa47dc3b0cb73dcf3b86ac36a6be2386e64c5fba0a62518678a909499cbcf1e4cad1313a6b47f6f24b151f23852a94d3831e8"

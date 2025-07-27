@@ -1,13 +1,13 @@
 name = "Symbols 'n' Stuff"
-filename = "symbols_n_stuff-0.1.1+1.20.1.jar"
+filename = "symbols_n_stuff-0.1.2+1.20.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "8a1c2f4f6ee44b548cafc0eb51e6827cd92d23d3"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/itOw2agq/versions/bCVoGFMj/symbols_n_stuff-0.1.2%2B1.20.1.jar"
+hash-format = "sha512"
+hash = "763035929ed4ed164b77297f8d73dea1f342782a92e625c99247d44a4bdbfc8c0ae6f24aebe6d491f5c3f94ef95acd841601b28c070672253bdd26ff967eacf5"
 
 [update]
-[update.curseforge]
-file-id = 5678815
-project-id = 1091274
+[update.modrinth]
+mod-id = "itOw2agq"
+version = "bCVoGFMj"

@@ -4,5 +4,5 @@ side = "both"
 
 [download]
 url = "https://play.fennet.rentals/packwiz/unipack2-finale/manual-jars/both/simply-boots-2.0.0+1.20.1+fabric.jar"
-hash-format = "sha256"
-hash = "69f567505d0f0bd7a10596c70ab77b78463e315c8ef9424b350441f6f3f065bf"
+hash-format = "sha512"
+hash = "165571c158a99218e3e1dd923be181ebea456e3a9c6f058651e21f5328be602bf5050ed87091e33de8481a8c4b28490315ba33941815f4c6ea696bde9cb169a2"

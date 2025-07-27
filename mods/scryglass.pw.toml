@@ -1,0 +1,8 @@
+name = "Scryglass"
+filename = "scryglass-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://play.fennet.rentals/packwiz/unipack2-finale/manual-jars/both/scryglass-1.0.0.jar"
+hash-format = "sha512"
+hash = "b43cb0a587ac906ab8a8e2998ea2a07de6dafa9ba421bc18dd804aee4e9d0c106181e801f30546b8607cb92923cb40da6953d4a03ce36fcc945b8d5d4455d0e8"

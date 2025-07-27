@@ -4,5 +4,5 @@ side = "both"
 
 [download]
 url = "https://play.fennet.rentals/packwiz/unipack2-finale/manual-jars/both/clothesline-0.3.5+1.20.1.jar"
-hash-format = "sha256"
-hash = "38b8f2b1b225a7f8298f7f8d44f4ad819d561f2bce28a2e58665535bc9cf543d"
+hash-format = "sha512"
+hash = "64980f9d337cd798689da1130e3a731eecd280e8f09f1652e652a9cff04c251b409d87f022642eed910ede36f03da842d902fc630fe33cd20333dce942a3b6c1"

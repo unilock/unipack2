@@ -1,0 +1,8 @@
+name = "Oneironaut"
+filename = "oneironaut-fabric-1.20.1-0.5.0.jar"
+side = "both"
+
+[download]
+url = "https://play.fennet.rentals/packwiz/unipack2-finale/manual-jars/both/oneironaut-fabric-1.20.1-0.5.0.jar"
+hash-format = "sha512"
+hash = "f783abcf6d640b32e9363263496ecc1ce990feb999b24f7a401d17e15c6f89fd5966270b5b0de99c458094f25d883a6a4c5bf015553cdac2b3d6c9c6df98dfa2"

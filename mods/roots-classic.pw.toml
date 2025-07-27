@@ -4,5 +4,5 @@ side = "both"
 
 [download]
 url = "https://play.fennet.rentals/packwiz/unipack2-finale/manual-jars/both/rootsclassic-1.20-1.2.1-fabric.jar"
-hash-format = "sha256"
-hash = "ec09580dda1449ad3303b3b5cd714f20759e470cb99e8137b277bfb3e7ae7fd8"
+hash-format = "sha512"
+hash = "769cabe1fd2cbeff26683423cc0d66203b15d1c05c26c006f11013d14d1fbc5f1f2197d2285fd571a2240028f74939611b04730058b2c76e5f6f12851e1b9bc8"

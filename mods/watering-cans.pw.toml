@@ -1,8 +1,8 @@
 name = "Watering Cans"
-filename = "watering_cans-2.0.1+1.20.1+fabric.jar"
+filename = "watering_cans-3.1.1+1.20.1+fabric.jar"
 side = "both"
 
 [download]
-url = "https://play.fennet.rentals/packwiz/unipack2-finale/manual-jars/both/watering_cans-2.0.1+1.20.1+fabric.jar"
-hash-format = "sha256"
-hash = "62aa04e137de51090f5e53e9d79d6157e740b41db2daf9e072ff0a09bc1ec11d"
+url = "https://play.fennet.rentals/packwiz/unipack2-finale/manual-jars/both/watering_cans-3.1.1+1.20.1+fabric.jar"
+hash-format = "sha512"
+hash = "20d9c13a9320414e94f7e7405992dde55f626556e201912447fa7399d2b12f02af341ee2be47a29465817a6b8ee3fcf7b86d5b7554a550fea9dbd088b5cd2504"

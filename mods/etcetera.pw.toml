@@ -4,5 +4,5 @@ side = "both"
 
 [download]
 url = "https://play.fennet.rentals/packwiz/unipack2-finale/manual-jars/both/etcetera-1.1.2-fabric.jar"
-hash-format = "sha256"
-hash = "bb66f414f4d664246cfb3fb446d3033b8d2dc75660a7a1a871e1269e25b3a396"
+hash-format = "sha512"
+hash = "81d1ecd60d97c2a46a9bd3b32b71781a0589c1918895749a6b4699df2f08155fe3a91260ed71f7eeef04351d094ea4c0a2718a5c55654a120cf85e9d3379443f"

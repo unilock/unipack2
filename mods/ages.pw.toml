@@ -4,5 +4,5 @@ side = "both"
 
 [download]
 url = "https://play.fennet.rentals/packwiz/unipack2-finale/manual-jars/both/mystcraft-ages-0.0.3.jar"
-hash-format = "sha256"
-hash = "d26498399d06e606cea4c9f2a0d85cd3a7eef0dd748dfdbc805c991dc0d65233"
+hash-format = "sha512"
+hash = "740b5a57a35fe4a21ba263f10964f36408578414f27da6f753281b1f3c995af0cba77a4a346866fee77c95b244f969e72783871874ff065212f9c22bbbf0aee3"

@@ -4,5 +4,5 @@ side = "both"
 
 [download]
 url = "https://play.fennet.rentals/packwiz/unipack2-finale/manual-jars/both/spectre-1.1.jar"
-hash-format = "sha256"
-hash = "c5ca58b8b59ba14675188b17808ab000c11b294b46a9eafbb357c45d4c5b70db"
+hash-format = "sha512"
+hash = "73f61c846224e4d02181394c98aa517be6bd8b37ac6c866e2e3b0b624c667b57fed986fbb61341aee229afe9842d5f4b6f9b4d35fae16b753e67ad5d4a40c027"

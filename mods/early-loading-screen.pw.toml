@@ -4,5 +4,5 @@ side = "client"
 
 [download]
 url = "https://play.fennet.rentals/packwiz/unipack2-finale/manual-jars/client/earlyloadingscreen-mc1.20.1-0.1.6-all.jar"
-hash-format = "sha256"
-hash = "1c9219c3dd40beb64153efe172d07165854203539b2a83c1a17a18e07d5c72e8"
+hash-format = "sha512"
+hash = "1f3d13cfefde716b4e1ef3f247f425fb5190eecb0ad82991b5097157d2175ca7a5674042e41c1a15ba53624c60fc34a6a14922f06816257c9e20000ca93d705e"

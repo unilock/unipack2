@@ -4,5 +4,5 @@ side = "both"
 
 [download]
 url = "https://play.fennet.rentals/packwiz/unipack2-finale/manual-jars/both/hephaestusleveling-0.4.0+1.20.1+fabric.jar"
-hash-format = "sha256"
-hash = "b9f153ea98e4911c5437a943a0b7c1b9bb66145b11a1d23119f47971af4b84a8"
+hash-format = "sha512"
+hash = "d0ea5beeb179069b4a72e9dd06dfab675d5e05ee5ca29e0a99f924673be8f7ff4fd5861e0371df79202cfc3731852c4d104031cb8e3a735e3966bf5bc2f82273"

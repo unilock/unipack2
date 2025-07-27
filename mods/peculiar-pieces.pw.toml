@@ -4,5 +4,5 @@ side = "both"
 
 [download]
 url = "https://play.fennet.rentals/packwiz/unipack2-finale/manual-jars/both/peculiarpieces-1.2.17.jar"
-hash-format = "sha256"
-hash = "20a7202a05dd6cdaae15300652f79d4ada508a9d12b3a2cba579bfbc87752e73"
+hash-format = "sha512"
+hash = "b9dd4dafe7e431fd871a99eec37146e3f8b05b2d6c318b0ba36372b1683b1735e7382cc0ecc0a7298efae2545a7492ac87793d82b319b487507adaaacd8b960a"

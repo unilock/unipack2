@@ -4,5 +4,5 @@ side = "both"
 
 [download]
 url = "https://play.fennet.rentals/packwiz/unipack2-finale/manual-jars/both/strawdummy-1.9.0.jar"
-hash-format = "sha256"
-hash = "7c86a127f0d86822d83dc73fe89e47c30d295adb76dcd74a2256049a85dfda34"
+hash-format = "sha512"
+hash = "12f25473e69818b3b5a9a2606960e3bcd031681082aa4bccaa50c61bf9c353d4e2efd4f74f8ed7b63f4a179eab3105d7bd7c4f985dd48dd6509d3062c25c47ee"

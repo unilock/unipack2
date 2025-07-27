@@ -4,5 +4,5 @@ side = "client"
 
 [download]
 url = "https://play.fennet.rentals/packwiz/unipack2-finale/manual-jars/client/particular-btd-1.0.0+1.20.1+fabric.jar"
-hash-format = "sha256"
-hash = "ea80e91bec681483149ac38e0be043eac3160224c464fd335751d8c9b5b8b28a"
+hash-format = "sha512"
+hash = "b7790535a3483fefa1f8d8fc2e4b679a4cc12563d3f152873ddf12a5d7d49e54a5f8d153494663186e90c40d3b9fedb7fc1b1afc728a9f47ac5f3c14fe949e91"

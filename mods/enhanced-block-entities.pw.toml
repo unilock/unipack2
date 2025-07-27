@@ -4,5 +4,5 @@ side = "client"
 
 [download]
 url = "https://play.fennet.rentals/packwiz/unipack2-finale/manual-jars/client/enhancedblockentities-0.10.1+1.20.jar"
-hash-format = "sha256"
-hash = "ae22ef671cbdcb191e0fdf45bb4814fc93140a6aedf494161184a5054a1d0d99"
+hash-format = "sha512"
+hash = "669edf5d91e00a498e65965252ab62f1d0eb66c63bca09dc0229e20a639d3276301c4ac06d9b9a8677e1bb2fa771a235735401b2d87b91caac3ef250c536fd1d"

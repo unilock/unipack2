@@ -4,5 +4,5 @@ side = "both"
 
 [download]
 url = "https://play.fennet.rentals/packwiz/unipack2-finale/manual-jars/both/Flamingo-1.21+1.20.1.jar"
-hash-format = "sha256"
-hash = "e76f5d856713a27dd3cd09b33a7c0801771d39936436e17f70f98b089d9e46c1"
+hash-format = "sha512"
+hash = "b3eaae5e5061bd637d8984a88990a456afcd8d52180cdadce03bebdcc6ef883ad53e44e5addf6019f48aecca31075650118fbab06e278437db47c34092c2bf79"

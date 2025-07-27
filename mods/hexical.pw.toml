@@ -1,0 +1,8 @@
+name = "Hexical"
+filename = "hexical-2.0.0.jar"
+side = "both"
+
+[download]
+url = "https://play.fennet.rentals/packwiz/unipack2-finale/manual-jars/both/hexical-2.0.0.jar"
+hash-format = "sha512"
+hash = "f8146fc01fb85186d3d4a180f85f7720771d1928a2053708d9d94191c6b739c7e5636590731901835f8c2c727797d7681f945128cca4c37954ed6c00f60be01c"

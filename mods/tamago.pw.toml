@@ -4,5 +4,5 @@ side = "both"
 
 [download]
 url = "https://play.fennet.rentals/packwiz/unipack2-finale/manual-jars/both/tamago-1.2.1+1.20.1.jar"
-hash-format = "sha256"
-hash = "fc261ee660ec547261f318c3e2953b298dc2ee27fa967ca08267a208ac8502e1"
+hash-format = "sha512"
+hash = "2875c44022b72c353f3d7b39072cc451a2cfdee4daa35614b6ee6c8c88776700faf3e9ebd7b6e9b872e3c83a4a0ff3f48163cbaea8a5ae9d2b46b71b6be2e4da"

@@ -4,5 +4,5 @@ side = "client"
 
 [download]
 url = "https://play.fennet.rentals/packwiz/unipack2-finale/manual-jars/client/inspecio-1.8.1+1.20.1.jar"
-hash-format = "sha256"
-hash = "7eec3abba84a829769ad70d4a3d03693df32d580bfaf33fe45fd814a916632d2"
+hash-format = "sha512"
+hash = "a18d4d16dbe2f80b0999e66ef872961d9abd8559c18c5e9f6f7a649865985daed3e5d13e97e11622a6ff18efaa0c3ddda949e60255b3512339f5a12aee0b8446"

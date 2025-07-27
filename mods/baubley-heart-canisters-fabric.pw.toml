@@ -4,5 +4,5 @@ side = "both"
 
 [download]
 url = "https://play.fennet.rentals/packwiz/unipack2-finale/manual-jars/both/bhc-1.1.0+1.20.jar"
-hash-format = "sha256"
-hash = "591c1ae691dbd97e820ec9fa692d0ecf74b886315e18515c091db83a1709a739"
+hash-format = "sha512"
+hash = "5e4e15f0a362678da7010f667441c41fd147ed4bb4ca1349baa2c0f79cd7d9e128d4b00b9ab6752ee41c7cb7f30db9c35f98ac8c81ee2d5e1e40e053bb07b3cd"

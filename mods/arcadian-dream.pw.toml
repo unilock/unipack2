@@ -4,5 +4,5 @@ side = "both"
 
 [download]
 url = "https://play.fennet.rentals/packwiz/unipack2-finale/manual-jars/both/arcadiandream-0.1.0+1.20.1.jar"
-hash-format = "sha256"
-hash = "acdb339cdcb64d6e51d449aba5a91b06cbce33767ff129c8899341692bb5485a"
+hash-format = "sha512"
+hash = "8d87136aac95f415ac15bcf19b60642120b42a3123b6292169ae75331458cdc29568431afa955b57745ff551111253ed642efca91e310958202c023b39d0dbdd"

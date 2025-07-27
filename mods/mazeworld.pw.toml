@@ -1,0 +1,8 @@
+name = "mazeworld"
+filename = "mazeworld-1.20.1-1.4.7.jar"
+side = "both"
+
+[download]
+url = "https://play.fennet.rentals/packwiz/unipack2-finale/manual-jars/both/mazeworld-1.20.1-1.4.7.jar"
+hash-format = "sha512"
+hash = "c67e7d4e9165aec38680620ecf4b11361a3a2990c9676533f82f7563c4c3e6304c8ec6856a31064c5b4776829185492c38587d5197dc05535444fd783bb6286c"

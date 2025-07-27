@@ -4,5 +4,5 @@ side = "both"
 
 [download]
 url = "https://play.fennet.rentals/packwiz/unipack2-finale/manual-jars/both/portal_cubed-2.3.0-rev.c1bc401.jar"
-hash-format = "sha256"
-hash = "21aff9c96b4148bdc12056cbd86ffde5edbaa7d95fe04f944850e5fd3d6e3f04"
+hash-format = "sha512"
+hash = "b9fad71fea40abd575b4fca033a73d54d1eb7d786691f02cb3c64ebce4920136378cc7063eb7ceec6264835b1525492c2b489321b5d93475dbb8d5bea61d28a2"

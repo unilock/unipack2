@@ -1,0 +1,8 @@
+name = "Ephemera"
+filename = "ephemera-fabric-1.20.1-0.3.0.jar"
+side = "both"
+
+[download]
+url = "https://play.fennet.rentals/packwiz/unipack2-finale/manual-jars/both/ephemera-fabric-1.20.1-0.3.0.jar"
+hash-format = "sha512"
+hash = "71a80d4716b0fb26da409e026ca3e25fb06bc28be24fa400965f5403d5de62740b5291f5a547bbadecadba28a6359e73b92b7f5493f764939aa70470bde34276"

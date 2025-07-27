@@ -4,5 +4,5 @@ side = "both"
 
 [download]
 url = "https://play.fennet.rentals/packwiz/unipack2-finale/manual-jars/both/too_many_trinkets-1.1.1+1.20.1+quilt.jar"
-hash-format = "sha256"
-hash = "009bf87e9d1b60dd86b3433be3267a0ceba35e59ebaa89b6175b499f4422baf3"
+hash-format = "sha512"
+hash = "725f8c74679daea2fb6b0a0b88727f526ef8401e9543395e0ff3ef55a7cd40dc9d64f4ffaa0a9f67704dab91fa52f30dfbaccdb2e9a99e69136e45d5777c84f9"

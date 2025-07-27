@@ -1,0 +1,13 @@
+name = "IoticBlocks"
+filename = "ioticblocks-fabric-1.0.1+1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "80cd23acb121ce870652da43eaaca9174a960330"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6513094
+project-id = 1239463

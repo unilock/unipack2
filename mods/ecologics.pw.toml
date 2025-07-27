@@ -1,13 +1,13 @@
 name = "Ecologics"
-filename = "ecologics-fabric-1.20.1-2.2.0.jar"
+filename = "ecologics-fabric-1.20.1-2.2.2.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "ed026aae01b306089f0a76ec462bb8558838d0db"
+hash = "f2d626377c81bb95155e707da3b085bb53240b11"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4857271
+file-id = 6733904
 project-id = 570463

@@ -1,0 +1,14 @@
+name = "Quilt Kotlin Libraries (QKL)"
+filename = "quilt-kotlin-libraries-core-5.0.0+kt.2.0.21+flk.1.12.3.jar"
+side = "both"
+pin = true
+
+[download]
+hash-format = "sha1"
+hash = "bcc6e8e4cb5640f647f2c25d80ba17c969017ce8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5804041
+project-id = 720410

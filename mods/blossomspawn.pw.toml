@@ -4,5 +4,5 @@ side = "both"
 
 [download]
 url = "https://play.fennet.rentals/packwiz/unipack2-finale/manual-jars/both/blossom-spawn-1.0.0+1.20.1+fabric.jar"
-hash-format = "sha256"
-hash = "c33f0101d6fc6c0e866f8ce1e8e88255ca491a958543557221aea82dc65f2329"
+hash-format = "sha512"
+hash = "16b78fd819e0be043642d7d03e3b63ebf90d054f54eca25b911265b25fbcd3403d0bd30d982d9b85b17df1075c8bfe1d58c32df2bb438c27af0762fd49cf056d"

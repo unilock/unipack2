@@ -4,5 +4,5 @@ side = "both"
 
 [download]
 url = "https://play.fennet.rentals/packwiz/unipack2-finale/manual-jars/both/ratsmischief-2.0.1.jar"
-hash-format = "sha256"
-hash = "09e2cca91e1ffea08a0c310c747e421e46e270946ce961a56729e4489b1ba8d5"
+hash-format = "sha512"
+hash = "1ef8f27a2cc337a782178f1bb3cdb31a1ff8a8976e8a3b6d9ab0d5bfd197053e9ab9796b87a4e49be22698be01dadddac0272499cc1b51162c74e4719e8bb1c2"

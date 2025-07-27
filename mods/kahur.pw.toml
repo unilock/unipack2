@@ -1,0 +1,13 @@
+name = "Kahur"
+filename = "kahur-1.28.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/eQK9k8y8/versions/JWDGiRWJ/kahur-1.28.jar"
+hash-format = "sha512"
+hash = "c64383505a7a0b970d867615cb9008bdaa231e90446db3dff1f69712888ab376916ca3da80f8e4696661c8b7aea438a90782b6e668d304e5431c8c25ccdb68fd"
+
+[update]
+[update.modrinth]
+mod-id = "eQK9k8y8"
+version = "JWDGiRWJ"

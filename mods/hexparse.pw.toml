@@ -1,0 +1,13 @@
+name = "HexParse"
+filename = "hexParse-fabric-1.20.1-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0042e9701f4b657a7003c5abe08278585b0a5efd"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6807151
+project-id = 1148731

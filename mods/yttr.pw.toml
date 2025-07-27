@@ -4,5 +4,5 @@ side = "both"
 
 [download]
 url = "https://play.fennet.rentals/packwiz/unipack2-finale/manual-jars/both/yttr-8.20.763.jar"
-hash-format = "sha256"
-hash = "57240cb195c4f2803df2d9c541708b022fd4add37b3d5bec9d204c0253c4b91d"
+hash-format = "sha512"
+hash = "3da218b0d36df93eda93db075a3ab2b473905c4a749e6624bb6a0e5c73c270b0f76d9a57fe1afa616512466f4defa2eba7fe813c69e854a17e7f09abb379939a"

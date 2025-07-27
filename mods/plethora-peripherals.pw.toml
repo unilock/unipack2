@@ -4,5 +4,5 @@ side = "both"
 
 [download]
 url = "https://play.fennet.rentals/packwiz/unipack2-finale/manual-jars/both/Plethora-Fabric-1.11.7.jar"
-hash-format = "sha256"
-hash = "20f870a05d837046a3507ba0559c3dfc05ca89b882d6b34131e9a245a4b251de"
+hash-format = "sha512"
+hash = "65876c3c319291ae5640feb57be62f8dc938b2877303f34d671a8959a63383c72740ed56ef53266bb77ac491389cc48dbc74c8273f048d8adca5002ba5a7c769"

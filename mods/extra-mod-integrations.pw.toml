@@ -4,5 +4,5 @@ side = "client"
 
 [download]
 url = "https://play.fennet.rentals/packwiz/unipack2-finale/manual-jars/client/extra-mod-integrations-0.4.99+1.20.1.local.jar"
-hash-format = "sha256"
-hash = "cdb3a2a352c03ec09f43c8f7bff2f48803a3c952ccdd66851f4ed757ed6c08cc"
+hash-format = "sha512"
+hash = "9bfbc2ef4d95178fd8536dd42f33103296cf34c5338d2620ddf10e19b4979d1a5ec3479c1ab8f8a3a9625509449d869a03c669ea6b1b17f99ac2ccfbfec7d05e"

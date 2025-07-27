@@ -4,5 +4,5 @@ side = "client"
 
 [download]
 url = "https://play.fennet.rentals/packwiz/unipack2-finale/manual-jars/client/quarktips-2.2.0+1.20.1+fabric.jar"
-hash-format = "sha256"
-hash = "3ab4c390289eb1d02011c218df797ba101cbc3d86ce341cd79d3f4ac4aec8c4e"
+hash-format = "sha512"
+hash = "4b14f376727143e4a1b0c431b841941b6ae63510ba65bc46f2d817e118c9ab10c1e1d4cea38c3bcaee713f80bc7b852fa3f7c19fc36dfcb4b6597a904b42f5be"

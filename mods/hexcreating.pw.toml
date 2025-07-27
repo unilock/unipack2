@@ -1,0 +1,13 @@
+name = "HexCreating"
+filename = "hexcreating-0.0.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/JTD5g6dY/versions/g8sg3j1q/hexcreating-0.0.4.jar"
+hash-format = "sha512"
+hash = "f5d5da97c25f4dcca30129fb337dc4f921b4b994d789cd1ce755019968cee4899198137cf9b58c825e72ddfb426b1e2eed95607e165d6b4dff6e9498824e383e"
+
+[update]
+[update.modrinth]
+mod-id = "JTD5g6dY"
+version = "g8sg3j1q"

@@ -4,5 +4,5 @@ side = "both"
 
 [download]
 url = "https://play.fennet.rentals/packwiz/unipack2-finale/manual-jars/both/cultural-creators-1.0.0.jar"
-hash-format = "sha256"
-hash = "84f33197da05c2fe73bfefa5b03b5f31949f4c52984b35cbca846d5d1e7f8d5d"
+hash-format = "sha512"
+hash = "39e4f025adafbee172fc8e1376d854def4b53e328bac65a4c6d11a54916a25354b521433c72951b6b1ea1d27edae0143754bd52555547cdfabb356dbc2240137"

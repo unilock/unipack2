@@ -1,13 +1,13 @@
 name = "Connectible Chains [Fabric]"
-filename = "connectiblechains-2.2.1+1.20.1.jar"
+filename = "connectiblechains-2.5.4-hotfix.1+1.20.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "0e9af89546618d4b729b54bbf33dddf10f6a47f7"
+hash = "33aebfb9889a20c2c50e7ea3a2b2eaa8e539893a"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4615622
+file-id = 6614967
 project-id = 415681

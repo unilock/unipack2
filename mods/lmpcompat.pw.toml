@@ -4,5 +4,5 @@ side = "both"
 
 [download]
 url = "https://play.fennet.rentals/packwiz/unipack2-finale/manual-jars/both/lmp-compat-0.3.0+1.20.1.jar"
-hash-format = "sha256"
-hash = "ab332fb507b174b4ec4ea11e480110ceebca1dcaac56f2e4dfbefb4fa75ee854"
+hash-format = "sha512"
+hash = "58b4fd25a70bfb7923e0935e9424279d02cfaf3347e69aa2b835859611c1822822f23be111d3f01a2b1ccb61bb1bc9c4a5d57611fca330e043b65882bc473d4a"
