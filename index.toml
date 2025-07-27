@@ -2143,7 +2143,7 @@ metafile = true
 
 [[files]]
 file = "mods/koalalib.pw.toml"
-hash = "f0ffffc1aaa526be7560daec96470afb56e4caff924c81967a84c68f051f2d29"
+hash = "52d00e17a6dfbdc899e1bc722d406baa9cb246fc665fa410d293ee126fef8b86"
 metafile = true
 
 [[files]]
