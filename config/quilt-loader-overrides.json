@@ -2,6 +2,17 @@
 	"schema_version": 1,
 	"overrides": [
 		{
+			"id": "enchancement",
+			"depends": [
+				{
+					"remove": {
+						"id": "tooltipfix",
+						"versions": "*"
+					}
+				}
+			]
+		},
+		{
 			"id": "spectrum",
 			"breaks": [
 				{
