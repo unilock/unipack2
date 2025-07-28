@@ -3330,11 +3330,6 @@ hash = "ffdb79f5bc29f990e5889f5d159a043c7046b8cd8d79f17f54b44d7ccc2b242a"
 metafile = true
 
 [[files]]
-file = "mods/trinkhide.pw.toml"
-hash = "61af4ada62f7c832f0bb9bb785ed0caa0e318d9f5072bf0637dd7aaa67b0c1ce"
-metafile = true
-
-[[files]]
 file = "mods/trofers.pw.toml"
 hash = "49a921c9fcf865fccd42627b16fecf846c4197d13c8a783557b1d00953adf489"
 metafile = true

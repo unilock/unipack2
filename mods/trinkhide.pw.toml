@@ -1,8 +1,0 @@
-name = "TrinkHide"
-filename = "trinkhide-1.0.0+2a45046.jar"
-side = "both"
-
-[download]
-url = "https://play.fennet.rentals/packwiz/unipack2-finale/manual-jars/both/trinkhide-1.0.0+2a45046.jar"
-hash-format = "sha512"
-hash = "7c216f046f0c93747d628c4cc9476326808f8c1d0ac7e666ebf3362198f8affb206a522cd6acf07a12e8967a88b9f105e62c69de773802cad418f7281864cb10"
