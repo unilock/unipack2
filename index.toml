@@ -1712,7 +1712,7 @@ metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "2b7a2942fe10d4eb2832be655cc1b9e8eb3ac7b9ecb2b7fff32a235b9c4f1a97"
+hash = "db3ebfc672da63725028dddc1a2816def0a97c708da1b937f64aafa7b2faff07"
 metafile = true
 
 [[files]]
@@ -2148,11 +2148,6 @@ metafile = true
 [[files]]
 file = "mods/koalalib.pw.toml"
 hash = "52d00e17a6dfbdc899e1bc722d406baa9cb246fc665fa410d293ee126fef8b86"
-metafile = true
-
-[[files]]
-file = "mods/krypton.pw.toml"
-hash = "ef5b1cad2960cf1711194d1ff50b9da616ae3b157c081e8b56af0c8b17e9946b"
 metafile = true
 
 [[files]]
