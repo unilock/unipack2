@@ -835,16 +835,6 @@ hash = "ea5c78e5e3c7b70a8cbc7397909a853b5b0ed41161f545ce6caa82eb145043ef"
 metafile = true
 
 [[files]]
-file = "mods/astrocompat.pw.toml"
-hash = "3c5c97e819ec7d1bce4a87decb0b31196da9f354d5307dfe3b1b95d396b82911"
-metafile = true
-
-[[files]]
-file = "mods/astrocraft.pw.toml"
-hash = "609bb6f00e92fdd3cfea95034b50a01d8a91e2c76c4457180b138bade5edc532"
-metafile = true
-
-[[files]]
 file = "mods/async-locator.pw.toml"
 hash = "b0b72c2a6b6c969315878bf7a813fea74491653282f0fa50c87f64742547647a"
 metafile = true
