@@ -549,6 +549,10 @@ file = "config/surveyor.toml"
 hash = "bd46e5e9e7f967632da1628b590d06cdf1e99b5c23c209d8be309bbc343f1d75"
 
 [[files]]
+file = "config/switchcraft/sc-peripherals-client.toml"
+hash = "f62957536df46e1174969aef8b15764f501eec1a7a73636fa398e4a84cb57e0c"
+
+[[files]]
 file = "config/tconstruct-common.toml"
 hash = "17d88f0f1fbb67f125015a0a8963dfb4870183ed321ffd0a878846063f452e7d"
 
