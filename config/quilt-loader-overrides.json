@@ -13,6 +13,21 @@
 			]
 		},
 		{
+			"id": "mixinblacklist",
+			"depends": [
+				{
+					"replace": {
+						"id": "fabricloader",
+						"versions": ">=0.16.14"
+					},
+					"with": {
+						"id": "fabricloader",
+						"versions": ">=0.16.10"
+					}
+				}
+			]
+		},
+		{
 			"id": "slate_work",
 			"depends": [
 				{

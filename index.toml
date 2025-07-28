@@ -397,6 +397,10 @@ file = "config/mantle-client.toml"
 hash = "662dd86da164be0b8b715fcbe16597d660c298b6ac3455c11515e654606dabbe"
 
 [[files]]
+file = "config/mixinblacklist.json"
+hash = "5d10d51c4dd5990f40f6c8348994248880cdf7376bed6d3d32725653144a123f"
+
+[[files]]
 file = "config/modern_industrialization.toml"
 hash = "063ecd4aa4918320420a2942384ee2ce8137b52c2956d458a37a3380c6317ffd"
 
@@ -466,7 +470,7 @@ hash = "dd70b6b451e8510faf38a6cdc82eed6efd657aba0379abce1b7da20b857890ca"
 
 [[files]]
 file = "config/quilt-loader-overrides.json"
-hash = "cd5502c1c2f29b6e92b8ddfac8bf6fa4b04a17bbeaae9209552f7315a82a5742"
+hash = "ddbe1fad0aae84b76e88749973877c0b5629d8f64c3083a334e895d38beea4e7"
 
 [[files]]
 file = "config/railways-client.toml"
@@ -2424,6 +2428,11 @@ metafile = true
 [[files]]
 file = "mods/midnightlib.pw.toml"
 hash = "50149a97b2d959bfac8e1c377fdab49fc52f1439d004b1ac1c26a3a7f790e044"
+metafile = true
+
+[[files]]
+file = "mods/mixin-blacklist.pw.toml"
+hash = "0919f87ae3c694631256e580315460b6b70d6683eec9749869fe0d477b031589"
 metafile = true
 
 [[files]]

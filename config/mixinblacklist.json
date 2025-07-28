@@ -1,0 +1,12 @@
+{
+  "client": {
+    "mixinClassNames": [
+      "net.deadlydiamond98.mixin.client.SplashMixin"
+    ],
+    "targetClassNames": []
+  },
+  "common": {
+    "mixinClassNames": [],
+    "targetClassNames": []
+  }
+}
