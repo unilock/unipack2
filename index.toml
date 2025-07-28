@@ -3367,11 +3367,6 @@ hash = "90852635b552fe580e0ff7498c89891dee88ac3f8d4ff5575aad591bcc3b502b"
 metafile = true
 
 [[files]]
-file = "mods/vein-mining.pw.toml"
-hash = "89646dc3685a9c51b9107419e765bf22ea1c2b57992f5bf5e22019c163c12d9f"
-metafile = true
-
-[[files]]
 file = "mods/videotape.pw.toml"
 hash = "61df89782c77288b8eb78f921693b828a560dabcdc424ec70490653ef9efd524"
 metafile = true
