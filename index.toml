@@ -672,7 +672,7 @@ metafile = true
 
 [[files]]
 file = "mods/ad-astra-giselle-addon.pw.toml"
-hash = "ab82d4bb0f93fb77a65664b4d1864c309d225a35ca1d985d04dd5e41594d734d"
+hash = "b23726ef9e60fffdba6bde0f2c5ad6da9a8e3bb409eedf4d7b302bdaa1c61b7f"
 metafile = true
 
 [[files]]
@@ -1697,7 +1697,7 @@ metafile = true
 
 [[files]]
 file = "mods/fusion-connected-textures.pw.toml"
-hash = "8199699460fe99bee7ad58eb027854fa68e576a95c88913a53f6dd635f3156e2"
+hash = "b4be58b0891270ca3b9339e1fef877b0ec7be4096beef22f6548d30e177359e4"
 metafile = true
 
 [[files]]
@@ -1937,7 +1937,7 @@ metafile = true
 
 [[files]]
 file = "mods/hierophantics.pw.toml"
-hash = "8a4aabb4dd980460aae8b5295502fa61999740a916a6d695de1408d1e8b9bd40"
+hash = "e9ad9dcff049543df8588718d66ac3d87c7d7714d81511e275167312a13e4bfd"
 metafile = true
 
 [[files]]
@@ -2057,7 +2057,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.pw.toml"
-hash = "af0901a6ac123bd5c07fe45ae64a696ccf9e02cae83f39d0d6a2b93fddf1365e"
+hash = "57a09a41f81b5af4df90f042a4822cca428822e9fbc5fbe32b66bb3a425dc218"
 metafile = true
 
 [[files]]
