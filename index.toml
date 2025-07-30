@@ -1801,6 +1801,11 @@ hash = "b3e699bb090d61602562c2baee984cecf5ae57a015f812722b27f765c6103524"
 metafile = true
 
 [[files]]
+file = "mods/heartxxy.pw.toml"
+hash = "441f20813fe1b9478ee073f24e9b5bbf627eb6b116979d7ef8ae305070946e2f"
+metafile = true
+
+[[files]]
 file = "mods/held-item-info.pw.toml"
 hash = "c634e78573e2e9f84aabe4fa2bedc2844c1245f08bfa15e9db770df165a1f2bf"
 metafile = true
@@ -1913,6 +1918,11 @@ metafile = true
 [[files]]
 file = "mods/hexstruction.pw.toml"
 hash = "fcacb8b6b2149052e597d850d782f26e3f83e1bf4a1c5b15ccd8fff1aae9f274"
+metafile = true
+
+[[files]]
+file = "mods/hextended-staves.pw.toml"
+hash = "6d9fa5587a6d13ba8f680e36ab1c392d080411208ba2efd6148110f1772c2f88"
 metafile = true
 
 [[files]]
