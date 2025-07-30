@@ -361,10 +361,6 @@ file = "config/lightoverlay.properties"
 hash = "c183c29ba63942c7e76c024b5047133065df8995e7d403cbb75a14a6b20cb767"
 
 [[files]]
-file = "config/liteminer-common.toml"
-hash = "6f819138d4d3013d5ba6be7246023f27f10a2502d87ba6e64f0a8f576f8826d8"
-
-[[files]]
 file = "config/lmft.json"
 hash = "2a2ee19297afe3fc512f5cbe639349847f3e7a74616f282d24a179a17f4559ed"
 
@@ -2275,11 +2271,6 @@ hash = "91fe0658dd778ac974a67d89fccb5c551b7e7be67c8defa9695bf1d43ffed723"
 metafile = true
 
 [[files]]
-file = "mods/liteminer.pw.toml"
-hash = "1bfd773010fce0d060c9d3571c5df3b2af09982bd200f43b27ff9183f6b3eb04"
-metafile = true
-
-[[files]]
 file = "mods/lithium.pw.toml"
 hash = "a08a445002542d96a8481654c3f4b5e2d3c064f77b477aeaa3a1d1c3cd396ca8"
 metafile = true
@@ -3357,6 +3348,11 @@ metafile = true
 [[files]]
 file = "mods/variant-furnaces.pw.toml"
 hash = "90852635b552fe580e0ff7498c89891dee88ac3f8d4ff5575aad591bcc3b502b"
+metafile = true
+
+[[files]]
+file = "mods/vein-mining.pw.toml"
+hash = "89646dc3685a9c51b9107419e765bf22ea1c2b57992f5bf5e22019c163c12d9f"
 metafile = true
 
 [[files]]
