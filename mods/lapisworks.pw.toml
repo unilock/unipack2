@@ -1,0 +1,13 @@
+name = "Lapisworks"
+filename = "lapisworks-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/YPwDELmO/versions/xx0t9adl/lapisworks-1.0.0.jar"
+hash-format = "sha512"
+hash = "1a738be19cbf3eb5ac7945f94238417fa778e925ea1a239773b44075f6954e3e18b5125d83514c2aa570221339192597335acda39a56a714c6bf0c1ac874feb4"
+
+[update]
+[update.modrinth]
+mod-id = "YPwDELmO"
+version = "xx0t9adl"

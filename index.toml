@@ -2161,6 +2161,11 @@ hash = "759b9eb2df5b5f423cd35945faeb1667e5a213dfda9321218a0ffce63db9bce6"
 metafile = true
 
 [[files]]
+file = "mods/lapisworks.pw.toml"
+hash = "7e703d02c5f754695107bf9bd861918b0ddef87f26ec967ca413f2c1987f5933"
+metafile = true
+
+[[files]]
 file = "mods/lavender-api.pw.toml"
 hash = "505b2a92d050a7debdf7d72938d673fb8ab4c3ebfdb1714573a03ae02b5a0897"
 metafile = true
