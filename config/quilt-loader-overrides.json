@@ -24,6 +24,27 @@
 			]
 		},
 		{
+			"id": "lapisworks",
+			"depends": [
+				{
+					"replace": {
+						"id": "fabricloader",
+						"versions": ">=0.16.14"
+					},
+					"with": {
+						"id": "fabricloader",
+						"versions": ">=0.16.10"
+					}
+				},
+				{
+					"remove": {
+						"id": "fabric-language-kotlin",
+						"versions": ">=1.13.4+kotlin.2.2.0"
+					}
+				}
+			]
+		},
+		{
 			"id": "mixinblacklist",
 			"depends": [
 				{
