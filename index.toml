@@ -897,7 +897,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm-fabric.pw.toml"
-hash = "ec6bf68e081a18f197f4eea668319bde11eef3bc9e27cc6448f36d8843206f98"
+hash = "6c2743bbf0f3219e6f4a123d03f75e39b74979d792dc543fa94087a030044e4e"
 metafile = true
 
 [[files]]
@@ -1037,7 +1037,7 @@ metafile = true
 
 [[files]]
 file = "mods/botania-fabric.pw.toml"
-hash = "f067ebe2caae1d95ddf147fa4e6f9ccf802da01f4d1f9686cf89621749049530"
+hash = "907fcb7c70e67636530695a423428599a821be194d018f3b4d2f8d8bfcd0b1be"
 metafile = true
 
 [[files]]
@@ -1117,7 +1117,7 @@ metafile = true
 
 [[files]]
 file = "mods/chunk-loaders.pw.toml"
-hash = "7f84336da8b3fcb21fc1f0cb8a62f3cfa4fe50ea0e90525694ba03055b4a992b"
+hash = "b9d0a935a08c55fafc6ebff754f81e0a0bad50fb88db9609dbe64b97f445844a"
 metafile = true
 
 [[files]]
@@ -1947,7 +1947,7 @@ metafile = true
 
 [[files]]
 file = "mods/hierophantics.pw.toml"
-hash = "e9ad9dcff049543df8588718d66ac3d87c7d7714d81511e275167312a13e4bfd"
+hash = "29bcd9c0992d49a68f018469934e9d582e45a679267106abd8e2962778dc7ada"
 metafile = true
 
 [[files]]
@@ -2227,7 +2227,7 @@ metafile = true
 
 [[files]]
 file = "mods/lets-do-farm-charm.pw.toml"
-hash = "bafa1e5f6b0edb8ed330c5c54ea9f52e1701fdfadd61c77af275ef2b0f79ad72"
+hash = "bfeb6d2d0fb58673e10c4ec712f64a726b8afff04ac25dad8a38b5719007648b"
 metafile = true
 
 [[files]]
@@ -2457,7 +2457,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "749c98d6c1c8f8c57790f71df25b3b9c3d29fc1c80d78b7b4a50e1b57a36c936"
+hash = "01790d2c66c3a13abda0cc8ed33a456723970e1601ff5ac29cacb02091776f8a"
 metafile = true
 
 [[files]]
@@ -3042,7 +3042,7 @@ metafile = true
 
 [[files]]
 file = "mods/slate-works.pw.toml"
-hash = "20d5ed02b3886f03030e7366b9ff32daa0c91a253059ea19f34d80ff9dd1e66d"
+hash = "b07d661dcba8194753b93df31603a534ce60c1b30314c46342c4ad371814b3b1"
 metafile = true
 
 [[files]]

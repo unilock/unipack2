@@ -1,13 +1,13 @@
 name = "[Let's Do] Farm & Charm"
-filename = "letsdo-farm_and_charm-fabric-1.0.9.jar"
+filename = "letsdo-farm_and_charm-fabric-1.0.10.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "71ffb4e0d57e1b1136373276d650e1ee71109d69"
+hash = "c7b47dbe3085e399729eaf7e82ccb570f19afc0b"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6561949
+file-id = 6846063
 project-id = 1038103

@@ -1,13 +1,13 @@
 name = "Botania (Fabric/Quilt)"
-filename = "Botania-1.20.1-448-FABRIC.jar"
+filename = "Botania-1.20.1-449-FABRIC.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "3bff00559d1044e69e6ec7eef96a7ca747789202"
+hash = "683e622ead95bef192c99beb385c16426d6052f9"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6366546
+file-id = 6843599
 project-id = 421839
