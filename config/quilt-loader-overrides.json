@@ -6,6 +6,95 @@
 			"depends": [
 				{
 					"remove": {
+						"id": "fabricloader",
+						"versions": ">=0.16.14"
+					}
+				}
+			]
+		},
+		{
+			"id": "geomancy",
+			"depends": [
+				{
+					"remove": {
+						"id": "fabricloader",
+						"versions": ">=0.16.14"
+					}
+				}
+			]
+		},
+		{
+			"id": "lapisworks",
+			"depends": [
+				{
+					"remove": {
+						"id": "fabricloader",
+						"versions": ">=0.16.14"
+					}
+				}
+			]
+		},
+		{
+			"id": "lessertp",
+			"depends": [
+				{
+					"remove": {
+						"id": "fabricloader",
+						"versions": ">=0.16.14"
+					}
+				}
+			]
+		},
+		{
+			"id": "mixinblacklist",
+			"depends": [
+				{
+					"remove": {
+						"id": "fabricloader",
+						"versions": ">=0.16.14"
+					}
+				}
+			]
+		},
+		{
+			"id": "mod-tools",
+			"depends": [
+				{
+					"remove": {
+						"id": "fabricloader",
+						"versions": ">=0.16.14"
+					}
+				}
+			]
+		},
+		{
+			"id": "slate_work",
+			"depends": [
+				{
+					"remove": {
+						"id": "fabricloader",
+						"versions": ">=0.16.14"
+					}
+				}
+			]
+		},
+		{
+			"id": "chatpatches",
+			"depends": [
+				{
+					"remove": {
+						"id": "fabricloader",
+						"versions": ">=0.17.0"
+					}
+				}
+			]
+		},
+
+		{
+			"id": "common-curses",
+			"depends": [
+				{
+					"remove": {
 						"id": "fabric-language-kotlin",
 						"versions": ">=1.13.3+kotlin.2.1.21"
 					}
@@ -52,23 +141,6 @@
 					"remove": {
 						"id": "hexcasting",
 						"versions": ">=0.11.2-pre-702"
-					}
-				}
-			]
-		},
-		{
-			"id": "hexic",
-			"depends": [
-				{
-					"remove": {
-						"id": "hexal",
-						"versions": ">=0.3.0"
-					}
-				},
-				{
-					"remove": {
-						"id": "fabric-api",
-						"versions": ">=0.92.6+1.20.1"
 					}
 				}
 			]

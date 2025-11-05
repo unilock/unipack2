@@ -1,14 +1,13 @@
 name = "Nature's Delight"
-filename = "naturesdelight-1.6.jar"
+filename = "naturesdelight-1.12-1.20.1.jar"
 side = "both"
-pin = true
 
 [download]
-hash-format = "sha1"
-hash = "2011884b264c6a882d8a1fe650b49eddcea4f144"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/18s8zHvJ/versions/oE6qdrOY/naturesdelight-1.12-1.20.1.jar"
+hash-format = "sha512"
+hash = "8add176c054d91b4c93a8e6afb6cbbfc3bf1ce4b59d1f96845cf2985db261b0f86a5852fe83ed78513b6fc81c539759ad7a5e5650127c38b55e688a8221b81bc"
 
 [update]
-[update.curseforge]
-file-id = 5619632
-project-id = 1082132
+[update.modrinth]
+mod-id = "18s8zHvJ"
+version = "oE6qdrOY"

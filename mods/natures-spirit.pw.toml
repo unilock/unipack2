@@ -1,13 +1,8 @@
 name = "Nature's Spirit"
-filename = "naturespirit-2.2.2-1.20.1.jar"
+filename = "naturespirit-2.2.5-1.20.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "b89523296b04730a5a739c59a744611fc4c9ce9e"
-mode = "metadata:curseforge"
-
-[update]
-[update.curseforge]
-file-id = 6218836
-project-id = 1044992
+url = "https://play.fennet.rentals/packwiz/unipack2-finale/manual-jars/both/naturespirit-2.2.5-1.20.1.jar"
+hash-format = "sha512"
+hash = "aeb1e0aee5dea59104bc6d8aac29c50268d35e2a810efe2cc458ba4041920e13fd202645e3d89147693f8977f34f443bb5c50545c6f8b97775bfdfb8db911a3a"
