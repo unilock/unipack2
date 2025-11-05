@@ -1,0 +1,13 @@
+name = "Geomancy"
+filename = "Geomancy-0.2.6-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/pHtUgxED/versions/vOg93H5j/Geomancy-0.2.6-1.20.1.jar"
+hash-format = "sha512"
+hash = "c70e9253f6f00841f31d59b71e38b75906f21266ebbeb55cbe9a7ac4675607f881292e501832d757df95e61f344ace6a51e6ce84107b2f325f7585d2430490c5"
+
+[update]
+[update.modrinth]
+mod-id = "pHtUgxED"
+version = "vOg93H5j"

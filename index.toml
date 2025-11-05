@@ -1589,6 +1589,11 @@ hash = "6b6018ce407e1828b3ba0ecaa19dc8c7660c2b3c7336079bdd67e6bf05008ca1"
 metafile = true
 
 [[files]]
+file = "mods/geomancy.pw.toml"
+hash = "b71a054dd4e6ee3929ce0daecca385b67f70c18d9afb6b59972484fb386f87ef"
+metafile = true
+
+[[files]]
 file = "mods/glass-breaker.pw.toml"
 hash = "2fcef0c7ef46e2a4e51fe1fa9d6660d9f996b8304e0ae0caec02670703032304"
 metafile = true
@@ -1811,6 +1816,11 @@ metafile = true
 [[files]]
 file = "mods/hotshot.pw.toml"
 hash = "6207921b00735d50cdbb052fd40b007f9e93d3b8fa0d8807719dd11f8af58c11"
+metafile = true
+
+[[files]]
+file = "mods/huge-structure-blocks.pw.toml"
+hash = "68af8b7a4e795a0ee3b81ae100fcfa5b021dcf870f41c9377a7a23fc0a61d240"
 metafile = true
 
 [[files]]
