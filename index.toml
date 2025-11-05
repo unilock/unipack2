@@ -1025,7 +1025,7 @@ metafile = true
 
 [[files]]
 file = "mods/chatpatches.pw.toml"
-hash = "be20a681586eef63bf124250a6b2d3d8b07351425dce586189353b68a4fb19b1"
+hash = "76f36ebd83c7957f21782f2b97e2dcf304abcbd81780bfcd0e48f19477d3702e"
 metafile = true
 
 [[files]]
@@ -1535,7 +1535,7 @@ metafile = true
 
 [[files]]
 file = "mods/fsit.pw.toml"
-hash = "b898894a7c472cda03c3f97e87611f19d0cf677734b831e909303360f368817e"
+hash = "6dfa251c5ad0595ce85beb520548416f86b5a09700d0a4e50cc368cad1114dc2"
 metafile = true
 
 [[files]]
@@ -1950,7 +1950,7 @@ metafile = true
 
 [[files]]
 file = "mods/kaffees-dual-ride.pw.toml"
-hash = "1164d984618fcc8aeef7c412656a5df76796e881449116b3367d029a86ce25c3"
+hash = "8ae11c33ea233e229e07046c9e19285e5a6df172a76ea3205cd144bf31a36cb4"
 metafile = true
 
 [[files]]
@@ -2235,7 +2235,7 @@ metafile = true
 
 [[files]]
 file = "mods/natures-spirit.pw.toml"
-hash = "fe202a29ac86aa0e028c0ba054be16e0c080f99411a9962f5e0a49fd4b2f8326"
+hash = "7867b2785eac8289d06ff48aefed9b9e51696a420484d3cb9897bd8bcc3c6fe8"
 metafile = true
 
 [[files]]
@@ -3587,7 +3587,7 @@ hash = "9f127d8c6baff96605d164083b5146746c3e65bf8c24d71bc836ef439ceb0de1"
 
 [[files]]
 file = "resources/resourcepacks/mt-ct-d.pw.toml"
-hash = "2effdf59f733b88693a94adf73ef8fc0bebdee1e803cc4aecf320958c2f80277"
+hash = "f52bcfb58f9988ad6abbcd25b770ec5e82669ccfd7aa80072c3e42ec2f9c458b"
 metafile = true
 
 [[files]]
