@@ -13,6 +13,17 @@
 			]
 		},
 		{
+			"id": "complexhex",
+			"depends": [
+				{
+					"remove": {
+						"id": "hexcasting",
+						"versions": ">=0.11.2-pre-701"
+					}
+				}
+			]
+		},
+		{
 			"id": "enchancement",
 			"depends": [
 				{
