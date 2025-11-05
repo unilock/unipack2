@@ -450,7 +450,7 @@ hash = "dd70b6b451e8510faf38a6cdc82eed6efd657aba0379abce1b7da20b857890ca"
 
 [[files]]
 file = "config/quilt-loader-overrides.json"
-hash = "a325d4b94ae3bf99642f1b81ddda2b8b530f4b4d2fdd47ab172cacbd93cc623c"
+hash = "53bdedfa178269c1ffa3d31572c076b73d63c1b7849a22264f762f649863c1da"
 
 [[files]]
 file = "config/railways-client.toml"
@@ -2744,6 +2744,11 @@ hash = "c4d8453f77d60d7566173e3a99aec72a72cbf725cb8421053736c02b7e1f4797"
 metafile = true
 
 [[files]]
+file = "mods/spasm.pw.toml"
+hash = "d85f532c65f1674ff6f3448a4cb8fd8d0f86b0a6c7446de37793f525e8cdd184"
+metafile = true
+
+[[files]]
 file = "mods/species.pw.toml"
 hash = "79aba0b0959ee91717f230e040ff2d987f7a217c561f36911b0d2de98bb0a50f"
 metafile = true
@@ -2921,11 +2926,6 @@ metafile = true
 [[files]]
 file = "mods/tooltip-tool-tips.pw.toml"
 hash = "fabd84c76a381c63a0cfb4e908b49cae8520dffe90b5a86f0c33706ce691d7f7"
-metafile = true
-
-[[files]]
-file = "mods/tooltipfix.pw.toml"
-hash = "9422656473d89a663996b216376c4071d9f498bbe9ddfcd16fa5fefe9377e8f0"
 metafile = true
 
 [[files]]

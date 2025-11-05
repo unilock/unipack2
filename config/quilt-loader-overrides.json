@@ -2,6 +2,17 @@
 	"schema_version": 1,
 	"overrides": [
 		{
+			"id": "common-curses",
+			"depends": [
+				{
+					"remove": {
+						"id": "fabric-language-kotlin",
+						"versions": ">=1.13.3+kotlin.2.1.21"
+					}
+				}
+			]
+		},
+		{
 			"id": "enchancement",
 			"depends": [
 				{
@@ -13,12 +24,62 @@
 			]
 		},
 		{
-			"id": "spectrum",
-			"breaks": [
+			"id": "ephemera",
+			"depends": [
 				{
 					"remove": {
-						"id": "enchancement",
-						"versions": "<=1.20-26"
+						"id": "hexcasting",
+						"versions": ">=0.11.2-pre-702"
+					}
+				}
+			]
+		},
+		{
+			"id": "hexchanting",
+			"depends": [
+				{
+					"remove": {
+						"id": "hexcasting",
+						"versions": ">=0.11.2-pre-702"
+					}
+				}
+			]
+		},
+		{
+			"id": "hexic",
+			"depends": [
+				{
+					"remove": {
+						"id": "hexal",
+						"versions": ">=0.3.0"
+					}
+				},
+				{
+					"remove": {
+						"id": "fabric-api",
+						"versions": ">=0.92.6+1.20.1"
+					}
+				}
+			]
+		},
+		{
+			"id": "hexmapping",
+			"depends": [
+				{
+					"remove": {
+						"id": "hexcasting",
+						"versions": ">=0.11.2-pre-715"
+					}
+				}
+			]
+		},
+		{
+			"id": "hexportation",
+			"depends": [
+				{
+					"remove": {
+						"id": "hexcasting",
+						"versions": ">=0.11.2-pre-701"
 					}
 				}
 			]
@@ -27,49 +88,54 @@
 			"id": "lapisworks",
 			"depends": [
 				{
-					"replace": {
-						"id": "fabricloader",
-						"versions": ">=0.16.14"
-					},
-					"with": {
-						"id": "fabricloader",
-						"versions": ">=0.16.10"
-					}
-				},
-				{
 					"remove": {
 						"id": "fabric-language-kotlin",
 						"versions": ">=1.13.4+kotlin.2.2.0"
 					}
-				}
-			]
-		},
-		{
-			"id": "mixinblacklist",
-			"depends": [
+				},
 				{
-					"replace": {
-						"id": "fabricloader",
-						"versions": ">=0.16.14"
-					},
-					"with": {
-						"id": "fabricloader",
-						"versions": ">=0.16.10"
+					"remove": {
+						"id": "hexcasting",
+						"versions": ">=0.11.2-pre-701"
 					}
 				}
 			]
 		},
 		{
-			"id": "slate_work",
+			"id": "lessertp",
 			"depends": [
 				{
-					"replace": {
-						"id": "fabricloader",
-						"versions": ">=0.16.14"
-					},
-					"with": {
-						"id": "fabricloader",
-						"versions": ">=0.16.10"
+					"remove": {
+						"id": "hexcasting",
+						"versions": ">=0.11.2-pre-701"
+					}
+				}
+			]
+		},
+		{
+			"id": "oneironaut",
+			"depends": [
+				{
+					"remove": {
+						"id": "hexal",
+						"versions": ">=0.3.0"
+					}
+				},
+				{
+					"remove": {
+						"id": "hexcasting",
+						"versions": ">=0.11.2-pre-702"
+					}
+				}
+			]
+		},
+		{
+			"id": "spectrum",
+			"breaks": [
+				{
+					"remove": {
+						"id": "enchancement",
+						"versions": "<=1.20-26"
 					}
 				}
 			]
