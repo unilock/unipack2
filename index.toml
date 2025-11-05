@@ -1784,11 +1784,6 @@ hash = "0d72d56a5f870667b756dd780af62e3d5574956d5210a9d79ac6544b350d6b4c"
 metafile = true
 
 [[files]]
-file = "mods/hierophantics.pw.toml"
-hash = "a53f98ac5f8026a50815066d890bbaaa8c6043f1e29dd80d02bf1084f89e29ff"
-metafile = true
-
-[[files]]
 file = "mods/hoofprint.pw.toml"
 hash = "721c289f593ea8a9209248df807435d63fde21ee2e955a8b09d9dc8531a4cedc"
 metafile = true
