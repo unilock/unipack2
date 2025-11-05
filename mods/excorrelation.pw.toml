@@ -1,8 +1,8 @@
 name = "Excorrelation"
-filename = "excorrelation-1.1.52.jar"
+filename = "excorrelation-1.1.46-dirty.jar"
 side = "both"
 
 [download]
-url = "https://play.fennet.rentals/packwiz/unipack2-finale/manual-jars/both/excorrelation-1.1.52.jar"
+url = "https://play.fennet.rentals/packwiz/unipack2-finale/manual-jars/both/excorrelation-1.1.46-dirty.jar"
 hash-format = "sha512"
-hash = "46b9fce365cd35ae40a40365134fa47dc3b0cb73dcf3b86ac36a6be2386e64c5fba0a62518678a909499cbcf1e4cad1313a6b47f6f24b151f23852a94d3831e8"
+hash = "a0b7300304ef39c98ac20f9929dc2a3a666c681c89c0e93805b4605649ec6dc3d756e5f1b4ef5f11dfc5fe7acb90f72e3b0ad0cf22f6ecf55cfc7104e4e7b7c1"

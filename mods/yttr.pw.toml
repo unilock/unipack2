@@ -1,8 +1,8 @@
 name = "yttr"
-filename = "yttr-8.20.763.jar"
+filename = "yttr-9.20.837.jar"
 side = "both"
 
 [download]
-url = "https://play.fennet.rentals/packwiz/unipack2-finale/manual-jars/both/yttr-8.20.763.jar"
+url = "https://play.fennet.rentals/packwiz/unipack2-finale/manual-jars/both/yttr-9.20.837.jar"
 hash-format = "sha512"
-hash = "3da218b0d36df93eda93db075a3ab2b473905c4a749e6624bb6a0e5c73c270b0f76d9a57fe1afa616512466f4defa2eba7fe813c69e854a17e7f09abb379939a"
+hash = "8e12ab18c86dc004f2dc11a3289d62db116e5c6f7f180905b61bdec04baef7c99a08b6c9616fc2d7829ffd406a19293f82d25711b6b84d33b57129dab05111d7"
