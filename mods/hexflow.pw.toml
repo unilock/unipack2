@@ -1,13 +1,13 @@
 name = "HexFlow"
-filename = "hexFlow-fabric-1.20.1-0.2.1.1.jar"
+filename = "hexFlow-fabric-1.20.1-0.3.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "876f1cb7e44e162ec6f336d6653b3a04d2702f3d"
+hash = "d905f6197dd7baad76299e644bb7de484d99f813"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6752729
+file-id = 7022971
 project-id = 1192840

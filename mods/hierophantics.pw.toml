@@ -1,13 +1,13 @@
 name = "Hierophantics"
-filename = "hierophantics-1.2.1.jar"
+filename = "hierophantics-fabric-1.3.3.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "265c102709712695fa01715fcb253c0bbf798419"
+hash = "22ecd5369f2ca17f9df33c16637689d344c83930"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6834625
+file-id = 7053717
 project-id = 1293802

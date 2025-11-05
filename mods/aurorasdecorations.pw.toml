@@ -1,13 +1,13 @@
 name = "Aurora's Decorations"
-filename = "aurorasdecorations-1.0.0-beta.22+1.20.1.jar"
+filename = "aurorasdecorations-1.0.0-beta.26+1.20.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "a75e672d4425df8b2b71d44e39871774aa6a3a83"
+hash = "8d5299d8c381836a06f134e5dd85fb34e79e5d9e"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4751699
+file-id = 6947950
 project-id = 566278

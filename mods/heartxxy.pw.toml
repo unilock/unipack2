@@ -3,11 +3,11 @@ filename = "pregxxy-fabric-0.1.0+1.20.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/lVNwdGbL/versions/TiU8SYVN/pregxxy-fabric-0.1.0%2B1.20.1.jar"
+url = "https://cdn.modrinth.com/data/lVNwdGbL/versions/QomIJDKw/pregxxy-fabric-0.1.0%2B1.20.1.jar"
 hash-format = "sha512"
-hash = "3f7a4dcf9ad3b1e0be6a847b930f489afc25d0bd600bcae094d2e5c62b78f94f057bb7570261d7f41ebde3080e1c8ad69653230c5fc207e5bb9512394c22263b"
+hash = "f1e961844a34dfa35d05a2e8b665fdd7ba5ea2bd6c8e3b42e82bc4d3969218ee62b8a8b5fa5192d083df8101d8fffeb4e0d69887e2e3f4044a02a783fbd8cd0b"
 
 [update]
 [update.modrinth]
 mod-id = "lVNwdGbL"
-version = "TiU8SYVN"
+version = "QomIJDKw"

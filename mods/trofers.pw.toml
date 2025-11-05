@@ -1,13 +1,13 @@
 name = "Trofers"
-filename = "trofers-fabric-5.0.2.jar"
+filename = "trofers-fabric-5.0.3.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "d29cfb51ee86d1848cfa87e86930a2f2cff2ab5e"
+hash = "7ca9b2f6ee87f41ea61458582b7a4d88fcbcaf89"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5259006
+file-id = 7164487
 project-id = 482265

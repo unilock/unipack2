@@ -1,13 +1,13 @@
 name = "Finer Peripherals"
-filename = "finerperipherals-1.20.1-0.5.2.jar"
+filename = "finerperipherals-1.20.1-0.6.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/tMnqadAu/versions/MpwWEcaC/finerperipherals-1.20.1-0.5.2.jar"
+url = "https://cdn.modrinth.com/data/tMnqadAu/versions/1NcAlsJ5/finerperipherals-1.20.1-0.6.1.jar"
 hash-format = "sha512"
-hash = "464f7be2abe88e6eed437d5e185106ea1d5ca1aa3fea6e8f856a664e1b67e7d32f1832ac86e84348dd3890c05b74e12035f5431f15df3ba58c8337a62e87a769"
+hash = "f2a2bdd72424a4cb1b6380a2b1cdd8fc49be5d80ffa844f1da3d33bd6930daa6725d2cb90391aaaf8575a28f4d344734a3344111cb677a17d159730291b98580"
 
 [update]
 [update.modrinth]
 mod-id = "tMnqadAu"
-version = "MpwWEcaC"
+version = "1NcAlsJ5"
