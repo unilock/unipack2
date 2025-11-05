@@ -1,8 +1,0 @@
-name = "xpcrops"
-filename = "xpcrops-2.0.0+1.20.1.jar"
-side = "both"
-
-[download]
-url = "https://play.fennet.rentals/packwiz/unipack2-finale/manual-jars/both/xpcrops-2.0.0+1.20.1.jar"
-hash-format = "sha512"
-hash = "86edbcd5a7c1a6a75ffa132f971c4472a215e8281d1d179e58d088929793d3b31610285517d7d707f97825dafa1e774e29fafc574abbcd08e0c8d4ad61802ade"

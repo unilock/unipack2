@@ -1,8 +1,0 @@
-name = "Enchanting.MAX_LEVEL"
-filename = "enchantingmaxlevel-1.1.0+1.20.1+fabric.jar"
-side = "both"
-
-[download]
-url = "https://play.fennet.rentals/packwiz/unipack2-finale/manual-jars/both/enchantingmaxlevel-1.1.0+1.20.1+fabric.jar"
-hash-format = "sha512"
-hash = "ea219a3489f72c84f7a014dcdbf9a69f0bc03d60ff8915e2a4b1219353ef4026edfaa996a79f619afe27db0ce45f60412fd6f6d886600b354f4b807707d7306d"

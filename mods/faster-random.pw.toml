@@ -1,8 +1,0 @@
-name = "Faster Random"
-filename = "fasterrandom-3.0.4.jar"
-side = "server"
-
-[download]
-url = "https://play.fennet.rentals/packwiz/unipack2-finale/manual-jars/server/fasterrandom-3.0.4.jar"
-hash-format = "sha512"
-hash = "f38d2fafb9e5b4e5962ab6f3cd92ff8d0f3fc9d05c9eb77d955dabc4126dec006d97ce508e9de5bd11ff0fbcdd3ec2c479caf8742d61987f2a34bc87d3ea5b17"
