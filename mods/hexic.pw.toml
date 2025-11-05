@@ -1,0 +1,8 @@
+name = "hexic"
+filename = "hexic-1.4.5+034100b.jar"
+side = "both"
+
+[download]
+url = "https://play.fennet.rentals/packwiz/unipack2-finale/manual-jars/both/hexic-1.4.5+034100b.jar"
+hash-format = "sha512"
+hash = "a9f1cea4b6272b7fdf075fd231d8c8cb3170fdda3d5152efcb38b18979965cc3ea63adae3b64c0815c754164e4692de87cff59a968c13b29d7856392b349845c"

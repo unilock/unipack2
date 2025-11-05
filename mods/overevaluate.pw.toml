@@ -1,8 +1,8 @@
 name = "Overevaluate"
-filename = "overevaluate-1.0.0.jar"
+filename = "overevaluate-1.0.0-7ebb76e.jar"
 side = "both"
 
 [download]
-url = "https://play.fennet.rentals/packwiz/unipack2-finale/manual-jars/both/overevaluate-1.0.0.jar"
+url = "https://play.fennet.rentals/packwiz/unipack2-finale/manual-jars/both/overevaluate-1.0.0-7ebb76e.jar"
 hash-format = "sha512"
-hash = "823b60ade847f321cc10e5075070c83f996ab4d5b49a98084f452bfd96a78c670aac06657ad9bc990f82cda3b794538d4704ea56248a0d0e127c8dfa0049a3fe"
+hash = "b5f99874311d49e4b8e495dcbd8cec6556e61df4218ced4efad2fb6dca1decee312255d44a55bd316ae645ec9e1b8e3f78d6effef414d327d762aac3fd6661bc"

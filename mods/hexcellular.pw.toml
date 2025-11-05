@@ -1,8 +1,8 @@
 name = "hexcellular"
-filename = "hexcellular-1.1.0.jar"
+filename = "hexcellular-1.1.0-64d134a.jar"
 side = "both"
 
 [download]
-url = "https://play.fennet.rentals/packwiz/unipack2-finale/manual-jars/both/hexcellular-1.1.0.jar"
+url = "https://play.fennet.rentals/packwiz/unipack2-finale/manual-jars/both/hexcellular-1.1.0-64d134a.jar"
 hash-format = "sha512"
-hash = "6ad4586bd9975ea8e2c33c900c60970b6345be0fb7ea7aae1c999d631127c1ce57f1df68d051a01ab28616da55ec56fe80ab43eea648fd86c410ae0e7e169e45"
+hash = "44cb7274bab247eb2cfd1e0fb22abf314bba6454cfd2910fcf1b51d8ea69bc238d48b000bd539ecae3b0775e0a16e236e076a72c424cea83b210973a720038a5"

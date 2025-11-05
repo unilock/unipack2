@@ -1,13 +1,8 @@
-name = "Hexcassettes"
-filename = "hexcassettes-1.1.4.jar"
+name = "hexcassettes"
+filename = "hexcassettes-2.0.0-b7d281b.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/Y7OyTnxi/versions/4Ml342F0/hexcassettes-1.1.4.jar"
+url = "https://play.fennet.rentals/packwiz/unipack2-finale/manual-jars/both/hexcassettes-2.0.0-b7d281b.jar"
 hash-format = "sha512"
-hash = "c778865fd2726afaa95858845c58c19cebdb2d06c3aeffce3c7b9384daa97aef70a4a367b16a013df7cee0ca251c939eb19f4af7e6adb90c8b7ca1f3dbdefde7"
-
-[update]
-[update.modrinth]
-mod-id = "Y7OyTnxi"
-version = "4Ml342F0"
+hash = "b4cd92830a1f2ad7d5c1231d03c2e3da3c859b6d4926ef3eec84ecaac952e42637913f173f39306d7688b26ccf8089ff5989ebf4ab21ead95cce7180044ce6dd"

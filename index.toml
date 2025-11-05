@@ -994,6 +994,11 @@ hash = "60cecb26aee1b43672d7a9ffdea70c2c0cbb283abe019df50e8bb64c0992b301"
 metafile = true
 
 [[files]]
+file = "mods/caduceus.pw.toml"
+hash = "0da8454cc0f8702e0b580c8c9280734f1fc995ff971989a8f2c49a85202bf429"
+metafile = true
+
+[[files]]
 file = "mods/cardinal-components-api.pw.toml"
 hash = "6f0676fe7167a5a5e992ac1588e5a7f62bb6ffcaad158d7f1ace220c73adb938"
 metafile = true
@@ -1325,7 +1330,7 @@ metafile = true
 
 [[files]]
 file = "mods/efhexs.pw.toml"
-hash = "216ce366f687e1c669f1b2b976f4dcc41ee27466852cde5436e674ad785a688b"
+hash = "c69cdeddc842b86be6e85422ef942ad241e6c10038985d7a0f035060194230e2"
 metafile = true
 
 [[files]]
@@ -1690,7 +1695,7 @@ metafile = true
 
 [[files]]
 file = "mods/hex-casting.pw.toml"
-hash = "d9c3adbe47b9a64c33f14f162dcf963c95e4ac6cc650559b22c1f4b202e9284e"
+hash = "64ce513aec764b96b79c63f82753147b06e7fcf35e1ed3d5548d8d2007913944"
 metafile = true
 
 [[files]]
@@ -1700,17 +1705,17 @@ metafile = true
 
 [[files]]
 file = "mods/hexal.pw.toml"
-hash = "a10427fa2e747910ac05c2fb4a43f703a441256a391a53c9bcc235cf68d818c3"
+hash = "7729481bee5224c481f5e390b75b03eb92f3fa4b5f15277b092a458247a48147"
 metafile = true
 
 [[files]]
 file = "mods/hexcassettes.pw.toml"
-hash = "39e27b12d6b188df2b249bf84ed8427c62a7d9c9802ab0469304d554f89f43be"
+hash = "0281c0f891fb65e4cd3fdd860344e1dbc2539d15423d85ce2a151c7905da20f8"
 metafile = true
 
 [[files]]
 file = "mods/hexcellular.pw.toml"
-hash = "045e75571f40af60b2ed68a96fa1dda34b41d6825c18fa18b130617bfb63b30f"
+hash = "1cc5ae1de59b232a8847f62a6abadcab4209f2e860b9642f792e3d73a1d82a42"
 metafile = true
 
 [[files]]
@@ -1729,23 +1734,18 @@ hash = "43205cc02ed373e94db92a369da5c58a9f3380261cfe73f58bc0b7b04b7ad9f7"
 metafile = true
 
 [[files]]
-file = "mods/hexflow.pw.toml"
-hash = "d52d850dae253326c836db2af7f71f921c44b1ae1a44d38cc18f48f6b219a2d2"
+file = "mods/hexic.pw.toml"
+hash = "b0a69dc2512aaf02d0829c9b8cf60bb4916f03505da3d9101d75daec5c1ca3a1"
 metafile = true
 
 [[files]]
 file = "mods/hexical.pw.toml"
-hash = "e2d1cfc044795737086ea3cdf9682b65f44012783bcd18cebaff697888d88d9a"
+hash = "540d6db69150fa5ac18e9a7ad7b795eb0b488b880b5e1a5909c901e6cde943f5"
 metafile = true
 
 [[files]]
 file = "mods/hexmapping.pw.toml"
 hash = "3a18b6e4ed7cf8359c13a1914b77877283ab11c0f14905a42a7e5bc188eb73e7"
-metafile = true
-
-[[files]]
-file = "mods/hexparse.pw.toml"
-hash = "adef28871061214b910bd875cd4a7e68edad67be22083e47560b834a67120705"
 metafile = true
 
 [[files]]
@@ -1771,11 +1771,6 @@ metafile = true
 [[files]]
 file = "mods/hextended-staves.pw.toml"
 hash = "6d9fa5587a6d13ba8f680e36ab1c392d080411208ba2efd6148110f1772c2f88"
-metafile = true
-
-[[files]]
-file = "mods/hexthingy.pw.toml"
-hash = "a12033b30bacf51de49b79599cf4d02591bbdac978f14a6a8b4b245e718f52da"
 metafile = true
 
 [[files]]
@@ -2004,6 +1999,11 @@ hash = "0e0878b16c8cd2f112597e47e6e2411287e8ef4e9b6bbec44a433f008b512d65"
 metafile = true
 
 [[files]]
+file = "mods/lesser-teleport.pw.toml"
+hash = "9a007915eba7703d5ecda48c7abe36a1e29e6f39c729e026dd5551b48ae44c40"
+metafile = true
+
+[[files]]
 file = "mods/libertys-villagers.pw.toml"
 hash = "c561b6f576cd6de311b7394340473b26faa5d47cde51f60c756396142d61f907"
 metafile = true
@@ -2200,7 +2200,7 @@ metafile = true
 
 [[files]]
 file = "mods/moreiotas.pw.toml"
-hash = "e32ee3abc3b625511e68dac4642ab783a3d1b3780c2f66474548f7b59bf1b2f7"
+hash = "4c0784a13116fa8bc45ffd13a7de669b58276a916fabf500ed36387e98d9df3a"
 metafile = true
 
 [[files]]
@@ -2295,7 +2295,7 @@ metafile = true
 
 [[files]]
 file = "mods/oneironaut.pw.toml"
-hash = "25dffcf8b1d4575f202a37c583669137ee4548f23da248e1bd89fca9aa23b3d6"
+hash = "94195bad22c17e371a4a9b9e7cafd6dc67a9d1099fc9edb94654292cded15cc1"
 metafile = true
 
 [[files]]
@@ -2305,7 +2305,7 @@ metafile = true
 
 [[files]]
 file = "mods/overevaluate.pw.toml"
-hash = "259e551df3f1857722214d5aee79551aeaebb28dbc3139f4031472698259dc56"
+hash = "0f2103aefd9124807e782ce643f89753fbb0a37155a2db8932e22bd686fe14d2"
 metafile = true
 
 [[files]]
@@ -2670,7 +2670,7 @@ metafile = true
 
 [[files]]
 file = "mods/scryglass.pw.toml"
-hash = "07c7bef582cf49b55bb88650fe8bd9f7bb04e418ea5befae3727267f29832fba"
+hash = "41b95e6766242fa4cac1aaf860f7401873714763deea14ce413f8a05ae1acd0c"
 metafile = true
 
 [[files]]
@@ -2961,6 +2961,11 @@ metafile = true
 [[files]]
 file = "mods/trinkets.pw.toml"
 hash = "ffdb79f5bc29f990e5889f5d159a043c7046b8cd8d79f17f54b44d7ccc2b242a"
+metafile = true
+
+[[files]]
+file = "mods/trinkhide.pw.toml"
+hash = "bc43b1ce1f5f7af784402f2af9bcdb3aa890a9e1d983ceb456887bc5885a5768"
 metafile = true
 
 [[files]]

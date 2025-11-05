@@ -1,15 +1,13 @@
 name = "MoreIotas"
-filename = "moreiotas-forge-1.20.1-0.1.0-7.jar"
+filename = "moreiotas-fabric-1.20.1-0.1.1.jar"
 side = "both"
 
 [download]
-url = "https://github.com/FallingColors/MoreIotas/releases/download/0.1.0-7/moreiotas-forge-1.20.1-0.1.0-7.jar"
-hash-format = "sha256"
-hash = "4bc26b453cfe806a5a7176de21cdd884308f08f51adccb6e1549bf522fddca3f"
+hash-format = "sha1"
+hash = "cf498b897b81dfbc91c5a699d2ae6357407ddf55"
+mode = "metadata:curseforge"
 
 [update]
-[update.github]
-branch = "main"
-regex = "^moreiotas-fabric-.*-\\d+\\.jar$"
-slug = "Talia-12/MoreIotas"
-tag = "0.1.0-7"
+[update.curseforge]
+file-id = 7027588
+project-id = 824728

@@ -1,8 +1,8 @@
 name = "Hex Casting"
-filename = "hexcasting-fabric-1.20.1-0.11.2.3-SpellCircle.jar"
+filename = "hexcasting-fabric-1.20.1-0.11.2-821ae79.jar"
 side = "both"
 
 [download]
-url = "https://play.fennet.rentals/packwiz/unipack2-finale/manual-jars/both/hexcasting-fabric-1.20.1-0.11.2.3-SpellCircle.jar"
+url = "https://play.fennet.rentals/packwiz/unipack2-finale/manual-jars/both/hexcasting-fabric-1.20.1-0.11.2-821ae79.jar"
 hash-format = "sha512"
-hash = "08fe884cf37ca5a7c93db080740449f25a1922bf56da91d25c49e0f1849f1064c47981e2efae189e2b07b546003ad7b0acc5b3128ca2c8cf555d33d7cf548436"
+hash = "4f92c6a1ac33448ae01115d51b0ac17ed98bab05a2f6d66a8733cc191bb2aaf609ca10cfc6fc31bd85094fd86c72485862a0d21948e237aa354bb9fc5d7f7aae"

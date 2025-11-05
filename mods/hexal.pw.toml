@@ -1,8 +1,8 @@
 name = "Hexal"
-filename = "hexal-fabric-1.20.1-0.3.0-3-skyevg-unofficial-teleport-experiment.jar"
+filename = "hexal-fabric-1.20.1-0.3.0-301756e.jar"
 side = "both"
 
 [download]
-url = "https://play.fennet.rentals/packwiz/unipack2-finale/manual-jars/both/hexal-fabric-1.20.1-0.3.0-3-skyevg-unofficial-teleport-experiment.jar"
+url = "https://play.fennet.rentals/packwiz/unipack2-finale/manual-jars/both/hexal-fabric-1.20.1-0.3.0-301756e.jar"
 hash-format = "sha512"
-hash = "47c0d4e40f6391e6aabffff99223e2f18d0b67e5e40e53d78d16ba6aaa728c7e2dd29a25b6e2eb786a438a649bfe4cec8e3a4aba6c686d030d2c891c39218848"
+hash = "82a014dabcce924946f9818b4de99b63c4ec8691cad4a6a916fb069a7eba5c33b28ab2c7985b8defd4691ddc606041ca8711d5b767e802ae8eb26aa61d6eb72d"
