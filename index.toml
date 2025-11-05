@@ -1705,7 +1705,7 @@ metafile = true
 
 [[files]]
 file = "mods/hexal.pw.toml"
-hash = "7729481bee5224c481f5e390b75b03eb92f3fa4b5f15277b092a458247a48147"
+hash = "3e51d9ad93efb292181f8960816a58707ae28841c310b77c28721ac7039931d1"
 metafile = true
 
 [[files]]
@@ -1735,7 +1735,7 @@ metafile = true
 
 [[files]]
 file = "mods/hexical.pw.toml"
-hash = "540d6db69150fa5ac18e9a7ad7b795eb0b488b880b5e1a5909c901e6cde943f5"
+hash = "d667a751a6521469f812e056950fa61167b5724afdd27d2b4a7f01891439b901"
 metafile = true
 
 [[files]]

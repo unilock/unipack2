@@ -1,8 +1,13 @@
 name = "Hexal"
-filename = "hexal-fabric-1.20.1-0.3.0-301756e.jar"
+filename = "hexal-fabric-1.20.1-0.3.1.jar"
 side = "both"
 
 [download]
-url = "https://play.fennet.rentals/packwiz/unipack2-finale/manual-jars/both/hexal-fabric-1.20.1-0.3.0-301756e.jar"
+url = "https://cdn.modrinth.com/data/aBVJ6Q36/versions/VfuFYJJp/hexal-fabric-1.20.1-0.3.1.jar"
 hash-format = "sha512"
-hash = "82a014dabcce924946f9818b4de99b63c4ec8691cad4a6a916fb069a7eba5c33b28ab2c7985b8defd4691ddc606041ca8711d5b767e802ae8eb26aa61d6eb72d"
+hash = "59803aeaf7af966bc46ec7a199cf07a522a821e14cd7b3c696c081ef9da884cb0e6098c4b995df0c067bbaba2f2aad9ab0d057351484c33de7a92e835a9465cd"
+
+[update]
+[update.modrinth]
+mod-id = "aBVJ6Q36"
+version = "VfuFYJJp"
