@@ -1558,7 +1558,7 @@ metafile = true
 
 [[files]]
 file = "mods/fast-ip-ping.pw.toml"
-hash = "db5a6f61c331614600c1e6d529c5c1da49fda2959f8030ee195ab3c2c54597f5"
+hash = "9057019d1e3ac8a038d984ede55277ea61b2690360eb0ef09b3d2d82dc1f5374"
 metafile = true
 
 [[files]]
@@ -1923,7 +1923,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "4b17a3727e15bf347ba1ccbce06cbb787aa6236eafcb9c1a3ee126b1b8efd890"
+hash = "4e6d451e187dfe6cd542cac65304c6c0e6f4aa64c03622d93a6a08f4f7543415"
 metafile = true
 
 [[files]]
