@@ -1,6 +1,7 @@
 name = "Trade Uses"
 filename = "tradeuses-1.2.4-1.20.x-FABRIC.jar"
 side = "client"
+pin = true
 
 [download]
 hash-format = "sha1"

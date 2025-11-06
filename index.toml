@@ -2544,7 +2544,7 @@ metafile = true
 
 [[files]]
 file = "mods/polymorph.pw.toml"
-hash = "91a34cb72ff22aaf1e12d1741782b73af9ad179255d9156b7c2c7a5f878ba1ce"
+hash = "fc62b517d7bd6d4d2cfb8b055ebd2ebc7ec63cb847112e3ba7167823eeadf1b4"
 metafile = true
 
 [[files]]
@@ -3079,7 +3079,7 @@ metafile = true
 
 [[files]]
 file = "mods/trade-uses.pw.toml"
-hash = "4e0761078b57c6b2dd1a63132b06878bb5254bdc835ee6e1666bb86a22a36660"
+hash = "b316a416ae7bbe35980d796380aaaa5c129a4ce4c7c520554a185bb5a89b1b58"
 metafile = true
 
 [[files]]
