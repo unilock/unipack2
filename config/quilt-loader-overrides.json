@@ -213,6 +213,17 @@
 			]
 		},
 		{
+			"id": "press_g_to_meow",
+			"depends": [
+				{
+					"remove": {
+						"id": "minecraft",
+						"versions": "=1.20"
+					}
+				}
+			]
+		},
+		{
 			"id": "spectrum",
 			"breaks": [
 				{

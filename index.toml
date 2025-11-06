@@ -170,7 +170,7 @@ hash = "e94945e15104f2af31ee299f9da9bd559873ad833b0fbaaeb0eadef44ffd2929"
 
 [[files]]
 file = "config/defaultoptions/keybindings.txt"
-hash = "0c05c9a799b710d289e91d7d9ee10c4610058c3bb44db94cf4fdeeab58efa1fd"
+hash = "0c9062d5d713d78bb62dbec1542a85527426ce68603b3faf7fe264d1e057a913"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
@@ -486,7 +486,7 @@ hash = "4cd7a780ae7c88a9304b5278907c7943a207a346735c49ef5c31a8a358b1bedf"
 
 [[files]]
 file = "config/quilt-loader-overrides.json"
-hash = "15b46ffcaa2543482c8db8e155264b9a6d5ef7266d1aa9bad3443c897a347e18"
+hash = "130ad80e7e93a4e08f5c05f9a27200695758e8342da4ca67ae807d8556f57845"
 
 [[files]]
 file = "config/railways-client.toml"
@@ -733,6 +733,11 @@ hash = "1bc328e5477ce87bb27110fd90258de8767f9ffef86434ae0c0c301292c29fb0"
 metafile = true
 
 [[files]]
+file = "mods/almanac-lib.pw.toml"
+hash = "320e80999788a7c3b40ea0a8d0b14251b04f29baf71d217b2dcb432c1964d6dd"
+metafile = true
+
+[[files]]
 file = "mods/almost-unified.pw.toml"
 hash = "9e2c643198b995c754f1ad73518d241d879c7e84c9c129f67f8ce0587444c33d"
 metafile = true
@@ -810,11 +815,6 @@ metafile = true
 [[files]]
 file = "mods/arcpocalypse.pw.toml"
 hash = "d89aa381fb58121467ca1b67f7e13197c8ba53cc5141789b1ec3c6c852288366"
-metafile = true
-
-[[files]]
-file = "mods/arsenal.pw.toml"
-hash = "3dfb613d8cb47b4f9090d8eff4d67b94a62ca397a6e2bc27aee8fe96d6d264f7"
 metafile = true
 
 [[files]]
@@ -1223,6 +1223,11 @@ hash = "f976a8c38e843a680e0cc0bf21dfc23e50c98e58be040488f5d54241feb2accf"
 metafile = true
 
 [[files]]
+file = "mods/coroutil.pw.toml"
+hash = "17d588c49f6c3bf2ad659c6d3fe073704a6e15c34bf69f70109a6b762e6ea0c3"
+metafile = true
+
+[[files]]
 file = "mods/couplings.pw.toml"
 hash = "415e964b7e8d65192cd594809f6e95c85b2772ede860585e6499ed441086e11f"
 metafile = true
@@ -1318,11 +1323,6 @@ hash = "1b1b4d4742ca00f548d5c53aefdef05f06d675f9e6a773a0a695256f04dc7322"
 metafile = true
 
 [[files]]
-file = "mods/defile.pw.toml"
-hash = "7f498243428ec6ab18cb7f3034625cbfeec81c21c24e20fc5a7bef939784aa1a"
-metafile = true
-
-[[files]]
 file = "mods/delightful-creators.pw.toml"
 hash = "541a5b9aa01cff808c7a3347abb51beccfecca2565626964074cc59b310c0c71"
 metafile = true
@@ -1355,11 +1355,6 @@ metafile = true
 [[files]]
 file = "mods/dynamic-surroundings-fabric-edition.pw.toml"
 hash = "fd0c6a300e5634d955ff4a8bbe54069b1ad2bb2cf31eea149f7bd0e83f8e5db7"
-metafile = true
-
-[[files]]
-file = "mods/dynamic-trim.pw.toml"
-hash = "fdb6b0c601748b7643b7bfa1a9e1ff00902bf3884eed303b0a8f0684fea98620"
 metafile = true
 
 [[files]]
@@ -2693,11 +2688,6 @@ hash = "8a15fb81964fb21577ed2e81c6075489d63024dba1ef357ae5464865bae8052e"
 metafile = true
 
 [[files]]
-file = "mods/ratatouille.pw.toml"
-hash = "db7c47fac84cfc274fcb3ca5d86c2fa974dff11f81c6d7619d69cab59bf6fc99"
-metafile = true
-
-[[files]]
 file = "mods/rats-mischief.pw.toml"
 hash = "2df2d718c19f03990da48a11486610b2bca58f7796da48b4938157ebe28731e5"
 metafile = true
@@ -3125,11 +3115,6 @@ metafile = true
 [[files]]
 file = "mods/ukulib.pw.toml"
 hash = "e5872cc60c44ec15f089987419b646d50d4f3e8ed00bb470f58a2ee17f4395db"
-metafile = true
-
-[[files]]
-file = "mods/undefile.pw.toml"
-hash = "d999a3dee63ed6716806a0a635da064bc97d2258d22de45a04cfdf81961d8084"
 metafile = true
 
 [[files]]
