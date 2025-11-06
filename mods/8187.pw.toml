@@ -1,0 +1,13 @@
+name = "MC-8187 / 2x2 Surrounded Saplings Fix"
+filename = "flwr-8187-1.0.1+mc.1.16.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/JnGnx3M8/versions/2zKZZMqD/flwr-8187-1.0.1%2Bmc.1.16.jar"
+hash-format = "sha512"
+hash = "f44b1f2afc6624a6d35e8b4af1ab1b23a30a0cbbea550057f6672484cfb18cf11a55e112e2e9311219a90b3064c2e08a78fcabdbdaf15f127dae0bca4e937861"
+
+[update]
+[update.modrinth]
+mod-id = "JnGnx3M8"
+version = "2zKZZMqD"

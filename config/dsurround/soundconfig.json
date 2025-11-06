@@ -1,48 +1,12 @@
 [
   {
     "cull": true,
-    "soundEventId": "minecraft:entity.chicken.ambient"
-  },
-  {
-    "cull": true,
-    "soundEventId": "minecraft:entity.cow.ambient"
-  },
-  {
-    "cull": true,
     "soundEventId": "minecraft:entity.ender_dragon.death",
     "volumeScale": 10
   },
   {
-    "block": true,
-    "soundEventId": "minecraft:entity.enderman.death"
-  },
-  {
-    "block": true,
-    "soundEventId": "minecraft:entity.enderman.hurt"
-  },
-  {
-    "block": true,
-    "soundEventId": "minecraft:entity.enderman.scream"
-  },
-  {
-    "block": true,
-    "soundEventId": "minecraft:entity.enderman.stare"
-  },
-  {
     "startup": true,
     "soundEventId": "minecraft:entity.experience_orb.pickup"
-  },
-  {
-    "cull": true,
-    "soundEventId": "minecraft:entity.llama.ambient"
-  },
-  {
-    "cull": true,
-    "soundEventId": "minecraft:entity.pig.ambient"
-  },
-  {
-    "cull": true,
-    "soundEventId": "minecraft:entity.sheep.ambient"
   },
   {
     "cull": true,

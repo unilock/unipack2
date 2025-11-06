@@ -1,0 +1,13 @@
+name = "Press G To Meow"
+filename = "press-g-to-meow-1.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/2f1olF1G/versions/ztIyJX5g/press-g-to-meow-1.1.jar"
+hash-format = "sha512"
+hash = "00c3f7171d4240e4d897f0e72bcd8a4a80f1f91902e7e3c8c95299484823e5b9ff99817dddd8e06d5866fe7e7faea3dadbd3a3ec3915a56ffced609971af73bc"
+
+[update]
+[update.modrinth]
+mod-id = "2f1olF1G"
+version = "ztIyJX5g"

@@ -1,0 +1,8 @@
+name = "Mnemonics"
+filename = "mnemonics-1.4.0.jar"
+side = "both"
+
+[download]
+url = "https://files.y2k.diy/assorted-mods/mnemonics-1.4.0.jar"
+hash-format = "sha256"
+hash = "62861f46a36986c8852c3b161a18237df353c37f4d8ea1231079f930c54abbe9"

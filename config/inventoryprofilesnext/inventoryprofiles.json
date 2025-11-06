@@ -13,10 +13,7 @@
         },
         "move_focus_mach_modifier": {
             "main": {
-                "keys": "LEFT_SHIFT,W",
-                "settings": {
-                    "order_sensitive": false
-                }
+                "keys": "LEFT_ALT"
             }
         },
         "move_just_refill_modifier": {
@@ -35,6 +32,7 @@
             "value": false
         },
         "enable_updates_check": false,
+        "sort_at_cursor": false,
         "first_run": false
     },
     "GuiSettings": {
@@ -47,10 +45,12 @@
         "enable_profiles_ui": {
             "value": false
         },
+        "enable_profiles_announcement": false,
         "show_fast_rename_checkbox": {
             "value": false
         },
         "continuous_crafting_checkbox_value": "UNCHECKED",
+        "continuous_crafting_saved_value": false,
         "show_sort_in_columns_button": {
             "value": false
         },
@@ -66,6 +66,11 @@
         "locked_slots_allow_pickup_into_empty": {
             "value": true
         },
+        "lock_slots_switch_config_modifier": {
+            "main": {
+                "keys": "TAB"
+            }
+        },
         "show_locked_slots_background": {
             "value": false
         },
@@ -74,58 +79,29 @@
     },
     "AutoRefillSettings": {
         "auto_refill_prefer_smaller_stacks": true,
-        "refill_armor": {
-            "value": false
-        },
-        "auto_refill_temp_disable_refill_for_tools": {
-            "main": {
-                "keys": ""
-            }
-        },
-        "auto_refill_match_any_food": true,
         "allow_break_for_non_enchanted": {
             "value": true
         },
+        "type_visual_durability_notification": "CHAT",
         "audio_durability_notification": {
             "value": false
         },
+        "number_of_notifications": 1,
         "audio_replace_success_notification": {
             "value": false
         },
+        "type_visual_replace_success_notification": "CHAT",
         "audio_replace_failed_notification": {
             "value": false
         },
-        "type_visual_replace_failed_notification": "HOTBAR"
-    },
-    "ScrollSettings": {
-        "scroll_full_stack": {
-            "main": {
-                "keys": ""
-            }
-        },
-        "scroll_leave_last": {
-            "main": {
-                "keys": ""
-            }
-        },
-        "scroll_spread": {
-            "main": {
-                "keys": ""
-            }
-        },
-        "scroll_throw": {
-            "main": {
-                "keys": ""
-            }
-        },
-        "temp_disable": {
-            "main": {
-                "keys": ""
-            }
-        },
-        "scroll_auto_pickup_next_for_single": false
+        "type_visual_replace_failed_notification": "CHAT"
     },
     "Hotkeys": {
+        "reload_custom_configs": {
+            "main": {
+                "keys": ""
+            }
+        },
         "sort_inventory": {
             "main": {
                 "keys": "BUTTON_3"
@@ -133,10 +109,7 @@
         },
         "move_all_items": {
             "main": {
-                "keys": "LEFT_SHIFT,W,BUTTON_1",
-                "settings": {
-                    "order_sensitive": false
-                }
+                "keys": "LEFT_ALT,BUTTON_1"
             }
         },
         "throw_all_items": {
@@ -156,7 +129,7 @@
         },
         "open_gui_editor": {
             "main": {
-                "keys": ""
+                "keys": "BACKSLASH"
             }
         },
         "apply_profile": {
@@ -213,14 +186,21 @@
             "main": {
                 "keys": ""
             }
+        },
+        "copy_nbt": {
+            "main": {
+                "keys": ""
+            }
+        },
+        "copy_item_id": {
+            "main": {
+                "keys": ""
+            }
         }
     },
     "Tweaks": {
         "prevent_close_gui_drop_item": {
             "value": true
-        },
-        "container_swipe_moving_items": {
-            "value": false
         }
     }
 }

@@ -1,0 +1,13 @@
+name = "Pocket Tools"
+filename = "pockettools-1.3.0+1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f21178457f5e82e23904f36d5f907477f824dcfa"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6957502
+project-id = 418582

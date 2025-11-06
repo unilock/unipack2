@@ -1,0 +1,10 @@
+# if set to true, removes flashy effects like rainbow rarity color cycling
+# default: false
+epilepsy_mode = false
+# changes how quickly the spellmaker ui moves
+# valid range: 0.1-1
+# default: 0.5
+spellmaker_ui_speed = 0.5
+# if set to true, replaces the moving effect of the spellmaker UI with a silly little guy
+# default: true
+no_spellmaker_move = false

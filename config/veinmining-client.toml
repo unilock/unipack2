@@ -7,7 +7,7 @@ activationState = "HOLD_KEY_DOWN"
 #Allowed Values: STANDING, CROUCHING, HOLD_KEY_DOWN
 activationStateWithoutEnchantment = "HOLD_KEY_DOWN"
 #If enabled, users will be sent warnings about improper enchantment usage.
-enableEnchantmentWarnings = true
+enableEnchantmentWarnings = false
 #If enabled, instructions on how to vein mine will appear in the tooltip of enchanted items.
 enableEnchantmentTooltips = false
 #If enabled, instructions on how to vein mine will appear above the hotbar when switching to enchanted items.

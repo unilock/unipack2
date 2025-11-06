@@ -61,9 +61,6 @@
       "yellow": true
     },
     "emoticons": {
-      "shrug": "¯\\\\_(ツ)_/¯",
-      "table": "(╯°□°）╯︵ ┻━┻",
-      "item": "[%player:equipment_slot mainhand%]",
       "pos": "%player:pos_x% %player:pos_y% %player:pos_z%"
     },
     "custom_message_types": {}

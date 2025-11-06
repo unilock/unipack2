@@ -1,13 +1,13 @@
 name = "Trade Uses"
-filename = "tradeuses-1.2.2-1.20.2-FABRIC.jar"
+filename = "tradeuses-1.2.4-1.20.x-FABRIC.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/JzMHENsS/versions/xXEsmHoq/tradeuses-1.2.2-1.20.2-FABRIC.jar"
-hash-format = "sha512"
-hash = "9f7479a76c2621978a17524952920609ab875644b2f000f3ed29889bfde115bae4bade85fbec8be50d01f3768c4945b7828d679249b380194f3af6a1611cbce8"
+hash-format = "sha1"
+hash = "9be19cfcc4ad8a68aa6824ba8ae839ece4a10de7"
+mode = "metadata:curseforge"
 
 [update]
-[update.modrinth]
-mod-id = "JzMHENsS"
-version = "xXEsmHoq"
+[update.curseforge]
+file-id = 5132336
+project-id = 902314

@@ -1,6 +1,6 @@
 name = "Emojiless"
 filename = "emojiless-fabric-1.2.1.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/tziAxegp/versions/eEo4Y9fU/emojiless-fabric-1.2.1.jar"
