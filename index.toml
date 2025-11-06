@@ -509,6 +509,10 @@ file = "config/resourcepackoverrides.json"
 hash = "c2262d376b3563c1de7864ce3d399540575b1ed0cf8294aa0bf0f07966b3e8fe"
 
 [[files]]
+file = "config/resquake.json"
+hash = "2ae889f1534b7d75a1f89530b757ca54784eb21ecab2123e0478c6df8461f9db"
+
+[[files]]
 file = "config/snowrealmagic-common.yaml"
 hash = "5e7b9b8acf7408567c91b093ab11b55c3efead3e40f3775aa32d48793b194d36"
 
