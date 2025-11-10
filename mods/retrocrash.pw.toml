@@ -1,0 +1,13 @@
+name = "Retrocrash"
+filename = "retrocrash-1.1.0.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "481f22fd00005cbbf318e2d4216f0bea613df559"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7204486
+project-id = 1381812
