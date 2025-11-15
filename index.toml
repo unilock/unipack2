@@ -2747,11 +2747,6 @@ hash = "f785921318803f1ad924808d8637234e8aec353ef341d8f39baed10663b3b94e"
 metafile = true
 
 [[files]]
-file = "mods/retrocrash.pw.toml"
-hash = "957d99b6f6a81320b9c1a0efeb9f712c1b0ba8bce170883d875778a0c0d3d0c9"
-metafile = true
-
-[[files]]
 file = "mods/revelationary.pw.toml"
 hash = "95dc1c49d6f94a6484e3c3688fa062fed91b323aa4cc088cc2748ca0dd43a7da"
 metafile = true
