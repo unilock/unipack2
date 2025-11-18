@@ -1,0 +1,13 @@
+name = "Classic Peripherals"
+filename = "classicperipherals-0.2.9-fabric-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/F0AMrDjl/versions/RNGL40VN/classicperipherals-0.2.9-fabric-1.20.1.jar"
+hash-format = "sha512"
+hash = "7cb96978d532234369d72fce8f23a5c74071c24b60014b8699e25928f8cc3dfef6035084a63c38e632c4ef34b21bbbb596606414e63853798cf79e5f763f6836"
+
+[update]
+[update.modrinth]
+mod-id = "F0AMrDjl"
+version = "RNGL40VN"

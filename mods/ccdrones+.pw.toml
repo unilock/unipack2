@@ -1,0 +1,13 @@
+name = "CC:Drones+"
+filename = "ccdrones-0.2.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/salQYxHl/versions/Axl7dK6A/ccdrones-0.2.0.jar"
+hash-format = "sha512"
+hash = "09b3b53f5fd6b905cb9c596bf829ff9d4aee56c5610723fd272685129bfa88871e78d3151e6f984b734e69b8b3fae8fa362e903827b9613ac683522795aedcf2"
+
+[update]
+[update.modrinth]
+mod-id = "salQYxHl"
+version = "Axl7dK6A"

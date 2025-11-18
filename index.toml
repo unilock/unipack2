@@ -1062,6 +1062,16 @@ hash = "6f0676fe7167a5a5e992ac1588e5a7f62bb6ffcaad158d7f1ace220c73adb938"
 metafile = true
 
 [[files]]
+file = "mods/cc-androids.pw.toml"
+hash = "28f695a9252f769f34948f823bff2e1dc798633556dbd0bb0b37e2a082fe486e"
+metafile = true
+
+[[files]]
+file = "mods/cc-directgpu.pw.toml"
+hash = "3a4a50ef4aa8fe69594330fa7a132dd65bf2e9c227089aedbce897b22cec03ec"
+metafile = true
+
+[[files]]
 file = "mods/cc-tweaked.pw.toml"
 hash = "27ce43aa0348ee38e0dd339d75ac07b2964a141c98de919194cfaffaf166e7ee"
 metafile = true
@@ -1069,6 +1079,16 @@ metafile = true
 [[files]]
 file = "mods/cccbridge.pw.toml"
 hash = "0d75000691b94ac1fe061070daf1b9a569627ee9935eb09c37b19151c73d5747"
+metafile = true
+
+[[files]]
+file = "mods/ccdrones+.pw.toml"
+hash = "8a94f3422321067070731982da3e852b5c60c5f22d9cc8db31f37e1acaa858e9"
+metafile = true
+
+[[files]]
+file = "mods/ccsecureboot.pw.toml"
+hash = "9d3cd7448d7522964567ffd747a8f621d235a4ebb29f202c3ff7b9b746cf69ad"
 metafile = true
 
 [[files]]
@@ -1114,6 +1134,11 @@ metafile = true
 [[files]]
 file = "mods/cinderscapes.pw.toml"
 hash = "29e76e233eb1851f53a82772e1f424a5e0f1e6c41ff64b013c8a517c55ebefe8"
+metafile = true
+
+[[files]]
+file = "mods/classicperipherals.pw.toml"
+hash = "8b750299a3efc8be2b94b1fac237941f1559a23e3fc1e5218fa927f207964693"
 metafile = true
 
 [[files]]
@@ -1399,6 +1424,11 @@ metafile = true
 [[files]]
 file = "mods/elytra-slot.pw.toml"
 hash = "8c6ee814501270d52f274822e521dd59857990a2697d78c12d44dbf098174269"
+metafile = true
+
+[[files]]
+file = "mods/embeddedcomputer.pw.toml"
+hash = "0d8790db7975215bc98a2d1b5103f355dd109904fcdf19e200758529c09af273"
 metafile = true
 
 [[files]]
