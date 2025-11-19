@@ -2,6 +2,17 @@
 	"schema_version": 1,
 	"overrides": [
 		{
+			"id": "ccsecureboot",
+			"depends": [
+				{
+					"remove": {
+						"id": "fabricloader",
+						"versions": ">=0.16.14"
+					}
+				}
+			]
+		},
+		{
 			"id": "common-curses",
 			"depends": [
 				{
