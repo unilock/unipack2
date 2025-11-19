@@ -1,6 +1,6 @@
 name = "CCSecureBoot"
 filename = "CCSecureBoot-1.0.1-fabric-1.20.1.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/8S3qbPSr/versions/6Uf51TaI/CCSecureBoot-1.0.1-fabric-1.20.1.jar"

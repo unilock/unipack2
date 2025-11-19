@@ -678,7 +678,7 @@ hash = "c45d20f13e5f76cf4fdb8f54ddd27020cf6328c92b0eadf600b7c2869aff3de9"
 
 [[files]]
 file = "mods/8187.pw.toml"
-hash = "9e6fb8b491f30c32e6be9b3dece4dc6574c0dd4f8207fd85d5e14589967793b7"
+hash = "036a0615e8017dde73e32c60283c69c9275ad457a70670ce661347807ff13d29"
 metafile = true
 
 [[files]]
@@ -1083,7 +1083,7 @@ metafile = true
 
 [[files]]
 file = "mods/ccsecureboot.pw.toml"
-hash = "9d3cd7448d7522964567ffd747a8f621d235a4ebb29f202c3ff7b9b746cf69ad"
+hash = "bf25b4a96315688d5bae705250310085e0cf4874fb8c37f1765ec934d629c213"
 metafile = true
 
 [[files]]
