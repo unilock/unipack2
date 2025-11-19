@@ -1103,7 +1103,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "cc131ddc76cea74272e5b8c9fa0dd9aca0fe6fe20097f95e63488d65b3dc0545"
+hash = "1d25601507bb55f454456157aed2707da9f571b388caa426162ba9725881fad1"
 metafile = true
 
 [[files]]
@@ -1283,7 +1283,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-steam-n-rails.pw.toml"
-hash = "210a2ac7359605a83b8601e29fb8a16ea15420db1b2f70ae068941d12daf9f50"
+hash = "c2ee91e8ae18a3c71dd74916fba63d97b9659f3819c34e63db6dad5c1193185b"
 metafile = true
 
 [[files]]
@@ -1783,7 +1783,7 @@ metafile = true
 
 [[files]]
 file = "mods/hephaestus.pw.toml"
-hash = "da53b078e3d222c72a3dc7f065cca1cad9772473a6be401f4e7098c0e7da6456"
+hash = "bdb152a76eaa12e77898923bcd648d1271eacb60617ec869c6c69708733b36be"
 metafile = true
 
 [[files]]
@@ -1923,7 +1923,7 @@ metafile = true
 
 [[files]]
 file = "mods/icarus.pw.toml"
-hash = "9437d11f8b3c35d76b430f4f6337ab1344329be5ef157af3c045b73ea693e3f9"
+hash = "5c4970fb4c87612e170d18bfd0feadd79227e6cba0d8a2c211b3aa514edec204"
 metafile = true
 
 [[files]]
@@ -2028,7 +2028,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "7c058b04092d4233f6aa881db1bf9d5fea28fd0bea38b88a90383708c1e524b1"
+hash = "a727d517fc327dbee93c70fa785b182b5015fd834366a12a41214c76ed3caad2"
 metafile = true
 
 [[files]]
@@ -2093,7 +2093,7 @@ metafile = true
 
 [[files]]
 file = "mods/language-reload.pw.toml"
-hash = "759b9eb2df5b5f423cd35945faeb1667e5a213dfda9321218a0ffce63db9bce6"
+hash = "1b322091ae3194811b1149eaf81579c781a0e584d1a52b9c540c9fa343ca310e"
 metafile = true
 
 [[files]]
@@ -2393,7 +2393,7 @@ metafile = true
 
 [[files]]
 file = "mods/neepmeat.pw.toml"
-hash = "67b973f3640c8ab7cdc6f69cdc919e87487c97af2975dc8714e41c296d32d8dd"
+hash = "099f3a679044156c83e3dc722e6989caaafe5baf027173a96328ba034ae692e4"
 metafile = true
 
 [[files]]
@@ -2408,7 +2408,7 @@ metafile = true
 
 [[files]]
 file = "mods/nilcord.pw.toml"
-hash = "b7c3ef626d9eea9abba67d1dd8c517c7c63be270f08109cd353abf04392ec68c"
+hash = "2f1f28be7e15ff0fa1e0e89db6d73e3ea4874b952cf344c75655eb1c0fe74d53"
 metafile = true
 
 [[files]]
@@ -2473,7 +2473,7 @@ metafile = true
 
 [[files]]
 file = "mods/packet-fixer.pw.toml"
-hash = "6fab924e164f085a461460ad65dc048b528693137ddbc8e3b66667b68305cf54"
+hash = "e3b879b027674a3c9b002eb24f2ea47397bf2087124387f65241b4e0ca4e73d5"
 metafile = true
 
 [[files]]
@@ -2483,7 +2483,7 @@ metafile = true
 
 [[files]]
 file = "mods/paradise-lost.pw.toml"
-hash = "7353f81246fc643a2545de0849f2ad29026832051f09b95c5b8fd255243a87cb"
+hash = "541c33f70fe9f54f2e3c15ecb24056b889fd5d8f4e39a6b7b3a8019250473055"
 metafile = true
 
 [[files]]
