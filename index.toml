@@ -2442,6 +2442,11 @@ hash = "654e006236c269a2a4c5ff859a530828dd26821fa1861d28d81e7a4965767d2e"
 metafile = true
 
 [[files]]
+file = "mods/on1chest.pw.toml"
+hash = "995a21d63e2ae16046aca62adf3d967bf0c5f9a4460fc5d7745de4ec7921feaa"
+metafile = true
+
+[[files]]
 file = "mods/oneironaut.pw.toml"
 hash = "94195bad22c17e371a4a9b9e7cafd6dc67a9d1099fc9edb94654292cded15cc1"
 metafile = true
