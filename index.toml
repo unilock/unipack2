@@ -486,7 +486,7 @@ hash = "4cd7a780ae7c88a9304b5278907c7943a207a346735c49ef5c31a8a358b1bedf"
 
 [[files]]
 file = "config/quilt-loader-overrides.json"
-hash = "130ad80e7e93a4e08f5c05f9a27200695758e8342da4ca67ae807d8556f57845"
+hash = "9c6dec1ff4a9813ff8c46ba3209bfac5d9d4db516db3fabfaf4a9515348dc76d"
 
 [[files]]
 file = "config/railways-client.toml"
@@ -1064,11 +1064,6 @@ metafile = true
 [[files]]
 file = "mods/cc-androids.pw.toml"
 hash = "28f695a9252f769f34948f823bff2e1dc798633556dbd0bb0b37e2a082fe486e"
-metafile = true
-
-[[files]]
-file = "mods/cc-directgpu.pw.toml"
-hash = "3a4a50ef4aa8fe69594330fa7a132dd65bf2e9c227089aedbce897b22cec03ec"
 metafile = true
 
 [[files]]

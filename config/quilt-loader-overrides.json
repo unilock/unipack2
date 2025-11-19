@@ -78,6 +78,7 @@
 				}
 			]
 		},
+
 		{
 			"id": "chatpatches",
 			"depends": [
@@ -85,6 +86,63 @@
 					"remove": {
 						"id": "fabricloader",
 						"versions": ">=0.17.0"
+					}
+				}
+			]
+		},
+
+		{
+			"id": "classicperipherals",
+			"depends": [
+				{
+					"remove": {
+						"id": "fabricloader",
+						"versions": ">=0.17.2"
+					}
+				}
+			]
+		},
+		{
+			"id": "mantle",
+			"depends": [
+				{
+					"remove": {
+						"id": "fabricloader",
+						"versions": ">=0.17.2"
+					}
+				}
+			]
+		},
+		{
+			"id": "tconstruct",
+			"depends": [
+				{
+					"remove": {
+						"id": "fabricloader",
+						"versions": ">=0.17.2"
+					}
+				}
+			]
+		},
+
+		{
+			"id": "tconstruct",
+			"depends": [
+				{
+					"remove": {
+						"id": "fabric",
+						"versions": ">=0.92.6+1.20.1"
+					}
+				}
+			]
+		},
+		{
+			"id": "mantle",
+			"depends": [
+				{
+					"remove": {
+						"id": "fabric",
+						"versions": ">=0.92.6+1.20.1"
 					}
 				}
 			]
