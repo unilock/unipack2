@@ -1103,7 +1103,7 @@ metafile = true
 
 [[files]]
 file = "mods/chatpatches.pw.toml"
-hash = "76f36ebd83c7957f21782f2b97e2dcf304abcbd81780bfcd0e48f19477d3702e"
+hash = "55ac5e89cc2af733da41c7f2e0e39d0f86a55a8ba79bf67f23b9a85cb840e07e"
 metafile = true
 
 [[files]]
@@ -2023,7 +2023,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "15e5c8d16fd8510d4ec50353523a9dac1867d1cd1ac2ece8345a1755c39e2930"
+hash = "dda1a2ce4232b191b0ad88fc0888738bba301c51fe248a38b64e9d929a0dbc4a"
 metafile = true
 
 [[files]]
@@ -2093,7 +2093,7 @@ metafile = true
 
 [[files]]
 file = "mods/lapisworks.pw.toml"
-hash = "61f75e922c00ab017fbc2d371b079e0493ada621b8fcf90619244bc8c25cd2ba"
+hash = "bf7ca47d2dbf5e717e2e31b05cda0e05d0674ddf39d1119c979c3a71b61771ac"
 metafile = true
 
 [[files]]
@@ -2268,7 +2268,7 @@ metafile = true
 
 [[files]]
 file = "mods/midnightlib.pw.toml"
-hash = "50149a97b2d959bfac8e1c377fdab49fc52f1439d004b1ac1c26a3a7f790e044"
+hash = "4b1b29ebfbbd9f23eb90c8c9f5113fce64c3ca605c8cad3aedaa25be83a82a53"
 metafile = true
 
 [[files]]
@@ -3268,7 +3268,7 @@ metafile = true
 
 [[files]]
 file = "mods/yttr.pw.toml"
-hash = "65303afdca255a4c0a3512a9ea6d6614b60b448ca5f1a2d224e9662ed52710c0"
+hash = "39d94c1287b65699b4d6d7387a2f53800c9e3f8468a4dd3bf3e4c1bd6d960638"
 metafile = true
 
 [[files]]
